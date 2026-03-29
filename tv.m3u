@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新日期: 2026-03-29 15:53:50
+# 更新日期: 2026-03-30 01:57:13
 
 #EXTINF:-1 tvg-id="央视卫视" tvg-name="央视卫视" tvg-logo="" group-title="央视",央视卫视
 #genre#
@@ -1828,9 +1828,6 @@ http://119.91.7.169:2026/TW.php?id=中天新闻台
 
 #EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="" group-title="新闻",寰宇新闻台
 http://119.91.7.169:2026/TW.php?id=寰宇新闻台
-
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="" group-title="综合",TVBS
-http://119.91.7.169:2026/TW.php?id=TVBS
 
 # 
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="" group-title="综合",民視第一台
