@@ -3,8 +3,8 @@ name: Download TV Channels
 on:
   schedule:
     # 每天早上7:00和下午17:00 UTC+8 运行 (对应UTC时间23:00和9:00)
-    - cron: '0 23 * * *'
-    - cron: '0 9 * * *'
+    - cron: '30 17 * * *'
+    - cron: '30 7 * * *'
   workflow_dispatch: # 允许手动触发
 
 env:
