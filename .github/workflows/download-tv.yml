@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      - name: Download channels
+      - name: Download and convert to M3U format
         run: |
           # 下载源文件内容
           curl -sL "https://123.tv1288.xyz/sm.txt" -o source.txt
@@ -35,10 +35,59 @@ jobs:
           # 获取当前日期时间 (北京时间)
           UPDATE_DATE=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
           
-          # 在文件开头添加更新日期，并保存为tv.m3u
-          echo "# 更新日期: $UPDATE_DATE" > tv.m3u
+          # 创建标准M3U文件头
+          echo "#EXTM3U" > tv.m3u
+          echo "# 更新日期: $UPDATE_DATE" >> tv.m3u
           echo "" >> tv.m3u
-          cat source.txt >> tv.m3u
+          
+          # 读取源文件并转换为M3U格式
+          while IFS= read -r line; do
+            # 跳过空行
+            if [[ -z "$line" ]]; then
+              continue
+            fi
+            
+            # 判断是否为频道信息行（包含逗号分隔的格式：频道名,URL）
+            if [[ "$line" == *","* ]]; then
+              # 提取频道名和URL
+              channel_name=$(echo "$line" | cut -d',' -f1)
+              channel_url=$(echo "$line" | cut -d',' -f2)
+              
+              # 清理频道名中的空格和特殊字符
+              clean_name=$(echo "$channel_name" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+              
+              # 根据频道名分类到不同分组
+              if [[ "$clean_name" == *"央视"* ]] || [[ "$clean_name" == *"CCTV"* ]]; then
+                group="央视"
+              elif [[ "$clean_name" == *"卫视"* ]]; then
+                group="卫视"
+              elif [[ "$clean_name" == *"电影"* ]] || [[ "$clean_name" == *"影院"* ]]; then
+                group="电影"
+              elif [[ "$clean_name" == *"体育"* ]]; then
+                group="体育"
+              elif [[ "$clean_name" == *"新闻"* ]]; then
+                group="新闻"
+              elif [[ "$clean_name" == *"娱乐"* ]]; then
+                group="娱乐"
+              elif [[ "$clean_name" == *"少儿"* ]] || [[ "$clean_name" == *"卡通"* ]]; then
+                group="少儿"
+              else
+                group="综合"
+              fi
+              
+              # 生成tvg-id（用于EPG匹配）
+              tvg_id=$(echo "$clean_name" | sed 's/[[:space:]]//g')
+              
+              # 写入M3U格式的EXTINF行
+              echo "#EXTINF:-1 tvg-id=\"$tvg_id\" tvg-name=\"$clean_name\" tvg-logo=\"\" group-title=\"$group\",$clean_name" >> tv.m3u
+              # 写入频道URL
+              echo "$channel_url" >> tv.m3u
+              echo "" >> tv.m3u
+            else
+              # 如果不是标准格式，直接保留原内容作为注释
+              echo "# $line" >> tv.m3u
+            fi
+          done < source.txt
           
           # 清理临时文件
           rm source.txt
