@@ -1,0 +1,194 @@
+name: Update TV M3U from TXT
+
+on:
+  schedule:
+    - cron: '0 7,17 * * *'  # 每天 7:00 和 17:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  download-m3u:
+    runs-on: ubuntu-latest
+    env:
+      NODE_VERSION: 24
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Download and process TXT playlist
+        run: |
+          # 创建临时目录
+          mkdir -p temp_channels
+          
+          # 下载 TXT 文件（可能是 M3U 格式或纯 URL 列表）
+          curl -L -o source.txt "https://123.tv1288.xyz/sm.txt"
+          
+          # 使用 Node.js 脚本处理
+          cat > process_playlist.js << 'EOF'
+          const fs = require('fs');
+          const https = require('https');
+          const http = require('http');
+          const { URL } = require('url');
+          
+          // 读取源文件
+          const content = fs.readFileSync('source.txt', 'utf-8');
+          const lines = content.split('\n').map(l => l.trim()).filter(l => l);
+          
+          // 判断文件格式：检查第一行是否是 M3U 头
+          const isM3U = lines[0] && lines[0].startsWith('#EXTM3U');
+          
+          let channels = [];
+          
+          if (isM3U) {
+            // 解析 M3U 格式
+            console.log('Detected M3U format');
+            let currentChannel = null;
+            for (let i = 0; i < lines.length; i++) {
+              const line = lines[i];
+              if (line.startsWith('#EXTINF:')) {
+                const nameMatch = line.match(/,([^,]+)$/);
+                const channelName = nameMatch ? nameMatch[1] : `Channel_${channels.length + 1}`;
+                currentChannel = {
+                  metadata: line,
+                  name: channelName,
+                  url: null
+                };
+              } else if (line && !line.startsWith('#') && currentChannel) {
+                currentChannel.url = line;
+                channels.push(currentChannel);
+                currentChannel = null;
+              }
+            }
+          } else {
+            // 假设是纯 URL 列表（每行一个流地址）
+            console.log('Detected plain URL list format');
+            channels = lines.map((url, idx) => ({
+              metadata: `#EXTINF:-1,Channel_${idx + 1}`,
+              name: `Channel_${idx + 1}`,
+              url: url
+            }));
+          }
+          
+          console.log(`Found ${channels.length} channels`);
+          
+          // 随机打乱顺序
+          function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+              const j = Math.floor(Math.random() * (i + 1));
+              [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+          }
+          
+          const shuffledChannels = shuffleArray([...channels]);
+          
+          // 下载单个频道（带重试）
+          async function downloadChannel(channel, index, total) {
+            return new Promise((resolve) => {
+              const url = channel.url;
+              const channelName = channel.name.replace(/[\\/:*?"<>|]/g, '_');
+              const filePath = `temp_channels/${index}_${channelName}.m3u8`;
+              
+              console.log(`[${index + 1}/${total}] Downloading: ${channelName}`);
+              
+              const protocol = url.startsWith('https') ? https : http;
+              const request = protocol.get(url, (response) => {
+                if (response.statusCode === 200) {
+                  const fileStream = fs.createWriteStream(filePath);
+                  response.pipe(fileStream);
+                  fileStream.on('finish', () => {
+                    fileStream.close();
+                    console.log(`✓ Completed: ${channelName}`);
+                    resolve({ success: true, channel: channelName });
+                  });
+                } else {
+                  console.log(`✗ Failed (${response.statusCode}): ${channelName}`);
+                  resolve({ success: false, channel: channelName, error: `HTTP ${response.statusCode}` });
+                }
+              });
+              
+              request.on('error', (err) => {
+                console.log(`✗ Error: ${channelName} - ${err.message}`);
+                resolve({ success: false, channel: channelName, error: err.message });
+              });
+              
+              request.setTimeout(10000, () => {
+                request.destroy();
+                console.log(`✗ Timeout: ${channelName}`);
+                resolve({ success: false, channel: channelName, error: 'Timeout' });
+              });
+            });
+          }
+          
+          // 分批下载（控制并发）
+          async function downloadWithConcurrency(channels, concurrency = 3) {
+            const results = [];
+            for (let i = 0; i < channels.length; i += concurrency) {
+              const batch = channels.slice(i, i + concurrency);
+              console.log(`\n--- Batch ${Math.floor(i / concurrency) + 1}/${Math.ceil(channels.length / concurrency)} ---`);
+              
+              const batchPromises = batch.map((channel, idx) => {
+                const delay = Math.random() * 3000;
+                return new Promise(resolve => {
+                  setTimeout(() => {
+                    downloadChannel(channel, i + idx, channels.length).then(resolve);
+                  }, delay);
+                });
+              });
+              
+              const batchResults = await Promise.all(batchPromises);
+              results.push(...batchResults);
+              
+              if (i + concurrency < channels.length) {
+                const batchDelay = 2000 + Math.random() * 3000;
+                console.log(`Waiting ${Math.round(batchDelay / 1000)} seconds...`);
+                await new Promise(resolve => setTimeout(resolve, batchDelay));
+              }
+            }
+            return results;
+          }
+          
+          // 执行下载并生成最终文件
+          (async () => {
+            console.log('Starting downloads with random delays and concurrency control...');
+            const results = await downloadWithConcurrency(shuffledChannels, 3);
+            
+            const successCount = results.filter(r => r.success).length;
+            console.log(`\n=== Summary: ${successCount}/${channels.length} channels downloaded ===`);
+            
+            // 生成最终 M3U（保留失败频道的原始URL）
+            let finalContent = '#EXTM3U\n';
+            for (let i = 0; i < channels.length; i++) {
+              const channel = channels[i];
+              const channelName = channel.name.replace(/[\\/:*?"<>|]/g, '_');
+              const localPath = `temp_channels/${i}_${channelName}.m3u8`;
+              
+              if (fs.existsSync(localPath) && fs.statSync(localPath).size > 0) {
+                finalContent += `${channel.metadata}\n${localPath}\n`;
+              } else {
+                finalContent += `${channel.metadata}\n${channel.url}\n`;
+              }
+            }
+            
+            fs.writeFileSync('tv.m3u', finalContent, 'utf-8');
+            console.log('\n✓ Final tv.m3u generated');
+          })().catch(console.error);
+          EOF
+          
+          node process_playlist.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tv.m3u
+          git commit -m "Auto-update tv.m3u from TXT [skip ci]" || echo "No changes to commit"
+          git push --force origin HEAD:${{ github.ref_name }}
