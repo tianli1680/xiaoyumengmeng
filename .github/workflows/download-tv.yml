@@ -1,0 +1,57 @@
+name: Download TV Channels
+
+on:
+  schedule:
+    # 每天早上7:00和下午17:00 UTC+8 运行 (对应UTC时间23:00和9:00)
+    - cron: '0 23 * * *'
+    - cron: '0 9 * * *'
+  workflow_dispatch: # 允许手动触发
+
+env:
+  NODE_VERSION: '24' # 环境变量适配Node.js 24
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 添加读写权限
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true # 保留凭证以便推送
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Download channels
+        run: |
+          # 下载源文件内容
+          curl -sL "https://123.tv1288.xyz/sm.txt" -o source.txt
+          
+          # 获取当前日期时间 (北京时间)
+          UPDATE_DATE=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+          
+          # 在文件开头添加更新日期，并保存为tv.txt
+          echo "# 更新日期: $UPDATE_DATE" > tv.txt
+          echo "" >> tv.txt
+          cat source.txt >> tv.txt
+          
+          # 清理临时文件
+          rm source.txt
+
+      - name: Commit and push changes
+        run: |
+          # 配置git用户
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 强制添加并提交tv.txt
+          git add tv.txt
+          git commit -m "Auto-update TV channels: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          
+          # 强制推送到当前分支
+          git push origin HEAD:${GITHUB_REF_NAME} --force
