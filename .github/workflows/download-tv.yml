@@ -35,10 +35,10 @@ jobs:
           # 获取当前日期时间 (北京时间)
           UPDATE_DATE=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
           
-          # 在文件开头添加更新日期，并保存为tv.txt
-          echo "# 更新日期: $UPDATE_DATE" > tv.txt
-          echo "" >> tv.txt
-          cat source.txt >> tv.txt
+          # 在文件开头添加更新日期，并保存为tv.m3u
+          echo "# 更新日期: $UPDATE_DATE" > tv.m3u
+          echo "" >> tv.m3u
+          cat source.txt >> tv.m3u
           
           # 清理临时文件
           rm source.txt
@@ -49,8 +49,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 强制添加并提交tv.txt
-          git add tv.txt
+          # 强制添加并提交tv.m3u
+          git add tv.m3u
           git commit -m "Auto-update TV channels: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           
           # 强制推送到当前分支
