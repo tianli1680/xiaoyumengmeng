@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新日期: 2026-04-02 07:37:07
+# 更新日期: 2026-04-02 18:06:47
 
 #EXTINF:-1 tvg-id="央视卫视" tvg-name="央视卫视" tvg-logo="" group-title="央视",央视卫视
 #genre#
@@ -478,308 +478,119 @@ http://migu.shanhaiguanwu.top:80/629942228
 #EXTINF:-1 tvg-id="体育-昨天" tvg-name="体育-昨天" tvg-logo="" group-title="体育",体育-昨天
 #genre#
 
-#EXTINF:-1 tvg-id="NBA热火VS76人全场回放（贾磊）06:55" tvg-name="NBA 热火VS76人 全场回放（贾磊） 06:55" tvg-logo="" group-title="综合",NBA 热火VS76人 全场回放（贾磊） 06:55
-http://migu.shanhaiguanwu.top:80/963900260
+#EXTINF:-1 tvg-id="斯诺克希金斯10-8马威吴宜泽6-10韦克林【回放】吴宜泽6-10克里斯·韦克林（朱峰立）02:00" tvg-name="斯诺克 希金斯10-8马威 吴宜泽6-10韦克林 【回放】吴宜泽6-10克里斯·韦克林（朱峰立） 02:00" tvg-logo="" group-title="综合",斯诺克 希金斯10-8马威 吴宜泽6-10韦克林 【回放】吴宜泽6-10克里斯·韦克林（朱峰立） 02:00
+http://migu.shanhaiguanwu.top:80/963916928
 
-#EXTINF:-1 tvg-id="NBA热火VS76人全场回放（英文原声）06:55" tvg-name="NBA 热火VS76人 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 热火VS76人 全场回放（英文原声） 06:55
-http://migu.shanhaiguanwu.top:80/963901332
+#EXTINF:-1 tvg-id="斯诺克希金斯10-8马威吴宜泽6-10韦克林【回放】约翰·希金斯10-8马克·威廉姆斯（赛场原声）02:00" tvg-name="斯诺克 希金斯10-8马威 吴宜泽6-10韦克林 【回放】约翰·希金斯10-8马克·威廉姆斯（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 希金斯10-8马威 吴宜泽6-10韦克林 【回放】约翰·希金斯10-8马克·威廉姆斯（赛场原声） 02:00
+http://migu.shanhaiguanwu.top:80/963923649
 
-#EXTINF:-1 tvg-id="NBA老鹰VS凯尔特人全场回放（孙博、季孟年、拜月宁）07:25" tvg-name="NBA 老鹰VS凯尔特人 全场回放（孙博、季孟年、拜月宁） 07:25" tvg-logo="" group-title="综合",NBA 老鹰VS凯尔特人 全场回放（孙博、季孟年、拜月宁） 07:25
-http://migu.shanhaiguanwu.top:80/963900969
+#EXTINF:-1 tvg-id="斯诺克希金斯10-8马威吴宜泽6-10韦克林【回放】吴宜泽6-10克里斯·韦克林（赛场原声）02:00" tvg-name="斯诺克 希金斯10-8马威 吴宜泽6-10韦克林 【回放】吴宜泽6-10克里斯·韦克林（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 希金斯10-8马威 吴宜泽6-10韦克林 【回放】吴宜泽6-10克里斯·韦克林（赛场原声） 02:00
+http://migu.shanhaiguanwu.top:80/963923633
 
-#EXTINF:-1 tvg-id="NBA老鹰VS凯尔特人全场回放（英文原声）07:25" tvg-name="NBA 老鹰VS凯尔特人 全场回放（英文原声） 07:25" tvg-logo="" group-title="综合",NBA 老鹰VS凯尔特人 全场回放（英文原声） 07:25
-http://migu.shanhaiguanwu.top:80/963901153
+#EXTINF:-1 tvg-id="NBA魔术VS太阳全场回放（刘圳展）06:30" tvg-name="NBA 魔术VS太阳 全场回放（刘圳展） 06:30" tvg-logo="" group-title="综合",NBA 魔术VS太阳 全场回放（刘圳展） 06:30
+http://migu.shanhaiguanwu.top:80/963919808
 
-#EXTINF:-1 tvg-id="NBA灰熊VS太阳全场回放（连睿、周赫）07:55" tvg-name="NBA 灰熊VS太阳 全场回放（连睿、周赫） 07:55" tvg-logo="" group-title="综合",NBA 灰熊VS太阳 全场回放（连睿、周赫） 07:55
-http://migu.shanhaiguanwu.top:80/963901755
+#EXTINF:-1 tvg-id="NBA魔术VS太阳全场回放（英文原声）06:30" tvg-name="NBA 魔术VS太阳 全场回放（英文原声） 06:30" tvg-logo="" group-title="综合",NBA 魔术VS太阳 全场回放（英文原声） 06:30
+http://migu.shanhaiguanwu.top:80/963920165
 
-#EXTINF:-1 tvg-id="NBA马刺VS公牛全场回放（王晓晨）07:55" tvg-name="NBA 马刺VS公牛 全场回放（王晓晨） 07:55" tvg-logo="" group-title="综合",NBA 马刺VS公牛 全场回放（王晓晨） 07:55
-http://migu.shanhaiguanwu.top:80/963901860
+#EXTINF:-1 tvg-id="NBA篮网VS黄蜂全场回放（盛哲）07:00" tvg-name="NBA 篮网VS黄蜂 全场回放（盛哲） 07:00" tvg-logo="" group-title="综合",NBA 篮网VS黄蜂 全场回放（盛哲） 07:00
+http://migu.shanhaiguanwu.top:80/963919969
 
-#EXTINF:-1 tvg-id="NBA马刺VS公牛全场回放（英文原声）07:55" tvg-name="NBA 马刺VS公牛 全场回放（英文原声） 07:55" tvg-logo="" group-title="综合",NBA 马刺VS公牛 全场回放（英文原声） 07:55
-http://migu.shanhaiguanwu.top:80/963902209
+#EXTINF:-1 tvg-id="NBA篮网VS黄蜂全场回放（英文原声）07:00" tvg-name="NBA 篮网VS黄蜂 全场回放（英文原声） 07:00" tvg-logo="" group-title="综合",NBA 篮网VS黄蜂 全场回放（英文原声） 07:00
+http://migu.shanhaiguanwu.top:80/963920634
 
-#EXTINF:-1 tvg-id="NBA独行侠VS森林狼全场回放（王冠证）08:25" tvg-name="NBA 独行侠VS森林狼 全场回放（王冠证） 08:25" tvg-logo="" group-title="综合",NBA 独行侠VS森林狼 全场回放（王冠证） 08:25
-http://migu.shanhaiguanwu.top:80/963902634
+#EXTINF:-1 tvg-id="NBA活塞VS猛龙全场回放（张泽欣）07:30" tvg-name="NBA 活塞VS猛龙 全场回放（张泽欣） 07:30" tvg-logo="" group-title="综合",NBA 活塞VS猛龙 全场回放（张泽欣） 07:30
+http://migu.shanhaiguanwu.top:80/963921123
 
-#EXTINF:-1 tvg-id="NBA独行侠VS森林狼全场回放（英文原声）08:25" tvg-name="NBA 独行侠VS森林狼 全场回放（英文原声） 08:25" tvg-logo="" group-title="综合",NBA 独行侠VS森林狼 全场回放（英文原声） 08:25
-http://migu.shanhaiguanwu.top:80/963903448
+#EXTINF:-1 tvg-id="NBA活塞VS猛龙全场回放（英文原声）07:30" tvg-name="NBA 活塞VS猛龙 全场回放（英文原声） 07:30" tvg-logo="" group-title="综合",NBA 活塞VS猛龙 全场回放（英文原声） 07:30
+http://migu.shanhaiguanwu.top:80/963922268
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯第二日热身区2026国际乒联单打世界杯Day2热身区全场回放（三）08:30" tvg-name="国际乒联澳门单打世界杯 第二日热身区 2026国际乒联单打世界杯Day2热身区全场回放（三） 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 第二日热身区 2026国际乒联单打世界杯Day2热身区全场回放（三） 08:30
-http://migu.shanhaiguanwu.top:80/963916262
+#EXTINF:-1 tvg-id="NBA火箭VS尼克斯全场回放（连睿、马健、周鹏、小七）07:55" tvg-name="NBA 火箭VS尼克斯 全场回放（连睿、马健、周鹏、小七） 07:55" tvg-logo="" group-title="综合",NBA 火箭VS尼克斯 全场回放（连睿、马健、周鹏、小七） 07:55
+http://migu.shanhaiguanwu.top:80/963921215
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯第二日热身区全场回放（一）08:30" tvg-name="国际乒联澳门单打世界杯 第二日热身区 全场回放（一） 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 第二日热身区 全场回放（一） 08:30
-http://migu.shanhaiguanwu.top:80/963908531
+#EXTINF:-1 tvg-id="NBA火箭VS尼克斯全场回放（英文原声）07:55" tvg-name="NBA 火箭VS尼克斯 全场回放（英文原声） 07:55" tvg-logo="" group-title="综合",NBA 火箭VS尼克斯 全场回放（英文原声） 07:55
+http://migu.shanhaiguanwu.top:80/963921284
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯第二日热身区全场回放（二）08:30" tvg-name="国际乒联澳门单打世界杯 第二日热身区 全场回放（二） 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 第二日热身区 全场回放（二） 08:30
-http://migu.shanhaiguanwu.top:80/963912323
+#EXTINF:-1 tvg-id="NBA火箭VS尼克斯全场回放（AI字幕）07:55" tvg-name="NBA 火箭VS尼克斯 全场回放（AI字幕） 07:55" tvg-logo="" group-title="综合",NBA 火箭VS尼克斯 全场回放（AI字幕） 07:55
+http://migu.shanhaiguanwu.top:80/963921408
 
-#EXTINF:-1 tvg-id="NBA爵士VS骑士全场回放（姜帆、马健、佳依）08:55" tvg-name="NBA 爵士VS骑士 全场回放（姜帆、马健、佳依） 08:55" tvg-logo="" group-title="综合",NBA 爵士VS骑士 全场回放（姜帆、马健、佳依） 08:55
-http://migu.shanhaiguanwu.top:80/963902969
+#EXTINF:-1 tvg-id="NBA雄鹿VS独行侠全场回放（董倡硕）07:30" tvg-name="NBA 雄鹿VS独行侠 全场回放（董倡硕） 07:30" tvg-logo="" group-title="综合",NBA 雄鹿VS独行侠 全场回放（董倡硕） 07:30
+http://migu.shanhaiguanwu.top:80/963920720
 
-#EXTINF:-1 tvg-id="NBA爵士VS骑士全场回放（英文原声）08:55" tvg-name="NBA 爵士VS骑士 全场回放（英文原声） 08:55" tvg-logo="" group-title="综合",NBA 爵士VS骑士 全场回放（英文原声） 08:55
-http://migu.shanhaiguanwu.top:80/963903231
+#EXTINF:-1 tvg-id="NBA雄鹿VS独行侠全场回放（英文原声）07:30" tvg-name="NBA 雄鹿VS独行侠 全场回放（英文原声） 07:30" tvg-logo="" group-title="综合",NBA 雄鹿VS独行侠 全场回放（英文原声） 07:30
+http://migu.shanhaiguanwu.top:80/963922142
 
-#EXTINF:-1 tvg-id="NBA雷霆VS活塞全场回放（罗森）09:25" tvg-name="NBA 雷霆VS活塞 全场回放（罗森） 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS活塞 全场回放（罗森） 09:25
-http://migu.shanhaiguanwu.top:80/963904216
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯第三日热身区全场回放（一）08:30" tvg-name="国际乒联澳门单打世界杯 第三日热身区 全场回放（一） 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 第三日热身区 全场回放（一） 08:30
+http://migu.shanhaiguanwu.top:80/963925588
 
-#EXTINF:-1 tvg-id="NBA雷霆VS活塞全场回放（英文原声）09:25" tvg-name="NBA 雷霆VS活塞 全场回放（英文原声） 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS活塞 全场回放（英文原声） 09:25
-http://migu.shanhaiguanwu.top:80/963904366
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯孙颖莎横扫晋级覃予萱3-1早田希娜全场回放（马特、朱子恒）09:00" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（马特、朱子恒） 09:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（马特、朱子恒） 09:00
+http://migu.shanhaiguanwu.top:80/963925011
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯梁靖崑2-3憾负林昀儒横扫全场回放（马特、朱子恒）09:30" tvg-name="国际乒联澳门单打世界杯 梁靖崑2-3憾负 林昀儒横扫 全场回放（马特、朱子恒） 09:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 梁靖崑2-3憾负 林昀儒横扫 全场回放（马特、朱子恒） 09:30
-http://migu.shanhaiguanwu.top:80/963911537
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯孙颖莎横扫晋级覃予萱3-1早田希娜全场回放（一号桌）09:00" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（一号桌） 09:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（一号桌） 09:00
+http://migu.shanhaiguanwu.top:80/963925923
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯梁靖崑2-3憾负林昀儒横扫全场回放（一号桌）09:30" tvg-name="国际乒联澳门单打世界杯 梁靖崑2-3憾负 林昀儒横扫 全场回放（一号桌） 09:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 梁靖崑2-3憾负 林昀儒横扫 全场回放（一号桌） 09:30
-http://migu.shanhaiguanwu.top:80/963910833
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯孙颖莎横扫晋级覃予萱3-1早田希娜全场回放（二号桌）09:00" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（二号桌） 09:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（二号桌） 09:00
+http://migu.shanhaiguanwu.top:80/963930086
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯梁靖崑2-3憾负林昀儒横扫全场回放（二号桌）09:30" tvg-name="国际乒联澳门单打世界杯 梁靖崑2-3憾负 林昀儒横扫 全场回放（二号桌） 09:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 梁靖崑2-3憾负 林昀儒横扫 全场回放（二号桌） 09:30
-http://migu.shanhaiguanwu.top:80/963907877
+#EXTINF:-1 tvg-id="NBA湖人VS骑士全场回放10:25" tvg-name="NBA 湖人VS骑士 全场回放 10:25" tvg-logo="" group-title="综合",NBA 湖人VS骑士 全场回放 10:25
+http://migu.shanhaiguanwu.top:80/963927197
 
-#EXTINF:-1 tvg-id="NBA湖人VS奇才全场回放（李天宇、徐咏、陈正昊、金佳悦）09:55" tvg-name="NBA 湖人VS奇才 全场回放（李天宇、徐咏、陈正昊、金佳悦） 09:55" tvg-logo="" group-title="综合",NBA 湖人VS奇才 全场回放（李天宇、徐咏、陈正昊、金佳悦） 09:55
-http://migu.shanhaiguanwu.top:80/963903872
+#EXTINF:-1 tvg-id="NBA湖人VS骑士全场回放（杨健、苏群、曾令旭、佳依）10:25" tvg-name="NBA 湖人VS骑士 全场回放（杨健、苏群、曾令旭、佳依） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS骑士 全场回放（杨健、苏群、曾令旭、佳依） 10:25
+http://migu.shanhaiguanwu.top:80/963923734
 
-#EXTINF:-1 tvg-id="CFA中国之队·FIFA系列赛喀麦隆VS中国全场回放13:45" tvg-name="CFA中国之队·FIFA系列赛 喀麦隆VS中国 全场回放 13:45" tvg-logo="" group-title="综合",CFA中国之队·FIFA系列赛 喀麦隆VS中国 全场回放 13:45
-http://migu.shanhaiguanwu.top:80/963911765
+#EXTINF:-1 tvg-id="NBA湖人VS骑士全场回放（郑泽鹏）10:25" tvg-name="NBA 湖人VS骑士 全场回放（郑泽鹏） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS骑士 全场回放（郑泽鹏） 10:25
+http://migu.shanhaiguanwu.top:80/963923849
 
-#EXTINF:-1 tvg-id="CFA中国之队·FIFA系列赛喀麦隆VS中国全场回放（苏东、徐云龙、林梦鸽）13:45" tvg-name="CFA中国之队·FIFA系列赛 喀麦隆VS中国 全场回放（苏东、徐云龙、林梦鸽） 13:45" tvg-logo="" group-title="综合",CFA中国之队·FIFA系列赛 喀麦隆VS中国 全场回放（苏东、徐云龙、林梦鸽） 13:45
-http://migu.shanhaiguanwu.top:80/963908206
+#EXTINF:-1 tvg-id="NBA湖人VS骑士全场回放（大史）10:25" tvg-name="NBA 湖人VS骑士 全场回放（大史） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS骑士 全场回放（大史） 10:25
+http://migu.shanhaiguanwu.top:80/963923672
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦实力横扫温瑞博3-1迎开门红全场回放（侯英超、周冠达）16:30" tvg-name="国际乒联澳门单打世界杯 王楚钦实力横扫 温瑞博3-1迎开门红 全场回放（侯英超、周冠达） 16:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦实力横扫 温瑞博3-1迎开门红 全场回放（侯英超、周冠达） 16:30
-http://migu.shanhaiguanwu.top:80/963912976
+#EXTINF:-1 tvg-id="NBA湖人VS骑士全场回放（英文原声）10:25" tvg-name="NBA 湖人VS骑士 全场回放（英文原声） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS骑士 全场回放（英文原声） 10:25
+http://migu.shanhaiguanwu.top:80/963923694
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦实力横扫温瑞博3-1迎开门红全场回放（刘馨蕊）16:30" tvg-name="国际乒联澳门单打世界杯 王楚钦实力横扫 温瑞博3-1迎开门红 全场回放（刘馨蕊） 16:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦实力横扫 温瑞博3-1迎开门红 全场回放（刘馨蕊） 16:30
-http://migu.shanhaiguanwu.top:80/963913091
+#EXTINF:-1 tvg-id="NBA快船VS开拓者全场回放（李天宇、殷文玉、魏欣怡）10:55" tvg-name="NBA 快船VS开拓者 全场回放（李天宇、殷文玉、魏欣怡） 10:55" tvg-logo="" group-title="综合",NBA 快船VS开拓者 全场回放（李天宇、殷文玉、魏欣怡） 10:55
+http://migu.shanhaiguanwu.top:80/963924200
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦实力横扫温瑞博3-1迎开门红2026国际乒联单打世界杯Day2晚间场一号桌全场回放（赛场原声）16:30" tvg-name="国际乒联澳门单打世界杯 王楚钦实力横扫 温瑞博3-1迎开门红 2026国际乒联单打世界杯Day2晚间场一号桌全场回放（赛场原声） 16:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦实力横扫 温瑞博3-1迎开门红 2026国际乒联单打世界杯Day2晚间场一号桌全场回放（赛场原声） 16:30
-http://migu.shanhaiguanwu.top:80/963916714
+#EXTINF:-1 tvg-id="NBA快船VS开拓者全场回放（邢晨）10:55" tvg-name="NBA 快船VS开拓者 全场回放（邢晨） 10:55" tvg-logo="" group-title="综合",NBA 快船VS开拓者 全场回放（邢晨） 10:55
+http://migu.shanhaiguanwu.top:80/963924094
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦实力横扫温瑞博3-1迎开门红2026国际乒联单打世界杯Day2晚间场二号桌全场回放（赛场原声）16:30" tvg-name="国际乒联澳门单打世界杯 王楚钦实力横扫 温瑞博3-1迎开门红 2026国际乒联单打世界杯Day2晚间场二号桌全场回放（赛场原声） 16:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦实力横扫 温瑞博3-1迎开门红 2026国际乒联单打世界杯Day2晚间场二号桌全场回放（赛场原声） 16:30
-http://migu.shanhaiguanwu.top:80/963916562
+#EXTINF:-1 tvg-id="NBA快船VS开拓者全场回放（英文原声）10:55" tvg-name="NBA 快船VS开拓者 全场回放（英文原声） 10:55" tvg-logo="" group-title="综合",NBA 快船VS开拓者 全场回放（英文原声） 10:55
+http://migu.shanhaiguanwu.top:80/963924204
 
-#EXTINF:-1 tvg-id="WCBA石家庄英励VS厦门环东文旅全场回放（现场解说）19:25" tvg-name="WCBA 石家庄英励VS厦门环东文旅 全场回放（现场解说） 19:25" tvg-logo="" group-title="综合",WCBA 石家庄英励VS厦门环东文旅 全场回放（现场解说） 19:25
-http://migu.shanhaiguanwu.top:80/963915639
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦锁定小组第一王曼昱直落三局全场回放（刘国正、周冠达）08:30" tvg-name="国际乒联澳门单打世界杯 王楚钦锁定小组第一 王曼昱直落三局 全场回放（刘国正、周冠达） 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦锁定小组第一 王曼昱直落三局 全场回放（刘国正、周冠达） 08:30
+http://migu.shanhaiguanwu.top:80/963931135
 
-#EXTINF:-1 tvg-id="WCBA石家庄英励VS厦门环东文旅全场回放（原声）19:25" tvg-name="WCBA 石家庄英励VS厦门环东文旅 全场回放（原声） 19:25" tvg-logo="" group-title="综合",WCBA 石家庄英励VS厦门环东文旅 全场回放（原声） 19:25
-http://migu.shanhaiguanwu.top:80/963913492
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦锁定小组第一王曼昱直落三局全场回放（凌维康）08:30" tvg-name="国际乒联澳门单打世界杯 王楚钦锁定小组第一 王曼昱直落三局 全场回放（凌维康） 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦锁定小组第一 王曼昱直落三局 全场回放（凌维康） 08:30
+http://migu.shanhaiguanwu.top:80/963930972
 
-#EXTINF:-1 tvg-id="WCBA浙江稠州银行VS合肥文旅全场回放（现场解说）19:25" tvg-name="WCBA 浙江稠州银行VS合肥文旅 全场回放（现场解说） 19:25" tvg-logo="" group-title="综合",WCBA 浙江稠州银行VS合肥文旅 全场回放（现场解说） 19:25
-http://migu.shanhaiguanwu.top:80/963916616
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦锁定小组第一王曼昱直落三局全场回放（抽签仪式）08:30" tvg-name="国际乒联澳门单打世界杯 王楚钦锁定小组第一 王曼昱直落三局 全场回放（抽签仪式） 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦锁定小组第一 王曼昱直落三局 全场回放（抽签仪式） 08:30
+http://migu.shanhaiguanwu.top:80/963931285
 
-#EXTINF:-1 tvg-id="WCBA浙江稠州银行VS合肥文旅全场回放（原声）19:25" tvg-name="WCBA 浙江稠州银行VS合肥文旅 全场回放（原声） 19:25" tvg-logo="" group-title="综合",WCBA 浙江稠州银行VS合肥文旅 全场回放（原声） 19:25
-http://migu.shanhaiguanwu.top:80/963913498
+#EXTINF:-1 tvg-id="亚女U20中国女足U20VS越南女足U20全场回放（林梦鸽、贺宇）16:45" tvg-name="亚女U20 中国女足U20VS越南女足U20 全场回放（林梦鸽、贺宇） 16:45" tvg-logo="" group-title="综合",亚女U20 中国女足U20VS越南女足U20 全场回放（林梦鸽、贺宇） 16:45
+http://migu.shanhaiguanwu.top:80/963928682
 
-#EXTINF:-1 tvg-id="NBL上海玄鸟VS山东蜜獾全场回放19:20" tvg-name="NBL 上海玄鸟VS山东蜜獾 全场回放 19:20" tvg-logo="" group-title="综合",NBL 上海玄鸟VS山东蜜獾 全场回放 19:20
-http://migu.shanhaiguanwu.top:80/963916515
+#EXTINF:-1 tvg-id="WCBA北京首钢园VS辽宁大连体产全场回放（原声）19:25" tvg-name="WCBA 北京首钢园VS辽宁大连体产 全场回放（原声） 19:25" tvg-logo="" group-title="综合",WCBA 北京首钢园VS辽宁大连体产 全场回放（原声） 19:25
+http://migu.shanhaiguanwu.top:80/963931835
 
-#EXTINF:-1 tvg-id="NBL上海玄鸟VS山东蜜獾全场回放（官方解说）19:20" tvg-name="NBL 上海玄鸟VS山东蜜獾 全场回放（官方解说） 19:20" tvg-logo="" group-title="综合",NBL 上海玄鸟VS山东蜜獾 全场回放（官方解说） 19:20
-http://migu.shanhaiguanwu.top:80/963916386
+#EXTINF:-1 tvg-id="亚女U20泰国女足U20VS孟加拉国U20全场回放（兰子非）20:45" tvg-name="亚女U20 泰国女足U20VS孟加拉国U20 全场回放（兰子非） 20:45" tvg-logo="" group-title="综合",亚女U20 泰国女足U20VS孟加拉国U20 全场回放（兰子非） 20:45
+http://migu.shanhaiguanwu.top:80/963931028
 
-#EXTINF:-1 tvg-id="CFA中国之队·国际足球锦标赛中国U23VS越南U23全场回放（涂远、王宇）19:20" tvg-name="CFA中国之队·国际足球锦标赛 中国U23VS越南U23 全场回放（涂远、王宇） 19:20" tvg-logo="" group-title="综合",CFA中国之队·国际足球锦标赛 中国U23VS越南U23 全场回放（涂远、王宇） 19:20
-http://migu.shanhaiguanwu.top:80/963912714
+#EXTINF:-1 tvg-id="WTA佩古拉出战约维奇2-0帕克斯赛场原声23:00" tvg-name="WTA 佩古拉出战 约维奇2-0帕克斯 赛场原声 23:00" tvg-logo="" group-title="综合",WTA 佩古拉出战 约维奇2-0帕克斯 赛场原声 23:00
+http://migu.shanhaiguanwu.top:80/963843456
 
-#EXTINF:-1 tvg-id="斯诺克希金斯6-2老马霍金斯10-8塔猜亚晋级【回放】约翰·希金斯2-6马克·威廉姆斯（柏林）20:00" tvg-name="斯诺克 希金斯6-2老马 霍金斯10-8塔猜亚晋级 【回放】约翰·希金斯2-6马克·威廉姆斯（柏林） 20:00" tvg-logo="" group-title="综合",斯诺克 希金斯6-2老马 霍金斯10-8塔猜亚晋级 【回放】约翰·希金斯2-6马克·威廉姆斯（柏林） 20:00
-http://migu.shanhaiguanwu.top:80/963913590
-
-#EXTINF:-1 tvg-id="WTA卡林斯卡娅出战安德莱斯库晋级赛场原声23:00" tvg-name="WTA 卡林斯卡娅出战 安德莱斯库晋级 赛场原声 23:00" tvg-logo="" group-title="综合",WTA 卡林斯卡娅出战 安德莱斯库晋级 赛场原声 23:00
-http://migu.shanhaiguanwu.top:80/963843401
-
-#EXTINF:-1 tvg-id="WTA卡林斯卡娅出战安德莱斯库晋级英文原声23:00" tvg-name="WTA 卡林斯卡娅出战 安德莱斯库晋级 英文原声 23:00" tvg-logo="" group-title="综合",WTA 卡林斯卡娅出战 安德莱斯库晋级 英文原声 23:00
-http://migu.shanhaiguanwu.top:80/963843416
+#EXTINF:-1 tvg-id="WTA佩古拉出战约维奇2-0帕克斯英文原声23:00" tvg-name="WTA 佩古拉出战 约维奇2-0帕克斯 英文原声 23:00" tvg-logo="" group-title="综合",WTA 佩古拉出战 约维奇2-0帕克斯 英文原声 23:00
+http://migu.shanhaiguanwu.top:80/963843486
 
 #EXTINF:-1 tvg-id="体育-今天" tvg-name="体育-今天" tvg-logo="" group-title="体育",体育-今天
 #genre#
 
-#EXTINF:-1 tvg-id="斯诺克希金斯PK马克·威廉姆斯吴宜泽出战朱峰立02:00" tvg-name="斯诺克 希金斯PK马克·威廉姆斯 吴宜泽出战 朱峰立 02:00" tvg-logo="" group-title="综合",斯诺克 希金斯PK马克·威廉姆斯 吴宜泽出战 朱峰立 02:00
-http://migu.shanhaiguanwu.top:80/963856867
+#EXTINF:-1 tvg-id="斯诺克赵心童迎战韦克林墨菲PK小特秦正02:00" tvg-name="斯诺克 赵心童迎战韦克林 墨菲PK小特 秦正 02:00" tvg-logo="" group-title="综合",斯诺克 赵心童迎战韦克林 墨菲PK小特 秦正 02:00
+http://migu.shanhaiguanwu.top:80/963905711
 
-#EXTINF:-1 tvg-id="斯诺克希金斯PK马克·威廉姆斯吴宜泽出战1号桌02:00" tvg-name="斯诺克 希金斯PK马克·威廉姆斯 吴宜泽出战 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 希金斯PK马克·威廉姆斯 吴宜泽出战 1号桌 02:00
-http://migu.shanhaiguanwu.top:80/963821910
-
-#EXTINF:-1 tvg-id="斯诺克希金斯PK马克·威廉姆斯吴宜泽出战2号桌02:00" tvg-name="斯诺克 希金斯PK马克·威廉姆斯 吴宜泽出战 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 希金斯PK马克·威廉姆斯 吴宜泽出战 2号桌 02:00
-http://migu.shanhaiguanwu.top:80/963821933
-
-#EXTINF:-1 tvg-id="NBA魔术VS太阳刘圳展06:55" tvg-name="NBA 魔术VS太阳 刘圳展 06:55" tvg-logo="" group-title="综合",NBA 魔术VS太阳 刘圳展 06:55
-http://migu.shanhaiguanwu.top:80/963853188
-
-#EXTINF:-1 tvg-id="NBA魔术VS太阳英文原声06:55" tvg-name="NBA 魔术VS太阳 英文原声 06:55" tvg-logo="" group-title="综合",NBA 魔术VS太阳 英文原声 06:55
-http://migu.shanhaiguanwu.top:80/963853245
-
-#EXTINF:-1 tvg-id="NBA魔术VS太阳清流审片后06:30" tvg-name="NBA 魔术VS太阳 清流审片后 06:30" tvg-logo="" group-title="综合",NBA 魔术VS太阳 清流审片后 06:30
-http://migu.shanhaiguanwu.top:80/963853243
-
-#EXTINF:-1 tvg-id="NBA篮网VS黄蜂盛哲07:25" tvg-name="NBA 篮网VS黄蜂 盛哲 07:25" tvg-logo="" group-title="综合",NBA 篮网VS黄蜂 盛哲 07:25
-http://migu.shanhaiguanwu.top:80/963853271
-
-#EXTINF:-1 tvg-id="NBA篮网VS黄蜂英文原声07:25" tvg-name="NBA 篮网VS黄蜂 英文原声 07:25" tvg-logo="" group-title="综合",NBA 篮网VS黄蜂 英文原声 07:25
-http://migu.shanhaiguanwu.top:80/963853305
-
-#EXTINF:-1 tvg-id="NBA篮网VS黄蜂清流审片后07:00" tvg-name="NBA 篮网VS黄蜂 清流审片后 07:00" tvg-logo="" group-title="综合",NBA 篮网VS黄蜂 清流审片后 07:00
-http://migu.shanhaiguanwu.top:80/963853297
-
-#EXTINF:-1 tvg-id="NBA活塞VS猛龙张泽欣07:55" tvg-name="NBA 活塞VS猛龙 张泽欣 07:55" tvg-logo="" group-title="综合",NBA 活塞VS猛龙 张泽欣 07:55
-http://migu.shanhaiguanwu.top:80/963853342
-
-#EXTINF:-1 tvg-id="NBA活塞VS猛龙英文原声07:55" tvg-name="NBA 活塞VS猛龙 英文原声 07:55" tvg-logo="" group-title="综合",NBA 活塞VS猛龙 英文原声 07:55
-http://migu.shanhaiguanwu.top:80/963853449
-
-#EXTINF:-1 tvg-id="NBA活塞VS猛龙清流审片后07:30" tvg-name="NBA 活塞VS猛龙 清流审片后 07:30" tvg-logo="" group-title="综合",NBA 活塞VS猛龙 清流审片后 07:30
-http://migu.shanhaiguanwu.top:80/963853387
-
-#EXTINF:-1 tvg-id="NBA火箭VS尼克斯连睿马健周鹏07:45" tvg-name="NBA 火箭VS尼克斯 连睿 马健 周鹏 07:45" tvg-logo="" group-title="综合",NBA 火箭VS尼克斯 连睿 马健 周鹏 07:45
-http://migu.shanhaiguanwu.top:80/963853602
-
-#EXTINF:-1 tvg-id="NBA火箭VS尼克斯智能字幕07:55" tvg-name="NBA 火箭VS尼克斯 智能字幕 07:55" tvg-logo="" group-title="综合",NBA 火箭VS尼克斯 智能字幕 07:55
-http://migu.shanhaiguanwu.top:80/963853672
-
-#EXTINF:-1 tvg-id="NBA火箭VS尼克斯英文原声07:55" tvg-name="NBA 火箭VS尼克斯 英文原声 07:55" tvg-logo="" group-title="综合",NBA 火箭VS尼克斯 英文原声 07:55
-http://migu.shanhaiguanwu.top:80/963853659
-
-#EXTINF:-1 tvg-id="NBA火箭VS尼克斯清流审片后07:30" tvg-name="NBA 火箭VS尼克斯 清流审片后 07:30" tvg-logo="" group-title="综合",NBA 火箭VS尼克斯 清流审片后 07:30
-http://migu.shanhaiguanwu.top:80/963853642
-
-#EXTINF:-1 tvg-id="NBA雄鹿VS独行侠董倡硕07:55" tvg-name="NBA 雄鹿VS独行侠 董倡硕 07:55" tvg-logo="" group-title="综合",NBA 雄鹿VS独行侠 董倡硕 07:55
-http://migu.shanhaiguanwu.top:80/963853727
-
-#EXTINF:-1 tvg-id="NBA雄鹿VS独行侠英文原声07:55" tvg-name="NBA 雄鹿VS独行侠 英文原声 07:55" tvg-logo="" group-title="综合",NBA 雄鹿VS独行侠 英文原声 07:55
-http://migu.shanhaiguanwu.top:80/963853788
-
-#EXTINF:-1 tvg-id="NBA雄鹿VS独行侠清流审片后07:30" tvg-name="NBA 雄鹿VS独行侠 清流审片后 07:30" tvg-logo="" group-title="综合",NBA 雄鹿VS独行侠 清流审片后 07:30
-http://migu.shanhaiguanwu.top:80/963853774
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯第三日热身区热身区08:30" tvg-name="国际乒联澳门单打世界杯 第三日热身区 热身区 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 第三日热身区 热身区 08:30
-http://migu.shanhaiguanwu.top:80/963812089
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯孙颖莎PK埃及左手名将覃予萱战早田马特朱子恒09:30" tvg-name="国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 马特 朱子恒 09:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 马特 朱子恒 09:30
-http://migu.shanhaiguanwu.top:80/963812180
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯孙颖莎PK埃及左手名将覃予萱战早田热身区08:30" tvg-name="国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 热身区 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 热身区 08:30
-http://migu.shanhaiguanwu.top:80/963812089
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯孙颖莎PK埃及左手名将覃予萱战早田1号桌09:30" tvg-name="国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 1号桌 09:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 1号桌 09:30
-http://migu.shanhaiguanwu.top:80/963812117
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯孙颖莎PK埃及左手名将覃予萱战早田2号桌09:30" tvg-name="国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 2号桌 09:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 2号桌 09:30
-http://migu.shanhaiguanwu.top:80/963812150
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯孙颖莎PK埃及左手名将覃予萱战早田混采区09:50" tvg-name="国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 混采区 09:50" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 混采区 09:50
-http://migu.shanhaiguanwu.top:80/963812199
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯孙颖莎PK埃及左手名将覃予萱战早田候场区09:00" tvg-name="国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 候场区 09:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 孙颖莎PK埃及左手名将 覃予萱战早田 候场区 09:00
-http://migu.shanhaiguanwu.top:80/963812223
-
-#EXTINF:-1 tvg-id="NBA湖人VS骑士杨健苏群曾令旭10:15" tvg-name="NBA 湖人VS骑士 杨健 苏群 曾令旭 10:15" tvg-logo="" group-title="综合",NBA 湖人VS骑士 杨健 苏群 曾令旭 10:15
-http://migu.shanhaiguanwu.top:80/963853535
-
-#EXTINF:-1 tvg-id="NBA湖人VS骑士大史10:25" tvg-name="NBA 湖人VS骑士 大史 10:25" tvg-logo="" group-title="综合",NBA 湖人VS骑士 大史 10:25
-http://migu.shanhaiguanwu.top:80/963853517
-
-#EXTINF:-1 tvg-id="NBA湖人VS骑士郑泽鹏10:25" tvg-name="NBA 湖人VS骑士 郑泽鹏 10:25" tvg-logo="" group-title="综合",NBA 湖人VS骑士 郑泽鹏 10:25
-http://migu.shanhaiguanwu.top:80/963853511
-
-#EXTINF:-1 tvg-id="NBA湖人VS骑士智能字幕10:25" tvg-name="NBA 湖人VS骑士 智能字幕 10:25" tvg-logo="" group-title="综合",NBA 湖人VS骑士 智能字幕 10:25
-http://migu.shanhaiguanwu.top:80/963854827
-
-#EXTINF:-1 tvg-id="NBA湖人VS骑士英文原声10:25" tvg-name="NBA 湖人VS骑士 英文原声 10:25" tvg-logo="" group-title="综合",NBA 湖人VS骑士 英文原声 10:25
-http://migu.shanhaiguanwu.top:80/963854819
-
-#EXTINF:-1 tvg-id="NBA快船VS开拓者李天宇殷文玉魏欣怡10:45" tvg-name="NBA 快船VS开拓者 李天宇 殷文玉 魏欣怡 10:45" tvg-logo="" group-title="综合",NBA 快船VS开拓者 李天宇 殷文玉 魏欣怡 10:45
-http://migu.shanhaiguanwu.top:80/963854943
-
-#EXTINF:-1 tvg-id="NBA快船VS开拓者邢晨10:55" tvg-name="NBA 快船VS开拓者 邢晨 10:55" tvg-logo="" group-title="综合",NBA 快船VS开拓者 邢晨 10:55
-http://migu.shanhaiguanwu.top:80/963854948
-
-#EXTINF:-1 tvg-id="NBA快船VS开拓者英文原声10:55" tvg-name="NBA 快船VS开拓者 英文原声 10:55" tvg-logo="" group-title="综合",NBA 快船VS开拓者 英文原声 10:55
-http://migu.shanhaiguanwu.top:80/963855137
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦冲胜王曼昱对决印度怪胶手刘国正周冠达16:30" tvg-name="国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 刘国正 周冠达 16:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 刘国正 周冠达 16:30
-http://migu.shanhaiguanwu.top:80/963812473
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦冲胜王曼昱对决印度怪胶手凌维康17:00" tvg-name="国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 凌维康 17:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 凌维康 17:00
-http://migu.shanhaiguanwu.top:80/963812520
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦冲胜王曼昱对决印度怪胶手热身区08:30" tvg-name="国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 热身区 08:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 热身区 08:30
-http://migu.shanhaiguanwu.top:80/963812089
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦冲胜王曼昱对决印度怪胶手1号桌17:00" tvg-name="国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 1号桌 17:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 1号桌 17:00
-http://migu.shanhaiguanwu.top:80/963812386
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦冲胜王曼昱对决印度怪胶手2号桌17:00" tvg-name="国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 2号桌 17:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 2号桌 17:00
-http://migu.shanhaiguanwu.top:80/963812496
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦冲胜王曼昱对决印度怪胶手混采区17:20" tvg-name="国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 混采区 17:20" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 混采区 17:20
-http://migu.shanhaiguanwu.top:80/963812549
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯王楚钦冲胜王曼昱对决印度怪胶手候场区16:30" tvg-name="国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 候场区 16:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 候场区 16:30
-http://migu.shanhaiguanwu.top:80/963824170
-
-#EXTINF:-1 tvg-id="亚女U20中国女足U20VS越南女足U20林梦鸽贺宇16:45" tvg-name="亚女U20 中国女足U20VS越南女足U20 林梦鸽 贺宇 16:45" tvg-logo="" group-title="综合",亚女U20 中国女足U20VS越南女足U20 林梦鸽 贺宇 16:45
-http://migu.shanhaiguanwu.top:80/963824857
-
-#EXTINF:-1 tvg-id="亚女U20中国女足U20VS越南女足U20赛场原声16:45" tvg-name="亚女U20 中国女足U20VS越南女足U20 赛场原声 16:45" tvg-logo="" group-title="综合",亚女U20 中国女足U20VS越南女足U20 赛场原声 16:45
-http://migu.shanhaiguanwu.top:80/963824557
-
-#EXTINF:-1 tvg-id="WCBA北京首钢园VS辽宁大连体产解说19:25" tvg-name="WCBA 北京首钢园VS辽宁大连体产 解说 19:25" tvg-logo="" group-title="综合",WCBA 北京首钢园VS辽宁大连体产 解说 19:25
-http://migu.shanhaiguanwu.top:80/963789588
-
-#EXTINF:-1 tvg-id="WCBA北京首钢园VS辽宁大连体产清流播出19:25" tvg-name="WCBA 北京首钢园VS辽宁大连体产 清流播出 19:25" tvg-logo="" group-title="综合",WCBA 北京首钢园VS辽宁大连体产 清流播出 19:25
-http://migu.shanhaiguanwu.top:80/963789665
-
-#EXTINF:-1 tvg-id="WCBA陕西榆林天泽VS河南豫光金铅解说19:25" tvg-name="WCBA 陕西榆林天泽VS河南豫光金铅 解说 19:25" tvg-logo="" group-title="综合",WCBA 陕西榆林天泽VS河南豫光金铅 解说 19:25
-http://migu.shanhaiguanwu.top:80/963789786
-
-#EXTINF:-1 tvg-id="WCBA陕西榆林天泽VS河南豫光金铅清流播出19:25" tvg-name="WCBA 陕西榆林天泽VS河南豫光金铅 清流播出 19:25" tvg-logo="" group-title="综合",WCBA 陕西榆林天泽VS河南豫光金铅 清流播出 19:25
-http://migu.shanhaiguanwu.top:80/963789937
-
-#EXTINF:-1 tvg-id="CBA北京控股VS广州朗肽海本图文直播19:35" tvg-name="CBA 北京控股VS广州朗肽海本 图文直播 19:35" tvg-logo="" group-title="综合",CBA 北京控股VS广州朗肽海本 图文直播 19:35
-http://migu.shanhaiguanwu.top:80/963890871
-
-#EXTINF:-1 tvg-id="CBA辽宁本钢VS新疆伊力特图文直播19:35" tvg-name="CBA 辽宁本钢VS新疆伊力特 图文直播 19:35" tvg-logo="" group-title="综合",CBA 辽宁本钢VS新疆伊力特 图文直播 19:35
-http://migu.shanhaiguanwu.top:80/963890878
-
-#EXTINF:-1 tvg-id="CBA青岛崂山啤酒VS天津先行者图文直播19:35" tvg-name="CBA 青岛崂山啤酒VS天津先行者 图文直播 19:35" tvg-logo="" group-title="综合",CBA 青岛崂山啤酒VS天津先行者 图文直播 19:35
-http://migu.shanhaiguanwu.top:80/963890888
-
-#EXTINF:-1 tvg-id="CBA山东高速VS福建晋江文旅图文直播19:35" tvg-name="CBA 山东高速VS福建晋江文旅 图文直播 19:35" tvg-logo="" group-title="综合",CBA 山东高速VS福建晋江文旅 图文直播 19:35
-http://migu.shanhaiguanwu.top:80/963890901
-
-#EXTINF:-1 tvg-id="CBA四川丰谷酒业VS山西汾酒图文直播19:35" tvg-name="CBA 四川丰谷酒业VS山西汾酒 图文直播 19:35" tvg-logo="" group-title="综合",CBA 四川丰谷酒业VS山西汾酒 图文直播 19:35
-http://migu.shanhaiguanwu.top:80/963890918
-
-#EXTINF:-1 tvg-id="CBA浙江稠州金租VS北京北汽图文直播19:35" tvg-name="CBA 浙江稠州金租VS北京北汽 图文直播 19:35" tvg-logo="" group-title="综合",CBA 浙江稠州金租VS北京北汽 图文直播 19:35
-http://migu.shanhaiguanwu.top:80/963890936
-
-#EXTINF:-1 tvg-id="斯诺克墨菲、罗伯逊出战1号桌20:00" tvg-name="斯诺克 墨菲、罗伯逊出战 1号桌 20:00" tvg-logo="" group-title="综合",斯诺克 墨菲、罗伯逊出战 1号桌 20:00
-http://migu.shanhaiguanwu.top:80/963821958
-
-#EXTINF:-1 tvg-id="斯诺克墨菲、罗伯逊出战2号桌20:00" tvg-name="斯诺克 墨菲、罗伯逊出战 2号桌 20:00" tvg-logo="" group-title="综合",斯诺克 墨菲、罗伯逊出战 2号桌 20:00
-http://migu.shanhaiguanwu.top:80/963821975
-
-#EXTINF:-1 tvg-id="斯诺克墨菲、罗伯逊出战乔迁20:00" tvg-name="斯诺克 墨菲、罗伯逊出战 乔迁 20:00" tvg-logo="" group-title="综合",斯诺克 墨菲、罗伯逊出战 乔迁 20:00
-http://migu.shanhaiguanwu.top:80/963905692
-
-#EXTINF:-1 tvg-id="亚女U20泰国女足U20VS孟加拉国U20兰子非20:45" tvg-name="亚女U20 泰国女足U20VS孟加拉国U20 兰子非 20:45" tvg-logo="" group-title="综合",亚女U20 泰国女足U20VS孟加拉国U20 兰子非 20:45
-http://migu.shanhaiguanwu.top:80/963824599
-
-#EXTINF:-1 tvg-id="亚女U20泰国女足U20VS孟加拉国U20赛场原声20:45" tvg-name="亚女U20 泰国女足U20VS孟加拉国U20 赛场原声 20:45" tvg-logo="" group-title="综合",亚女U20 泰国女足U20VS孟加拉国U20 赛场原声 20:45
-http://migu.shanhaiguanwu.top:80/963824593
-
-#EXTINF:-1 tvg-id="WTAWTA查尔斯顿站Day3清流播出23:00" tvg-name="WTA WTA查尔斯顿站Day3 清流播出 23:00" tvg-logo="" group-title="综合",WTA WTA查尔斯顿站Day3 清流播出 23:00
-http://migu.shanhaiguanwu.top:80/963843456
-
-#EXTINF:-1 tvg-id="WTAWTA查尔斯顿站Day3英文原声23:00" tvg-name="WTA WTA查尔斯顿站Day3 英文原声 23:00" tvg-logo="" group-title="综合",WTA WTA查尔斯顿站Day3 英文原声 23:00
-http://migu.shanhaiguanwu.top:80/963843486
-
-#EXTINF:-1 tvg-id="体育-明天" tvg-name="体育-明天" tvg-logo="" group-title="体育",体育-明天
-#genre#
-
-#EXTINF:-1 tvg-id="斯诺克赵心童、墨菲出战1号桌02:00" tvg-name="斯诺克 赵心童、墨菲出战 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 赵心童、墨菲出战 1号桌 02:00
+#EXTINF:-1 tvg-id="斯诺克赵心童迎战韦克林墨菲PK小特1号桌02:00" tvg-name="斯诺克 赵心童迎战韦克林 墨菲PK小特 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 赵心童迎战韦克林 墨菲PK小特 1号桌 02:00
 http://migu.shanhaiguanwu.top:80/963822052
 
-#EXTINF:-1 tvg-id="斯诺克赵心童、墨菲出战2号桌02:00" tvg-name="斯诺克 赵心童、墨菲出战 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 赵心童、墨菲出战 2号桌 02:00
+#EXTINF:-1 tvg-id="斯诺克赵心童迎战韦克林墨菲PK小特2号桌02:00" tvg-name="斯诺克 赵心童迎战韦克林 墨菲PK小特 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 赵心童迎战韦克林 墨菲PK小特 2号桌 02:00
 http://migu.shanhaiguanwu.top:80/963822069
-
-#EXTINF:-1 tvg-id="斯诺克赵心童、墨菲出战秦正02:00" tvg-name="斯诺克 赵心童、墨菲出战 秦正 02:00" tvg-logo="" group-title="综合",斯诺克 赵心童、墨菲出战 秦正 02:00
-http://migu.shanhaiguanwu.top:80/963905711
 
 #EXTINF:-1 tvg-id="NBA奇才VS76人王凯06:55" tvg-name="NBA 奇才VS76人 王凯 06:55" tvg-logo="" group-title="综合",NBA 奇才VS76人 王凯 06:55
 http://migu.shanhaiguanwu.top:80/963855577
@@ -817,11 +628,11 @@ http://migu.shanhaiguanwu.top:80/963854089
 #EXTINF:-1 tvg-id="NBA火箭VS雄鹿周鹏07:55" tvg-name="NBA 火箭VS雄鹿 周鹏 07:55" tvg-logo="" group-title="综合",NBA 火箭VS雄鹿 周鹏 07:55
 http://migu.shanhaiguanwu.top:80/963854098
 
-#EXTINF:-1 tvg-id="NBA火箭VS雄鹿英文原声07:55" tvg-name="NBA 火箭VS雄鹿 英文原声 07:55" tvg-logo="" group-title="综合",NBA 火箭VS雄鹿 英文原声 07:55
-http://migu.shanhaiguanwu.top:80/963854188
-
 #EXTINF:-1 tvg-id="NBA火箭VS雄鹿智能字幕07:55" tvg-name="NBA 火箭VS雄鹿 智能字幕 07:55" tvg-logo="" group-title="综合",NBA 火箭VS雄鹿 智能字幕 07:55
 http://migu.shanhaiguanwu.top:80/963854196
+
+#EXTINF:-1 tvg-id="NBA火箭VS雄鹿英文原声07:55" tvg-name="NBA 火箭VS雄鹿 英文原声 07:55" tvg-logo="" group-title="综合",NBA 火箭VS雄鹿 英文原声 07:55
+http://migu.shanhaiguanwu.top:80/963854188
 
 #EXTINF:-1 tvg-id="NBA猛龙VS国王刘芳宇07:55" tvg-name="NBA 猛龙VS国王 刘芳宇 07:55" tvg-logo="" group-title="综合",NBA 猛龙VS国王 刘芳宇 07:55
 http://migu.shanhaiguanwu.top:80/963855109
@@ -838,40 +649,43 @@ http://migu.shanhaiguanwu.top:80/963854343
 #EXTINF:-1 tvg-id="NBA勇士VS马刺杨健曾令旭小七09:45" tvg-name="NBA 勇士VS马刺 杨健 曾令旭 小七 09:45" tvg-logo="" group-title="综合",NBA 勇士VS马刺 杨健 曾令旭 小七 09:45
 http://migu.shanhaiguanwu.top:80/963854387
 
-#EXTINF:-1 tvg-id="NBA勇士VS马刺智能字幕09:55" tvg-name="NBA 勇士VS马刺 智能字幕 09:55" tvg-logo="" group-title="综合",NBA 勇士VS马刺 智能字幕 09:55
-http://migu.shanhaiguanwu.top:80/963853222
-
 #EXTINF:-1 tvg-id="NBA勇士VS马刺王晓晨09:55" tvg-name="NBA 勇士VS马刺 王晓晨 09:55" tvg-logo="" group-title="综合",NBA 勇士VS马刺 王晓晨 09:55
 http://migu.shanhaiguanwu.top:80/963854395
 
 #EXTINF:-1 tvg-id="NBA勇士VS马刺拜月宁09:55" tvg-name="NBA 勇士VS马刺 拜月宁 09:55" tvg-logo="" group-title="综合",NBA 勇士VS马刺 拜月宁 09:55
 http://migu.shanhaiguanwu.top:80/963854405
 
-#EXTINF:-1 tvg-id="NBA勇士VS马刺莫俊祺09:45" tvg-name="NBA 勇士VS马刺 莫俊祺 09:45" tvg-logo="" group-title="综合",NBA 勇士VS马刺 莫俊祺 09:45
-http://migu.shanhaiguanwu.top:80/963854413
+#EXTINF:-1 tvg-id="NBA勇士VS马刺洪荒09:45" tvg-name="NBA 勇士VS马刺 洪荒 09:45" tvg-logo="" group-title="综合",NBA 勇士VS马刺 洪荒 09:45
+http://migu.shanhaiguanwu.top:80/963854427
+
+#EXTINF:-1 tvg-id="NBA勇士VS马刺智能字幕09:55" tvg-name="NBA 勇士VS马刺 智能字幕 09:55" tvg-logo="" group-title="综合",NBA 勇士VS马刺 智能字幕 09:55
+http://migu.shanhaiguanwu.top:80/963853222
 
 #EXTINF:-1 tvg-id="NBA勇士VS马刺英文原声09:55" tvg-name="NBA 勇士VS马刺 英文原声 09:55" tvg-logo="" group-title="综合",NBA 勇士VS马刺 英文原声 09:55
 http://migu.shanhaiguanwu.top:80/963854479
 
-#EXTINF:-1 tvg-id="NBA勇士VS马刺洪荒09:45" tvg-name="NBA 勇士VS马刺 洪荒 09:45" tvg-logo="" group-title="综合",NBA 勇士VS马刺 洪荒 09:45
-http://migu.shanhaiguanwu.top:80/963854427
-
 #EXTINF:-1 tvg-id="国际乒联澳门单打世界杯第四日热身区热身区10:00" tvg-name="国际乒联澳门单打世界杯 第四日热身区 热身区 10:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 第四日热身区 热身区 10:00
 http://migu.shanhaiguanwu.top:80/963812670
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛侯英超11:00" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 侯英超 11:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 侯英超 11:00
+#EXTINF:-1 tvg-id="G联赛墨西哥城船长VS撕裂之城混音邢晨09:55" tvg-name="G联赛 墨西哥城船长VS撕裂之城混音 邢晨 09:55" tvg-logo="" group-title="综合",G联赛 墨西哥城船长VS撕裂之城混音 邢晨 09:55
+http://migu.shanhaiguanwu.top:80/963906169
+
+#EXTINF:-1 tvg-id="G联赛墨西哥城船长VS撕裂之城混音英文原声09:55" tvg-name="G联赛 墨西哥城船长VS撕裂之城混音 英文原声 09:55" tvg-logo="" group-title="综合",G联赛 墨西哥城船长VS撕裂之城混音 英文原声 09:55
+http://migu.shanhaiguanwu.top:80/963906290
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯覃予萱打头阵冲8强王曼昱PK伊藤美诚侯英超11:00" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 侯英超 11:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 侯英超 11:00
 http://migu.shanhaiguanwu.top:80/963821973
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛热身区10:00" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 热身区 10:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 热身区 10:00
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯覃予萱打头阵冲8强王曼昱PK伊藤美诚热身区10:00" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 热身区 10:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 热身区 10:00
 http://migu.shanhaiguanwu.top:80/963812670
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛赛场原声11:00" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 赛场原声 11:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 赛场原声 11:00
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯覃予萱打头阵冲8强王曼昱PK伊藤美诚赛场原声11:00" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 赛场原声 11:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 赛场原声 11:00
 http://migu.shanhaiguanwu.top:80/963821939
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛混采区11:20" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 混采区 11:20" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 混采区 11:20
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯覃予萱打头阵冲8强王曼昱PK伊藤美诚混采区11:20" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 混采区 11:20" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 混采区 11:20
 http://migu.shanhaiguanwu.top:80/963822029
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛候场区10:30" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 候场区 10:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 候场区 10:30
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯覃予萱打头阵冲8强王曼昱PK伊藤美诚候场区10:30" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 候场区 10:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 候场区 10:30
 http://migu.shanhaiguanwu.top:80/963822057
 
 #EXTINF:-1 tvg-id="亚女U20韩国女足U20VS乌兹别克斯坦女足U20沈云怡16:45" tvg-name="亚女U20 韩国女足U20VS乌兹别克斯坦女足U20 沈云怡 16:45" tvg-logo="" group-title="综合",亚女U20 韩国女足U20VS乌兹别克斯坦女足U20 沈云怡 16:45
@@ -886,19 +700,19 @@ http://migu.shanhaiguanwu.top:80/963824742
 #EXTINF:-1 tvg-id="亚女U20澳大利亚女足U20VS中国台北女足U20赛场原声16:45" tvg-name="亚女U20 澳大利亚女足U20VS中国台北女足U20 赛场原声 16:45" tvg-logo="" group-title="综合",亚女U20 澳大利亚女足U20VS中国台北女足U20 赛场原声 16:45
 http://migu.shanhaiguanwu.top:80/963824730
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛刘国正周泽昊17:30" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 刘国正 周泽昊 17:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 刘国正 周泽昊 17:30
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯国乒姐妹对对碰！孙颖莎对决蒯曼刘国正周泽昊17:30" tvg-name="国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 刘国正 周泽昊 17:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 刘国正 周泽昊 17:30
 http://migu.shanhaiguanwu.top:80/963822388
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛热身区10:00" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 热身区 10:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 热身区 10:00
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯国乒姐妹对对碰！孙颖莎对决蒯曼热身区10:00" tvg-name="国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 热身区 10:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 热身区 10:00
 http://migu.shanhaiguanwu.top:80/963812670
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛赛场原声18:00" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 赛场原声 18:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 赛场原声 18:00
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯国乒姐妹对对碰！孙颖莎对决蒯曼赛场原声18:00" tvg-name="国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 赛场原声 18:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 赛场原声 18:00
 http://migu.shanhaiguanwu.top:80/963822223
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛混采区17:50" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 混采区 17:50" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 混采区 17:50
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯国乒姐妹对对碰！孙颖莎对决蒯曼混采区17:50" tvg-name="国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 混采区 17:50" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 混采区 17:50
 http://migu.shanhaiguanwu.top:80/963824341
 
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯男女单打1/8决赛候场区17:30" tvg-name="国际乒联澳门单打世界杯 男女单打1/8决赛 候场区 17:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 男女单打1/8决赛 候场区 17:30
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯国乒姐妹对对碰！孙颖莎对决蒯曼候场区17:30" tvg-name="国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 候场区 17:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 国乒姐妹对对碰！孙颖莎对决蒯曼 候场区 17:30
 http://migu.shanhaiguanwu.top:80/963822746
 
 #EXTINF:-1 tvg-id="WCBA浙江稠州银行VS合肥文旅解说19:25" tvg-name="WCBA 浙江稠州银行VS合肥文旅 解说 19:25" tvg-logo="" group-title="综合",WCBA 浙江稠州银行VS合肥文旅 解说 19:25
@@ -913,6 +727,18 @@ http://migu.shanhaiguanwu.top:80/963905488
 #EXTINF:-1 tvg-id="WCBA石家庄英励VS厦门环东文旅清流播出19:25" tvg-name="WCBA 石家庄英励VS厦门环东文旅 清流播出 19:25" tvg-logo="" group-title="综合",WCBA 石家庄英励VS厦门环东文旅 清流播出 19:25
 http://migu.shanhaiguanwu.top:80/963905524
 
+#EXTINF:-1 tvg-id="NBL江西鲸裕清酒VS香港金牛解说19:20" tvg-name="NBL 江西鲸裕清酒VS香港金牛 解说 19:20" tvg-logo="" group-title="综合",NBL 江西鲸裕清酒VS香港金牛 解说 19:20
+http://migu.shanhaiguanwu.top:80/963926099
+
+#EXTINF:-1 tvg-id="NBL江西鲸裕清酒VS香港金牛赛场原声19:20" tvg-name="NBL 江西鲸裕清酒VS香港金牛 赛场原声 19:20" tvg-logo="" group-title="综合",NBL 江西鲸裕清酒VS香港金牛 赛场原声 19:20
+http://migu.shanhaiguanwu.top:80/963926143
+
+#EXTINF:-1 tvg-id="NBL上海玄鸟VS合肥狂风解说19:20" tvg-name="NBL 上海玄鸟VS合肥狂风 解说 19:20" tvg-logo="" group-title="综合",NBL 上海玄鸟VS合肥狂风 解说 19:20
+http://migu.shanhaiguanwu.top:80/963926161
+
+#EXTINF:-1 tvg-id="NBL上海玄鸟VS合肥狂风赛场原声19:20" tvg-name="NBL 上海玄鸟VS合肥狂风 赛场原声 19:20" tvg-logo="" group-title="综合",NBL 上海玄鸟VS合肥狂风 赛场原声 19:20
+http://migu.shanhaiguanwu.top:80/963926203
+
 #EXTINF:-1 tvg-id="CBA南京天之蓝VS宁波町渥图文直播19:35" tvg-name="CBA 南京天之蓝VS宁波町渥 图文直播 19:35" tvg-logo="" group-title="综合",CBA 南京天之蓝VS宁波町渥 图文直播 19:35
 http://migu.shanhaiguanwu.top:80/963890949
 
@@ -925,14 +751,14 @@ http://migu.shanhaiguanwu.top:80/963905631
 #EXTINF:-1 tvg-id="WCBA新疆天山VS山东赤水河酒清流播出19:55" tvg-name="WCBA 新疆天山VS山东赤水河酒 清流播出 19:55" tvg-logo="" group-title="综合",WCBA 新疆天山VS山东赤水河酒 清流播出 19:55
 http://migu.shanhaiguanwu.top:80/963905652
 
-#EXTINF:-1 tvg-id="斯诺克塞尔比、罗伯逊出战1号桌20:00" tvg-name="斯诺克 塞尔比、罗伯逊出战 1号桌 20:00" tvg-logo="" group-title="综合",斯诺克 塞尔比、罗伯逊出战 1号桌 20:00
+#EXTINF:-1 tvg-id="斯诺克塞尔比对阵希金斯罗伯逊PK霍金斯朱峰立20:00" tvg-name="斯诺克 塞尔比对阵希金斯 罗伯逊PK霍金斯 朱峰立 20:00" tvg-logo="" group-title="综合",斯诺克 塞尔比对阵希金斯 罗伯逊PK霍金斯 朱峰立 20:00
+http://migu.shanhaiguanwu.top:80/963905737
+
+#EXTINF:-1 tvg-id="斯诺克塞尔比对阵希金斯罗伯逊PK霍金斯1号桌20:00" tvg-name="斯诺克 塞尔比对阵希金斯 罗伯逊PK霍金斯 1号桌 20:00" tvg-logo="" group-title="综合",斯诺克 塞尔比对阵希金斯 罗伯逊PK霍金斯 1号桌 20:00
 http://migu.shanhaiguanwu.top:80/963822094
 
-#EXTINF:-1 tvg-id="斯诺克塞尔比、罗伯逊出战2号桌20:00" tvg-name="斯诺克 塞尔比、罗伯逊出战 2号桌 20:00" tvg-logo="" group-title="综合",斯诺克 塞尔比、罗伯逊出战 2号桌 20:00
+#EXTINF:-1 tvg-id="斯诺克塞尔比对阵希金斯罗伯逊PK霍金斯2号桌20:00" tvg-name="斯诺克 塞尔比对阵希金斯 罗伯逊PK霍金斯 2号桌 20:00" tvg-logo="" group-title="综合",斯诺克 塞尔比对阵希金斯 罗伯逊PK霍金斯 2号桌 20:00
 http://migu.shanhaiguanwu.top:80/963822128
-
-#EXTINF:-1 tvg-id="斯诺克塞尔比、罗伯逊出战朱峰立20:00" tvg-name="斯诺克 塞尔比、罗伯逊出战 朱峰立 20:00" tvg-logo="" group-title="综合",斯诺克 塞尔比、罗伯逊出战 朱峰立 20:00
-http://migu.shanhaiguanwu.top:80/963905737
 
 #EXTINF:-1 tvg-id="亚女U20朝鲜女足U20VS约旦女足U20刘畅20:45" tvg-name="亚女U20 朝鲜女足U20VS约旦女足U20 刘畅 20:45" tvg-logo="" group-title="综合",亚女U20 朝鲜女足U20VS约旦女足U20 刘畅 20:45
 http://migu.shanhaiguanwu.top:80/963824768
@@ -952,6 +778,136 @@ http://migu.shanhaiguanwu.top:80/963843512
 #EXTINF:-1 tvg-id="WTAWTA查尔斯顿站Day4英文原声23:00" tvg-name="WTA WTA查尔斯顿站Day4 英文原声 23:00" tvg-logo="" group-title="综合",WTA WTA查尔斯顿站Day4 英文原声 23:00
 http://migu.shanhaiguanwu.top:80/963843549
 
+#EXTINF:-1 tvg-id="体育-明天" tvg-name="体育-明天" tvg-logo="" group-title="体育",体育-明天
+#genre#
+
+#EXTINF:-1 tvg-id="WTAWTA波哥大站Day4赛场原声00:00" tvg-name="WTA WTA波哥大站Day4 赛场原声 00:00" tvg-logo="" group-title="综合",WTA WTA波哥大站Day4 赛场原声 00:00
+http://migu.shanhaiguanwu.top:80/963888151
+
+#EXTINF:-1 tvg-id="WTAWTA波哥大站Day4英文原声00:00" tvg-name="WTA WTA波哥大站Day4 英文原声 00:00" tvg-logo="" group-title="综合",WTA WTA波哥大站Day4 英文原声 00:00
+http://migu.shanhaiguanwu.top:80/963888176
+
+#EXTINF:-1 tvg-id="斯诺克赵心童vs韦克林塞尔比大战希金斯朱蒙02:00" tvg-name="斯诺克 赵心童vs韦克林 塞尔比大战希金斯 朱蒙 02:00" tvg-logo="" group-title="综合",斯诺克 赵心童vs韦克林 塞尔比大战希金斯 朱蒙 02:00
+http://migu.shanhaiguanwu.top:80/963905773
+
+#EXTINF:-1 tvg-id="斯诺克赵心童vs韦克林塞尔比大战希金斯1号桌02:00" tvg-name="斯诺克 赵心童vs韦克林 塞尔比大战希金斯 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 赵心童vs韦克林 塞尔比大战希金斯 1号桌 02:00
+http://migu.shanhaiguanwu.top:80/963822191
+
+#EXTINF:-1 tvg-id="斯诺克赵心童vs韦克林塞尔比大战希金斯2号桌02:00" tvg-name="斯诺克 赵心童vs韦克林 塞尔比大战希金斯 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 赵心童vs韦克林 塞尔比大战希金斯 2号桌 02:00
+http://migu.shanhaiguanwu.top:80/963822214
+
+#EXTINF:-1 tvg-id="NBA活塞VS森林狼周赫06:55" tvg-name="NBA 活塞VS森林狼 周赫 06:55" tvg-logo="" group-title="综合",NBA 活塞VS森林狼 周赫 06:55
+http://migu.shanhaiguanwu.top:80/963853493
+
+#EXTINF:-1 tvg-id="NBA活塞VS森林狼英文原声06:55" tvg-name="NBA 活塞VS森林狼 英文原声 06:55" tvg-logo="" group-title="综合",NBA 活塞VS森林狼 英文原声 06:55
+http://migu.shanhaiguanwu.top:80/963853381
+
+#EXTINF:-1 tvg-id="NBA黄蜂VS太阳刘圳展06:55" tvg-name="NBA 黄蜂VS太阳 刘圳展 06:55" tvg-logo="" group-title="综合",NBA 黄蜂VS太阳 刘圳展 06:55
+http://migu.shanhaiguanwu.top:80/963853333
+
+#EXTINF:-1 tvg-id="NBA黄蜂VS太阳英文原声06:55" tvg-name="NBA 黄蜂VS太阳 英文原声 06:55" tvg-logo="" group-title="综合",NBA 黄蜂VS太阳 英文原声 06:55
+http://migu.shanhaiguanwu.top:80/963853253
+
+#EXTINF:-1 tvg-id="NBA雷霆VS湖人杨健曾令旭马健09:15" tvg-name="NBA 雷霆VS湖人 杨健 曾令旭 马健 09:15" tvg-logo="" group-title="综合",NBA 雷霆VS湖人 杨健 曾令旭 马健 09:15
+http://migu.shanhaiguanwu.top:80/963853762
+
+#EXTINF:-1 tvg-id="NBA雷霆VS湖人郑泽鹏09:25" tvg-name="NBA 雷霆VS湖人 郑泽鹏 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS湖人 郑泽鹏 09:25
+http://migu.shanhaiguanwu.top:80/963853726
+
+#EXTINF:-1 tvg-id="NBA雷霆VS湖人智能字幕09:25" tvg-name="NBA 雷霆VS湖人 智能字幕 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS湖人 智能字幕 09:25
+http://migu.shanhaiguanwu.top:80/963853589
+
+#EXTINF:-1 tvg-id="NBA雷霆VS湖人英文原声09:25" tvg-name="NBA 雷霆VS湖人 英文原声 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS湖人 英文原声 09:25
+http://migu.shanhaiguanwu.top:80/963853615
+
+#EXTINF:-1 tvg-id="NBA勇士VS骑士庄宁宇刘炜陈正昊09:45" tvg-name="NBA 勇士VS骑士 庄宁宇 刘炜 陈正昊 09:45" tvg-logo="" group-title="综合",NBA 勇士VS骑士 庄宁宇 刘炜 陈正昊 09:45
+http://migu.shanhaiguanwu.top:80/963854071
+
+#EXTINF:-1 tvg-id="NBA勇士VS骑士拜月宁09:55" tvg-name="NBA 勇士VS骑士 拜月宁 09:55" tvg-logo="" group-title="综合",NBA 勇士VS骑士 拜月宁 09:55
+http://migu.shanhaiguanwu.top:80/963854052
+
+#EXTINF:-1 tvg-id="NBA勇士VS骑士英文原声09:55" tvg-name="NBA 勇士VS骑士 英文原声 09:55" tvg-logo="" group-title="综合",NBA 勇士VS骑士 英文原声 09:55
+http://migu.shanhaiguanwu.top:80/963853924
+
+#EXTINF:-1 tvg-id="NBA开拓者VS鹈鹕邵化谦闫宇峰裴优09:45" tvg-name="NBA 开拓者VS鹈鹕 邵化谦 闫宇峰 裴优 09:45" tvg-logo="" group-title="综合",NBA 开拓者VS鹈鹕 邵化谦 闫宇峰 裴优 09:45
+http://migu.shanhaiguanwu.top:80/963854206
+
+#EXTINF:-1 tvg-id="NBA开拓者VS鹈鹕邢晨09:55" tvg-name="NBA 开拓者VS鹈鹕 邢晨 09:55" tvg-logo="" group-title="综合",NBA 开拓者VS鹈鹕 邢晨 09:55
+http://migu.shanhaiguanwu.top:80/963854181
+
+#EXTINF:-1 tvg-id="NBA开拓者VS鹈鹕英文原声09:55" tvg-name="NBA 开拓者VS鹈鹕 英文原声 09:55" tvg-logo="" group-title="综合",NBA 开拓者VS鹈鹕 英文原声 09:55
+http://migu.shanhaiguanwu.top:80/963853392
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯第五日热身区热身区10:00" tvg-name="国际乒联澳门单打世界杯 第五日热身区 热身区 10:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 第五日热身区 热身区 10:00
+http://migu.shanhaiguanwu.top:80/963823628
+
+#EXTINF:-1 tvg-id="NBA快船VS马刺孙博季孟年10:25" tvg-name="NBA 快船VS马刺 孙博 季孟年 10:25" tvg-logo="" group-title="综合",NBA 快船VS马刺 孙博 季孟年 10:25
+http://migu.shanhaiguanwu.top:80/963853465
+
+#EXTINF:-1 tvg-id="NBA快船VS马刺王晓晨10:25" tvg-name="NBA 快船VS马刺 王晓晨 10:25" tvg-logo="" group-title="综合",NBA 快船VS马刺 王晓晨 10:25
+http://migu.shanhaiguanwu.top:80/963853508
+
+#EXTINF:-1 tvg-id="NBA快船VS马刺英文原声10:25" tvg-name="NBA 快船VS马刺 英文原声 10:25" tvg-logo="" group-title="综合",NBA 快船VS马刺 英文原声 10:25
+http://migu.shanhaiguanwu.top:80/963853633
+
+#EXTINF:-1 tvg-id="NBA快船VS马刺智能字幕10:25" tvg-name="NBA 快船VS马刺 智能字幕 10:25" tvg-logo="" group-title="综合",NBA 快船VS马刺 智能字幕 10:25
+http://migu.shanhaiguanwu.top:80/963853711
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯陈幸同争八强温瑞博压台出战周冠达11:00" tvg-name="国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 周冠达 11:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 周冠达 11:00
+http://migu.shanhaiguanwu.top:80/963823754
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯陈幸同争八强温瑞博压台出战热身区10:00" tvg-name="国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 热身区 10:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 热身区 10:00
+http://migu.shanhaiguanwu.top:80/963823628
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯陈幸同争八强温瑞博压台出战赛场原声11:00" tvg-name="国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 赛场原声 11:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 赛场原声 11:00
+http://migu.shanhaiguanwu.top:80/963824112
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯陈幸同争八强温瑞博压台出战混采区11:20" tvg-name="国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 混采区 11:20" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 混采区 11:20
+http://migu.shanhaiguanwu.top:80/963824000
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯陈幸同争八强温瑞博压台出战候场区10:30" tvg-name="国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 候场区 10:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 陈幸同争八强 温瑞博压台出战 候场区 10:30
+http://migu.shanhaiguanwu.top:80/963823921
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯强强对话！王楚钦迎战小勒布伦雨果压台侯英超周泽昊17:30" tvg-name="国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 侯英超 周泽昊 17:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 侯英超 周泽昊 17:30
+http://migu.shanhaiguanwu.top:80/963812348
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯强强对话！王楚钦迎战小勒布伦雨果压台热身区10:00" tvg-name="国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 热身区 10:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 热身区 10:00
+http://migu.shanhaiguanwu.top:80/963823628
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯强强对话！王楚钦迎战小勒布伦雨果压台赛场原声18:00" tvg-name="国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 赛场原声 18:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 赛场原声 18:00
+http://migu.shanhaiguanwu.top:80/963812293
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯强强对话！王楚钦迎战小勒布伦雨果压台混采区18:20" tvg-name="国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 混采区 18:20" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 混采区 18:20
+http://migu.shanhaiguanwu.top:80/963820658
+
+#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯强强对话！王楚钦迎战小勒布伦雨果压台候场区17:30" tvg-name="国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 候场区 17:30" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 强强对话！王楚钦迎战小勒布伦 雨果压台 候场区 17:30
+http://migu.shanhaiguanwu.top:80/963812461
+
+#EXTINF:-1 tvg-id="UFCBJJUFC巴西柔术大赛第7期：塔克特VS罗查王琰博19:00" tvg-name="UFC BJJ UFC巴西柔术大赛第7期：塔克特VS罗查 王琰博 19:00" tvg-logo="" group-title="综合",UFC BJJ UFC巴西柔术大赛第7期：塔克特VS罗查 王琰博 19:00
+http://migu.shanhaiguanwu.top:80/963927973
+
+#EXTINF:-1 tvg-id="WCBA北京首钢园VS辽宁大连体产解说19:25" tvg-name="WCBA 北京首钢园VS辽宁大连体产 解说 19:25" tvg-logo="" group-title="综合",WCBA 北京首钢园VS辽宁大连体产 解说 19:25
+http://migu.shanhaiguanwu.top:80/963905790
+
+#EXTINF:-1 tvg-id="WCBA北京首钢园VS辽宁大连体产清流播出19:25" tvg-name="WCBA 北京首钢园VS辽宁大连体产 清流播出 19:25" tvg-logo="" group-title="综合",WCBA 北京首钢园VS辽宁大连体产 清流播出 19:25
+http://migu.shanhaiguanwu.top:80/963905821
+
+#EXTINF:-1 tvg-id="WCBA陕西榆林天泽VS河南豫光金铅解说19:25" tvg-name="WCBA 陕西榆林天泽VS河南豫光金铅 解说 19:25" tvg-logo="" group-title="综合",WCBA 陕西榆林天泽VS河南豫光金铅 解说 19:25
+http://migu.shanhaiguanwu.top:80/963905862
+
+#EXTINF:-1 tvg-id="WCBA陕西榆林天泽VS河南豫光金铅清流播出19:25" tvg-name="WCBA 陕西榆林天泽VS河南豫光金铅 清流播出 19:25" tvg-logo="" group-title="综合",WCBA 陕西榆林天泽VS河南豫光金铅 清流播出 19:25
+http://migu.shanhaiguanwu.top:80/963905882
+
+#EXTINF:-1 tvg-id="斯诺克半决赛1号桌20:00" tvg-name="斯诺克 半决赛 1号桌 20:00" tvg-logo="" group-title="综合",斯诺克 半决赛 1号桌 20:00
+http://migu.shanhaiguanwu.top:80/963822238
+
+#EXTINF:-1 tvg-id="WTAWTA查尔斯顿站Day5清流播出23:00" tvg-name="WTA WTA查尔斯顿站Day5 清流播出 23:00" tvg-logo="" group-title="综合",WTA WTA查尔斯顿站Day5 清流播出 23:00
+http://migu.shanhaiguanwu.top:80/963843572
+
+#EXTINF:-1 tvg-id="WTAWTA查尔斯顿站Day5英文原声23:00" tvg-name="WTA WTA查尔斯顿站Day5 英文原声 23:00" tvg-logo="" group-title="综合",WTA WTA查尔斯顿站Day5 英文原声 23:00
+http://migu.shanhaiguanwu.top:80/963843598
+
+# 
 # 
 # 
 # 
@@ -967,388 +923,388 @@ http://migu.shanhaiguanwu.top:80/963843549
 #genre#
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
-http://123.118.63.20:8686/rtp/239.3.1.241:8000
+http://221.220.134.140:8012/rtp/239.3.1.241:8000
 
 #EXTINF:-1 tvg-id="北京新闻频道" tvg-name="北京新闻频道" tvg-logo="" group-title="新闻",北京新闻频道
-http://123.118.63.20:8686/rtp/239.3.1.159:8000
+http://221.220.134.140:8012/rtp/239.3.1.159:8000
 
 #EXTINF:-1 tvg-id="北京影视频道" tvg-name="北京影视频道" tvg-logo="" group-title="综合",北京影视频道
-http://123.118.63.20:8686/rtp/239.3.1.158:8000
+http://221.220.134.140:8012/rtp/239.3.1.158:8000
 
 #EXTINF:-1 tvg-id="北京文艺频道" tvg-name="北京文艺频道" tvg-logo="" group-title="综合",北京文艺频道
-http://123.118.63.20:8686/rtp/239.3.1.242:8000
+http://221.220.134.140:8012/rtp/239.3.1.242:8000
 
 #EXTINF:-1 tvg-id="北京财经频道" tvg-name="北京财经频道" tvg-logo="" group-title="综合",北京财经频道
-http://123.118.63.20:8686/rtp/239.3.1.116:8000
+http://221.220.134.140:8012/rtp/239.3.1.116:8000
 
 #EXTINF:-1 tvg-id="北京生活频道" tvg-name="北京生活频道" tvg-logo="" group-title="综合",北京生活频道
-http://123.118.63.20:8686/rtp/239.3.1.117:8000
+http://221.220.134.140:8012/rtp/239.3.1.117:8000
 
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="" group-title="综合",北京纪实科教
-http://123.118.63.20:8686/rtp/239.3.1.115:8000
+http://221.220.134.140:8012/rtp/239.3.1.115:8000
 
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="" group-title="少儿",北京卡酷少儿
-http://123.118.63.20:8686/rtp/239.3.1.189:8000
+http://221.220.134.140:8012/rtp/239.3.1.189:8000
 
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="" group-title="体育",北京体育休闲
-http://123.118.63.20:8686/rtp/239.3.1.243:8000
+http://221.220.134.140:8012/rtp/239.3.1.243:8000
 
 #EXTINF:-1 tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="" group-title="综合",北京国际频道
-http://123.118.63.20:8686/rtp/239.3.1.235:8000
+http://221.220.134.140:8012/rtp/239.3.1.235:8000
 
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="央视",CCTV-1综合
-http://123.118.63.20:8686/rtp/239.3.1.129:8008
+http://221.220.134.140:8012/rtp/239.3.1.129:8008
 
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="" group-title="央视",CCTV-2财经
-http://123.118.63.20:8686/rtp/239.3.1.60:8084
+http://221.220.134.140:8012/rtp/239.3.1.60:8084
 
 #EXTINF:-1 tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" tvg-logo="" group-title="央视",CCTV-3综艺
-http://123.118.63.20:8686/rtp/239.3.1.172:8001
+http://221.220.134.140:8012/rtp/239.3.1.172:8001
 
 #EXTINF:-1 tvg-id="CCTV-4中文国际" tvg-name="CCTV-4中文国际" tvg-logo="" group-title="央视",CCTV-4中文国际
-http://123.118.63.20:8686/rtp/239.3.1.105:8092
+http://221.220.134.140:8012/rtp/239.3.1.105:8092
 
 #EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="" group-title="央视",CCTV-5体育
-http://123.118.63.20:8686/rtp/239.3.1.173:8001
+http://221.220.134.140:8012/rtp/239.3.1.173:8001
 
 #EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+体育赛事" tvg-logo="" group-title="央视",CCTV-5+体育赛事
-http://123.118.63.20:8686/rtp/239.3.1.130:8004
+http://221.220.134.140:8012/rtp/239.3.1.130:8004
 
 #EXTINF:-1 tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" tvg-logo="" group-title="央视",CCTV-6电影
-http://123.118.63.20:8686/rtp/239.3.1.174:8001
+http://221.220.134.140:8012/rtp/239.3.1.174:8001
 
 #EXTINF:-1 tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" tvg-logo="" group-title="央视",CCTV-7国防军事
-http://123.118.63.20:8686/rtp/239.3.1.61:8104
+http://221.220.134.140:8012/rtp/239.3.1.61:8104
 
 #EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="" group-title="央视",CCTV-8电视剧
-http://123.118.63.20:8686/rtp/239.3.1.175:8001
+http://221.220.134.140:8012/rtp/239.3.1.175:8001
 
 #EXTINF:-1 tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" tvg-logo="" group-title="央视",CCTV-9纪录
-http://123.118.63.20:8686/rtp/239.3.1.62:8112
+http://221.220.134.140:8012/rtp/239.3.1.62:8112
 
 #EXTINF:-1 tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" tvg-logo="" group-title="央视",CCTV-10科教
-http://123.118.63.20:8686/rtp/239.3.1.63:8116
+http://221.220.134.140:8012/rtp/239.3.1.63:8116
 
 #EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="" group-title="央视",CCTV-11戏曲
-http://123.118.63.20:8686/rtp/239.3.1.152:8120
+http://221.220.134.140:8012/rtp/239.3.1.152:8120
 
 #EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="" group-title="央视",CCTV-12社会与法
-http://123.118.63.20:8686/rtp/239.3.1.64:8124
+http://221.220.134.140:8012/rtp/239.3.1.64:8124
 
 #EXTINF:-1 tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" tvg-logo="" group-title="央视",CCTV-13新闻
-http://123.118.63.20:8686/rtp/239.3.1.124:8128
+http://221.220.134.140:8012/rtp/239.3.1.124:8128
 
 #EXTINF:-1 tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" tvg-logo="" group-title="央视",CCTV-14少儿
-http://123.118.63.20:8686/rtp/239.3.1.65:8132
+http://221.220.134.140:8012/rtp/239.3.1.65:8132
 
 #EXTINF:-1 tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" tvg-logo="" group-title="央视",CCTV-15音乐
-http://123.118.63.20:8686/rtp/239.3.1.153:8136
+http://221.220.134.140:8012/rtp/239.3.1.153:8136
 
 #EXTINF:-1 tvg-id="CCTV-16奥林匹克" tvg-name="CCTV-16奥林匹克" tvg-logo="" group-title="央视",CCTV-16奥林匹克
-http://123.118.63.20:8686/rtp/239.3.1.184:8001
+http://221.220.134.140:8012/rtp/239.3.1.184:8001
 
 #EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" tvg-logo="" group-title="央视",CCTV-17农业农村
-http://123.118.63.20:8686/rtp/239.3.1.151:8144
+http://221.220.134.140:8012/rtp/239.3.1.151:8144
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视",湖南卫视
-http://123.118.63.20:8686/rtp/239.3.1.132:8012
+http://221.220.134.140:8012/rtp/239.3.1.132:8012
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
-http://123.118.63.20:8686/rtp/239.3.1.136:8032
+http://221.220.134.140:8012/rtp/239.3.1.136:8032
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视
-http://123.118.63.20:8686/rtp/239.3.1.137:8036
+http://221.220.134.140:8012/rtp/239.3.1.137:8036
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
-http://123.118.63.20:8686/rtp/239.3.1.135:8028
+http://221.220.134.140:8012/rtp/239.3.1.135:8028
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="卫视",深圳卫视
-http://123.118.63.20:8686/rtp/239.3.1.134:8020
+http://221.220.134.140:8012/rtp/239.3.1.134:8020
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
-http://123.118.63.20:8686/rtp/239.3.1.142:8048
+http://221.220.134.140:8012/rtp/239.3.1.142:8048
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="卫视",安徽卫视
-http://123.118.63.20:8686/rtp/239.3.1.211:8064
+http://221.220.134.140:8012/rtp/239.3.1.211:8064
 
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="卫视",天津卫视
-http://123.118.63.20:8686/rtp/239.3.1.141:1234
+http://221.220.134.140:8012/rtp/239.3.1.141:1234
 
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="" group-title="卫视",重庆卫视
-http://123.118.63.20:8686/rtp/239.3.1.122:8160
+http://221.220.134.140:8012/rtp/239.3.1.122:8160
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="卫视",山东卫视
-http://123.118.63.20:8686/rtp/239.3.1.209:8052
+http://221.220.134.140:8012/rtp/239.3.1.209:8052
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
-http://123.118.63.20:8686/rtp/239.3.1.148:8072
+http://221.220.134.140:8012/rtp/239.3.1.148:8072
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
-http://123.118.63.20:8686/rtp/239.3.1.210:8056
+http://221.220.134.140:8012/rtp/239.3.1.210:8056
 
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
-http://123.118.63.20:8686/rtp/239.3.1.138:8044
+http://221.220.134.140:8012/rtp/239.3.1.138:8044
 
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="" group-title="卫视",吉林卫视
-http://123.118.63.20:8686/rtp/239.3.1.240:8172
+http://221.220.134.140:8012/rtp/239.3.1.240:8172
 
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="卫视",贵州卫视
-http://123.118.63.20:8686/rtp/239.3.1.149:8076
+http://221.220.134.140:8012/rtp/239.3.1.149:8076
 
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="卫视",东南卫视
-http://123.118.63.20:8686/rtp/239.3.1.156:8148
+http://221.220.134.140:8012/rtp/239.3.1.156:8148
 
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
-http://123.118.63.20:8686/rtp/239.3.1.123:8164
+http://221.220.134.140:8012/rtp/239.3.1.123:8164
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="" group-title="卫视",海南卫视
-http://123.118.63.20:8686/rtp/239.3.1.45:8304
+http://221.220.134.140:8012/rtp/239.3.1.45:8304
 
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="" group-title="卫视",黑龙江卫视
-http://123.118.63.20:8686/rtp/239.3.1.133:8016
+http://221.220.134.140:8012/rtp/239.3.1.133:8016
 
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="" group-title="卫视",云南卫视
-http://123.118.63.20:8686/rtp/239.3.1.26:8108
+http://221.220.134.140:8012/rtp/239.3.1.26:8108
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="卫视",四川卫视
-http://123.118.63.20:8686/rtp/239.3.1.29:8288
+http://221.220.134.140:8012/rtp/239.3.1.29:8288
 
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="卫视",宁夏卫视
-http://123.118.63.20:8686/rtp/239.3.1.46:8124
+http://221.220.134.140:8012/rtp/239.3.1.46:8124
 
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="卫视",山西卫视
-http://123.118.63.20:8686/rtp/239.3.1.42:8172
+http://221.220.134.140:8012/rtp/239.3.1.42:8172
 
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="卫视",广西卫视
-http://123.118.63.20:8686/rtp/239.3.1.39:8300
+http://221.220.134.140:8012/rtp/239.3.1.39:8300
 
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="卫视",新疆卫视
-http://123.118.63.20:8686/rtp/239.3.1.48:8160
+http://221.220.134.140:8012/rtp/239.3.1.48:8160
 
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="卫视",河南卫视
-http://123.118.63.20:8686/rtp/239.3.1.27:8128
+http://221.220.134.140:8012/rtp/239.3.1.27:8128
 
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视",甘肃卫视
-http://123.118.63.20:8686/rtp/239.3.1.49:8188
+http://221.220.134.140:8012/rtp/239.3.1.49:8188
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="卫视",西藏卫视
-http://123.118.63.20:8686/rtp/239.3.1.47:8164
+http://221.220.134.140:8012/rtp/239.3.1.47:8164
 
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视",陕西卫视
-http://123.118.63.20:8686/rtp/239.3.1.41:8140
+http://221.220.134.140:8012/rtp/239.3.1.41:8140
 
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="卫视",青海卫视
-http://123.118.63.20:8686/rtp/239.3.1.44:8184
+http://221.220.134.140:8012/rtp/239.3.1.44:8184
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="卫视",内蒙古卫视
-http://123.118.63.20:8686/rtp/239.3.1.43:8176
+http://221.220.134.140:8012/rtp/239.3.1.43:8176
 
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="" group-title="卫视",三沙卫视
-http://123.118.63.20:8686/rtp/239.3.1.155:4120
+http://221.220.134.140:8012/rtp/239.3.1.155:4120
 
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="" group-title="卫视",厦门卫视
-http://123.118.63.20:8686/rtp/239.3.1.143:4120
+http://221.220.134.140:8012/rtp/239.3.1.143:4120
 
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视",兵团卫视
-http://123.118.63.20:8686/rtp/239.3.1.144:4120
+http://221.220.134.140:8012/rtp/239.3.1.144:4120
 
 #EXTINF:-1 tvg-id="华数爱上4K" tvg-name="华数爱上4K" tvg-logo="" group-title="综合",华数爱上4K
-http://123.118.63.20:8686/rtp/239.3.1.236:2000
+http://221.220.134.140:8012/rtp/239.3.1.236:2000
 
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="" group-title="综合",北京IPTV4K超清
-http://123.118.63.20:8686/rtp/239.3.1.249:8001
+http://221.220.134.140:8012/rtp/239.3.1.249:8001
 
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="" group-title="电影",北京IPTV淘电影
-http://123.118.63.20:8686/rtp/239.3.1.250:8001
+http://221.220.134.140:8012/rtp/239.3.1.250:8001
 
 #EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="" group-title="综合",北京IPTV淘剧场
-http://123.118.63.20:8686/rtp/239.3.1.95:8001
+http://221.220.134.140:8012/rtp/239.3.1.95:8001
 
 #EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="" group-title="娱乐",北京IPTV淘娱乐
-http://123.118.63.20:8686/rtp/239.3.1.100:8001
+http://221.220.134.140:8012/rtp/239.3.1.100:8001
 
 #EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-name="北京IPTV淘BABY" tvg-logo="" group-title="综合",北京IPTV淘BABY
-http://123.118.63.20:8686/rtp/239.3.1.238:8001
+http://221.220.134.140:8012/rtp/239.3.1.238:8001
 
 #EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-name="北京IPTV萌宠TV" tvg-logo="" group-title="综合",北京IPTV萌宠TV
-http://123.118.63.20:8686/rtp/239.3.1.102:8001
+http://221.220.134.140:8012/rtp/239.3.1.102:8001
 
 #EXTINF:-1 tvg-id="CCTV-4欧洲" tvg-name="CCTV-4欧洲" tvg-logo="" group-title="央视",CCTV-4欧洲
-http://123.118.63.20:8686/rtp/239.3.1.213:4220
+http://221.220.134.140:8012/rtp/239.3.1.213:4220
 
 #EXTINF:-1 tvg-id="CCTV-4美洲" tvg-name="CCTV-4美洲" tvg-logo="" group-title="央视",CCTV-4美洲
-http://123.118.63.20:8686/rtp/239.3.1.214:4220
+http://221.220.134.140:8012/rtp/239.3.1.214:4220
 
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="" group-title="综合",CGTN英语
-http://123.118.63.20:8686/rtp/239.3.1.215:4220
+http://221.220.134.140:8012/rtp/239.3.1.215:4220
 
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="" group-title="综合",CGTN纪录
-http://123.118.63.20:8686/rtp/239.3.1.216:4220
+http://221.220.134.140:8012/rtp/239.3.1.216:4220
 
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="" group-title="综合",CGTN西班牙语
-http://123.118.63.20:8686/rtp/239.3.1.217:4220
+http://221.220.134.140:8012/rtp/239.3.1.217:4220
 
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="" group-title="综合",CGTN法语
-http://123.118.63.20:8686/rtp/239.3.1.218:4220
+http://221.220.134.140:8012/rtp/239.3.1.218:4220
 
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="" group-title="综合",CGTN阿拉伯语
-http://123.118.63.20:8686/rtp/239.3.1.219:4220
+http://221.220.134.140:8012/rtp/239.3.1.219:4220
 
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="" group-title="综合",CGTN俄语
-http://123.118.63.20:8686/rtp/239.3.1.220:4220
+http://221.220.134.140:8012/rtp/239.3.1.220:4220
 
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="" group-title="综合",CETV1
-http://123.118.63.20:8686/rtp/239.3.1.57:8152
+http://221.220.134.140:8012/rtp/239.3.1.57:8152
 
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="" group-title="综合",CETV2
-http://123.118.63.20:8686/rtp/239.3.1.54:4120
+http://221.220.134.140:8012/rtp/239.3.1.54:4120
 
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="" group-title="综合",CETV4
-http://123.118.63.20:8686/rtp/239.3.1.56:4120
+http://221.220.134.140:8012/rtp/239.3.1.56:4120
 
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="" group-title="综合",中国交通
-http://123.118.63.20:8686/rtp/239.3.1.188:8001
+http://221.220.134.140:8012/rtp/239.3.1.188:8001
 
 #EXTINF:-1 tvg-id="朝阳融媒" tvg-name="朝阳融媒" tvg-logo="" group-title="综合",朝阳融媒
-http://123.118.63.20:8686/rtp/239.3.1.163:8001
+http://221.220.134.140:8012/rtp/239.3.1.163:8001
 
 #EXTINF:-1 tvg-id="通州融媒" tvg-name="通州融媒" tvg-logo="" group-title="综合",通州融媒
-http://123.118.63.20:8686/rtp/239.3.1.221:8001
+http://221.220.134.140:8012/rtp/239.3.1.221:8001
 
 #EXTINF:-1 tvg-id="房山电视台" tvg-name="房山电视台" tvg-logo="" group-title="综合",房山电视台
-http://123.118.63.20:8686/rtp/239.3.1.96:8001
+http://221.220.134.140:8012/rtp/239.3.1.96:8001
 
 #EXTINF:-1 tvg-id="密云电视台" tvg-name="密云电视台" tvg-logo="" group-title="综合",密云电视台
-http://123.118.63.20:8686/rtp/239.3.1.154:8001
+http://221.220.134.140:8012/rtp/239.3.1.154:8001
 
 #EXTINF:-1 tvg-id="延庆电视台" tvg-name="延庆电视台" tvg-logo="" group-title="综合",延庆电视台
-http://123.118.63.20:8686/rtp/239.3.1.187:8001
+http://221.220.134.140:8012/rtp/239.3.1.187:8001
 
 #EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="" group-title="综合",湖南金鹰纪实
-http://123.118.63.20:8686/rtp/239.3.1.58:8156
+http://221.220.134.140:8012/rtp/239.3.1.58:8156
 
 #EXTINF:-1 tvg-id="湖南茶频道" tvg-name="湖南茶频道" tvg-logo="" group-title="综合",湖南茶频道
-http://123.118.63.20:8686/rtp/239.3.1.165:8001
+http://221.220.134.140:8012/rtp/239.3.1.165:8001
 
 #EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="" group-title="综合",湖南快乐垂钓
-http://123.118.63.20:8686/rtp/239.3.1.164:8001
+http://221.220.134.140:8012/rtp/239.3.1.164:8001
 
 #EXTINF:-1 tvg-id="华数星影" tvg-name="华数星影" tvg-logo="" group-title="综合",华数星影
-http://123.118.63.20:8686/rtp/239.3.1.94:4120
+http://221.220.134.140:8012/rtp/239.3.1.94:4120
 
 #EXTINF:-1 tvg-id="华数动作影院" tvg-name="华数动作影院" tvg-logo="" group-title="电影",华数动作影院
-http://123.118.63.20:8686/rtp/239.3.1.92:4120
+http://221.220.134.140:8012/rtp/239.3.1.92:4120
 
 #EXTINF:-1 tvg-id="华数喜剧影院" tvg-name="华数喜剧影院" tvg-logo="" group-title="电影",华数喜剧影院
-http://123.118.63.20:8686/rtp/239.3.1.91:4120
+http://221.220.134.140:8012/rtp/239.3.1.91:4120
 
 #EXTINF:-1 tvg-id="华数家庭影院" tvg-name="华数家庭影院" tvg-logo="" group-title="电影",华数家庭影院
-http://123.118.63.20:8686/rtp/239.3.1.93:4120
+http://221.220.134.140:8012/rtp/239.3.1.93:4120
 
 #EXTINF:-1 tvg-id="华数精选" tvg-name="华数精选" tvg-logo="" group-title="综合",华数精选
-http://123.118.63.20:8686/rtp/239.3.1.74:4120
+http://221.220.134.140:8012/rtp/239.3.1.74:4120
 
 #EXTINF:-1 tvg-id="华数经典电影" tvg-name="华数经典电影" tvg-logo="" group-title="电影",华数经典电影
-http://123.118.63.20:8686/rtp/239.3.1.195:9024
+http://221.220.134.140:8012/rtp/239.3.1.195:9024
 
 #EXTINF:-1 tvg-id="华数热播剧场" tvg-name="华数热播剧场" tvg-logo="" group-title="综合",华数热播剧场
-http://123.118.63.20:8686/rtp/239.3.1.194:9020
+http://221.220.134.140:8012/rtp/239.3.1.194:9020
 
 #EXTINF:-1 tvg-id="华数军旅剧场" tvg-name="华数军旅剧场" tvg-logo="" group-title="综合",华数军旅剧场
-http://123.118.63.20:8686/rtp/239.3.1.68:4120
+http://221.220.134.140:8012/rtp/239.3.1.68:4120
 
 #EXTINF:-1 tvg-id="华数城市剧场" tvg-name="华数城市剧场" tvg-logo="" group-title="综合",华数城市剧场
-http://123.118.63.20:8686/rtp/239.3.1.67:4120
+http://221.220.134.140:8012/rtp/239.3.1.67:4120
 
 #EXTINF:-1 tvg-id="华数武侠剧场" tvg-name="华数武侠剧场" tvg-logo="" group-title="综合",华数武侠剧场
-http://123.118.63.20:8686/rtp/239.3.1.90:4120
+http://221.220.134.140:8012/rtp/239.3.1.90:4120
 
 #EXTINF:-1 tvg-id="华数魅力时尚" tvg-name="华数魅力时尚" tvg-logo="" group-title="综合",华数魅力时尚
-http://123.118.63.20:8686/rtp/239.3.1.196:9012
+http://221.220.134.140:8012/rtp/239.3.1.196:9012
 
 #EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="" group-title="综合",古装剧场
-http://123.118.63.20:8686/rtp/239.3.1.69:4120
+http://221.220.134.140:8012/rtp/239.3.1.69:4120
 
 #EXTINF:-1 tvg-id="华数少儿动画" tvg-name="华数少儿动画" tvg-logo="" group-title="少儿",华数少儿动画
-http://123.118.63.20:8686/rtp/239.3.1.199:9000
+http://221.220.134.140:8012/rtp/239.3.1.199:9000
 
 #EXTINF:-1 tvg-id="华数动画" tvg-name="华数动画" tvg-logo="" group-title="综合",华数动画
-http://123.118.63.20:8686/rtp/239.3.1.80:4120
+http://221.220.134.140:8012/rtp/239.3.1.80:4120
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="" group-title="少儿",金鹰卡通
-http://123.118.63.20:8686/rtp/239.3.1.51:9252
+http://221.220.134.140:8012/rtp/239.3.1.51:9252
 
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="" group-title="少儿",嘉佳卡通
-http://123.118.63.20:8686/rtp/239.3.1.147:9268
+http://221.220.134.140:8012/rtp/239.3.1.147:9268
 
 #EXTINF:-1 tvg-id="IPTV地理" tvg-name="IPTV地理" tvg-logo="" group-title="综合",IPTV地理
-http://123.118.63.20:8686/rtp/239.3.1.71:4120
+http://221.220.134.140:8012/rtp/239.3.1.71:4120
 
 #EXTINF:-1 tvg-id="IPTV10解密" tvg-name="IPTV10解密" tvg-logo="" group-title="综合",IPTV10解密
-http://123.118.63.20:8686/rtp/239.3.1.75:4120
+http://221.220.134.140:8012/rtp/239.3.1.75:4120
 
 #EXTINF:-1 tvg-id="IPTV7军事" tvg-name="IPTV7军事" tvg-logo="" group-title="综合",IPTV7军事
-http://123.118.63.20:8686/rtp/239.3.1.76:4120
+http://221.220.134.140:8012/rtp/239.3.1.76:4120
 
 #EXTINF:-1 tvg-id="IPTV台球" tvg-name="IPTV台球" tvg-logo="" group-title="综合",IPTV台球
-http://123.118.63.20:8686/rtp/239.3.1.85:4120
+http://221.220.134.140:8012/rtp/239.3.1.85:4120
 
 #EXTINF:-1 tvg-id="IPTV国学" tvg-name="IPTV国学" tvg-logo="" group-title="综合",IPTV国学
-http://123.118.63.20:8686/rtp/239.3.1.77:4120
+http://221.220.134.140:8012/rtp/239.3.1.77:4120
 
 #EXTINF:-1 tvg-id="IPTV墨宝" tvg-name="IPTV墨宝" tvg-logo="" group-title="综合",IPTV墨宝
-http://123.118.63.20:8686/rtp/239.3.1.83:4120
+http://221.220.134.140:8012/rtp/239.3.1.83:4120
 
 #EXTINF:-1 tvg-id="IPTV好学生" tvg-name="IPTV好学生" tvg-logo="" group-title="综合",IPTV好学生
-http://123.118.63.20:8686/rtp/239.3.1.81:4120
+http://221.220.134.140:8012/rtp/239.3.1.81:4120
 
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="" group-title="卫视",山东教育卫视
-http://123.118.63.20:8686/rtp/239.3.1.52:4120
+http://221.220.134.140:8012/rtp/239.3.1.52:4120
 
 #EXTINF:-1 tvg-id="IPTV11戏曲" tvg-name="IPTV11戏曲" tvg-logo="" group-title="综合",IPTV11戏曲
-http://123.118.63.20:8686/rtp/239.3.1.78:4120
+http://221.220.134.140:8012/rtp/239.3.1.78:4120
 
 #EXTINF:-1 tvg-id="IPTV收视指南" tvg-name="IPTV收视指南" tvg-logo="" group-title="综合",IPTV收视指南
-http://123.118.63.20:8686/rtp/239.3.1.193:8012
+http://221.220.134.140:8012/rtp/239.3.1.193:8012
 
 #EXTINF:-1 tvg-id="IPTV14早教" tvg-name="IPTV14早教" tvg-logo="" group-title="综合",IPTV14早教
-http://123.118.63.20:8686/rtp/239.3.1.79:4120
+http://221.220.134.140:8012/rtp/239.3.1.79:4120
 
 #EXTINF:-1 tvg-id="IPTV武术" tvg-name="IPTV武术" tvg-logo="" group-title="综合",IPTV武术
-http://123.118.63.20:8686/rtp/239.3.1.87:4120
+http://221.220.134.140:8012/rtp/239.3.1.87:4120
 
 #EXTINF:-1 tvg-id="IPTV爱生活" tvg-name="IPTV爱生活" tvg-logo="" group-title="综合",IPTV爱生活
-http://123.118.63.20:8686/rtp/239.3.1.86:4120
+http://221.220.134.140:8012/rtp/239.3.1.86:4120
 
 #EXTINF:-1 tvg-id="IPTV美人" tvg-name="IPTV美人" tvg-logo="" group-title="综合",IPTV美人
-http://123.118.63.20:8686/rtp/239.3.1.73:4120
+http://221.220.134.140:8012/rtp/239.3.1.73:4120
 
 #EXTINF:-1 tvg-id="IPTV美妆" tvg-name="IPTV美妆" tvg-logo="" group-title="综合",IPTV美妆
-http://123.118.63.20:8686/rtp/239.3.1.72:4120
+http://221.220.134.140:8012/rtp/239.3.1.72:4120
 
 #EXTINF:-1 tvg-id="IPTV足球" tvg-name="IPTV足球" tvg-logo="" group-title="综合",IPTV足球
-http://123.118.63.20:8686/rtp/239.3.1.89:4120
+http://221.220.134.140:8012/rtp/239.3.1.89:4120
 
 #EXTINF:-1 tvg-id="IPTV鉴赏" tvg-name="IPTV鉴赏" tvg-logo="" group-title="综合",IPTV鉴赏
-http://123.118.63.20:8686/rtp/239.3.1.82:4120
+http://221.220.134.140:8012/rtp/239.3.1.82:4120
 
 #EXTINF:-1 tvg-id="IPTV15音乐现场" tvg-name="IPTV15音乐现场" tvg-logo="" group-title="综合",IPTV15音乐现场
-http://123.118.63.20:8686/rtp/239.3.1.70:4120
+http://221.220.134.140:8012/rtp/239.3.1.70:4120
 
 #EXTINF:-1 tvg-id="光影" tvg-name="光影" tvg-logo="" group-title="综合",光影
-http://123.118.63.20:8686/rtp/239.3.1.84:4120
+http://221.220.134.140:8012/rtp/239.3.1.84:4120
 
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="" group-title="综合",睛彩竞技
-http://123.118.63.20:8686/rtp/239.3.1.125:8001
+http://221.220.134.140:8012/rtp/239.3.1.125:8001
 
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="" group-title="综合",睛彩篮球
-http://123.118.63.20:8686/rtp/239.3.1.126:8001
+http://221.220.134.140:8012/rtp/239.3.1.126:8001
 
 #EXTINF:-1 tvg-id="睛彩羽毛球" tvg-name="睛彩羽毛球" tvg-logo="" group-title="综合",睛彩羽毛球
-http://123.118.63.20:8686/rtp/239.3.1.127:8001
+http://221.220.134.140:8012/rtp/239.3.1.127:8001
 
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="" group-title="综合",睛彩广场舞
-http://123.118.63.20:8686/rtp/239.3.1.128:8001
+http://221.220.134.140:8012/rtp/239.3.1.128:8001
 
 # 
 # 
