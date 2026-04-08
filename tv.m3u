@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新日期: 2026-04-08 07:38:11
+# 更新日期: 2026-04-08 18:14:12
 
 #EXTINF:-1 tvg-id="央视卫视" tvg-name="央视卫视" tvg-logo="" group-title="央视",央视卫视
 #genre#
@@ -661,257 +661,14 @@ http://migu.shanhaiguanwu.top:80/629942228
 #EXTINF:-1 tvg-id="体育-昨天" tvg-name="体育-昨天" tvg-logo="" group-title="体育",体育-昨天
 #genre#
 
-#EXTINF:-1 tvg-id="意甲比萨VS都灵全场回放（涂远）23:45" tvg-name="意甲 比萨VS都灵 全场回放（涂远） 23:45" tvg-logo="" group-title="综合",意甲 比萨VS都灵 全场回放（涂远） 23:45
-http://migu.shanhaiguanwu.top:80/964013346
-
-#EXTINF:-1 tvg-id="西甲皇家奥维耶多VS塞维利亚全场回放（李霄）00:15" tvg-name="西甲 皇家奥维耶多VS塞维利亚 全场回放（李霄） 00:15" tvg-logo="" group-title="综合",西甲 皇家奥维耶多VS塞维利亚 全场回放（李霄） 00:15
-http://migu.shanhaiguanwu.top:80/964013446
-
-#EXTINF:-1 tvg-id="WTA佩古拉VS斯塔罗杜布采娃全场回放（刘钟鸣）01:00" tvg-name="WTA 佩古拉VS斯塔罗杜布采娃 全场回放（刘钟鸣） 01:00" tvg-logo="" group-title="综合",WTA 佩古拉VS斯塔罗杜布采娃 全场回放（刘钟鸣） 01:00
-http://migu.shanhaiguanwu.top:80/964013522
-
-#EXTINF:-1 tvg-id="WTA佩古拉VS斯塔罗杜布采娃全场回放01:00" tvg-name="WTA 佩古拉VS斯塔罗杜布采娃 全场回放 01:00" tvg-logo="" group-title="综合",WTA 佩古拉VS斯塔罗杜布采娃 全场回放 01:00
-http://migu.shanhaiguanwu.top:80/964015030
-
-#EXTINF:-1 tvg-id="WTA佩古拉VS斯塔罗杜布采娃全场回放（英文原声）01:00" tvg-name="WTA 佩古拉VS斯塔罗杜布采娃 全场回放（英文原声） 01:00" tvg-logo="" group-title="综合",WTA 佩古拉VS斯塔罗杜布采娃 全场回放（英文原声） 01:00
-http://migu.shanhaiguanwu.top:80/964013631
-
-#EXTINF:-1 tvg-id="WTA布兹科娃VS乌德瓦尔迪全场回放（宋光振）01:00" tvg-name="WTA 布兹科娃VS乌德瓦尔迪 全场回放（宋光振） 01:00" tvg-logo="" group-title="综合",WTA 布兹科娃VS乌德瓦尔迪 全场回放（宋光振） 01:00
-http://migu.shanhaiguanwu.top:80/964014180
-
-#EXTINF:-1 tvg-id="WTA布兹科娃VS乌德瓦尔迪全场回放01:00" tvg-name="WTA 布兹科娃VS乌德瓦尔迪 全场回放 01:00" tvg-logo="" group-title="综合",WTA 布兹科娃VS乌德瓦尔迪 全场回放 01:00
-http://migu.shanhaiguanwu.top:80/964014881
-
-#EXTINF:-1 tvg-id="WTA布兹科娃VS乌德瓦尔迪全场回放（英文原声）01:00" tvg-name="WTA 布兹科娃VS乌德瓦尔迪 全场回放（英文原声） 01:00" tvg-logo="" group-title="综合",WTA 布兹科娃VS乌德瓦尔迪 全场回放（英文原声） 01:00
-http://migu.shanhaiguanwu.top:80/964015143
-
-#EXTINF:-1 tvg-id="斯诺克连胜五局！赵心童10-3特鲁姆普夺冠【第二阶段回放】特鲁姆普3-10赵心童（秦正）02:00" tvg-name="斯诺克 连胜五局！赵心童10-3特鲁姆普夺冠 【第二阶段回放】特鲁姆普3-10赵心童（秦正） 02:00" tvg-logo="" group-title="综合",斯诺克 连胜五局！赵心童10-3特鲁姆普夺冠 【第二阶段回放】特鲁姆普3-10赵心童（秦正） 02:00
-http://migu.shanhaiguanwu.top:80/964014035
-
-#EXTINF:-1 tvg-id="斯诺克连胜五局！赵心童10-3特鲁姆普夺冠【第二阶段回放】特鲁姆普3-10赵心童（赛场原声）02:00" tvg-name="斯诺克 连胜五局！赵心童10-3特鲁姆普夺冠 【第二阶段回放】特鲁姆普3-10赵心童（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 连胜五局！赵心童10-3特鲁姆普夺冠 【第二阶段回放】特鲁姆普3-10赵心童（赛场原声） 02:00
-http://migu.shanhaiguanwu.top:80/964014402
-
-#EXTINF:-1 tvg-id="法甲摩纳哥VS马赛全场回放（乔迁）02:30" tvg-name="法甲 摩纳哥VS马赛 全场回放（乔迁） 02:30" tvg-logo="" group-title="综合",法甲 摩纳哥VS马赛 全场回放（乔迁） 02:30
-http://migu.shanhaiguanwu.top:80/964014422
-
-#EXTINF:-1 tvg-id="意甲国际米兰VS罗马全场回放（刘腾、贺宇）02:15" tvg-name="意甲 国际米兰VS罗马 全场回放（刘腾、贺宇） 02:15" tvg-logo="" group-title="综合",意甲 国际米兰VS罗马 全场回放（刘腾、贺宇） 02:15
-http://migu.shanhaiguanwu.top:80/964014396
-
-#EXTINF:-1 tvg-id="西甲阿拉维斯VS奥萨苏纳全场回放（李霄）02:45" tvg-name="西甲 阿拉维斯VS奥萨苏纳 全场回放（李霄） 02:45" tvg-logo="" group-title="综合",西甲 阿拉维斯VS奥萨苏纳 全场回放（李霄） 02:45
-http://migu.shanhaiguanwu.top:80/964014688
-
-#EXTINF:-1 tvg-id="NBA公牛VS太阳全场回放（邵化谦）03:25" tvg-name="NBA 公牛VS太阳 全场回放（邵化谦） 03:25" tvg-logo="" group-title="综合",NBA 公牛VS太阳 全场回放（邵化谦） 03:25
-http://migu.shanhaiguanwu.top:80/964014938
-
-#EXTINF:-1 tvg-id="NBA公牛VS太阳全场回放（英文原声）03:25" tvg-name="NBA 公牛VS太阳 全场回放（英文原声） 03:25" tvg-logo="" group-title="综合",NBA 公牛VS太阳 全场回放（英文原声） 03:25
-http://migu.shanhaiguanwu.top:80/964014885
-
-#EXTINF:-1 tvg-id="NBA篮网VS奇才全场回放（董倡硕）03:25" tvg-name="NBA 篮网VS奇才 全场回放（董倡硕） 03:25" tvg-logo="" group-title="综合",NBA 篮网VS奇才 全场回放（董倡硕） 03:25
-http://migu.shanhaiguanwu.top:80/964014917
-
-#EXTINF:-1 tvg-id="NBA篮网VS奇才全场回放（英文原声）03:25" tvg-name="NBA 篮网VS奇才 全场回放（英文原声） 03:25" tvg-logo="" group-title="综合",NBA 篮网VS奇才 全场回放（英文原声） 03:25
-http://migu.shanhaiguanwu.top:80/964015000
-
-#EXTINF:-1 tvg-id="NBA凯尔特人VS猛龙全场回放（季孟年）03:25" tvg-name="NBA 凯尔特人VS猛龙 全场回放（季孟年） 03:25" tvg-logo="" group-title="综合",NBA 凯尔特人VS猛龙 全场回放（季孟年） 03:25
-http://migu.shanhaiguanwu.top:80/964014872
-
-#EXTINF:-1 tvg-id="NBA凯尔特人VS猛龙全场回放（英文原声）03:25" tvg-name="NBA 凯尔特人VS猛龙 全场回放（英文原声） 03:25" tvg-logo="" group-title="综合",NBA 凯尔特人VS猛龙 全场回放（英文原声） 03:25
-http://migu.shanhaiguanwu.top:80/964014950
-
-#EXTINF:-1 tvg-id="NBA雄鹿VS灰熊全场回放（姜帆）03:25" tvg-name="NBA 雄鹿VS灰熊 全场回放（姜帆） 03:25" tvg-logo="" group-title="综合",NBA 雄鹿VS灰熊 全场回放（姜帆） 03:25
-http://migu.shanhaiguanwu.top:80/964015012
-
-#EXTINF:-1 tvg-id="NBA雄鹿VS灰熊全场回放（英文原声）03:25" tvg-name="NBA 雄鹿VS灰熊 全场回放（英文原声） 03:25" tvg-logo="" group-title="综合",NBA 雄鹿VS灰熊 全场回放（英文原声） 03:25
-http://migu.shanhaiguanwu.top:80/964015680
-
-#EXTINF:-1 tvg-id="NBA骑士VS步行者全场回放（吴博文）05:55" tvg-name="NBA 骑士VS步行者 全场回放（吴博文） 05:55" tvg-logo="" group-title="综合",NBA 骑士VS步行者 全场回放（吴博文） 05:55
-http://migu.shanhaiguanwu.top:80/964016366
-
-#EXTINF:-1 tvg-id="NBA骑士VS步行者全场回放（英文原声）05:55" tvg-name="NBA 骑士VS步行者 全场回放（英文原声） 05:55" tvg-logo="" group-title="综合",NBA 骑士VS步行者 全场回放（英文原声） 05:55
-http://migu.shanhaiguanwu.top:80/964016633
-
-#EXTINF:-1 tvg-id="Zuffa拳击25战全胜！科尔特斯判定击败加西亚Zuffa拳击第5期全场回放（英文原声）06:30" tvg-name="Zuffa拳击 25战全胜！科尔特斯判定击败加西亚 Zuffa拳击第5期全场回放（英文原声） 06:30" tvg-logo="" group-title="综合",Zuffa拳击 25战全胜！科尔特斯判定击败加西亚 Zuffa拳击第5期全场回放（英文原声） 06:30
-http://migu.shanhaiguanwu.top:80/964021087
-
-#EXTINF:-1 tvg-id="Zuffa拳击25战全胜！科尔特斯判定击败加西亚Zuffa拳击第5期全场回放（赛场原声）06:30" tvg-name="Zuffa拳击 25战全胜！科尔特斯判定击败加西亚 Zuffa拳击第5期全场回放（赛场原声） 06:30" tvg-logo="" group-title="综合",Zuffa拳击 25战全胜！科尔特斯判定击败加西亚 Zuffa拳击第5期全场回放（赛场原声） 06:30
-http://migu.shanhaiguanwu.top:80/964020417
-
-#EXTINF:-1 tvg-id="Zuffa拳击25战全胜！科尔特斯判定击败加西亚Zuffa拳击第5期全场回放（王琰博）06:30" tvg-name="Zuffa拳击 25战全胜！科尔特斯判定击败加西亚 Zuffa拳击第5期全场回放（王琰博） 06:30" tvg-logo="" group-title="综合",Zuffa拳击 25战全胜！科尔特斯判定击败加西亚 Zuffa拳击第5期全场回放（王琰博） 06:30
-http://migu.shanhaiguanwu.top:80/964019536
-
-#EXTINF:-1 tvg-id="NBA森林狼VS黄蜂全场回放（邢晨）06:55" tvg-name="NBA 森林狼VS黄蜂 全场回放（邢晨） 06:55" tvg-logo="" group-title="综合",NBA 森林狼VS黄蜂 全场回放（邢晨） 06:55
-http://migu.shanhaiguanwu.top:80/964017730
-
-#EXTINF:-1 tvg-id="NBA森林狼VS黄蜂全场回放（英文原声）06:55" tvg-name="NBA 森林狼VS黄蜂 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 森林狼VS黄蜂 全场回放（英文原声） 06:55
-http://migu.shanhaiguanwu.top:80/964017375
-
-#EXTINF:-1 tvg-id="NBA雷霆VS爵士全场回放（罗森）06:55" tvg-name="NBA 雷霆VS爵士 全场回放（罗森） 06:55" tvg-logo="" group-title="综合",NBA 雷霆VS爵士 全场回放（罗森） 06:55
-http://migu.shanhaiguanwu.top:80/964017452
-
-#EXTINF:-1 tvg-id="NBA雷霆VS爵士全场回放（英文原声）06:55" tvg-name="NBA 雷霆VS爵士 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 雷霆VS爵士 全场回放（英文原声） 06:55
-http://migu.shanhaiguanwu.top:80/964017535
-
-#EXTINF:-1 tvg-id="NBA鹈鹕VS魔术全场回放（张泽欣）06:55" tvg-name="NBA 鹈鹕VS魔术 全场回放（张泽欣） 06:55" tvg-logo="" group-title="综合",NBA 鹈鹕VS魔术 全场回放（张泽欣） 06:55
-http://migu.shanhaiguanwu.top:80/964017802
-
-#EXTINF:-1 tvg-id="NBA鹈鹕VS魔术全场回放（英文原声）06:55" tvg-name="NBA 鹈鹕VS魔术 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 鹈鹕VS魔术 全场回放（英文原声） 06:55
-http://migu.shanhaiguanwu.top:80/964018028
-
-#EXTINF:-1 tvg-id="NBA独行侠VS湖人全场回放（孙博、马健、佳依）07:25" tvg-name="NBA 独行侠VS湖人 全场回放（孙博、马健、佳依） 07:25" tvg-logo="" group-title="综合",NBA 独行侠VS湖人 全场回放（孙博、马健、佳依） 07:25
-http://migu.shanhaiguanwu.top:80/964018292
-
-#EXTINF:-1 tvg-id="NBA独行侠VS湖人全场回放（英文原声）07:25" tvg-name="NBA 独行侠VS湖人 全场回放（英文原声） 07:25" tvg-logo="" group-title="综合",NBA 独行侠VS湖人 全场回放（英文原声） 07:25
-http://migu.shanhaiguanwu.top:80/964018235
-
-#EXTINF:-1 tvg-id="逐马计划2026中国田径协会10公里精英赛（北京·海淀站）2026中国田径协会10公里精英赛（北京·海淀站）全场回放07:15" tvg-name="逐马计划 2026中国田径协会10公里精英赛（北京·海淀站） 2026中国田径协会10公里精英赛（北京·海淀站）全场回放 07:15" tvg-logo="" group-title="综合",逐马计划 2026中国田径协会10公里精英赛（北京·海淀站） 2026中国田径协会10公里精英赛（北京·海淀站）全场回放 07:15
-http://migu.shanhaiguanwu.top:80/964019526
-
-#EXTINF:-1 tvg-id="NBA国王VS快船全场回放（庄宁宇、郭维盛、王羽希）08:55" tvg-name="NBA 国王VS快船 全场回放（庄宁宇、郭维盛、王羽希） 08:55" tvg-logo="" group-title="综合",NBA 国王VS快船 全场回放（庄宁宇、郭维盛、王羽希） 08:55
-http://migu.shanhaiguanwu.top:80/964019344
-
-#EXTINF:-1 tvg-id="NBA国王VS快船全场回放（英文原声）08:55" tvg-name="NBA 国王VS快船 全场回放（英文原声） 08:55" tvg-logo="" group-title="综合",NBA 国王VS快船 全场回放（英文原声） 08:55
-http://migu.shanhaiguanwu.top:80/964019307
-
-#EXTINF:-1 tvg-id="NBA勇士VS火箭全场回放（杨健、曾令旭、小七）09:55" tvg-name="NBA 勇士VS火箭 全场回放（杨健、曾令旭、小七） 09:55" tvg-logo="" group-title="综合",NBA 勇士VS火箭 全场回放（杨健、曾令旭、小七） 09:55
-http://migu.shanhaiguanwu.top:80/964019918
-
-#EXTINF:-1 tvg-id="NBA勇士VS火箭全场回放（周鹏）09:55" tvg-name="NBA 勇士VS火箭 全场回放（周鹏） 09:55" tvg-logo="" group-title="综合",NBA 勇士VS火箭 全场回放（周鹏） 09:55
-http://migu.shanhaiguanwu.top:80/964019933
-
-#EXTINF:-1 tvg-id="NBA勇士VS火箭全场回放（拜月宁）09:55" tvg-name="NBA 勇士VS火箭 全场回放（拜月宁） 09:55" tvg-logo="" group-title="综合",NBA 勇士VS火箭 全场回放（拜月宁） 09:55
-http://migu.shanhaiguanwu.top:80/964019991
-
-#EXTINF:-1 tvg-id="NBA勇士VS火箭全场回放（英文原声）09:55" tvg-name="NBA 勇士VS火箭 全场回放（英文原声） 09:55" tvg-logo="" group-title="综合",NBA 勇士VS火箭 全场回放（英文原声） 09:55
-http://migu.shanhaiguanwu.top:80/964019862
-
-#EXTINF:-1 tvg-id="英超青年杯狼队vs中国香港精英队全场回放09:50" tvg-name="英超青年杯 狼队vs中国香港精英队 全场回放 09:50" tvg-logo="" group-title="综合",英超青年杯 狼队vs中国香港精英队 全场回放 09:50
-http://migu.shanhaiguanwu.top:80/964022165
-
-#EXTINF:-1 tvg-id="英超青年杯浙江FCvs上海申花全场回放09:50" tvg-name="英超青年杯 浙江FCvs上海申花 全场回放 09:50" tvg-logo="" group-title="综合",英超青年杯 浙江FCvs上海申花 全场回放 09:50
-http://migu.shanhaiguanwu.top:80/964022157
-
-#EXTINF:-1 tvg-id="BWF经典重映-2026泰国赛决赛【回放】鲍骊婧/李怡婧1-2阿玛莉亚/拉马丹蒂（余博洋）12:00" tvg-name="BWF 经典重映-2026泰国赛决赛 【回放】鲍骊婧/李怡婧1-2阿玛莉亚/拉马丹蒂（余博洋） 12:00" tvg-logo="" group-title="综合",BWF 经典重映-2026泰国赛决赛 【回放】鲍骊婧/李怡婧1-2阿玛莉亚/拉马丹蒂（余博洋） 12:00
-http://migu.shanhaiguanwu.top:80/962806501
-
-#EXTINF:-1 tvg-id="BWF经典重映-2026泰国赛决赛【回放】卡尔南多/毛拉纳2-0因陀罗/华金（余博洋）12:00" tvg-name="BWF 经典重映-2026泰国赛决赛 【回放】卡尔南多/毛拉纳2-0因陀罗/华金（余博洋） 12:00" tvg-logo="" group-title="综合",BWF 经典重映-2026泰国赛决赛 【回放】卡尔南多/毛拉纳2-0因陀罗/华金（余博洋） 12:00
-http://migu.shanhaiguanwu.top:80/962806901
-
-#EXTINF:-1 tvg-id="BWF经典重映-2026泰国赛决赛【回放】吴堇溦（退赛）0-1西哈格（孙宁智）12:00" tvg-name="BWF 经典重映-2026泰国赛决赛 【回放】吴堇溦（退赛）0-1西哈格（孙宁智） 12:00" tvg-logo="" group-title="综合",BWF 经典重映-2026泰国赛决赛 【回放】吴堇溦（退赛）0-1西哈格（孙宁智） 12:00
-http://migu.shanhaiguanwu.top:80/962807281
-
-#EXTINF:-1 tvg-id="BWF经典重映-2026泰国赛决赛【回放】阿德南/贾米尔2-1塞蒂亚布迪/梅拉蒂（鸿昆）12:00" tvg-name="BWF 经典重映-2026泰国赛决赛 【回放】阿德南/贾米尔2-1塞蒂亚布迪/梅拉蒂（鸿昆） 12:00" tvg-logo="" group-title="综合",BWF 经典重映-2026泰国赛决赛 【回放】阿德南/贾米尔2-1塞蒂亚布迪/梅拉蒂（鸿昆） 12:00
-http://migu.shanhaiguanwu.top:80/962811552
-
-#EXTINF:-1 tvg-id="BWF经典重映-2026泰国赛决赛【回放】乌拜迪拉2-1帕尼查蓬（鸿昆）12:00" tvg-name="BWF 经典重映-2026泰国赛决赛 【回放】乌拜迪拉2-1帕尼查蓬（鸿昆） 12:00" tvg-logo="" group-title="综合",BWF 经典重映-2026泰国赛决赛 【回放】乌拜迪拉2-1帕尼查蓬（鸿昆） 12:00
-http://migu.shanhaiguanwu.top:80/962815540
-
-#EXTINF:-1 tvg-id="BWF经典重映-2026泰国赛决赛全场回放12:00" tvg-name="BWF 经典重映-2026泰国赛决赛 全场回放 12:00" tvg-logo="" group-title="综合",BWF 经典重映-2026泰国赛决赛 全场回放 12:00
-http://migu.shanhaiguanwu.top:80/962818552
-
-#EXTINF:-1 tvg-id="英超青年杯北京男足选拔队vs阿斯顿维拉全场回放14:40" tvg-name="英超青年杯 北京男足选拔队vs阿斯顿维拉 全场回放 14:40" tvg-logo="" group-title="综合",英超青年杯 北京男足选拔队vs阿斯顿维拉 全场回放 14:40
-http://migu.shanhaiguanwu.top:80/964022749
-
-#EXTINF:-1 tvg-id="英超青年杯石家庄功夫vs阿森纳全场回放14:50" tvg-name="英超青年杯 石家庄功夫vs阿森纳 全场回放 14:50" tvg-logo="" group-title="综合",英超青年杯 石家庄功夫vs阿森纳 全场回放 14:50
-http://migu.shanhaiguanwu.top:80/964022548
-
-#EXTINF:-1 tvg-id="浙江省城市足球联赛嘉兴队VS衢州队2026浙江省城市足球联赛第一轮:嘉兴VS衢州14:15" tvg-name="浙江省城市足球联赛 嘉兴队VS衢州队 2026浙江省城市足球联赛第一轮: 嘉兴VS衢州 14:15" tvg-logo="" group-title="综合",浙江省城市足球联赛 嘉兴队VS衢州队 2026浙江省城市足球联赛第一轮: 嘉兴VS衢州 14:15
-http://migu.shanhaiguanwu.top:80/963926750
-
-#EXTINF:-1 tvg-id="浙江省城市足球联赛湖州队VS杭州队2026浙江省城市足球联赛第一轮:湖州VS杭州15:15" tvg-name="浙江省城市足球联赛 湖州队VS杭州队 2026浙江省城市足球联赛第一轮: 湖州VS杭州 15:15" tvg-logo="" group-title="综合",浙江省城市足球联赛 湖州队VS杭州队 2026浙江省城市足球联赛第一轮: 湖州VS杭州 15:15
-http://migu.shanhaiguanwu.top:80/963926761
-
-#EXTINF:-1 tvg-id="浙江省城市足球联赛绍兴队VS宁波队2026浙江省城市足球联赛第一轮:绍兴VS宁波15:15" tvg-name="浙江省城市足球联赛 绍兴队VS宁波队 2026浙江省城市足球联赛第一轮: 绍兴VS宁波 15:15" tvg-logo="" group-title="综合",浙江省城市足球联赛 绍兴队VS宁波队 2026浙江省城市足球联赛第一轮: 绍兴VS宁波 15:15
-http://migu.shanhaiguanwu.top:80/963926775
-
-#EXTINF:-1 tvg-id="国青男篮热身赛新西兰U18男篮VS加拿大皇冠篮球队全场回放（原声）15:50" tvg-name="国青男篮热身赛 新西兰U18男篮VS加拿大皇冠篮球队 全场回放（原声） 15:50" tvg-logo="" group-title="综合",国青男篮热身赛 新西兰U18男篮VS加拿大皇冠篮球队 全场回放（原声） 15:50
-http://migu.shanhaiguanwu.top:80/964023404
-
-#EXTINF:-1 tvg-id="国际乒联澳门单打世界杯刘国正、周冠达、周泽昊为你复盘全场回放17:00" tvg-name="国际乒联澳门单打世界杯 刘国正、周冠达、周泽昊为你复盘 全场回放 17:00" tvg-logo="" group-title="综合",国际乒联澳门单打世界杯 刘国正、周冠达、周泽昊为你复盘 全场回放 17:00
-http://migu.shanhaiguanwu.top:80/964023087
-
-#EXTINF:-1 tvg-id="斯诺克高阳一阶段4-5吉米·怀特白雨露暂领先【回放】白雨露4-3丹尼尔·沃默斯利（第一阶段）（乔迁）17:00" tvg-name="斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】白雨露4-3丹尼尔·沃默斯利（第一阶段）（乔迁） 17:00" tvg-logo="" group-title="综合",斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】白雨露4-3丹尼尔·沃默斯利（第一阶段）（乔迁） 17:00
-http://migu.shanhaiguanwu.top:80/964026380
-
-#EXTINF:-1 tvg-id="斯诺克高阳一阶段4-5吉米·怀特白雨露暂领先【回放】白雨露4-3丹尼尔·沃默斯利（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】白雨露4-3丹尼尔·沃默斯利（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】白雨露4-3丹尼尔·沃默斯利（第一阶段）（赛场原声） 17:00
-http://migu.shanhaiguanwu.top:80/964026300
-
-#EXTINF:-1 tvg-id="斯诺克高阳一阶段4-5吉米·怀特白雨露暂领先【回放】米哈乌·苏巴尔奇克6-3吴安仪（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】米哈乌·苏巴尔奇克6-3吴安仪（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】米哈乌·苏巴尔奇克6-3吴安仪（第一阶段）（赛场原声） 17:00
-http://migu.shanhaiguanwu.top:80/964024534
-
-#EXTINF:-1 tvg-id="斯诺克高阳一阶段4-5吉米·怀特白雨露暂领先【回放】高阳4-5吉米·怀特（第一阶段）17:00" tvg-name="斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】高阳4-5吉米·怀特（第一阶段） 17:00" tvg-logo="" group-title="综合",斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】高阳4-5吉米·怀特（第一阶段） 17:00
-http://migu.shanhaiguanwu.top:80/964024979
-
-#EXTINF:-1 tvg-id="斯诺克高阳一阶段4-5吉米·怀特白雨露暂领先【回放】黄佳浩3-5莱昂内·克劳利（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】黄佳浩3-5莱昂内·克劳利（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】黄佳浩3-5莱昂内·克劳利（第一阶段）（赛场原声） 17:00
-http://migu.shanhaiguanwu.top:80/964026056
-
-#EXTINF:-1 tvg-id="斯诺克高阳一阶段4-5吉米·怀特白雨露暂领先【回放】姚朋成7-2瑞安·戴维斯（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】姚朋成7-2瑞安·戴维斯（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】姚朋成7-2瑞安·戴维斯（第一阶段）（赛场原声） 17:00
-http://migu.shanhaiguanwu.top:80/964025133
-
-#EXTINF:-1 tvg-id="斯诺克高阳一阶段4-5吉米·怀特白雨露暂领先【回放】若纳斯·卢斯2-6彼得·莱恩斯（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】若纳斯·卢斯2-6彼得·莱恩斯（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】若纳斯·卢斯2-6彼得·莱恩斯（第一阶段）（赛场原声） 17:00
-http://migu.shanhaiguanwu.top:80/964029319
-
-#EXTINF:-1 tvg-id="斯诺克高阳一阶段4-5吉米·怀特白雨露暂领先【回放】罗比·麦圭根6-3哈马德·米亚（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】罗比·麦圭根6-3哈马德·米亚（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】罗比·麦圭根6-3哈马德·米亚（第一阶段）（赛场原声） 17:00
-http://migu.shanhaiguanwu.top:80/964025423
-
-#EXTINF:-1 tvg-id="斯诺克高阳一阶段4-5吉米·怀特白雨露暂领先【回放】米歇尔·曼恩3-6王信伯（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】米歇尔·曼恩3-6王信伯（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 高阳一阶段4-5吉米·怀特 白雨露暂领先 【回放】米歇尔·曼恩3-6王信伯（第一阶段）（赛场原声） 17:00
-http://migu.shanhaiguanwu.top:80/964025077
-
-#EXTINF:-1 tvg-id="意甲乌迪内斯VS科莫全场回放（鲁靖明、马延峰）18:15" tvg-name="意甲 乌迪内斯VS科莫 全场回放（鲁靖明、马延峰） 18:15" tvg-logo="" group-title="综合",意甲 乌迪内斯VS科莫 全场回放（鲁靖明、马延峰） 18:15
-http://migu.shanhaiguanwu.top:80/964024052
-
-#EXTINF:-1 tvg-id="WCBA河南豫光金铅VS陕西榆林天泽全场回放（现场解说）19:25" tvg-name="WCBA 河南豫光金铅VS陕西榆林天泽 全场回放（现场解说） 19:25" tvg-logo="" group-title="综合",WCBA 河南豫光金铅VS陕西榆林天泽 全场回放（现场解说） 19:25
-http://migu.shanhaiguanwu.top:80/964026015
-
-#EXTINF:-1 tvg-id="WCBA河南豫光金铅VS陕西榆林天泽全场回放（原声）19:25" tvg-name="WCBA 河南豫光金铅VS陕西榆林天泽 全场回放（原声） 19:25" tvg-logo="" group-title="综合",WCBA 河南豫光金铅VS陕西榆林天泽 全场回放（原声） 19:25
-http://migu.shanhaiguanwu.top:80/964025159
-
-#EXTINF:-1 tvg-id="浙江省城市足球联赛丽水队VS温州队2026浙江省城市足球联赛第一轮:丽水VS温州19:15" tvg-name="浙江省城市足球联赛 丽水队VS温州队 2026浙江省城市足球联赛第一轮: 丽水VS温州 19:15" tvg-logo="" group-title="综合",浙江省城市足球联赛 丽水队VS温州队 2026浙江省城市足球联赛第一轮: 丽水VS温州 19:15
-http://migu.shanhaiguanwu.top:80/963926779
-
-#EXTINF:-1 tvg-id="浙江省城市足球联赛金华队VS舟山队2026浙江省城市足球联赛第一轮:金华VS舟山19:15" tvg-name="浙江省城市足球联赛 金华队VS舟山队 2026浙江省城市足球联赛第一轮: 金华VS舟山 19:15" tvg-logo="" group-title="综合",浙江省城市足球联赛 金华队VS舟山队 2026浙江省城市足球联赛第一轮: 金华VS舟山 19:15
-http://migu.shanhaiguanwu.top:80/963926786
-
-#EXTINF:-1 tvg-id="国青男篮热身赛中国U18男篮VS澳大利亚阿尔法篮球学院队全场回放（石楷文）19:50" tvg-name="国青男篮热身赛 中国U18男篮VS澳大利亚阿尔法篮球学院队 全场回放（石楷文） 19:50" tvg-logo="" group-title="综合",国青男篮热身赛 中国U18男篮VS澳大利亚阿尔法篮球学院队 全场回放（石楷文） 19:50
-http://migu.shanhaiguanwu.top:80/964025008
-
-#EXTINF:-1 tvg-id="国青男篮热身赛中国U18男篮VS澳大利亚阿尔法篮球学院队全场回放（原声）19:50" tvg-name="国青男篮热身赛 中国U18男篮VS澳大利亚阿尔法篮球学院队 全场回放（原声） 19:50" tvg-logo="" group-title="综合",国青男篮热身赛 中国U18男篮VS澳大利亚阿尔法篮球学院队 全场回放（原声） 19:50
-http://migu.shanhaiguanwu.top:80/964026084
-
-#EXTINF:-1 tvg-id="意甲莱切VS亚特兰大全场回放（谭逸雄）20:45" tvg-name="意甲 莱切VS亚特兰大 全场回放（谭逸雄） 20:45" tvg-logo="" group-title="综合",意甲 莱切VS亚特兰大 全场回放（谭逸雄） 20:45
-http://migu.shanhaiguanwu.top:80/964025821
-
-#EXTINF:-1 tvg-id="斯诺克张家玮一阶段落后博登暂时领先【回放】张家玮4-5阿什利·卡蒂（第一阶段）（乔迁）21:30" tvg-name="斯诺克 张家玮一阶段落后 博登暂时领先 【回放】张家玮4-5阿什利·卡蒂（第一阶段）（乔迁） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮一阶段落后 博登暂时领先 【回放】张家玮4-5阿什利·卡蒂（第一阶段）（乔迁） 21:30
-http://migu.shanhaiguanwu.top:80/964026388
-
-#EXTINF:-1 tvg-id="斯诺克张家玮一阶段落后博登暂时领先【回放】张家玮4-5阿什利·卡蒂（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮一阶段落后 博登暂时领先 【回放】张家玮4-5阿什利·卡蒂（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮一阶段落后 博登暂时领先 【回放】张家玮4-5阿什利·卡蒂（第一阶段）（赛场原声） 21:30
-http://migu.shanhaiguanwu.top:80/964026523
-
-#EXTINF:-1 tvg-id="斯诺克张家玮一阶段落后博登暂时领先【回放】利亚姆·普伦4-5阿尔菲·博登（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮一阶段落后 博登暂时领先 【回放】利亚姆·普伦4-5阿尔菲·博登（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮一阶段落后 博登暂时领先 【回放】利亚姆·普伦4-5阿尔菲·博登（第一阶段）（赛场原声） 21:30
-http://migu.shanhaiguanwu.top:80/964026383
-
-#EXTINF:-1 tvg-id="斯诺克张家玮一阶段落后博登暂时领先【回放】瑞安·埃文斯3-5弗拉迪斯拉夫·格拉迪纳里（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮一阶段落后 博登暂时领先 【回放】瑞安·埃文斯3-5弗拉迪斯拉夫·格拉迪纳里（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮一阶段落后 博登暂时领先 【回放】瑞安·埃文斯3-5弗拉迪斯拉夫·格拉迪纳里（第一阶段）（赛场原声） 21:30
-http://migu.shanhaiguanwu.top:80/964026678
-
-#EXTINF:-1 tvg-id="斯诺克张家玮一阶段落后博登暂时领先【回放】肯·达赫迪4-5帕特里克·惠兰（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮一阶段落后 博登暂时领先 【回放】肯·达赫迪4-5帕特里克·惠兰（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮一阶段落后 博登暂时领先 【回放】肯·达赫迪4-5帕特里克·惠兰（第一阶段）（赛场原声） 21:30
-http://migu.shanhaiguanwu.top:80/964026519
-
-#EXTINF:-1 tvg-id="斯诺克张家玮一阶段落后博登暂时领先【回放】迪伦·埃莫里5-4安东·卡扎科夫（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮一阶段落后 博登暂时领先 【回放】迪伦·埃莫里5-4安东·卡扎科夫（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮一阶段落后 博登暂时领先 【回放】迪伦·埃莫里5-4安东·卡扎科夫（第一阶段）（赛场原声） 21:30
-http://migu.shanhaiguanwu.top:80/964026521
-
-#EXTINF:-1 tvg-id="斯诺克张家玮一阶段落后博登暂时领先【回放】罗斯·缪尔6-2迈克尔（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮一阶段落后 博登暂时领先 【回放】罗斯·缪尔6-2迈克尔（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮一阶段落后 博登暂时领先 【回放】罗斯·缪尔6-2迈克尔（第一阶段）（赛场原声） 21:30
-http://migu.shanhaiguanwu.top:80/964026645
-
-#EXTINF:-1 tvg-id="斯诺克张家玮一阶段落后博登暂时领先【回放】马特乌斯·巴拉诺夫斯基6-3弗洛里安·努斯勒（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮一阶段落后 博登暂时领先 【回放】马特乌斯·巴拉诺夫斯基6-3弗洛里安·努斯勒（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮一阶段落后 博登暂时领先 【回放】马特乌斯·巴拉诺夫斯基6-3弗洛里安·努斯勒（第一阶段）（赛场原声） 21:30
-http://migu.shanhaiguanwu.top:80/964027278
-
-#EXTINF:-1 tvg-id="斯诺克张家玮一阶段落后博登暂时领先【回放】哈里斯·塔希尔5-4康纳·本齐（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮一阶段落后 博登暂时领先 【回放】哈里斯·塔希尔5-4康纳·本齐（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮一阶段落后 博登暂时领先 【回放】哈里斯·塔希尔5-4康纳·本齐（第一阶段）（赛场原声） 21:30
-http://migu.shanhaiguanwu.top:80/964026396
-
-#EXTINF:-1 tvg-id="体育-今天" tvg-name="体育-今天" tvg-logo="" group-title="体育",体育-今天
-#genre#
-
 #EXTINF:-1 tvg-id="意甲尤文图斯VS热那亚全场回放（吴桐、刘腾）23:30" tvg-name="意甲 尤文图斯VS热那亚 全场回放（吴桐、刘腾） 23:30" tvg-logo="" group-title="综合",意甲 尤文图斯VS热那亚 全场回放（吴桐、刘腾） 23:30
 http://migu.shanhaiguanwu.top:80/964026499
+
+#EXTINF:-1 tvg-id="斯诺克高阳10-9怀特白雨露、王信伯晋级【回放】白雨露10-7丹尼尔·沃默斯利（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】白雨露10-7丹尼尔·沃默斯利（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】白雨露10-7丹尼尔·沃默斯利（第二阶段）（赛场原声） 02:00
+http://migu.shanhaiguanwu.top:80/964036888
+
+#EXTINF:-1 tvg-id="斯诺克高阳10-9怀特白雨露、王信伯晋级【回放】黄佳浩5-10莱昂内·克劳利（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】黄佳浩5-10莱昂内·克劳利（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】黄佳浩5-10莱昂内·克劳利（第二阶段）（赛场原声） 02:00
+http://migu.shanhaiguanwu.top:80/964035496
 
 #EXTINF:-1 tvg-id="斯诺克高阳10-9怀特白雨露、王信伯晋级【回放】高阳10-9吉米·怀特（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】高阳10-9吉米·怀特（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】高阳10-9吉米·怀特（第二阶段）（赛场原声） 02:00
 http://migu.shanhaiguanwu.top:80/964027282
@@ -946,224 +703,227 @@ http://migu.shanhaiguanwu.top:80/964029295
 #EXTINF:-1 tvg-id="NBA魔术VS活塞全场回放（英文原声）06:55" tvg-name="NBA 魔术VS活塞 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 魔术VS活塞 全场回放（英文原声） 06:55
 http://migu.shanhaiguanwu.top:80/964029240
 
-#EXTINF:-1 tvg-id="NBA掘金VS开拓者姜帆季孟年拜月宁08:45" tvg-name="NBA 掘金VS开拓者 姜帆 季孟年 拜月宁 08:45" tvg-logo="" group-title="综合",NBA 掘金VS开拓者 姜帆 季孟年 拜月宁 08:45
-http://migu.shanhaiguanwu.top:80/963976671
+#EXTINF:-1 tvg-id="NBA灰熊VS骑士全场回放（王冠证、殷文玉、魏欣怡）07:45" tvg-name="NBA 灰熊VS骑士 全场回放（王冠证、殷文玉、魏欣怡） 07:45" tvg-logo="" group-title="综合",NBA 灰熊VS骑士 全场回放（王冠证、殷文玉、魏欣怡） 07:45
+http://migu.shanhaiguanwu.top:80/964030512
 
-#EXTINF:-1 tvg-id="NBA掘金VS开拓者邢晨08:55" tvg-name="NBA 掘金VS开拓者 邢晨 08:55" tvg-logo="" group-title="综合",NBA 掘金VS开拓者 邢晨 08:55
-http://migu.shanhaiguanwu.top:80/963976696
+#EXTINF:-1 tvg-id="NBA灰熊VS骑士全场回放（英文原声）07:45" tvg-name="NBA 灰熊VS骑士 全场回放（英文原声） 07:45" tvg-logo="" group-title="综合",NBA 灰熊VS骑士 全场回放（英文原声） 07:45
+http://migu.shanhaiguanwu.top:80/964030519
 
-#EXTINF:-1 tvg-id="NBA掘金VS开拓者英文原声08:55" tvg-name="NBA 掘金VS开拓者 英文原声 08:55" tvg-logo="" group-title="综合",NBA 掘金VS开拓者 英文原声 08:55
-http://migu.shanhaiguanwu.top:80/963976768
+#EXTINF:-1 tvg-id="NBA灰熊VS骑士全场回放（AI字幕）07:45" tvg-name="NBA 灰熊VS骑士 全场回放（AI字幕） 07:45" tvg-logo="" group-title="综合",NBA 灰熊VS骑士 全场回放（AI字幕） 07:45
+http://migu.shanhaiguanwu.top:80/964029998
 
-#EXTINF:-1 tvg-id="NBA掘金VS开拓者智能字幕08:45" tvg-name="NBA 掘金VS开拓者 智能字幕 08:45" tvg-logo="" group-title="综合",NBA 掘金VS开拓者 智能字幕 08:45
-http://migu.shanhaiguanwu.top:80/963976782
+#EXTINF:-1 tvg-id="NBA马刺VS76人全场回放（邵化谦、周赫）07:55" tvg-name="NBA 马刺VS76人 全场回放（邵化谦、周赫） 07:55" tvg-logo="" group-title="综合",NBA 马刺VS76人 全场回放（邵化谦、周赫） 07:55
+http://migu.shanhaiguanwu.top:80/964030638
 
-#EXTINF:-1 tvg-id="英超青年杯浙江FCvs狼队赛场原声09:50" tvg-name="英超青年杯 浙江FCvs狼队 赛场原声 09:50" tvg-logo="" group-title="综合",英超青年杯 浙江FCvs狼队 赛场原声 09:50
-http://migu.shanhaiguanwu.top:80/963904215
+#EXTINF:-1 tvg-id="NBA马刺VS76人全场回放（王晓晨）07:55" tvg-name="NBA 马刺VS76人 全场回放（王晓晨） 07:55" tvg-logo="" group-title="综合",NBA 马刺VS76人 全场回放（王晓晨） 07:55
+http://migu.shanhaiguanwu.top:80/964030720
 
-#EXTINF:-1 tvg-id="英超青年杯上海申花vs中国香港精英队赛场原声09:50" tvg-name="英超青年杯 上海申花vs中国香港精英队 赛场原声 09:50" tvg-logo="" group-title="综合",英超青年杯 上海申花vs中国香港精英队 赛场原声 09:50
-http://migu.shanhaiguanwu.top:80/963904226
+#EXTINF:-1 tvg-id="NBA马刺VS76人全场回放（英文原声）07:55" tvg-name="NBA 马刺VS76人 全场回放（英文原声） 07:55" tvg-logo="" group-title="综合",NBA 马刺VS76人 全场回放（英文原声） 07:55
+http://migu.shanhaiguanwu.top:80/964030944
 
-#EXTINF:-1 tvg-id="WTT姐妹战！杨惠泽vs陈显畅姜依依PK魏璟茗朱子恒11:00" tvg-name="WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 朱子恒 11:00" tvg-logo="" group-title="综合",WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 朱子恒 11:00
-http://migu.shanhaiguanwu.top:80/963962913
+#EXTINF:-1 tvg-id="NBA掘金VS开拓者全场回放（姜帆、季孟年、拜月宁）08:45" tvg-name="NBA 掘金VS开拓者 全场回放（姜帆、季孟年、拜月宁） 08:45" tvg-logo="" group-title="综合",NBA 掘金VS开拓者 全场回放（姜帆、季孟年、拜月宁） 08:45
+http://migu.shanhaiguanwu.top:80/964031383
 
-#EXTINF:-1 tvg-id="WTT姐妹战！杨惠泽vs陈显畅姜依依PK魏璟茗3D全真视频11:00" tvg-name="WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 3D全真视频 11:00" tvg-logo="" group-title="综合",WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 3D全真视频 11:00
-http://migu.shanhaiguanwu.top:80/964029617
+#EXTINF:-1 tvg-id="NBA掘金VS开拓者全场回放（邢晨）08:45" tvg-name="NBA 掘金VS开拓者 全场回放（邢晨） 08:45" tvg-logo="" group-title="综合",NBA 掘金VS开拓者 全场回放（邢晨） 08:45
+http://migu.shanhaiguanwu.top:80/964031950
 
-#EXTINF:-1 tvg-id="WTT姐妹战！杨惠泽vs陈显畅姜依依PK魏璟茗1号桌11:00" tvg-name="WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 1号桌 11:00" tvg-logo="" group-title="综合",WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 1号桌 11:00
-http://migu.shanhaiguanwu.top:80/963962878
+#EXTINF:-1 tvg-id="NBA掘金VS开拓者全场回放（英文原声）08:45" tvg-name="NBA 掘金VS开拓者 全场回放（英文原声） 08:45" tvg-logo="" group-title="综合",NBA 掘金VS开拓者 全场回放（英文原声） 08:45
+http://migu.shanhaiguanwu.top:80/964032894
 
-#EXTINF:-1 tvg-id="WTT姐妹战！杨惠泽vs陈显畅姜依依PK魏璟茗2号桌11:00" tvg-name="WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 2号桌 11:00" tvg-logo="" group-title="综合",WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 2号桌 11:00
-http://migu.shanhaiguanwu.top:80/963962883
+#EXTINF:-1 tvg-id="英超青年杯浙江FCvs狼队全场回放09:50" tvg-name="英超青年杯 浙江FCvs狼队 全场回放 09:50" tvg-logo="" group-title="综合",英超青年杯 浙江FCvs狼队 全场回放 09:50
+http://migu.shanhaiguanwu.top:80/964032409
 
-#EXTINF:-1 tvg-id="WTT姐妹战！杨惠泽vs陈显畅姜依依PK魏璟茗3号桌11:00" tvg-name="WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 3号桌 11:00" tvg-logo="" group-title="综合",WTT 姐妹战！杨惠泽vs陈显畅 姜依依PK魏璟茗 3号桌 11:00
-http://migu.shanhaiguanwu.top:80/963962901
+#EXTINF:-1 tvg-id="英超青年杯上海申花vs中国香港精英队全场回放09:50" tvg-name="英超青年杯 上海申花vs中国香港精英队 全场回放 09:50" tvg-logo="" group-title="综合",英超青年杯 上海申花vs中国香港精英队 全场回放 09:50
+http://migu.shanhaiguanwu.top:80/964032300
 
-#EXTINF:-1 tvg-id="英超青年杯石家庄功夫vs北京男足选拔队赛场原声14:50" tvg-name="英超青年杯 石家庄功夫vs北京男足选拔队 赛场原声 14:50" tvg-logo="" group-title="综合",英超青年杯 石家庄功夫vs北京男足选拔队 赛场原声 14:50
-http://migu.shanhaiguanwu.top:80/963904210
+#EXTINF:-1 tvg-id="WTT杨惠泽喜迎开门红冯怡璇3-2险胜江芷林全场回放（朱子恒）11:00" tvg-name="WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（朱子恒） 11:00" tvg-logo="" group-title="综合",WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（朱子恒） 11:00
+http://migu.shanhaiguanwu.top:80/964034375
 
-#EXTINF:-1 tvg-id="英超青年杯阿森纳vs阿斯顿维拉赛场原声14:50" tvg-name="英超青年杯 阿森纳vs阿斯顿维拉 赛场原声 14:50" tvg-logo="" group-title="综合",英超青年杯 阿森纳vs阿斯顿维拉 赛场原声 14:50
-http://migu.shanhaiguanwu.top:80/963904213
+#EXTINF:-1 tvg-id="WTT杨惠泽喜迎开门红冯怡璇3-2险胜江芷林全场回放（一号桌）11:00" tvg-name="WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（一号桌） 11:00" tvg-logo="" group-title="综合",WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（一号桌） 11:00
+http://migu.shanhaiguanwu.top:80/964035379
 
-#EXTINF:-1 tvg-id="WTT李和宸对决蔡俊杰国乒女线六人出战凌维康16:00" tvg-name="WTT 李和宸对决蔡俊杰 国乒女线六人出战 凌维康 16:00" tvg-logo="" group-title="综合",WTT 李和宸对决蔡俊杰 国乒女线六人出战 凌维康 16:00
-http://migu.shanhaiguanwu.top:80/963963044
+#EXTINF:-1 tvg-id="WTT杨惠泽喜迎开门红冯怡璇3-2险胜江芷林全场回放（二号桌）11:00" tvg-name="WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（二号桌） 11:00" tvg-logo="" group-title="综合",WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（二号桌） 11:00
+http://migu.shanhaiguanwu.top:80/964034981
 
-#EXTINF:-1 tvg-id="WTT李和宸对决蔡俊杰国乒女线六人出战3D全真视频16:00" tvg-name="WTT 李和宸对决蔡俊杰 国乒女线六人出战 3D全真视频 16:00" tvg-logo="" group-title="综合",WTT 李和宸对决蔡俊杰 国乒女线六人出战 3D全真视频 16:00
-http://migu.shanhaiguanwu.top:80/964029611
+#EXTINF:-1 tvg-id="WTT杨惠泽喜迎开门红冯怡璇3-2险胜江芷林全场回放（三号桌）11:00" tvg-name="WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（三号桌） 11:00" tvg-logo="" group-title="综合",WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（三号桌） 11:00
+http://migu.shanhaiguanwu.top:80/964034120
 
-#EXTINF:-1 tvg-id="WTT李和宸对决蔡俊杰国乒女线六人出战1号桌16:00" tvg-name="WTT 李和宸对决蔡俊杰 国乒女线六人出战 1号桌 16:00" tvg-logo="" group-title="综合",WTT 李和宸对决蔡俊杰 国乒女线六人出战 1号桌 16:00
-http://migu.shanhaiguanwu.top:80/963962975
+#EXTINF:-1 tvg-id="英超青年杯石家庄功夫vs北京男足选拔队2026英超青年杯A组第2轮全场回放：石家庄功夫1:2北京男足选拔队（赛场原声）14:50" tvg-name="英超青年杯 石家庄功夫vs北京男足选拔队 2026英超青年杯A组第2轮全场回放：石家庄功夫1:2北京男足选拔队（赛场原声） 14:50" tvg-logo="" group-title="综合",英超青年杯 石家庄功夫vs北京男足选拔队 2026英超青年杯A组第2轮全场回放：石家庄功夫1:2北京男足选拔队（赛场原声） 14:50
+http://migu.shanhaiguanwu.top:80/964038082
 
-#EXTINF:-1 tvg-id="WTT李和宸对决蔡俊杰国乒女线六人出战2号桌16:00" tvg-name="WTT 李和宸对决蔡俊杰 国乒女线六人出战 2号桌 16:00" tvg-logo="" group-title="综合",WTT 李和宸对决蔡俊杰 国乒女线六人出战 2号桌 16:00
-http://migu.shanhaiguanwu.top:80/963963010
+#EXTINF:-1 tvg-id="英超青年杯阿森纳vs阿斯顿维拉2026英超青年杯A组第2轮全场回放：阿森纳3:0阿斯顿维拉（赛场原声）14:50" tvg-name="英超青年杯 阿森纳vs阿斯顿维拉 2026英超青年杯A组第2轮全场回放：阿森纳3:0阿斯顿维拉（赛场原声） 14:50" tvg-logo="" group-title="综合",英超青年杯 阿森纳vs阿斯顿维拉 2026英超青年杯A组第2轮全场回放：阿森纳3:0阿斯顿维拉（赛场原声） 14:50
+http://migu.shanhaiguanwu.top:80/964037362
 
-#EXTINF:-1 tvg-id="WTT李和宸对决蔡俊杰国乒女线六人出战3号桌16:00" tvg-name="WTT 李和宸对决蔡俊杰 国乒女线六人出战 3号桌 16:00" tvg-logo="" group-title="综合",WTT 李和宸对决蔡俊杰 国乒女线六人出战 3号桌 16:00
-http://migu.shanhaiguanwu.top:80/963963035
+#EXTINF:-1 tvg-id="WTT李和宸横扫蔡俊杰冯怡璇3-1力克可人全场回放（凌维康）16:00" tvg-name="WTT 李和宸横扫蔡俊杰 冯怡璇3-1力克可人 全场回放（凌维康） 16:00" tvg-logo="" group-title="综合",WTT 李和宸横扫蔡俊杰 冯怡璇3-1力克可人 全场回放（凌维康） 16:00
+http://migu.shanhaiguanwu.top:80/964038830
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊PK努查鲁特许医尘出战朱峰立17:00" tvg-name="斯诺克 傅家俊PK努查鲁特 许医尘出战 朱峰立 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊PK努查鲁特 许医尘出战 朱峰立 17:00
-http://migu.shanhaiguanwu.top:80/964017212
+#EXTINF:-1 tvg-id="WTT李和宸横扫蔡俊杰冯怡璇3-1力克可人全场回放（一号桌）16:00" tvg-name="WTT 李和宸横扫蔡俊杰 冯怡璇3-1力克可人 全场回放（一号桌） 16:00" tvg-logo="" group-title="综合",WTT 李和宸横扫蔡俊杰 冯怡璇3-1力克可人 全场回放（一号桌） 16:00
+http://migu.shanhaiguanwu.top:80/964039305
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊PK努查鲁特许医尘出战1号桌17:00" tvg-name="斯诺克 傅家俊PK努查鲁特 许医尘出战 1号桌 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊PK努查鲁特 许医尘出战 1号桌 17:00
-http://migu.shanhaiguanwu.top:80/963974493
+#EXTINF:-1 tvg-id="WTT李和宸横扫蔡俊杰冯怡璇3-1力克可人全场回放（二号桌）16:00" tvg-name="WTT 李和宸横扫蔡俊杰 冯怡璇3-1力克可人 全场回放（二号桌） 16:00" tvg-logo="" group-title="综合",WTT 李和宸横扫蔡俊杰 冯怡璇3-1力克可人 全场回放（二号桌） 16:00
+http://migu.shanhaiguanwu.top:80/964039153
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊PK努查鲁特许医尘出战2号桌17:00" tvg-name="斯诺克 傅家俊PK努查鲁特 许医尘出战 2号桌 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊PK努查鲁特 许医尘出战 2号桌 17:00
-http://migu.shanhaiguanwu.top:80/963974748
+#EXTINF:-1 tvg-id="WTT李和宸横扫蔡俊杰冯怡璇3-1力克可人全场回放（三号桌）16:00" tvg-name="WTT 李和宸横扫蔡俊杰 冯怡璇3-1力克可人 全场回放（三号桌） 16:00" tvg-logo="" group-title="综合",WTT 李和宸横扫蔡俊杰 冯怡璇3-1力克可人 全场回放（三号桌） 16:00
+http://migu.shanhaiguanwu.top:80/964039021
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊PK努查鲁特许医尘出战3号桌17:00" tvg-name="斯诺克 傅家俊PK努查鲁特 许医尘出战 3号桌 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊PK努查鲁特 许医尘出战 3号桌 17:00
-http://migu.shanhaiguanwu.top:80/963974942
+#EXTINF:-1 tvg-id="斯诺克傅家俊一阶段8-1努查鲁特许医尘领先【回放】傅家俊8-1明克·努查鲁特（朱峰立）（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】傅家俊8-1明克·努查鲁特（朱峰立）（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】傅家俊8-1明克·努查鲁特（朱峰立）（第一阶段）（赛场原声） 17:00
+http://migu.shanhaiguanwu.top:80/964039715
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊PK努查鲁特许医尘出战4号桌17:00" tvg-name="斯诺克 傅家俊PK努查鲁特 许医尘出战 4号桌 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊PK努查鲁特 许医尘出战 4号桌 17:00
-http://migu.shanhaiguanwu.top:80/963975141
+#EXTINF:-1 tvg-id="斯诺克傅家俊一阶段8-1努查鲁特许医尘领先【回放】布尔丘·雷维斯3-5克雷格·斯泰德曼（第一阶段）17:00" tvg-name="斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】布尔丘·雷维斯3-5克雷格·斯泰德曼（第一阶段） 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】布尔丘·雷维斯3-5克雷格·斯泰德曼（第一阶段） 17:00
+http://migu.shanhaiguanwu.top:80/964041680
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊PK努查鲁特许医尘出战5号桌17:00" tvg-name="斯诺克 傅家俊PK努查鲁特 许医尘出战 5号桌 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊PK努查鲁特 许医尘出战 5号桌 17:00
-http://migu.shanhaiguanwu.top:80/963975293
+#EXTINF:-1 tvg-id="斯诺克傅家俊一阶段8-1努查鲁特许医尘领先【回放】许医尘6-3斯图尔特·卡林顿（第一阶段）17:00" tvg-name="斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】许医尘6-3斯图尔特·卡林顿（第一阶段） 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】许医尘6-3斯图尔特·卡林顿（第一阶段） 17:00
+http://migu.shanhaiguanwu.top:80/964040860
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊PK努查鲁特许医尘出战6号桌17:00" tvg-name="斯诺克 傅家俊PK努查鲁特 许医尘出战 6号桌 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊PK努查鲁特 许医尘出战 6号桌 17:00
-http://migu.shanhaiguanwu.top:80/963975391
+#EXTINF:-1 tvg-id="斯诺克傅家俊一阶段8-1努查鲁特许医尘领先【回放】斯蒂芬·霍尔沃斯5-4克雷什·古尔巴克萨尼（第一阶段）17:00" tvg-name="斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】斯蒂芬·霍尔沃斯5-4克雷什·古尔巴克萨尼（第一阶段） 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】斯蒂芬·霍尔沃斯5-4克雷什·古尔巴克萨尼（第一阶段） 17:00
+http://migu.shanhaiguanwu.top:80/964040714
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊PK努查鲁特许医尘出战7号桌17:00" tvg-name="斯诺克 傅家俊PK努查鲁特 许医尘出战 7号桌 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊PK努查鲁特 许医尘出战 7号桌 17:00
-http://migu.shanhaiguanwu.top:80/963975502
+#EXTINF:-1 tvg-id="斯诺克傅家俊一阶段8-1努查鲁特许医尘领先【回放】伊安·伯恩斯4-4萨希尔·纳亚尔（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】伊安·伯恩斯4-4萨希尔·纳亚尔（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】伊安·伯恩斯4-4萨希尔·纳亚尔（第一阶段）（赛场原声） 17:00
+http://migu.shanhaiguanwu.top:80/964040711
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊PK努查鲁特许医尘出战8号桌17:00" tvg-name="斯诺克 傅家俊PK努查鲁特 许医尘出战 8号桌 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊PK努查鲁特 许医尘出战 8号桌 17:00
-http://migu.shanhaiguanwu.top:80/963975580
+#EXTINF:-1 tvg-id="斯诺克傅家俊一阶段8-1努查鲁特许医尘领先【回放】傅家俊8-1明克·努查鲁特（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】傅家俊8-1明克·努查鲁特（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】傅家俊8-1明克·努查鲁特（第一阶段）（赛场原声） 17:00
+http://migu.shanhaiguanwu.top:80/964040662
 
-#EXTINF:-1 tvg-id="WTA科斯蒂亚、伊埃拉、李吉妮出战赛场原声18:00" tvg-name="WTA 科斯蒂亚、伊埃拉、李吉妮出战 赛场原声 18:00" tvg-logo="" group-title="综合",WTA 科斯蒂亚、伊埃拉、李吉妮出战 赛场原声 18:00
-http://migu.shanhaiguanwu.top:80/963943946
+#EXTINF:-1 tvg-id="斯诺克傅家俊一阶段8-1努查鲁特许医尘领先【回放】利亚姆·格雷姆2-7奥利弗·塞克斯（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】利亚姆·格雷姆2-7奥利弗·塞克斯（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】利亚姆·格雷姆2-7奥利弗·塞克斯（第一阶段）（赛场原声） 17:00
+http://migu.shanhaiguanwu.top:80/964040369
 
-#EXTINF:-1 tvg-id="WTA科斯蒂亚、伊埃拉、李吉妮出战英文原声18:00" tvg-name="WTA 科斯蒂亚、伊埃拉、李吉妮出战 英文原声 18:00" tvg-logo="" group-title="综合",WTA 科斯蒂亚、伊埃拉、李吉妮出战 英文原声 18:00
-http://migu.shanhaiguanwu.top:80/963944037
+#EXTINF:-1 tvg-id="斯诺克傅家俊一阶段8-1努查鲁特许医尘领先【回放】克里斯·托顿7-2丹尼尔·博伊斯（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】克里斯·托顿7-2丹尼尔·博伊斯（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 傅家俊一阶段8-1努查鲁特 许医尘领先 【回放】克里斯·托顿7-2丹尼尔·博伊斯（第一阶段）（赛场原声） 17:00
+http://migu.shanhaiguanwu.top:80/964040340
 
-#EXTINF:-1 tvg-id="NBL香港金牛VS江西鲸裕清酒解说19:20" tvg-name="NBL 香港金牛VS江西鲸裕清酒 解说 19:20" tvg-logo="" group-title="综合",NBL 香港金牛VS江西鲸裕清酒 解说 19:20
-http://migu.shanhaiguanwu.top:80/963926285
+#EXTINF:-1 tvg-id="WTA伊埃拉速胜科斯蒂亚晋级【回放】格拉布赫尔0-2伊埃拉（赛场原声）18:00" tvg-name="WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】格拉布赫尔0-2伊埃拉（赛场原声） 18:00" tvg-logo="" group-title="综合",WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】格拉布赫尔0-2伊埃拉（赛场原声） 18:00
+http://migu.shanhaiguanwu.top:80/964042548
 
-#EXTINF:-1 tvg-id="NBL香港金牛VS江西鲸裕清酒赛场原声19:20" tvg-name="NBL 香港金牛VS江西鲸裕清酒 赛场原声 19:20" tvg-logo="" group-title="综合",NBL 香港金牛VS江西鲸裕清酒 赛场原声 19:20
-http://migu.shanhaiguanwu.top:80/963926302
+#EXTINF:-1 tvg-id="WTA伊埃拉速胜科斯蒂亚晋级【回放】巴多萨0-2塔格尔（赛场原声）18:00" tvg-name="WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】巴多萨0-2塔格尔（赛场原声） 18:00" tvg-logo="" group-title="综合",WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】巴多萨0-2塔格尔（赛场原声） 18:00
+http://migu.shanhaiguanwu.top:80/964042155
 
-#EXTINF:-1 tvg-id="NBL合肥狂风VS上海玄鸟解说19:20" tvg-name="NBL 合肥狂风VS上海玄鸟 解说 19:20" tvg-logo="" group-title="综合",NBL 合肥狂风VS上海玄鸟 解说 19:20
-http://migu.shanhaiguanwu.top:80/963926318
+#EXTINF:-1 tvg-id="WTA伊埃拉速胜科斯蒂亚晋级【回放】克劳斯0-2科斯蒂亚（赛场原声）18:00" tvg-name="WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】克劳斯0-2科斯蒂亚（赛场原声） 18:00" tvg-logo="" group-title="综合",WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】克劳斯0-2科斯蒂亚（赛场原声） 18:00
+http://migu.shanhaiguanwu.top:80/964040939
 
-#EXTINF:-1 tvg-id="NBL合肥狂风VS上海玄鸟赛场原声19:20" tvg-name="NBL 合肥狂风VS上海玄鸟 赛场原声 19:20" tvg-logo="" group-title="综合",NBL 合肥狂风VS上海玄鸟 赛场原声 19:20
-http://migu.shanhaiguanwu.top:80/963926329
+#EXTINF:-1 tvg-id="WTA伊埃拉速胜科斯蒂亚晋级【回放】雅斯特雷姆斯卡2-1李吉妮（赛场原声）18:00" tvg-name="WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】雅斯特雷姆斯卡2-1李吉妮（赛场原声） 18:00" tvg-logo="" group-title="综合",WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】雅斯特雷姆斯卡2-1李吉妮（赛场原声） 18:00
+http://migu.shanhaiguanwu.top:80/964040308
 
-#EXTINF:-1 tvg-id="CBA长白山恩都里VS四川丰谷酒业图文直播19:35" tvg-name="CBA 长白山恩都里VS四川丰谷酒业 图文直播 19:35" tvg-logo="" group-title="综合",CBA 长白山恩都里VS四川丰谷酒业 图文直播 19:35
-http://migu.shanhaiguanwu.top:80/963890911
+#EXTINF:-1 tvg-id="WTA伊埃拉速胜科斯蒂亚晋级【回放】克劳斯0-2科斯蒂亚（英文原声）18:00" tvg-name="WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】克劳斯0-2科斯蒂亚（英文原声） 18:00" tvg-logo="" group-title="综合",WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】克劳斯0-2科斯蒂亚（英文原声） 18:00
+http://migu.shanhaiguanwu.top:80/964041032
 
-#EXTINF:-1 tvg-id="CBA辽宁本钢VS福建晋江文旅图文直播19:35" tvg-name="CBA 辽宁本钢VS福建晋江文旅 图文直播 19:35" tvg-logo="" group-title="综合",CBA 辽宁本钢VS福建晋江文旅 图文直播 19:35
-http://migu.shanhaiguanwu.top:80/963890923
+#EXTINF:-1 tvg-id="WTA伊埃拉速胜科斯蒂亚晋级【回放】雅斯特雷姆斯卡2-1李吉妮（英文原声）18:00" tvg-name="WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】雅斯特雷姆斯卡2-1李吉妮（英文原声） 18:00" tvg-logo="" group-title="综合",WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】雅斯特雷姆斯卡2-1李吉妮（英文原声） 18:00
+http://migu.shanhaiguanwu.top:80/964039922
 
-#EXTINF:-1 tvg-id="亚女U20泰国女足U20VS中国女足U20吴桐贺宇20:45" tvg-name="亚女U20 泰国女足U20VS中国女足U20 吴桐 贺宇 20:45" tvg-logo="" group-title="综合",亚女U20 泰国女足U20VS中国女足U20 吴桐 贺宇 20:45
-http://migu.shanhaiguanwu.top:80/963945169
+#EXTINF:-1 tvg-id="WTA伊埃拉速胜科斯蒂亚晋级【回放】巴多萨0-2塔格尔（英文原声）18:00" tvg-name="WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】巴多萨0-2塔格尔（英文原声） 18:00" tvg-logo="" group-title="综合",WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】巴多萨0-2塔格尔（英文原声） 18:00
+http://migu.shanhaiguanwu.top:80/964042125
 
-#EXTINF:-1 tvg-id="亚女U20泰国女足U20VS中国女足U20赛场原声20:45" tvg-name="亚女U20 泰国女足U20VS中国女足U20 赛场原声 20:45" tvg-logo="" group-title="综合",亚女U20 泰国女足U20VS中国女足U20 赛场原声 20:45
-http://migu.shanhaiguanwu.top:80/963945135
+#EXTINF:-1 tvg-id="WTA伊埃拉速胜科斯蒂亚晋级【回放】格拉布赫尔0-2伊埃拉（英文原声）18:00" tvg-name="WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】格拉布赫尔0-2伊埃拉（英文原声） 18:00" tvg-logo="" group-title="综合",WTA 伊埃拉速胜 科斯蒂亚晋级 【回放】格拉布赫尔0-2伊埃拉（英文原声） 18:00
+http://migu.shanhaiguanwu.top:80/964042532
 
-#EXTINF:-1 tvg-id="亚女U20越南女足U20VS孟加拉国U20林梦鸽20:45" tvg-name="亚女U20 越南女足U20VS孟加拉国U20 林梦鸽 20:45" tvg-logo="" group-title="综合",亚女U20 越南女足U20VS孟加拉国U20 林梦鸽 20:45
-http://migu.shanhaiguanwu.top:80/963945203
+#EXTINF:-1 tvg-id="NBL香港金牛VS江西鲸裕清酒全场回放（官方解说）19:20" tvg-name="NBL 香港金牛VS江西鲸裕清酒 全场回放（官方解说） 19:20" tvg-logo="" group-title="综合",NBL 香港金牛VS江西鲸裕清酒 全场回放（官方解说） 19:20
+http://migu.shanhaiguanwu.top:80/964041036
 
-#EXTINF:-1 tvg-id="亚女U20越南女足U20VS孟加拉国U20赛场原声20:45" tvg-name="亚女U20 越南女足U20VS孟加拉国U20 赛场原声 20:45" tvg-logo="" group-title="综合",亚女U20 越南女足U20VS孟加拉国U20 赛场原声 20:45
-http://migu.shanhaiguanwu.top:80/963945196
+#EXTINF:-1 tvg-id="NBL香港金牛VS江西鲸裕清酒全场回放（原声）19:20" tvg-name="NBL 香港金牛VS江西鲸裕清酒 全场回放（原声） 19:20" tvg-logo="" group-title="综合",NBL 香港金牛VS江西鲸裕清酒 全场回放（原声） 19:20
+http://migu.shanhaiguanwu.top:80/964041176
 
-#EXTINF:-1 tvg-id="斯诺克张家玮、达赫迪出战乔迁21:30" tvg-name="斯诺克 张家玮、达赫迪出战 乔迁 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮、达赫迪出战 乔迁 21:30
-http://migu.shanhaiguanwu.top:80/964017235
+#EXTINF:-1 tvg-id="NBL合肥狂风VS上海玄鸟全场回放（官方解说）19:20" tvg-name="NBL 合肥狂风VS上海玄鸟 全场回放（官方解说） 19:20" tvg-logo="" group-title="综合",NBL 合肥狂风VS上海玄鸟 全场回放（官方解说） 19:20
+http://migu.shanhaiguanwu.top:80/964040641
 
-#EXTINF:-1 tvg-id="斯诺克张家玮、达赫迪出战1号桌21:30" tvg-name="斯诺克 张家玮、达赫迪出战 1号桌 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮、达赫迪出战 1号桌 21:30
-http://migu.shanhaiguanwu.top:80/963974531
+#EXTINF:-1 tvg-id="NBL合肥狂风VS上海玄鸟全场回放（原声）19:20" tvg-name="NBL 合肥狂风VS上海玄鸟 全场回放（原声） 19:20" tvg-logo="" group-title="综合",NBL 合肥狂风VS上海玄鸟 全场回放（原声） 19:20
+http://migu.shanhaiguanwu.top:80/964040890
 
-#EXTINF:-1 tvg-id="斯诺克张家玮、达赫迪出战2号桌21:30" tvg-name="斯诺克 张家玮、达赫迪出战 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮、达赫迪出战 2号桌 21:30
-http://migu.shanhaiguanwu.top:80/963974815
+#EXTINF:-1 tvg-id="亚女U20泰国女足U20VS中国女足U20全场回放20:45" tvg-name="亚女U20 泰国女足U20VS中国女足U20 全场回放 20:45" tvg-logo="" group-title="综合",亚女U20 泰国女足U20VS中国女足U20 全场回放 20:45
+http://migu.shanhaiguanwu.top:80/964042016
 
-#EXTINF:-1 tvg-id="斯诺克张家玮、达赫迪出战3号桌21:30" tvg-name="斯诺克 张家玮、达赫迪出战 3号桌 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮、达赫迪出战 3号桌 21:30
-http://migu.shanhaiguanwu.top:80/963974959
+#EXTINF:-1 tvg-id="亚女U20泰国女足U20VS中国女足U20全场回放（吴桐、贺宇）20:45" tvg-name="亚女U20 泰国女足U20VS中国女足U20 全场回放（吴桐、贺宇） 20:45" tvg-logo="" group-title="综合",亚女U20 泰国女足U20VS中国女足U20 全场回放（吴桐、贺宇） 20:45
+http://migu.shanhaiguanwu.top:80/964041102
 
-#EXTINF:-1 tvg-id="斯诺克张家玮、达赫迪出战4号桌21:30" tvg-name="斯诺克 张家玮、达赫迪出战 4号桌 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮、达赫迪出战 4号桌 21:30
-http://migu.shanhaiguanwu.top:80/963975180
+#EXTINF:-1 tvg-id="亚女U20越南女足U20VS孟加拉国U20全场回放（林梦鸽）20:45" tvg-name="亚女U20 越南女足U20VS孟加拉国U20 全场回放（林梦鸽） 20:45" tvg-logo="" group-title="综合",亚女U20 越南女足U20VS孟加拉国U20 全场回放（林梦鸽） 20:45
+http://migu.shanhaiguanwu.top:80/964041145
 
-#EXTINF:-1 tvg-id="斯诺克张家玮、达赫迪出战5号桌21:30" tvg-name="斯诺克 张家玮、达赫迪出战 5号桌 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮、达赫迪出战 5号桌 21:30
-http://migu.shanhaiguanwu.top:80/963975305
+#EXTINF:-1 tvg-id="斯诺克张家玮惜败老将达赫迪、埃文斯出局【回放】张家玮9-10阿什利·卡蒂（第二阶段）（乔迁）21:30" tvg-name="斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】张家玮9-10阿什利·卡蒂（第二阶段）（乔迁） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】张家玮9-10阿什利·卡蒂（第二阶段）（乔迁） 21:30
+http://migu.shanhaiguanwu.top:80/964042144
 
-#EXTINF:-1 tvg-id="斯诺克张家玮、达赫迪出战6号桌21:30" tvg-name="斯诺克 张家玮、达赫迪出战 6号桌 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮、达赫迪出战 6号桌 21:30
-http://migu.shanhaiguanwu.top:80/963975416
+#EXTINF:-1 tvg-id="斯诺克张家玮惜败老将达赫迪、埃文斯出局【回放】张家玮9-10阿什利·卡蒂（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】张家玮9-10阿什利·卡蒂（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】张家玮9-10阿什利·卡蒂（第二阶段）（赛场原声） 21:30
+http://migu.shanhaiguanwu.top:80/964042522
 
-#EXTINF:-1 tvg-id="斯诺克张家玮、达赫迪出战7号桌21:30" tvg-name="斯诺克 张家玮、达赫迪出战 7号桌 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮、达赫迪出战 7号桌 21:30
-http://migu.shanhaiguanwu.top:80/963975518
+#EXTINF:-1 tvg-id="斯诺克张家玮惜败老将达赫迪、埃文斯出局【回放】利亚姆·普伦10-9阿尔菲·博登（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】利亚姆·普伦10-9阿尔菲·博登（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】利亚姆·普伦10-9阿尔菲·博登（第二阶段）（赛场原声） 21:30
+http://migu.shanhaiguanwu.top:80/964042515
 
-#EXTINF:-1 tvg-id="斯诺克张家玮、达赫迪出战8号桌21:30" tvg-name="斯诺克 张家玮、达赫迪出战 8号桌 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮、达赫迪出战 8号桌 21:30
-http://migu.shanhaiguanwu.top:80/963975584
+#EXTINF:-1 tvg-id="斯诺克张家玮惜败老将达赫迪、埃文斯出局【回放】瑞安·埃文斯7-10弗拉迪斯拉夫·格拉迪纳里（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】瑞安·埃文斯7-10弗拉迪斯拉夫·格拉迪纳里（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】瑞安·埃文斯7-10弗拉迪斯拉夫·格拉迪纳里（第二阶段）（赛场原声） 21:30
+http://migu.shanhaiguanwu.top:80/964042646
 
-#EXTINF:-1 tvg-id="体育-明天" tvg-name="体育-明天" tvg-logo="" group-title="体育",体育-明天
+#EXTINF:-1 tvg-id="斯诺克张家玮惜败老将达赫迪、埃文斯出局【回放】迪伦·埃莫里10-9安东·卡扎科夫（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】迪伦·埃莫里10-9安东·卡扎科夫（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】迪伦·埃莫里10-9安东·卡扎科夫（第二阶段）（赛场原声） 21:30
+http://migu.shanhaiguanwu.top:80/964042615
+
+#EXTINF:-1 tvg-id="斯诺克张家玮惜败老将达赫迪、埃文斯出局【回放】罗斯·缪尔10-5迈克尔·拉尔科夫（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】罗斯·缪尔10-5迈克尔·拉尔科夫（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】罗斯·缪尔10-5迈克尔·拉尔科夫（第二阶段）（赛场原声） 21:30
+http://migu.shanhaiguanwu.top:80/964042558
+
+#EXTINF:-1 tvg-id="斯诺克张家玮惜败老将达赫迪、埃文斯出局【回放】肯·达赫迪5-10帕特里克·惠兰（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】肯·达赫迪5-10帕特里克·惠兰（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】肯·达赫迪5-10帕特里克·惠兰（第二阶段）（赛场原声） 21:30
+http://migu.shanhaiguanwu.top:80/964042093
+
+#EXTINF:-1 tvg-id="斯诺克张家玮惜败老将达赫迪、埃文斯出局【回放】马特乌斯·巴拉诺夫斯基10-5弗洛里安·努斯勒（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】马特乌斯·巴拉诺夫斯基10-5弗洛里安·努斯勒（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】马特乌斯·巴拉诺夫斯基10-5弗洛里安·努斯勒（第二阶段）（赛场原声） 21:30
+http://migu.shanhaiguanwu.top:80/964042497
+
+#EXTINF:-1 tvg-id="斯诺克张家玮惜败老将达赫迪、埃文斯出局【回放】哈里斯·塔希尔6-10康纳·本齐（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】哈里斯·塔希尔6-10康纳·本齐（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 张家玮惜败 老将达赫迪、埃文斯出局 【回放】哈里斯·塔希尔6-10康纳·本齐（第二阶段）（赛场原声） 21:30
+http://migu.shanhaiguanwu.top:80/964042341
+
+#EXTINF:-1 tvg-id="体育-今天" tvg-name="体育-今天" tvg-logo="" group-title="体育",体育-今天
 #genre#
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊争晋级许医尘PK卡林顿1号桌02:00" tvg-name="斯诺克 傅家俊争晋级 许医尘PK卡林顿 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 傅家俊争晋级 许医尘PK卡林顿 1号桌 02:00
-http://migu.shanhaiguanwu.top:80/963974558
+#EXTINF:-1 tvg-id="斯诺克傅家俊、许医尘轻松晋级2026斯诺克世锦赛资格赛Day2第1轮回放：布尔丘·雷维斯10-6克雷格·斯泰德曼（第二阶段）（赛场原声）02:30" tvg-name="斯诺克 傅家俊、许医尘轻松晋级 2026斯诺克世锦赛资格赛Day2第1轮回放：布尔丘·雷维斯10-6克雷格·斯泰德曼（第二阶段）（赛场原声） 02:30" tvg-logo="" group-title="综合",斯诺克 傅家俊、许医尘轻松晋级 2026斯诺克世锦赛资格赛Day2第1轮回放：布尔丘·雷维斯10-6克雷格·斯泰德曼（第二阶段）（赛场原声） 02:30
+http://migu.shanhaiguanwu.top:80/964046296
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊争晋级许医尘PK卡林顿2号桌02:00" tvg-name="斯诺克 傅家俊争晋级 许医尘PK卡林顿 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 傅家俊争晋级 许医尘PK卡林顿 2号桌 02:00
-http://migu.shanhaiguanwu.top:80/963974838
+#EXTINF:-1 tvg-id="斯诺克傅家俊、许医尘轻松晋级【回放】傅家俊10-1明克·努查鲁特（第二阶段）（赛场原声）02:30" tvg-name="斯诺克 傅家俊、许医尘轻松晋级 【回放】傅家俊10-1明克·努查鲁特（第二阶段）（赛场原声） 02:30" tvg-logo="" group-title="综合",斯诺克 傅家俊、许医尘轻松晋级 【回放】傅家俊10-1明克·努查鲁特（第二阶段）（赛场原声） 02:30
+http://migu.shanhaiguanwu.top:80/964042560
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊争晋级许医尘PK卡林顿3号桌02:00" tvg-name="斯诺克 傅家俊争晋级 许医尘PK卡林顿 3号桌 02:00" tvg-logo="" group-title="综合",斯诺克 傅家俊争晋级 许医尘PK卡林顿 3号桌 02:00
-http://migu.shanhaiguanwu.top:80/963974981
+#EXTINF:-1 tvg-id="斯诺克傅家俊、许医尘轻松晋级【回放】伊安·伯恩斯10-6萨希尔·纳亚尔（第二阶段）（赛场原声）02:30" tvg-name="斯诺克 傅家俊、许医尘轻松晋级 【回放】伊安·伯恩斯10-6萨希尔·纳亚尔（第二阶段）（赛场原声） 02:30" tvg-logo="" group-title="综合",斯诺克 傅家俊、许医尘轻松晋级 【回放】伊安·伯恩斯10-6萨希尔·纳亚尔（第二阶段）（赛场原声） 02:30
+http://migu.shanhaiguanwu.top:80/964042754
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊争晋级许医尘PK卡林顿4号桌02:00" tvg-name="斯诺克 傅家俊争晋级 许医尘PK卡林顿 4号桌 02:00" tvg-logo="" group-title="综合",斯诺克 傅家俊争晋级 许医尘PK卡林顿 4号桌 02:00
-http://migu.shanhaiguanwu.top:80/963975192
+#EXTINF:-1 tvg-id="斯诺克傅家俊、许医尘轻松晋级【回放】利亚姆·格雷姆4-10奥利弗·塞克斯（第二阶段）（赛场原声）02:30" tvg-name="斯诺克 傅家俊、许医尘轻松晋级 【回放】利亚姆·格雷姆4-10奥利弗·塞克斯（第二阶段）（赛场原声） 02:30" tvg-logo="" group-title="综合",斯诺克 傅家俊、许医尘轻松晋级 【回放】利亚姆·格雷姆4-10奥利弗·塞克斯（第二阶段）（赛场原声） 02:30
+http://migu.shanhaiguanwu.top:80/964042630
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊争晋级许医尘PK卡林顿5号桌02:00" tvg-name="斯诺克 傅家俊争晋级 许医尘PK卡林顿 5号桌 02:00" tvg-logo="" group-title="综合",斯诺克 傅家俊争晋级 许医尘PK卡林顿 5号桌 02:00
-http://migu.shanhaiguanwu.top:80/963975318
+#EXTINF:-1 tvg-id="斯诺克傅家俊、许医尘轻松晋级【回放】克里斯·托顿10-5丹尼尔·博伊斯（第二阶段）（赛场原声）02:30" tvg-name="斯诺克 傅家俊、许医尘轻松晋级 【回放】克里斯·托顿10-5丹尼尔·博伊斯（第二阶段）（赛场原声） 02:30" tvg-logo="" group-title="综合",斯诺克 傅家俊、许医尘轻松晋级 【回放】克里斯·托顿10-5丹尼尔·博伊斯（第二阶段）（赛场原声） 02:30
+http://migu.shanhaiguanwu.top:80/964042627
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊争晋级许医尘PK卡林顿6号桌02:00" tvg-name="斯诺克 傅家俊争晋级 许医尘PK卡林顿 6号桌 02:00" tvg-logo="" group-title="综合",斯诺克 傅家俊争晋级 许医尘PK卡林顿 6号桌 02:00
-http://migu.shanhaiguanwu.top:80/963975431
+#EXTINF:-1 tvg-id="斯诺克傅家俊、许医尘轻松晋级【回放】斯蒂芬·霍尔沃斯10-6克雷什·古尔巴克萨尼（第二阶段）（赛场原声）02:30" tvg-name="斯诺克 傅家俊、许医尘轻松晋级 【回放】斯蒂芬·霍尔沃斯10-6克雷什·古尔巴克萨尼（第二阶段）（赛场原声） 02:30" tvg-logo="" group-title="综合",斯诺克 傅家俊、许医尘轻松晋级 【回放】斯蒂芬·霍尔沃斯10-6克雷什·古尔巴克萨尼（第二阶段）（赛场原声） 02:30
+http://migu.shanhaiguanwu.top:80/964042623
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊争晋级许医尘PK卡林顿7号桌02:00" tvg-name="斯诺克 傅家俊争晋级 许医尘PK卡林顿 7号桌 02:00" tvg-logo="" group-title="综合",斯诺克 傅家俊争晋级 许医尘PK卡林顿 7号桌 02:00
-http://migu.shanhaiguanwu.top:80/963975525
+#EXTINF:-1 tvg-id="斯诺克傅家俊、许医尘轻松晋级【回放】许医尘10-4斯图尔特·卡林顿（第二阶段）（赛场原声）02:30" tvg-name="斯诺克 傅家俊、许医尘轻松晋级 【回放】许医尘10-4斯图尔特·卡林顿（第二阶段）（赛场原声） 02:30" tvg-logo="" group-title="综合",斯诺克 傅家俊、许医尘轻松晋级 【回放】许医尘10-4斯图尔特·卡林顿（第二阶段）（赛场原声） 02:30
+http://migu.shanhaiguanwu.top:80/964042606
 
-#EXTINF:-1 tvg-id="斯诺克傅家俊争晋级许医尘PK卡林顿8号桌02:00" tvg-name="斯诺克 傅家俊争晋级 许医尘PK卡林顿 8号桌 02:00" tvg-logo="" group-title="综合",斯诺克 傅家俊争晋级 许医尘PK卡林顿 8号桌 02:00
-http://migu.shanhaiguanwu.top:80/963975591
+#EXTINF:-1 tvg-id="NBA奇才VS公牛全场回放（盛哲）06:55" tvg-name="NBA 奇才VS公牛 全场回放（盛哲） 06:55" tvg-logo="" group-title="综合",NBA 奇才VS公牛 全场回放（盛哲） 06:55
+http://migu.shanhaiguanwu.top:80/964044922
 
-#EXTINF:-1 tvg-id="NBA奇才VS公牛盛哲06:55" tvg-name="NBA 奇才VS公牛 盛哲 06:55" tvg-logo="" group-title="综合",NBA 奇才VS公牛 盛哲 06:55
-http://migu.shanhaiguanwu.top:80/963976939
+#EXTINF:-1 tvg-id="NBA奇才VS公牛全场回放（英文原声）06:55" tvg-name="NBA 奇才VS公牛 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 奇才VS公牛 全场回放（英文原声） 06:55
+http://migu.shanhaiguanwu.top:80/964044979
 
-#EXTINF:-1 tvg-id="NBA奇才VS公牛英文原声06:55" tvg-name="NBA 奇才VS公牛 英文原声 06:55" tvg-logo="" group-title="综合",NBA 奇才VS公牛 英文原声 06:55
-http://migu.shanhaiguanwu.top:80/963976983
+#EXTINF:-1 tvg-id="NBA步行者VS森林狼全场回放（刘圳展）06:55" tvg-name="NBA 步行者VS森林狼 全场回放（刘圳展） 06:55" tvg-logo="" group-title="综合",NBA 步行者VS森林狼 全场回放（刘圳展） 06:55
+http://migu.shanhaiguanwu.top:80/964044949
 
-#EXTINF:-1 tvg-id="NBA步行者VS森林狼刘圳展06:55" tvg-name="NBA 步行者VS森林狼 刘圳展 06:55" tvg-logo="" group-title="综合",NBA 步行者VS森林狼 刘圳展 06:55
-http://migu.shanhaiguanwu.top:80/963977019
+#EXTINF:-1 tvg-id="NBA步行者VS森林狼全场回放（英文原声）06:55" tvg-name="NBA 步行者VS森林狼 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 步行者VS森林狼 全场回放（英文原声） 06:55
+http://migu.shanhaiguanwu.top:80/964045106
 
-#EXTINF:-1 tvg-id="NBA步行者VS森林狼英文原声06:55" tvg-name="NBA 步行者VS森林狼 英文原声 06:55" tvg-logo="" group-title="综合",NBA 步行者VS森林狼 英文原声 06:55
-http://migu.shanhaiguanwu.top:80/963977114
+#EXTINF:-1 tvg-id="NBA篮网VS雄鹿全场回放（刘芳宇）07:25" tvg-name="NBA 篮网VS雄鹿 全场回放（刘芳宇） 07:25" tvg-logo="" group-title="综合",NBA 篮网VS雄鹿 全场回放（刘芳宇） 07:25
+http://migu.shanhaiguanwu.top:80/964045384
 
-#EXTINF:-1 tvg-id="NBA篮网VS雄鹿刘芳宇07:25" tvg-name="NBA 篮网VS雄鹿 刘芳宇 07:25" tvg-logo="" group-title="综合",NBA 篮网VS雄鹿 刘芳宇 07:25
-http://migu.shanhaiguanwu.top:80/963977138
+#EXTINF:-1 tvg-id="NBA篮网VS雄鹿全场回放（英文原声）07:25" tvg-name="NBA 篮网VS雄鹿 全场回放（英文原声） 07:25" tvg-logo="" group-title="综合",NBA 篮网VS雄鹿 全场回放（英文原声） 07:25
+http://migu.shanhaiguanwu.top:80/964045979
 
-#EXTINF:-1 tvg-id="NBA篮网VS雄鹿英文原声07:25" tvg-name="NBA 篮网VS雄鹿 英文原声 07:25" tvg-logo="" group-title="综合",NBA 篮网VS雄鹿 英文原声 07:25
-http://migu.shanhaiguanwu.top:80/963977171
+#EXTINF:-1 tvg-id="NBA猛龙VS热火全场回放（王晓晨）07:25" tvg-name="NBA 猛龙VS热火 全场回放（王晓晨） 07:25" tvg-logo="" group-title="综合",NBA 猛龙VS热火 全场回放（王晓晨） 07:25
+http://migu.shanhaiguanwu.top:80/964045535
 
-#EXTINF:-1 tvg-id="NBA猛龙VS热火王晓晨07:25" tvg-name="NBA 猛龙VS热火 王晓晨 07:25" tvg-logo="" group-title="综合",NBA 猛龙VS热火 王晓晨 07:25
-http://migu.shanhaiguanwu.top:80/963977187
+#EXTINF:-1 tvg-id="NBA猛龙VS热火全场回放（英文原声）07:25" tvg-name="NBA 猛龙VS热火 全场回放（英文原声） 07:25" tvg-logo="" group-title="综合",NBA 猛龙VS热火 全场回放（英文原声） 07:25
+http://migu.shanhaiguanwu.top:80/964045575
 
-#EXTINF:-1 tvg-id="NBA猛龙VS热火英文原声07:25" tvg-name="NBA 猛龙VS热火 英文原声 07:25" tvg-logo="" group-title="综合",NBA 猛龙VS热火 英文原声 07:25
-http://migu.shanhaiguanwu.top:80/963977235
-
-#EXTINF:-1 tvg-id="NBA凯尔特人VS黄蜂蔡凯臣季孟年07:55" tvg-name="NBA 凯尔特人VS黄蜂 蔡凯臣 季孟年 07:55" tvg-logo="" group-title="综合",NBA 凯尔特人VS黄蜂 蔡凯臣 季孟年 07:55
-http://migu.shanhaiguanwu.top:80/963977258
-
-#EXTINF:-1 tvg-id="NBA凯尔特人VS黄蜂英文原声07:55" tvg-name="NBA 凯尔特人VS黄蜂 英文原声 07:55" tvg-logo="" group-title="综合",NBA 凯尔特人VS黄蜂 英文原声 07:55
-http://migu.shanhaiguanwu.top:80/963977303
-
-#EXTINF:-1 tvg-id="NBA鹈鹕VS爵士贾磊07:55" tvg-name="NBA 鹈鹕VS爵士 贾磊 07:55" tvg-logo="" group-title="综合",NBA 鹈鹕VS爵士 贾磊 07:55
-http://migu.shanhaiguanwu.top:80/963977323
-
-#EXTINF:-1 tvg-id="NBA鹈鹕VS爵士英文原声07:55" tvg-name="NBA 鹈鹕VS爵士 英文原声 07:55" tvg-logo="" group-title="综合",NBA 鹈鹕VS爵士 英文原声 07:55
-http://migu.shanhaiguanwu.top:80/963977381
+#EXTINF:-1 tvg-id="亚洲攀岩锦标赛亚洲攀岩锦标赛暨亚运会资格赛day1解说09:30" tvg-name="亚洲攀岩锦标赛 亚洲攀岩锦标赛暨亚运会资格赛day1 解说 09:30" tvg-logo="" group-title="综合",亚洲攀岩锦标赛 亚洲攀岩锦标赛暨亚运会资格赛day1 解说 09:30
+http://migu.shanhaiguanwu.top:80/964035192
 
 #EXTINF:-1 tvg-id="NBA勇士VS国王庄宁宇徐咏陈正昊09:45" tvg-name="NBA 勇士VS国王 庄宁宇 徐咏 陈正昊 09:45" tvg-logo="" group-title="综合",NBA 勇士VS国王 庄宁宇 徐咏 陈正昊 09:45
 http://migu.shanhaiguanwu.top:80/963977911
+
+#EXTINF:-1 tvg-id="NBA勇士VS国王拜月宁09:55" tvg-name="NBA 勇士VS国王 拜月宁 09:55" tvg-logo="" group-title="综合",NBA 勇士VS国王 拜月宁 09:55
+http://migu.shanhaiguanwu.top:80/963978021
 
 #EXTINF:-1 tvg-id="NBA勇士VS国王英文原声09:55" tvg-name="NBA 勇士VS国王 英文原声 09:55" tvg-logo="" group-title="综合",NBA 勇士VS国王 英文原声 09:55
 http://migu.shanhaiguanwu.top:80/963977982
 
 #EXTINF:-1 tvg-id="NBA勇士VS国王智能字幕09:45" tvg-name="NBA 勇士VS国王 智能字幕 09:45" tvg-logo="" group-title="综合",NBA 勇士VS国王 智能字幕 09:45
 http://migu.shanhaiguanwu.top:80/963977984
-
-#EXTINF:-1 tvg-id="NBA勇士VS国王拜月宁09:55" tvg-name="NBA 勇士VS国王 拜月宁 09:55" tvg-logo="" group-title="综合",NBA 勇士VS国王 拜月宁 09:55
-http://migu.shanhaiguanwu.top:80/963978021
 
 #EXTINF:-1 tvg-id="NBA快船VS独行侠徐秦威10:25" tvg-name="NBA 快船VS独行侠 徐秦威 10:25" tvg-logo="" group-title="综合",NBA 快船VS独行侠 徐秦威 10:25
 http://migu.shanhaiguanwu.top:80/963978206
@@ -1240,23 +1000,20 @@ http://migu.shanhaiguanwu.top:80/964018830
 #EXTINF:-1 tvg-id="斯诺克蓝裕豪、刘文炜出战海菲尔德vs布朗8号桌17:00" tvg-name="斯诺克 蓝裕豪、刘文炜出战 海菲尔德vs布朗 8号桌 17:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪、刘文炜出战 海菲尔德vs布朗 8号桌 17:00
 http://migu.shanhaiguanwu.top:80/964018848
 
+#EXTINF:-1 tvg-id="斯诺克蓝裕豪、刘文炜出战海菲尔德vs布朗乔迁17:00" tvg-name="斯诺克 蓝裕豪、刘文炜出战 海菲尔德vs布朗 乔迁 17:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪、刘文炜出战 海菲尔德vs布朗 乔迁 17:00
+http://migu.shanhaiguanwu.top:80/964037426
+
 #EXTINF:-1 tvg-id="亚冠二级大阪钢巴VS曼谷联刘洋17:45" tvg-name="亚冠二级 大阪钢巴VS曼谷联 刘洋 17:45" tvg-logo="" group-title="综合",亚冠二级 大阪钢巴VS曼谷联 刘洋 17:45
 http://migu.shanhaiguanwu.top:80/963945393
 
 #EXTINF:-1 tvg-id="亚冠二级大阪钢巴VS曼谷联赛场原声17:45" tvg-name="亚冠二级 大阪钢巴VS曼谷联 赛场原声 17:45" tvg-logo="" group-title="综合",亚冠二级 大阪钢巴VS曼谷联 赛场原声 17:45
 http://migu.shanhaiguanwu.top:80/963945390
 
-#EXTINF:-1 tvg-id="WTAWTA林茨站Day3赛场原声18:00" tvg-name="WTA WTA林茨站Day3 赛场原声 18:00" tvg-logo="" group-title="综合",WTA WTA林茨站Day3 赛场原声 18:00
+#EXTINF:-1 tvg-id="WTA安德列娃、奥斯塔彭科出战赛场原声18:00" tvg-name="WTA 安德列娃、奥斯塔彭科出战 赛场原声 18:00" tvg-logo="" group-title="综合",WTA 安德列娃、奥斯塔彭科出战 赛场原声 18:00
 http://migu.shanhaiguanwu.top:80/963943954
 
-#EXTINF:-1 tvg-id="WTAWTA林茨站Day3英文原声18:00" tvg-name="WTA WTA林茨站Day3 英文原声 18:00" tvg-logo="" group-title="综合",WTA WTA林茨站Day3 英文原声 18:00
+#EXTINF:-1 tvg-id="WTA安德列娃、奥斯塔彭科出战英文原声18:00" tvg-name="WTA 安德列娃、奥斯塔彭科出战 英文原声 18:00" tvg-logo="" group-title="综合",WTA 安德列娃、奥斯塔彭科出战 英文原声 18:00
 http://migu.shanhaiguanwu.top:80/963944061
-
-#EXTINF:-1 tvg-id="WCBA浙江稠州银行VS合肥文旅解说19:25" tvg-name="WCBA 浙江稠州银行VS合肥文旅 解说 19:25" tvg-logo="" group-title="综合",WCBA 浙江稠州银行VS合肥文旅 解说 19:25
-http://migu.shanhaiguanwu.top:80/963906149
-
-#EXTINF:-1 tvg-id="WCBA浙江稠州银行VS合肥文旅清流播出19:25" tvg-name="WCBA 浙江稠州银行VS合肥文旅 清流播出 19:25" tvg-logo="" group-title="综合",WCBA 浙江稠州银行VS合肥文旅 清流播出 19:25
-http://migu.shanhaiguanwu.top:80/963906159
 
 #EXTINF:-1 tvg-id="WCBA江苏南钢VS四川蜀道远达解说19:25" tvg-name="WCBA 江苏南钢VS四川蜀道远达 解说 19:25" tvg-logo="" group-title="综合",WCBA 江苏南钢VS四川蜀道远达 解说 19:25
 http://migu.shanhaiguanwu.top:80/963959298
@@ -1324,6 +1081,232 @@ http://migu.shanhaiguanwu.top:80/964018990
 #EXTINF:-1 tvg-id="斯诺克白雨露、高阳出战王信伯PK博伊科8号桌21:30" tvg-name="斯诺克 白雨露、高阳出战 王信伯PK博伊科 8号桌 21:30" tvg-logo="" group-title="综合",斯诺克 白雨露、高阳出战 王信伯PK博伊科 8号桌 21:30
 http://migu.shanhaiguanwu.top:80/964018996
 
+#EXTINF:-1 tvg-id="斯诺克白雨露、高阳出战王信伯PK博伊科朱峰立21:30" tvg-name="斯诺克 白雨露、高阳出战 王信伯PK博伊科 朱峰立 21:30" tvg-logo="" group-title="综合",斯诺克 白雨露、高阳出战 王信伯PK博伊科 朱峰立 21:30
+http://migu.shanhaiguanwu.top:80/964037421
+
+#EXTINF:-1 tvg-id="WTA波塔波娃VS张帅波塔波娃vs张帅（胡力涛）22:00" tvg-name="WTA 波塔波娃VS张帅 波塔波娃 vs 张帅（胡力涛） 22:00" tvg-logo="" group-title="综合",WTA 波塔波娃VS张帅 波塔波娃 vs 张帅（胡力涛） 22:00
+http://migu.shanhaiguanwu.top:80/964045824
+
+#EXTINF:-1 tvg-id="WTA波塔波娃VS张帅赛场原声22:00" tvg-name="WTA 波塔波娃VS张帅 赛场原声 22:00" tvg-logo="" group-title="综合",WTA 波塔波娃VS张帅 赛场原声 22:00
+http://migu.shanhaiguanwu.top:80/964045759
+
+#EXTINF:-1 tvg-id="体育-明天" tvg-name="体育-明天" tvg-logo="" group-title="体育",体育-明天
+#genre#
+
+#EXTINF:-1 tvg-id="斯诺克蓝裕豪PK纳萨刘文炜、赵翰洋出战1号桌02:00" tvg-name="斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 1号桌 02:00
+http://migu.shanhaiguanwu.top:80/964019009
+
+#EXTINF:-1 tvg-id="斯诺克蓝裕豪PK纳萨刘文炜、赵翰洋出战2号桌02:00" tvg-name="斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 2号桌 02:00
+http://migu.shanhaiguanwu.top:80/964019015
+
+#EXTINF:-1 tvg-id="斯诺克蓝裕豪PK纳萨刘文炜、赵翰洋出战3号桌02:00" tvg-name="斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 3号桌 02:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 3号桌 02:00
+http://migu.shanhaiguanwu.top:80/964019028
+
+#EXTINF:-1 tvg-id="斯诺克蓝裕豪PK纳萨刘文炜、赵翰洋出战4号桌02:00" tvg-name="斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 4号桌 02:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 4号桌 02:00
+http://migu.shanhaiguanwu.top:80/964019035
+
+#EXTINF:-1 tvg-id="斯诺克蓝裕豪PK纳萨刘文炜、赵翰洋出战5号桌02:00" tvg-name="斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 5号桌 02:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 5号桌 02:00
+http://migu.shanhaiguanwu.top:80/964018952
+
+#EXTINF:-1 tvg-id="斯诺克蓝裕豪PK纳萨刘文炜、赵翰洋出战6号桌02:00" tvg-name="斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 6号桌 02:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 6号桌 02:00
+http://migu.shanhaiguanwu.top:80/964019047
+
+#EXTINF:-1 tvg-id="斯诺克蓝裕豪PK纳萨刘文炜、赵翰洋出战7号桌02:00" tvg-name="斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 7号桌 02:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 7号桌 02:00
+http://migu.shanhaiguanwu.top:80/964019057
+
+#EXTINF:-1 tvg-id="斯诺克蓝裕豪PK纳萨刘文炜、赵翰洋出战8号桌02:00" tvg-name="斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 8号桌 02:00" tvg-logo="" group-title="综合",斯诺克 蓝裕豪PK纳萨 刘文炜、赵翰洋出战 8号桌 02:00
+http://migu.shanhaiguanwu.top:80/964019066
+
+#EXTINF:-1 tvg-id="NBA骑士VS老鹰姜帆周赫06:55" tvg-name="NBA 骑士VS老鹰 姜帆 周赫 06:55" tvg-logo="" group-title="综合",NBA 骑士VS老鹰 姜帆 周赫 06:55
+http://migu.shanhaiguanwu.top:80/963978459
+
+#EXTINF:-1 tvg-id="NBA骑士VS老鹰英文原声06:55" tvg-name="NBA 骑士VS老鹰 英文原声 06:55" tvg-logo="" group-title="综合",NBA 骑士VS老鹰 英文原声 06:55
+http://migu.shanhaiguanwu.top:80/963978535
+
+#EXTINF:-1 tvg-id="NBA魔术VS森林狼刘圳展06:55" tvg-name="NBA 魔术VS森林狼 刘圳展 06:55" tvg-logo="" group-title="综合",NBA 魔术VS森林狼 刘圳展 06:55
+http://migu.shanhaiguanwu.top:80/963978541
+
+#EXTINF:-1 tvg-id="NBA魔术VS森林狼英文原声06:55" tvg-name="NBA 魔术VS森林狼 英文原声 06:55" tvg-logo="" group-title="综合",NBA 魔术VS森林狼 英文原声 06:55
+http://migu.shanhaiguanwu.top:80/963978606
+
+#EXTINF:-1 tvg-id="NBA魔术VS森林狼罗森06:55" tvg-name="NBA 魔术VS森林狼 罗森 06:55" tvg-logo="" group-title="综合",NBA 魔术VS森林狼 罗森 06:55
+http://migu.shanhaiguanwu.top:80/963978617
+
+#EXTINF:-1 tvg-id="NBA活塞VS雄鹿罗森06:55" tvg-name="NBA 活塞VS雄鹿 罗森 06:55" tvg-logo="" group-title="综合",NBA 活塞VS雄鹿 罗森 06:55
+http://migu.shanhaiguanwu.top:80/963978617
+
+#EXTINF:-1 tvg-id="NBA活塞VS雄鹿英文原声06:55" tvg-name="NBA 活塞VS雄鹿 英文原声 06:55" tvg-logo="" group-title="综合",NBA 活塞VS雄鹿 英文原声 06:55
+http://migu.shanhaiguanwu.top:80/963977760
+
+#EXTINF:-1 tvg-id="NBA掘金VS灰熊盛哲08:55" tvg-name="NBA 掘金VS灰熊 盛哲 08:55" tvg-logo="" group-title="综合",NBA 掘金VS灰熊 盛哲 08:55
+http://migu.shanhaiguanwu.top:80/963977784
+
+#EXTINF:-1 tvg-id="NBA掘金VS灰熊英文原声08:55" tvg-name="NBA 掘金VS灰熊 英文原声 08:55" tvg-logo="" group-title="综合",NBA 掘金VS灰熊 英文原声 08:55
+http://migu.shanhaiguanwu.top:80/963977859
+
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者连睿李根秋童09:15" tvg-name="NBA 马刺VS开拓者 连睿 李根 秋童 09:15" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 连睿 李根 秋童 09:15
+http://migu.shanhaiguanwu.top:80/963977876
+
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者王晓晨09:25" tvg-name="NBA 马刺VS开拓者 王晓晨 09:25" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 王晓晨 09:25
+http://migu.shanhaiguanwu.top:80/963977879
+
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者邢晨09:25" tvg-name="NBA 马刺VS开拓者 邢晨 09:25" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 邢晨 09:25
+http://migu.shanhaiguanwu.top:80/963977896
+
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者英文原声09:25" tvg-name="NBA 马刺VS开拓者 英文原声 09:25" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 英文原声 09:25
+http://migu.shanhaiguanwu.top:80/963977979
+
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者智能字幕09:15" tvg-name="NBA 马刺VS开拓者 智能字幕 09:15" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 智能字幕 09:15
+http://migu.shanhaiguanwu.top:80/963977998
+
+#EXTINF:-1 tvg-id="亚洲攀岩锦标赛亚洲攀岩锦标赛暨亚运会资格赛day2解说09:30" tvg-name="亚洲攀岩锦标赛 亚洲攀岩锦标赛暨亚运会资格赛day2 解说 09:30" tvg-logo="" group-title="综合",亚洲攀岩锦标赛 亚洲攀岩锦标赛暨亚运会资格赛day2 解说 09:30
+http://migu.shanhaiguanwu.top:80/963943603
+
+#EXTINF:-1 tvg-id="NBA快船VS雷霆孙博曾令旭裴优09:45" tvg-name="NBA 快船VS雷霆 孙博 曾令旭 裴优 09:45" tvg-logo="" group-title="综合",NBA 快船VS雷霆 孙博 曾令旭 裴优 09:45
+http://migu.shanhaiguanwu.top:80/963978023
+
+#EXTINF:-1 tvg-id="NBA快船VS雷霆英文原声09:55" tvg-name="NBA 快船VS雷霆 英文原声 09:55" tvg-logo="" group-title="综合",NBA 快船VS雷霆 英文原声 09:55
+http://migu.shanhaiguanwu.top:80/963978050
+
+#EXTINF:-1 tvg-id="NBA太阳VS独行侠李天宇陈正昊廖昕阳09:45" tvg-name="NBA 太阳VS独行侠 李天宇 陈正昊 廖昕阳 09:45" tvg-logo="" group-title="综合",NBA 太阳VS独行侠 李天宇 陈正昊 廖昕阳 09:45
+http://migu.shanhaiguanwu.top:80/963978073
+
+#EXTINF:-1 tvg-id="NBA太阳VS独行侠英文原声09:55" tvg-name="NBA 太阳VS独行侠 英文原声 09:55" tvg-logo="" group-title="综合",NBA 太阳VS独行侠 英文原声 09:55
+http://migu.shanhaiguanwu.top:80/963978197
+
+#EXTINF:-1 tvg-id="NBA太阳VS独行侠智能字幕09:45" tvg-name="NBA 太阳VS独行侠 智能字幕 09:45" tvg-logo="" group-title="综合",NBA 太阳VS独行侠 智能字幕 09:45
+http://migu.shanhaiguanwu.top:80/963978252
+
+#EXTINF:-1 tvg-id="英超青年杯北京男足选拔队vs阿森纳赛场原声09:50" tvg-name="英超青年杯 北京男足选拔队vs阿森纳 赛场原声 09:50" tvg-logo="" group-title="综合",英超青年杯 北京男足选拔队vs阿森纳 赛场原声 09:50
+http://migu.shanhaiguanwu.top:80/963904230
+
+#EXTINF:-1 tvg-id="英超青年杯阿斯顿维拉vs石家庄功夫赛场原声09:50" tvg-name="英超青年杯 阿斯顿维拉vs石家庄功夫 赛场原声 09:50" tvg-logo="" group-title="综合",英超青年杯 阿斯顿维拉vs石家庄功夫 赛场原声 09:50
+http://migu.shanhaiguanwu.top:80/963904239
+
+#EXTINF:-1 tvg-id="WTT双打1/8决赛、男女单打1/16决赛开幕式10:00" tvg-name="WTT 双打1/8决赛、男女单打1/16决赛 开幕式 10:00" tvg-logo="" group-title="综合",WTT 双打1/8决赛、男女单打1/16决赛 开幕式 10:00
+http://migu.shanhaiguanwu.top:80/964020690
+
+#EXTINF:-1 tvg-id="WTT双打1/8决赛、男女单打1/16决赛刘馨蕊10:30" tvg-name="WTT 双打1/8决赛、男女单打1/16决赛 刘馨蕊 10:30" tvg-logo="" group-title="综合",WTT 双打1/8决赛、男女单打1/16决赛 刘馨蕊 10:30
+http://migu.shanhaiguanwu.top:80/963962999
+
+#EXTINF:-1 tvg-id="WTT双打1/8决赛、男女单打1/16决赛3D全真视频10:30" tvg-name="WTT 双打1/8决赛、男女单打1/16决赛 3D全真视频 10:30" tvg-logo="" group-title="综合",WTT 双打1/8决赛、男女单打1/16决赛 3D全真视频 10:30
+http://migu.shanhaiguanwu.top:80/964029629
+
+#EXTINF:-1 tvg-id="WTT双打1/8决赛、男女单打1/16决赛1号桌10:30" tvg-name="WTT 双打1/8决赛、男女单打1/16决赛 1号桌 10:30" tvg-logo="" group-title="综合",WTT 双打1/8决赛、男女单打1/16决赛 1号桌 10:30
+http://migu.shanhaiguanwu.top:80/963962896
+
+#EXTINF:-1 tvg-id="WTT双打1/8决赛、男女单打1/16决赛2号桌10:30" tvg-name="WTT 双打1/8决赛、男女单打1/16决赛 2号桌 10:30" tvg-logo="" group-title="综合",WTT 双打1/8决赛、男女单打1/16决赛 2号桌 10:30
+http://migu.shanhaiguanwu.top:80/963962918
+
+#EXTINF:-1 tvg-id="WTT双打1/8决赛、男女单打1/16决赛3号桌10:30" tvg-name="WTT 双打1/8决赛、男女单打1/16决赛 3号桌 10:30" tvg-logo="" group-title="综合",WTT 双打1/8决赛、男女单打1/16决赛 3号桌 10:30
+http://migu.shanhaiguanwu.top:80/963962938
+
+#EXTINF:-1 tvg-id="WTT双打1/8决赛、男女单打1/16决赛4号桌10:30" tvg-name="WTT 双打1/8决赛、男女单打1/16决赛 4号桌 10:30" tvg-logo="" group-title="综合",WTT 双打1/8决赛、男女单打1/16决赛 4号桌 10:30
+http://migu.shanhaiguanwu.top:80/963962972
+
+#EXTINF:-1 tvg-id="英超青年杯狼队vs上海申花赛场原声14:50" tvg-name="英超青年杯 狼队vs上海申花 赛场原声 14:50" tvg-logo="" group-title="综合",英超青年杯 狼队vs上海申花 赛场原声 14:50
+http://migu.shanhaiguanwu.top:80/963904241
+
+#EXTINF:-1 tvg-id="英超青年杯中国香港精英队vs浙江FC赛场原声14:50" tvg-name="英超青年杯 中国香港精英队vs浙江FC 赛场原声 14:50" tvg-logo="" group-title="综合",英超青年杯 中国香港精英队vs浙江FC 赛场原声 14:50
+http://migu.shanhaiguanwu.top:80/963904245
+
+#EXTINF:-1 tvg-id="WTT男女双打1/8决赛、男女单打1/16决赛凌维康17:00" tvg-name="WTT 男女双打1/8决赛、男女单打1/16决赛 凌维康 17:00" tvg-logo="" group-title="综合",WTT 男女双打1/8决赛、男女单打1/16决赛 凌维康 17:00
+http://migu.shanhaiguanwu.top:80/963963138
+
+#EXTINF:-1 tvg-id="WTT男女双打1/8决赛、男女单打1/16决赛3D全真视频17:00" tvg-name="WTT 男女双打1/8决赛、男女单打1/16决赛 3D全真视频 17:00" tvg-logo="" group-title="综合",WTT 男女双打1/8决赛、男女单打1/16决赛 3D全真视频 17:00
+http://migu.shanhaiguanwu.top:80/964029652
+
+#EXTINF:-1 tvg-id="WTT男女双打1/8决赛、男女单打1/16决赛1号桌17:00" tvg-name="WTT 男女双打1/8决赛、男女单打1/16决赛 1号桌 17:00" tvg-logo="" group-title="综合",WTT 男女双打1/8决赛、男女单打1/16决赛 1号桌 17:00
+http://migu.shanhaiguanwu.top:80/963963074
+
+#EXTINF:-1 tvg-id="WTT男女双打1/8决赛、男女单打1/16决赛2号桌17:00" tvg-name="WTT 男女双打1/8决赛、男女单打1/16决赛 2号桌 17:00" tvg-logo="" group-title="综合",WTT 男女双打1/8决赛、男女单打1/16决赛 2号桌 17:00
+http://migu.shanhaiguanwu.top:80/963963100
+
+#EXTINF:-1 tvg-id="WTT男女双打1/8决赛、男女单打1/16决赛3号桌17:00" tvg-name="WTT 男女双打1/8决赛、男女单打1/16决赛 3号桌 17:00" tvg-logo="" group-title="综合",WTT 男女双打1/8决赛、男女单打1/16决赛 3号桌 17:00
+http://migu.shanhaiguanwu.top:80/963963121
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次1号桌17:00" tvg-name="斯诺克 112进80轮次 1号桌 17:00" tvg-logo="" group-title="综合",斯诺克 112进80轮次 1号桌 17:00
+http://migu.shanhaiguanwu.top:80/964019077
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次2号桌17:00" tvg-name="斯诺克 112进80轮次 2号桌 17:00" tvg-logo="" group-title="综合",斯诺克 112进80轮次 2号桌 17:00
+http://migu.shanhaiguanwu.top:80/964019108
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次3号桌17:00" tvg-name="斯诺克 112进80轮次 3号桌 17:00" tvg-logo="" group-title="综合",斯诺克 112进80轮次 3号桌 17:00
+http://migu.shanhaiguanwu.top:80/964019120
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次4号桌17:00" tvg-name="斯诺克 112进80轮次 4号桌 17:00" tvg-logo="" group-title="综合",斯诺克 112进80轮次 4号桌 17:00
+http://migu.shanhaiguanwu.top:80/964019144
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次5号桌17:00" tvg-name="斯诺克 112进80轮次 5号桌 17:00" tvg-logo="" group-title="综合",斯诺克 112进80轮次 5号桌 17:00
+http://migu.shanhaiguanwu.top:80/964019177
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次6号桌17:00" tvg-name="斯诺克 112进80轮次 6号桌 17:00" tvg-logo="" group-title="综合",斯诺克 112进80轮次 6号桌 17:00
+http://migu.shanhaiguanwu.top:80/964019184
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次7号桌17:00" tvg-name="斯诺克 112进80轮次 7号桌 17:00" tvg-logo="" group-title="综合",斯诺克 112进80轮次 7号桌 17:00
+http://migu.shanhaiguanwu.top:80/964019199
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次8号桌17:00" tvg-name="斯诺克 112进80轮次 8号桌 17:00" tvg-logo="" group-title="综合",斯诺克 112进80轮次 8号桌 17:00
+http://migu.shanhaiguanwu.top:80/964019207
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次朱峰立17:00" tvg-name="斯诺克 112进80轮次 朱峰立 17:00" tvg-logo="" group-title="综合",斯诺克 112进80轮次 朱峰立 17:00
+http://migu.shanhaiguanwu.top:80/964037407
+
+#EXTINF:-1 tvg-id="国青男篮热身赛新西兰U18男篮VS加拿大皇冠篮球队赛场原声18:20" tvg-name="国青男篮热身赛 新西兰U18男篮VS加拿大皇冠篮球队 赛场原声 18:20" tvg-logo="" group-title="综合",国青男篮热身赛 新西兰U18男篮VS加拿大皇冠篮球队 赛场原声 18:20
+http://migu.shanhaiguanwu.top:80/963960852
+
+#EXTINF:-1 tvg-id="匹克球明星表演赛阿加西、格拉芙领衔出战赛场原声19:00" tvg-name="匹克球明星表演赛 阿加西、格拉芙领衔出战 赛场原声 19:00" tvg-logo="" group-title="综合",匹克球明星表演赛 阿加西、格拉芙领衔出战 赛场原声 19:00
+http://migu.shanhaiguanwu.top:80/963902566
+
+#EXTINF:-1 tvg-id="匹克球明星表演赛阿加西、格拉芙领衔出战英文解说19:00" tvg-name="匹克球明星表演赛 阿加西、格拉芙领衔出战 英文解说 19:00" tvg-logo="" group-title="综合",匹克球明星表演赛 阿加西、格拉芙领衔出战 英文解说 19:00
+http://migu.shanhaiguanwu.top:80/964045477
+
+#EXTINF:-1 tvg-id="CBA江苏肯帝亚VS浙江稠州金租图文直播19:35" tvg-name="CBA 江苏肯帝亚VS浙江稠州金租 图文直播 19:35" tvg-logo="" group-title="综合",CBA 江苏肯帝亚VS浙江稠州金租 图文直播 19:35
+http://migu.shanhaiguanwu.top:80/963890998
+
+#EXTINF:-1 tvg-id="CBA山西汾酒VS深圳马可波罗图文直播19:35" tvg-name="CBA 山西汾酒VS深圳马可波罗 图文直播 19:35" tvg-logo="" group-title="综合",CBA 山西汾酒VS深圳马可波罗 图文直播 19:35
+http://migu.shanhaiguanwu.top:80/963891011
+
+#EXTINF:-1 tvg-id="WTAWTA林茨站Day4赛场原声20:00" tvg-name="WTA WTA林茨站Day4 赛场原声 20:00" tvg-logo="" group-title="综合",WTA WTA林茨站Day4 赛场原声 20:00
+http://migu.shanhaiguanwu.top:80/963943963
+
+#EXTINF:-1 tvg-id="WTAWTA林茨站Day4英文原声20:00" tvg-name="WTA WTA林茨站Day4 英文原声 20:00" tvg-logo="" group-title="综合",WTA WTA林茨站Day4 英文原声 20:00
+http://migu.shanhaiguanwu.top:80/963944067
+
+#EXTINF:-1 tvg-id="国青男篮热身赛中国U18男篮VS澳大利亚阿尔法篮球学院队石楷文20:20" tvg-name="国青男篮热身赛 中国U18男篮VS澳大利亚阿尔法篮球学院队 石楷文 20:20" tvg-logo="" group-title="综合",国青男篮热身赛 中国U18男篮VS澳大利亚阿尔法篮球学院队 石楷文 20:20
+http://migu.shanhaiguanwu.top:80/963960882
+
+#EXTINF:-1 tvg-id="国青男篮热身赛中国U18男篮VS澳大利亚阿尔法篮球学院队赛场原声20:20" tvg-name="国青男篮热身赛 中国U18男篮VS澳大利亚阿尔法篮球学院队 赛场原声 20:20" tvg-logo="" group-title="综合",国青男篮热身赛 中国U18男篮VS澳大利亚阿尔法篮球学院队 赛场原声 20:20
+http://migu.shanhaiguanwu.top:80/964045271
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次1号桌21:30" tvg-name="斯诺克 112进80轮次 1号桌 21:30" tvg-logo="" group-title="综合",斯诺克 112进80轮次 1号桌 21:30
+http://migu.shanhaiguanwu.top:80/964019248
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次2号桌21:30" tvg-name="斯诺克 112进80轮次 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 112进80轮次 2号桌 21:30
+http://migu.shanhaiguanwu.top:80/964019259
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次3号桌21:30" tvg-name="斯诺克 112进80轮次 3号桌 21:30" tvg-logo="" group-title="综合",斯诺克 112进80轮次 3号桌 21:30
+http://migu.shanhaiguanwu.top:80/964019276
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次4号桌21:30" tvg-name="斯诺克 112进80轮次 4号桌 21:30" tvg-logo="" group-title="综合",斯诺克 112进80轮次 4号桌 21:30
+http://migu.shanhaiguanwu.top:80/964019282
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次5号桌21:30" tvg-name="斯诺克 112进80轮次 5号桌 21:30" tvg-logo="" group-title="综合",斯诺克 112进80轮次 5号桌 21:30
+http://migu.shanhaiguanwu.top:80/964019295
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次6号桌21:30" tvg-name="斯诺克 112进80轮次 6号桌 21:30" tvg-logo="" group-title="综合",斯诺克 112进80轮次 6号桌 21:30
+http://migu.shanhaiguanwu.top:80/964019300
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次7号桌21:30" tvg-name="斯诺克 112进80轮次 7号桌 21:30" tvg-logo="" group-title="综合",斯诺克 112进80轮次 7号桌 21:30
+http://migu.shanhaiguanwu.top:80/964019313
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次8号桌21:30" tvg-name="斯诺克 112进80轮次 8号桌 21:30" tvg-logo="" group-title="综合",斯诺克 112进80轮次 8号桌 21:30
+http://migu.shanhaiguanwu.top:80/964019324
+
+#EXTINF:-1 tvg-id="斯诺克112进80轮次柏林21:30" tvg-name="斯诺克 112进80轮次 柏林 21:30" tvg-logo="" group-title="综合",斯诺克 112进80轮次 柏林 21:30
+http://migu.shanhaiguanwu.top:80/964037405
+
+# 
 # 
 # 
 # 
