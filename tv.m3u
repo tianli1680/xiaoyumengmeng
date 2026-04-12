@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新日期: 2026-04-12 17:53:14
+# 更新日期: 2026-04-13 07:36:10
 
 #EXTINF:-1 tvg-id="央视卫视" tvg-name="央视卫视" tvg-logo="" group-title="央视",央视卫视
 #genre#
@@ -7652,7 +7652,7 @@ http://156.238.248.80/live/2.index.m3u8
 http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="" group-title="体育",广东体育
-http://113.64.147.180:8081/hls/1/index.m3u8
+http://113.64.147.162:8081/hls/1/index.m3u8
 
 # 
 # 
