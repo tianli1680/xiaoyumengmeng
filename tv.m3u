@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新日期: 2026-04-22 07:35:24
+# 更新日期: 2026-04-22 18:24:43
 
 #EXTINF:-1 tvg-id="音乐欣赏" tvg-name="音乐欣赏" tvg-logo="" group-title="综合",音乐欣赏
 #genre#
@@ -245,587 +245,562 @@ http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 #genre#
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV1
-http://chengshuai.eu.org:1234/608807420
+http://513521.xyz:1234/608807420
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="央视",CCTV2
-http://chengshuai.eu.org:1234/631780532
+http://513521.xyz:1234/631780532
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="央视",CCTV3
-http://chengshuai.eu.org:1234/624878271
+http://513521.xyz:1234/624878271
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="央视",CCTV4
-http://chengshuai.eu.org:1234/631780421
+http://513521.xyz:1234/631780421
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5
-http://chengshuai.eu.org:1234/641886683
+http://513521.xyz:1234/641886683
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="央视",CCTV5+
-http://chengshuai.eu.org:1234/641886773
+http://513521.xyz:1234/641886773
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="央视",CCTV6
-http://chengshuai.eu.org:1234/624878396
+http://513521.xyz:1234/624878396
 
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="央视",CCTV7
-http://chengshuai.eu.org:1234/673168121
+http://513521.xyz:1234/673168121
 
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="央视",CCTV8
-http://chengshuai.eu.org:1234/624878356
+http://513521.xyz:1234/624878356
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="央视",CCTV9
-http://chengshuai.eu.org:1234/673168140
+http://513521.xyz:1234/673168140
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="央视",CCTV10
-http://chengshuai.eu.org:1234/624878405
+http://513521.xyz:1234/624878405
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="央视",CCTV11
-http://chengshuai.eu.org:1234/667987558
+http://513521.xyz:1234/667987558
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="央视",CCTV12
-http://chengshuai.eu.org:1234/673168185
+http://513521.xyz:1234/673168185
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="央视",CCTV13
-http://chengshuai.eu.org:1234/608807423
+http://513521.xyz:1234/608807423
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="央视",CCTV14
-http://chengshuai.eu.org:1234/624878440
+http://513521.xyz:1234/624878440
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="央视",CCTV15
-http://chengshuai.eu.org:1234/673168223
+http://513521.xyz:1234/673168223
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="央视",CCTV17
-http://chengshuai.eu.org:1234/673168256
+http://513521.xyz:1234/673168256
 
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="" group-title="央视",CCTV4欧洲
-http://chengshuai.eu.org:1234/608807419
+http://513521.xyz:1234/608807419
 
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="" group-title="央视",CCTV4美洲
-http://chengshuai.eu.org:1234/608807416
+http://513521.xyz:1234/608807416
 
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="" group-title="综合",赛事最经典
-http://chengshuai.eu.org:1234/646596895
+http://513521.xyz:1234/646596895
 
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="" group-title="综合",体坛名栏汇
-http://chengshuai.eu.org:1234/629943305
+http://513521.xyz:1234/629943305
 
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="" group-title="综合",四海钓鱼
-http://chengshuai.eu.org:1234/637444975
+http://513521.xyz:1234/637444975
 
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="" group-title="卫视",大湾区卫视
-http://chengshuai.eu.org:1234/608917627
+http://513521.xyz:1234/608917627
 
 #EXTINF:-1 tvg-id="陕西体育" tvg-name="陕西体育" tvg-logo="" group-title="体育",陕西体育
-http://chengshuai.eu.org:1234/956909356
+http://513521.xyz:1234/956909356
 
 #EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="" group-title="体育",辽宁体育
-http://chengshuai.eu.org:1234/962067526
+http://513521.xyz:1234/962067526
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
-http://chengshuai.eu.org:1234/651632648
+http://513521.xyz:1234/651632648
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
-http://chengshuai.eu.org:1234/623899368
+http://513521.xyz:1234/623899368
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
-http://chengshuai.eu.org:1234/608831231
+http://513521.xyz:1234/608831231
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
-http://chengshuai.eu.org:1234/630287636
+http://513521.xyz:1234/630287636
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
-http://chengshuai.eu.org:1234/630291707
+http://513521.xyz:1234/630291707
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
-http://chengshuai.eu.org:1234/962042070
+http://513521.xyz:1234/962042070
 
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
-http://chengshuai.eu.org:1234/783847495
+http://513521.xyz:1234/783847495
 
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视",陕西卫视
-http://chengshuai.eu.org:1234/738910838
+http://513521.xyz:1234/738910838
 
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
-http://chengshuai.eu.org:1234/947472496
+http://513521.xyz:1234/947472496
 
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="" group-title="卫视",农林卫视
-http://chengshuai.eu.org:1234/956904896
+http://513521.xyz:1234/956904896
 
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视",兵团卫视
-http://chengshuai.eu.org:1234/956923145
+http://513521.xyz:1234/956923145
 
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="" group-title="新闻",上海新闻综合
-http://chengshuai.eu.org:1234/651632657
+http://513521.xyz:1234/651632657
 
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="" group-title="综合",上视东方影视
-http://chengshuai.eu.org:1234/617290047
+http://513521.xyz:1234/617290047
 
 #EXTINF:-1 tvg-id="公共新闻频道" tvg-name="公共新闻频道" tvg-logo="" group-title="新闻",公共新闻频道
-http://chengshuai.eu.org:1234/626064693
+http://513521.xyz:1234/626064693
 
 #EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="" group-title="新闻",盐城新闻综合
-http://chengshuai.eu.org:1234/639731825
+http://513521.xyz:1234/639731825
 
 #EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="" group-title="新闻",江阴新闻综合
-http://chengshuai.eu.org:1234/955227979
+http://513521.xyz:1234/955227979
 
 #EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="" group-title="新闻",南通新闻综合
-http://chengshuai.eu.org:1234/955227985
+http://513521.xyz:1234/955227985
 
 #EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="" group-title="新闻",宜兴新闻综合
-http://chengshuai.eu.org:1234/955227996
+http://513521.xyz:1234/955227996
 
 #EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="" group-title="新闻",溧水新闻综合
-http://chengshuai.eu.org:1234/639737327
+http://513521.xyz:1234/639737327
 
 #EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="" group-title="综合",陕西银龄频道
-http://chengshuai.eu.org:1234/956909362
+http://513521.xyz:1234/956909362
 
 #EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="" group-title="综合",陕西都市青春频道
-http://chengshuai.eu.org:1234/956909358
+http://513521.xyz:1234/956909358
 
 #EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="" group-title="综合",陕西秦腔频道
-http://chengshuai.eu.org:1234/956909303
+http://513521.xyz:1234/956909303
 
 #EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" tvg-logo="" group-title="新闻",陕西新闻资讯频道
-http://chengshuai.eu.org:1234/956909289
+http://513521.xyz:1234/956909289
 
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="" group-title="综合",财富天下
-http://chengshuai.eu.org:1234/956923159
+http://513521.xyz:1234/956923159
 
 #EXTINF:-1 tvg-id="辽宁公共频道" tvg-name="辽宁公共频道" tvg-logo="" group-title="综合",辽宁公共频道
-http://chengshuai.eu.org:1234/962045223
+http://513521.xyz:1234/962045223
 
 #EXTINF:-1 tvg-id="辽宁生活频道" tvg-name="辽宁生活频道" tvg-logo="" group-title="综合",辽宁生活频道
-http://chengshuai.eu.org:1234/962045226
+http://513521.xyz:1234/962045226
 
 #EXTINF:-1 tvg-id="辽宁影视剧频道" tvg-name="辽宁影视剧频道" tvg-logo="" group-title="综合",辽宁影视剧频道
-http://chengshuai.eu.org:1234/962067517
+http://513521.xyz:1234/962067517
 
 #EXTINF:-1 tvg-id="宁夏文旅频道" tvg-name="宁夏文旅频道" tvg-logo="" group-title="综合",宁夏文旅频道
-http://chengshuai.eu.org:1234/962067523
+http://513521.xyz:1234/962067523
 
 #EXTINF:-1 tvg-id="宁夏经济频道" tvg-name="宁夏经济频道" tvg-logo="" group-title="综合",宁夏经济频道
-http://chengshuai.eu.org:1234/962067520
+http://513521.xyz:1234/962067520
 
 #EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="" group-title="电影",经典香港电影
-http://chengshuai.eu.org:1234/625703337
+http://513521.xyz:1234/625703337
 
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="" group-title="综合",抗战经典影片
-http://chengshuai.eu.org:1234/617432318
+http://513521.xyz:1234/617432318
 
 #EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="" group-title="综合",新片放映厅
-http://chengshuai.eu.org:1234/619495952
+http://513521.xyz:1234/619495952
 
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="" group-title="电影",CHC影迷电影
-http://chengshuai.eu.org:1234/952383261
+http://513521.xyz:1234/952383261
 
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="电影",CHC动作电影
-http://chengshuai.eu.org:1234/644368714
+http://513521.xyz:1234/644368714
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="电影",CHC家庭影院
-http://chengshuai.eu.org:1234/644368373
+http://513521.xyz:1234/644368373
 
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="" group-title="综合",和美乡途轮播台
-http://chengshuai.eu.org:1234/713591450
+http://513521.xyz:1234/713591450
 
 #EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="" group-title="综合",最强综艺趴
-http://chengshuai.eu.org:1234/629942228
+http://513521.xyz:1234/629942228
 
 # 
 # 
 #EXTINF:-1 tvg-id="体育-昨天" tvg-name="体育-昨天" tvg-logo="" group-title="体育",体育-昨天
 #genre#
 
-#EXTINF:-1 tvg-id="意甲比萨VS热那亚全场回放（吴奕博）23:45" tvg-name="意甲 比萨VS热那亚 全场回放（吴奕博） 23:45" tvg-logo="" group-title="综合",意甲 比萨VS热那亚 全场回放（吴奕博） 23:45
-http://chengshuai.eu.org:1234/964287011
+#EXTINF:-1 tvg-id="亚冠精英神户胜利船VS吉达国民全场回放（鲁靖明）00:00" tvg-name="亚冠精英 神户胜利船VS吉达国民 全场回放（鲁靖明） 00:00" tvg-logo="" group-title="综合",亚冠精英 神户胜利船VS吉达国民 全场回放（鲁靖明） 00:00
+http://513521.xyz:1234/964305959
 
-#EXTINF:-1 tvg-id="NBA凯尔特人VS76人全场回放（蔡凯臣、季孟年、拜月宁）00:55" tvg-name="NBA 凯尔特人VS76人 全场回放（蔡凯臣、季孟年、拜月宁） 00:55" tvg-logo="" group-title="综合",NBA 凯尔特人VS76人 全场回放（蔡凯臣、季孟年、拜月宁） 00:55
-http://chengshuai.eu.org:1234/964287794
+#EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一【回放】肖恩·墨菲5-4范争一（第一阶段）（朱峰立）02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲5-4范争一（第一阶段）（朱峰立） 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲5-4范争一（第一阶段）（朱峰立） 02:00
+http://513521.xyz:1234/964306910
 
-#EXTINF:-1 tvg-id="NBA凯尔特人VS76人全场回放（英文原声）00:55" tvg-name="NBA 凯尔特人VS76人 全场回放（英文原声） 00:55" tvg-logo="" group-title="综合",NBA 凯尔特人VS76人 全场回放（英文原声） 00:55
-http://chengshuai.eu.org:1234/964287753
+#EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一【回放】肖恩·墨菲5-4范争一（第一阶段）（赛场原声）02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲5-4范争一（第一阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲5-4范争一（第一阶段）（赛场原声） 02:00
+http://513521.xyz:1234/964306982
 
-#EXTINF:-1 tvg-id="德甲门兴格拉德巴赫VS美因茨全场回放（王子睿）01:15" tvg-name="德甲 门兴格拉德巴赫VS美因茨 全场回放（王子睿） 01:15" tvg-logo="" group-title="综合",德甲 门兴格拉德巴赫VS美因茨 全场回放（王子睿） 01:15
-http://chengshuai.eu.org:1234/964287703
+#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS斯坦·穆迪【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（孙嘉星）02:00" tvg-name="斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（孙嘉星） 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（孙嘉星） 02:00
+http://513521.xyz:1234/964306830
 
-#EXTINF:-1 tvg-id="斯诺克肖国栋VS周跃龙【回放】肖国栋10-6周跃龙（第二阶段）（朱峰立）02:00" tvg-name="斯诺克 肖国栋VS周跃龙 【回放】肖国栋10-6周跃龙（第二阶段）（朱峰立） 02:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS周跃龙 【回放】肖国栋10-6周跃龙（第二阶段）（朱峰立） 02:00
-http://chengshuai.eu.org:1234/964288127
+#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS斯坦·穆迪【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（赛场原声） 02:00
+http://513521.xyz:1234/964306944
 
-#EXTINF:-1 tvg-id="斯诺克肖国栋VS周跃龙【回放】肖国栋10-6周跃龙（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 肖国栋VS周跃龙 【回放】肖国栋10-6周跃龙（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS周跃龙 【回放】肖国栋10-6周跃龙（第二阶段）（赛场原声） 02:00
-http://chengshuai.eu.org:1234/964288309
+#EXTINF:-1 tvg-id="意甲莱切VS佛罗伦萨全场回放（梁祥宇）02:30" tvg-name="意甲 莱切VS佛罗伦萨 全场回放（梁祥宇） 02:30" tvg-logo="" group-title="综合",意甲 莱切VS佛罗伦萨 全场回放（梁祥宇） 02:30
+http://513521.xyz:1234/964306750
 
-#EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS科瓦斯基【回放】马克·威廉姆斯10-4安东尼·科瓦斯基（第二阶段）（陶哲铭）02:00" tvg-name="斯诺克 马克·威廉姆斯VS科瓦斯基 【回放】马克·威廉姆斯10-4安东尼·科瓦斯基（第二阶段）（陶哲铭） 02:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS科瓦斯基 【回放】马克·威廉姆斯10-4安东尼·科瓦斯基（第二阶段）（陶哲铭） 02:00
-http://chengshuai.eu.org:1234/964287898
+#EXTINF:-1 tvg-id="英超水晶宫VS西汉姆联全场回放（刘焕）02:45" tvg-name="英超 水晶宫VS西汉姆联 全场回放（刘焕） 02:45" tvg-logo="" group-title="综合",英超 水晶宫VS西汉姆联 全场回放（刘焕） 02:45
+http://513521.xyz:1234/964306809
 
-#EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS科瓦斯基【回放】马克·威廉姆斯10-4安东尼·科瓦斯基（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 马克·威廉姆斯VS科瓦斯基 【回放】马克·威廉姆斯10-4安东尼·科瓦斯基（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS科瓦斯基 【回放】马克·威廉姆斯10-4安东尼·科瓦斯基（第二阶段）（赛场原声） 02:00
-http://chengshuai.eu.org:1234/964287999
+#EXTINF:-1 tvg-id="NBA骑士VS猛龙全场回放（姜帆、李根、裴优）06:55" tvg-name="NBA 骑士VS猛龙 全场回放（姜帆、李根、裴优） 06:55" tvg-logo="" group-title="综合",NBA 骑士VS猛龙 全场回放（姜帆、李根、裴优） 06:55
+http://513521.xyz:1234/964309243
 
-#EXTINF:-1 tvg-id="法甲巴黎圣日耳曼VS里昂全场回放（鹿中原、王宇）02:30" tvg-name="法甲 巴黎圣日耳曼VS里昂 全场回放（鹿中原、王宇） 02:30" tvg-logo="" group-title="综合",法甲 巴黎圣日耳曼VS里昂 全场回放（鹿中原、王宇） 02:30
-http://chengshuai.eu.org:1234/964288073
+#EXTINF:-1 tvg-id="NBA骑士VS猛龙全场回放（大史）06:55" tvg-name="NBA 骑士VS猛龙 全场回放（大史） 06:55" tvg-logo="" group-title="综合",NBA 骑士VS猛龙 全场回放（大史） 06:55
+http://513521.xyz:1234/964309951
 
-#EXTINF:-1 tvg-id="意甲尤文图斯VS博洛尼亚全场回放（吴桐、刘腾）02:15" tvg-name="意甲 尤文图斯VS博洛尼亚 全场回放（吴桐、刘腾） 02:15" tvg-logo="" group-title="综合",意甲 尤文图斯VS博洛尼亚 全场回放（吴桐、刘腾） 02:15
-http://chengshuai.eu.org:1234/964287985
+#EXTINF:-1 tvg-id="NBA骑士VS猛龙全场回放（英文原声）06:55" tvg-name="NBA 骑士VS猛龙 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 骑士VS猛龙 全场回放（英文原声） 06:55
+http://513521.xyz:1234/964309369
 
-#EXTINF:-1 tvg-id="亚冠二级多哈国民VS伊尔比德侯赛因全场回放（张天翼）02:45" tvg-name="亚冠二级 多哈国民VS伊尔比德侯赛因 全场回放（张天翼） 02:45" tvg-logo="" group-title="综合",亚冠二级 多哈国民VS伊尔比德侯赛因 全场回放（张天翼） 02:45
-http://chengshuai.eu.org:1234/964288069
+#EXTINF:-1 tvg-id="NBA尼克斯VS老鹰全场回放（蔡凯臣、闫宇峰）07:55" tvg-name="NBA 尼克斯VS老鹰 全场回放（蔡凯臣、闫宇峰） 07:55" tvg-logo="" group-title="综合",NBA 尼克斯VS老鹰 全场回放（蔡凯臣、闫宇峰） 07:55
+http://513521.xyz:1234/964310848
 
-#EXTINF:-1 tvg-id="NBA雷霆VS太阳全场回放（孙博、周鹏、廖昕阳）03:25" tvg-name="NBA 雷霆VS太阳 全场回放（孙博、周鹏、廖昕阳） 03:25" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 全场回放（孙博、周鹏、廖昕阳） 03:25
-http://chengshuai.eu.org:1234/964288328
+#EXTINF:-1 tvg-id="NBA尼克斯VS老鹰全场回放（英文原声）07:55" tvg-name="NBA 尼克斯VS老鹰 全场回放（英文原声） 07:55" tvg-logo="" group-title="综合",NBA 尼克斯VS老鹰 全场回放（英文原声） 07:55
+http://513521.xyz:1234/964311491
 
-#EXTINF:-1 tvg-id="NBA雷霆VS太阳全场回放（英文原声）03:25" tvg-name="NBA 雷霆VS太阳 全场回放（英文原声） 03:25" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 全场回放（英文原声） 03:25
-http://chengshuai.eu.org:1234/964288307
+#EXTINF:-1 tvg-id="NBA掘金VS森林狼全场回放（王冠证、徐咏、王羽希）10:25" tvg-name="NBA 掘金VS森林狼 全场回放（王冠证、徐咏、王羽希） 10:25" tvg-logo="" group-title="综合",NBA 掘金VS森林狼 全场回放（王冠证、徐咏、王羽希） 10:25
+http://513521.xyz:1234/964313442
 
-#EXTINF:-1 tvg-id="NBA活塞VS魔术全场回放（庄宁宇、殷文玉）06:25" tvg-name="NBA 活塞VS魔术 全场回放（庄宁宇、殷文玉） 06:25" tvg-logo="" group-title="综合",NBA 活塞VS魔术 全场回放（庄宁宇、殷文玉） 06:25
-http://chengshuai.eu.org:1234/964289534
+#EXTINF:-1 tvg-id="NBA掘金VS森林狼全场回放（英文原声）10:25" tvg-name="NBA 掘金VS森林狼 全场回放（英文原声） 10:25" tvg-logo="" group-title="综合",NBA 掘金VS森林狼 全场回放（英文原声） 10:25
+http://513521.xyz:1234/964313365
 
-#EXTINF:-1 tvg-id="NBA活塞VS魔术全场回放（英文原声）06:25" tvg-name="NBA 活塞VS魔术 全场回放（英文原声） 06:25" tvg-logo="" group-title="综合",NBA 活塞VS魔术 全场回放（英文原声） 06:25
-http://chengshuai.eu.org:1234/964289493
+#EXTINF:-1 tvg-id="斯诺克克里斯·韦克林VS利亚姆·普伦【回放】克里斯·韦克林5-4利亚姆·普伦（第一阶段）（乔迁）17:00" tvg-name="斯诺克 克里斯·韦克林VS利亚姆·普伦 【回放】克里斯·韦克林5-4利亚姆·普伦（第一阶段）（乔迁） 17:00" tvg-logo="" group-title="综合",斯诺克 克里斯·韦克林VS利亚姆·普伦 【回放】克里斯·韦克林5-4利亚姆·普伦（第一阶段）（乔迁） 17:00
+http://513521.xyz:1234/964324613
 
-#EXTINF:-1 tvg-id="崇左麦那湖百万垂钓大赛崇左麦那湖百万垂钓大赛day32026崇左麦那湖百万垂钓大赛Day3全场回放（官方解说）（二）08:30" tvg-name="崇左麦那湖百万垂钓大赛 崇左麦那湖百万垂钓大赛day3 2026崇左麦那湖百万垂钓大赛Day3全场回放（官方解说）（二） 08:30" tvg-logo="" group-title="综合",崇左麦那湖百万垂钓大赛 崇左麦那湖百万垂钓大赛day3 2026崇左麦那湖百万垂钓大赛Day3全场回放（官方解说）（二） 08:30
-http://chengshuai.eu.org:1234/964300234
+#EXTINF:-1 tvg-id="斯诺克克里斯·韦克林VS利亚姆·普伦【回放】克里斯·韦克林5-4利亚姆·普伦（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 克里斯·韦克林VS利亚姆·普伦 【回放】克里斯·韦克林5-4利亚姆·普伦（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 克里斯·韦克林VS利亚姆·普伦 【回放】克里斯·韦克林5-4利亚姆·普伦（第一阶段）（赛场原声） 17:00
+http://513521.xyz:1234/964324904
 
-#EXTINF:-1 tvg-id="崇左麦那湖百万垂钓大赛崇左麦那湖百万垂钓大赛day32026崇左麦那湖百万垂钓大赛day3全场回放（官方解说）08:30" tvg-name="崇左麦那湖百万垂钓大赛 崇左麦那湖百万垂钓大赛day3 2026崇左麦那湖百万垂钓大赛day3全场回放（官方解说） 08:30" tvg-logo="" group-title="综合",崇左麦那湖百万垂钓大赛 崇左麦那湖百万垂钓大赛day3 2026崇左麦那湖百万垂钓大赛day3全场回放（官方解说） 08:30
-http://chengshuai.eu.org:1234/964295199
+#EXTINF:-1 tvg-id="斯诺克特鲁姆普VS加里·威尔逊【回放】贾德·特鲁姆普5-4加里·威尔逊（第一阶段）（陶哲铭）17:00" tvg-name="斯诺克 特鲁姆普VS加里·威尔逊 【回放】贾德·特鲁姆普5-4加里·威尔逊（第一阶段）（陶哲铭） 17:00" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS加里·威尔逊 【回放】贾德·特鲁姆普5-4加里·威尔逊（第一阶段）（陶哲铭） 17:00
+http://513521.xyz:1234/964321258
 
-#EXTINF:-1 tvg-id="NBA马刺VS开拓者全场回放（连睿、李根、苏群、裴优）08:55" tvg-name="NBA 马刺VS开拓者 全场回放（连睿、李根、苏群、裴优） 08:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 全场回放（连睿、李根、苏群、裴优） 08:55
-http://chengshuai.eu.org:1234/964293076
+#EXTINF:-1 tvg-id="斯诺克特鲁姆普VS加里·威尔逊【回放】贾德·特鲁姆普5-4加里·威尔逊（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 特鲁姆普VS加里·威尔逊 【回放】贾德·特鲁姆普5-4加里·威尔逊（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS加里·威尔逊 【回放】贾德·特鲁姆普5-4加里·威尔逊（第一阶段）（赛场原声） 17:00
+http://513521.xyz:1234/964324228
 
-#EXTINF:-1 tvg-id="NBA马刺VS开拓者全场回放（邢晨）08:55" tvg-name="NBA 马刺VS开拓者 全场回放（邢晨） 08:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 全场回放（邢晨） 08:55
-http://chengshuai.eu.org:1234/964292926
+#EXTINF:-1 tvg-id="中超深圳新鹏城VS北京国安全场回放（孙雨轩、黄健翔、郭小仙儿）18:45" tvg-name="中超 深圳新鹏城VS北京国安 全场回放（孙雨轩、黄健翔、郭小仙儿） 18:45" tvg-logo="" group-title="综合",中超 深圳新鹏城VS北京国安 全场回放（孙雨轩、黄健翔、郭小仙儿） 18:45
+http://513521.xyz:1234/964323193
 
-#EXTINF:-1 tvg-id="NBA马刺VS开拓者全场回放（王晓晨）08:55" tvg-name="NBA 马刺VS开拓者 全场回放（王晓晨） 08:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 全场回放（王晓晨） 08:55
-http://chengshuai.eu.org:1234/964293059
+#EXTINF:-1 tvg-id="NBL香港金牛VS上海玄鸟全场回放（李天宇、陈正昊）19:20" tvg-name="NBL 香港金牛VS上海玄鸟 全场回放（李天宇、陈正昊） 19:20" tvg-logo="" group-title="综合",NBL 香港金牛VS上海玄鸟 全场回放（李天宇、陈正昊） 19:20
+http://513521.xyz:1234/964323912
 
-#EXTINF:-1 tvg-id="NBA马刺VS开拓者全场回放（英文原声）08:55" tvg-name="NBA 马刺VS开拓者 全场回放（英文原声） 08:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 全场回放（英文原声） 08:55
-http://chengshuai.eu.org:1234/964293055
+#EXTINF:-1 tvg-id="NBL香港金牛VS上海玄鸟全场回放（官方解说）19:20" tvg-name="NBL 香港金牛VS上海玄鸟 全场回放（官方解说） 19:20" tvg-logo="" group-title="综合",NBL 香港金牛VS上海玄鸟 全场回放（官方解说） 19:20
+http://513521.xyz:1234/964326471
 
-#EXTINF:-1 tvg-id="国球进公园百园齐挥拍！共庆世界乒乓球日全场回放14:00" tvg-name="国球进公园 百园齐挥拍！共庆世界乒乓球日 全场回放 14:00" tvg-logo="" group-title="综合",国球进公园 百园齐挥拍！共庆世界乒乓球日 全场回放 14:00
-http://chengshuai.eu.org:1234/964301181
+#EXTINF:-1 tvg-id="NBL香港金牛VS上海玄鸟全场回放（原声）19:20" tvg-name="NBL 香港金牛VS上海玄鸟 全场回放（原声） 19:20" tvg-logo="" group-title="综合",NBL 香港金牛VS上海玄鸟 全场回放（原声） 19:20
+http://513521.xyz:1234/964326334
 
-#EXTINF:-1 tvg-id="足协杯厦门集美诚毅VS深圳二零二八全场回放（赛场原声）14:50" tvg-name="足协杯 厦门集美诚毅VS深圳二零二八 全场回放（赛场原声） 14:50" tvg-logo="" group-title="综合",足协杯 厦门集美诚毅VS深圳二零二八 全场回放（赛场原声） 14:50
-http://chengshuai.eu.org:1234/964300861
+#EXTINF:-1 tvg-id="中超武汉三镇VS浙江俱乐部绿城全场回放（鲁靖明、徐云龙）19:20" tvg-name="中超 武汉三镇VS浙江俱乐部绿城 全场回放（鲁靖明、徐云龙） 19:20" tvg-logo="" group-title="综合",中超 武汉三镇VS浙江俱乐部绿城 全场回放（鲁靖明、徐云龙） 19:20
+http://513521.xyz:1234/964324511
 
-#EXTINF:-1 tvg-id="斯诺克丁俊晖VS吉尔伯特【回放】丁俊晖10-5大卫·吉尔伯特（第二阶段）（秦正、袁成）（50帧原画）17:00" tvg-name="斯诺克 丁俊晖VS吉尔伯特 【回放】丁俊晖10-5大卫·吉尔伯特（第二阶段）（秦正、袁成）（50帧原画） 17:00" tvg-logo="" group-title="综合",斯诺克 丁俊晖VS吉尔伯特 【回放】丁俊晖10-5大卫·吉尔伯特（第二阶段）（秦正、袁成）（50帧原画） 17:00
-http://chengshuai.eu.org:1234/964302237
+#EXTINF:-1 tvg-id="中超成都蓉城VS云南玉昆全场回放（李欣、杨晨、程思钦）19:30" tvg-name="中超 成都蓉城VS云南玉昆 全场回放（李欣、杨晨、程思钦） 19:30" tvg-logo="" group-title="综合",中超 成都蓉城VS云南玉昆 全场回放（李欣、杨晨、程思钦） 19:30
+http://513521.xyz:1234/964325961
 
-#EXTINF:-1 tvg-id="斯诺克丁俊晖VS吉尔伯特【回放】丁俊晖10-5大卫·吉尔伯特（第二阶段）（乔迁）17:00" tvg-name="斯诺克 丁俊晖VS吉尔伯特 【回放】丁俊晖10-5大卫·吉尔伯特（第二阶段）（乔迁） 17:00" tvg-logo="" group-title="综合",斯诺克 丁俊晖VS吉尔伯特 【回放】丁俊晖10-5大卫·吉尔伯特（第二阶段）（乔迁） 17:00
-http://chengshuai.eu.org:1234/964302232
+#EXTINF:-1 tvg-id="中超成都蓉城VS云南玉昆全场回放（涂远）19:30" tvg-name="中超 成都蓉城VS云南玉昆 全场回放（涂远） 19:30" tvg-logo="" group-title="综合",中超 成都蓉城VS云南玉昆 全场回放（涂远） 19:30
+http://513521.xyz:1234/964326449
 
-#EXTINF:-1 tvg-id="斯诺克丁俊晖VS吉尔伯特【回放】丁俊晖10-5大卫·吉尔伯特（第二阶段）（赛场原声）17:00" tvg-name="斯诺克 丁俊晖VS吉尔伯特 【回放】丁俊晖10-5大卫·吉尔伯特（第二阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 丁俊晖VS吉尔伯特 【回放】丁俊晖10-5大卫·吉尔伯特（第二阶段）（赛场原声） 17:00
-http://chengshuai.eu.org:1234/964302579
+#EXTINF:-1 tvg-id="中超天津津门虎VS山东泰山全场回放（石庆圣、李彦、孙蕊）19:45" tvg-name="中超 天津津门虎VS山东泰山 全场回放（石庆圣、李彦、孙蕊） 19:45" tvg-logo="" group-title="综合",中超 天津津门虎VS山东泰山 全场回放（石庆圣、李彦、孙蕊） 19:45
+http://513521.xyz:1234/964326874
 
-#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS斯坦·穆迪【回放】凯伦·威尔逊3-6斯坦·穆迪（第一阶段）（朱峰立）17:00" tvg-name="斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊3-6斯坦·穆迪（第一阶段）（朱峰立） 17:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊3-6斯坦·穆迪（第一阶段）（朱峰立） 17:00
-http://chengshuai.eu.org:1234/964302322
+#EXTINF:-1 tvg-id="中超上海海港VS重庆铜梁龙全场回放（娄一晨、刘越、姚安妮）19:45" tvg-name="中超 上海海港VS重庆铜梁龙 全场回放（娄一晨、刘越、姚安妮） 19:45" tvg-logo="" group-title="综合",中超 上海海港VS重庆铜梁龙 全场回放（娄一晨、刘越、姚安妮） 19:45
+http://513521.xyz:1234/964325984
 
-#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS斯坦·穆迪【回放】凯伦·威尔逊3-6斯坦·穆迪（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊3-6斯坦·穆迪（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊3-6斯坦·穆迪（第一阶段）（赛场原声） 17:00
-http://chengshuai.eu.org:1234/964302661
+#EXTINF:-1 tvg-id="斯诺克奥沙利文VS贺国强2026斯诺克世锦赛首轮回放：奥沙利文7-2贺国强（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 奥沙利文VS贺国强 2026斯诺克世锦赛首轮回放：奥沙利文7-2贺国强（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 奥沙利文VS贺国强 2026斯诺克世锦赛首轮回放：奥沙利文7-2贺国强（第一阶段）（赛场原声） 21:30
+http://513521.xyz:1234/964328709
 
-#EXTINF:-1 tvg-id="斯诺克约翰·希金斯VS阿里·卡特【回放】约翰·希金斯10-7阿里·卡特（第二阶段）（朱蒙）21:30" tvg-name="斯诺克 约翰·希金斯VS阿里·卡特 【回放】约翰·希金斯10-7阿里·卡特（第二阶段）（朱蒙） 21:30" tvg-logo="" group-title="综合",斯诺克 约翰·希金斯VS阿里·卡特 【回放】约翰·希金斯10-7阿里·卡特（第二阶段）（朱蒙） 21:30
-http://chengshuai.eu.org:1234/964305906
+#EXTINF:-1 tvg-id="斯诺克奥沙利文VS贺国强2026斯诺克世锦赛首轮回放：奥沙利文7-2贺国强（第一阶段）（柏林）21:30" tvg-name="斯诺克 奥沙利文VS贺国强 2026斯诺克世锦赛首轮回放：奥沙利文7-2贺国强（第一阶段）（柏林） 21:30" tvg-logo="" group-title="综合",斯诺克 奥沙利文VS贺国强 2026斯诺克世锦赛首轮回放：奥沙利文7-2贺国强（第一阶段）（柏林） 21:30
+http://513521.xyz:1234/964328102
 
-#EXTINF:-1 tvg-id="斯诺克约翰·希金斯VS阿里·卡特【回放】约翰·希金斯10-7阿里·卡特（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 约翰·希金斯VS阿里·卡特 【回放】约翰·希金斯10-7阿里·卡特（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 约翰·希金斯VS阿里·卡特 【回放】约翰·希金斯10-7阿里·卡特（第二阶段）（赛场原声） 21:30
-http://chengshuai.eu.org:1234/964305876
+#EXTINF:-1 tvg-id="斯诺克吴宜泽VS雷佩凡【回放】吴宜泽10-2雷佩凡（第二阶段）（朱蒙）21:30" tvg-name="斯诺克 吴宜泽VS雷佩凡 【回放】吴宜泽10-2雷佩凡（第二阶段）（朱蒙） 21:30" tvg-logo="" group-title="综合",斯诺克 吴宜泽VS雷佩凡 【回放】吴宜泽10-2雷佩凡（第二阶段）（朱蒙） 21:30
+http://513521.xyz:1234/964325954
 
-#EXTINF:-1 tvg-id="斯诺克吴宜泽VS雷佩凡【回放】吴宜泽8-1雷佩凡（第一阶段）（柏林）21:30" tvg-name="斯诺克 吴宜泽VS雷佩凡 【回放】吴宜泽8-1雷佩凡（第一阶段）（柏林） 21:30" tvg-logo="" group-title="综合",斯诺克 吴宜泽VS雷佩凡 【回放】吴宜泽8-1雷佩凡（第一阶段）（柏林） 21:30
-http://chengshuai.eu.org:1234/964305692
+#EXTINF:-1 tvg-id="斯诺克吴宜泽VS雷佩凡【回放】吴宜泽10-2雷佩凡（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 吴宜泽VS雷佩凡 【回放】吴宜泽10-2雷佩凡（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 吴宜泽VS雷佩凡 【回放】吴宜泽10-2雷佩凡（第二阶段）（赛场原声） 21:30
+http://513521.xyz:1234/964326595
 
-#EXTINF:-1 tvg-id="斯诺克吴宜泽VS雷佩凡【回放】吴宜泽8-1雷佩凡（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 吴宜泽VS雷佩凡 【回放】吴宜泽8-1雷佩凡（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 吴宜泽VS雷佩凡 【回放】吴宜泽8-1雷佩凡（第一阶段）（赛场原声） 21:30
-http://chengshuai.eu.org:1234/964305869
+#EXTINF:-1 tvg-id="女篮世界杯资格赛国际篮联女篮世界杯抽签仪式全场回放（邵化谦季孟年）23:50" tvg-name="女篮世界杯资格赛 国际篮联女篮世界杯抽签仪式 全场回放（邵化谦 季孟年） 23:50" tvg-logo="" group-title="综合",女篮世界杯资格赛 国际篮联女篮世界杯抽签仪式 全场回放（邵化谦 季孟年） 23:50
+http://513521.xyz:1234/964328127
+
+#EXTINF:-1 tvg-id="女篮世界杯资格赛国际篮联女篮世界杯抽签仪式全场回放（现场原声）23:50" tvg-name="女篮世界杯资格赛 国际篮联女篮世界杯抽签仪式 全场回放（现场原声） 23:50" tvg-logo="" group-title="综合",女篮世界杯资格赛 国际篮联女篮世界杯抽签仪式 全场回放（现场原声） 23:50
+http://513521.xyz:1234/964328471
 
 #EXTINF:-1 tvg-id="体育-今天" tvg-name="体育-今天" tvg-logo="" group-title="体育",体育-今天
 #genre#
 
-#EXTINF:-1 tvg-id="亚冠精英神户胜利船VS吉达国民全场回放（鲁靖明）00:00" tvg-name="亚冠精英 神户胜利船VS吉达国民 全场回放（鲁靖明） 00:00" tvg-logo="" group-title="综合",亚冠精英 神户胜利船VS吉达国民 全场回放（鲁靖明） 00:00
-http://chengshuai.eu.org:1234/964305959
+#EXTINF:-1 tvg-id="亚冠精英町田泽维亚VS迪拜青年国民全场回放（石庆圣）00:00" tvg-name="亚冠精英 町田泽维亚VS迪拜青年国民 全场回放（石庆圣） 00:00" tvg-logo="" group-title="综合",亚冠精英 町田泽维亚VS迪拜青年国民 全场回放（石庆圣） 00:00
+http://513521.xyz:1234/964328653
 
-#EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一【回放】肖恩·墨菲5-4范争一（第一阶段）（朱峰立）02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲5-4范争一（第一阶段）（朱峰立） 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲5-4范争一（第一阶段）（朱峰立） 02:00
-http://chengshuai.eu.org:1234/964306910
+#EXTINF:-1 tvg-id="西甲马略卡VS瓦伦西亚全场回放（梁祥宇）00:45" tvg-name="西甲 马略卡VS瓦伦西亚 全场回放（梁祥宇） 00:45" tvg-logo="" group-title="综合",西甲 马略卡VS瓦伦西亚 全场回放（梁祥宇） 00:45
+http://513521.xyz:1234/964328765
 
-#EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一【回放】肖恩·墨菲5-4范争一（第一阶段）（赛场原声）02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲5-4范争一（第一阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲5-4范争一（第一阶段）（赛场原声） 02:00
-http://chengshuai.eu.org:1234/964306982
+#EXTINF:-1 tvg-id="西甲毕尔巴鄂竞技VS奥萨苏纳全场回放（张天翼）00:45" tvg-name="西甲 毕尔巴鄂竞技VS奥萨苏纳 全场回放（张天翼） 00:45" tvg-logo="" group-title="综合",西甲 毕尔巴鄂竞技VS奥萨苏纳 全场回放（张天翼） 00:45
+http://513521.xyz:1234/964328903
 
-#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS斯坦·穆迪【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（孙嘉星）02:00" tvg-name="斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（孙嘉星） 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（孙嘉星） 02:00
-http://chengshuai.eu.org:1234/964306830
+#EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一朱峰立02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 朱峰立 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 朱峰立 02:00
+http://513521.xyz:1234/964278373
 
-#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS斯坦·穆迪【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS斯坦·穆迪 【回放】凯伦·威尔逊10-7斯坦·穆迪（第二阶段）（赛场原声） 02:00
-http://chengshuai.eu.org:1234/964306944
+#EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一现场原声02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 现场原声 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 现场原声 02:00
+http://513521.xyz:1234/964183735
 
-#EXTINF:-1 tvg-id="意甲莱切VS佛罗伦萨全场回放（梁祥宇）02:30" tvg-name="意甲 莱切VS佛罗伦萨 全场回放（梁祥宇） 02:30" tvg-logo="" group-title="综合",意甲 莱切VS佛罗伦萨 全场回放（梁祥宇） 02:30
-http://chengshuai.eu.org:1234/964306750
+#EXTINF:-1 tvg-id="英超布莱顿VS切尔西苏东徐阳林梦鸽02:30" tvg-name="英超 布莱顿VS切尔西 苏东 徐阳 林梦鸽 02:30" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 苏东 徐阳 林梦鸽 02:30
+http://513521.xyz:1234/964223610
 
-#EXTINF:-1 tvg-id="英超水晶宫VS西汉姆联全场回放（刘焕）02:45" tvg-name="英超 水晶宫VS西汉姆联 全场回放（刘焕） 02:45" tvg-logo="" group-title="综合",英超 水晶宫VS西汉姆联 全场回放（刘焕） 02:45
-http://chengshuai.eu.org:1234/964306809
+#EXTINF:-1 tvg-id="英超布莱顿VS切尔西苏东徐阳林梦鸽02:30" tvg-name="英超 布莱顿VS切尔西 苏东 徐阳 林梦鸽 02:30" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 苏东 徐阳 林梦鸽 02:30
+http://513521.xyz:1234/964222941
 
-#EXTINF:-1 tvg-id="NBA骑士VS猛龙全场回放（大史）06:55" tvg-name="NBA 骑士VS猛龙 全场回放（大史） 06:55" tvg-logo="" group-title="综合",NBA 骑士VS猛龙 全场回放（大史） 06:55
-http://chengshuai.eu.org:1234/964309951
+#EXTINF:-1 tvg-id="英超布莱顿VS切尔西赛场原声02:45" tvg-name="英超 布莱顿VS切尔西 赛场原声 02:45" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 赛场原声 02:45
+http://513521.xyz:1234/964222863
 
-#EXTINF:-1 tvg-id="NBA骑士VS猛龙全场回放（英文原声）06:55" tvg-name="NBA 骑士VS猛龙 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 骑士VS猛龙 全场回放（英文原声） 06:55
-http://chengshuai.eu.org:1234/964309369
+#EXTINF:-1 tvg-id="英超布莱顿VS切尔西英文原声02:45" tvg-name="英超 布莱顿VS切尔西 英文原声 02:45" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 英文原声 02:45
+http://513521.xyz:1234/964222880
 
-#EXTINF:-1 tvg-id="NBA骑士VS猛龙全场回放（姜帆、李根、裴优）06:55" tvg-name="NBA 骑士VS猛龙 全场回放（姜帆、李根、裴优） 06:55" tvg-logo="" group-title="综合",NBA 骑士VS猛龙 全场回放（姜帆、李根、裴优） 06:55
-http://chengshuai.eu.org:1234/964309243
+#EXTINF:-1 tvg-id="意大利杯国际米兰VS科莫吴桐贺宇02:45" tvg-name="意大利杯 国际米兰VS科莫 吴桐 贺宇 02:45" tvg-logo="" group-title="综合",意大利杯 国际米兰VS科莫 吴桐 贺宇 02:45
+http://513521.xyz:1234/964222980
 
-#EXTINF:-1 tvg-id="NBA掘金VS森林狼王冠证徐咏王羽希10:15" tvg-name="NBA 掘金VS森林狼 王冠证 徐咏 王羽希 10:15" tvg-logo="" group-title="综合",NBA 掘金VS森林狼 王冠证 徐咏 王羽希 10:15
-http://chengshuai.eu.org:1234/964276776
+#EXTINF:-1 tvg-id="意大利杯国际米兰VS科莫赛场原声02:45" tvg-name="意大利杯 国际米兰VS科莫 赛场原声 02:45" tvg-logo="" group-title="综合",意大利杯 国际米兰VS科莫 赛场原声 02:45
+http://513521.xyz:1234/964222702
 
-#EXTINF:-1 tvg-id="NBA掘金VS森林狼英文原声10:25" tvg-name="NBA 掘金VS森林狼 英文原声 10:25" tvg-logo="" group-title="综合",NBA 掘金VS森林狼 英文原声 10:25
-http://chengshuai.eu.org:1234/964276832
+#EXTINF:-1 tvg-id="意大利杯国际米兰VS科莫吴桐贺宇02:45" tvg-name="意大利杯 国际米兰VS科莫 吴桐 贺宇 02:45" tvg-logo="" group-title="综合",意大利杯 国际米兰VS科莫 吴桐 贺宇 02:45
+http://513521.xyz:1234/964231099
 
-#EXTINF:-1 tvg-id="NBA掘金VS森林狼智能字幕10:25" tvg-name="NBA 掘金VS森林狼 智能字幕 10:25" tvg-logo="" group-title="综合",NBA 掘金VS森林狼 智能字幕 10:25
-http://chengshuai.eu.org:1234/964289720
+#EXTINF:-1 tvg-id="西甲吉罗纳VS皇家贝蒂斯张天翼03:15" tvg-name="西甲 吉罗纳VS皇家贝蒂斯 张天翼 03:15" tvg-logo="" group-title="综合",西甲 吉罗纳VS皇家贝蒂斯 张天翼 03:15
+http://513521.xyz:1234/964223330
 
-#EXTINF:-1 tvg-id="斯诺克克里斯·韦克林VS利亚姆·普伦乔迁17:00" tvg-name="斯诺克 克里斯·韦克林VS利亚姆·普伦 乔迁 17:00" tvg-logo="" group-title="综合",斯诺克 克里斯·韦克林VS利亚姆·普伦 乔迁 17:00
-http://chengshuai.eu.org:1234/964278317
+#EXTINF:-1 tvg-id="西甲吉罗纳VS皇家贝蒂斯赛场原声03:15" tvg-name="西甲 吉罗纳VS皇家贝蒂斯 赛场原声 03:15" tvg-logo="" group-title="综合",西甲 吉罗纳VS皇家贝蒂斯 赛场原声 03:15
+http://513521.xyz:1234/964223308
 
-#EXTINF:-1 tvg-id="斯诺克克里斯·韦克林VS利亚姆·普伦现场原声17:00" tvg-name="斯诺克 克里斯·韦克林VS利亚姆·普伦 现场原声 17:00" tvg-logo="" group-title="综合",斯诺克 克里斯·韦克林VS利亚姆·普伦 现场原声 17:00
-http://chengshuai.eu.org:1234/964184025
+#EXTINF:-1 tvg-id="西甲皇家马德里VS阿拉维斯鹿中原王宇03:15" tvg-name="西甲 皇家马德里VS阿拉维斯 鹿中原 王宇 03:15" tvg-logo="" group-title="综合",西甲 皇家马德里VS阿拉维斯 鹿中原 王宇 03:15
+http://513521.xyz:1234/964223066
 
-#EXTINF:-1 tvg-id="斯诺克特鲁姆普VS加里·威尔逊陶哲铭17:00" tvg-name="斯诺克 特鲁姆普VS加里·威尔逊 陶哲铭 17:00" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS加里·威尔逊 陶哲铭 17:00
-http://chengshuai.eu.org:1234/964278331
+#EXTINF:-1 tvg-id="西甲皇家马德里VS阿拉维斯赛场原声03:15" tvg-name="西甲 皇家马德里VS阿拉维斯 赛场原声 03:15" tvg-logo="" group-title="综合",西甲 皇家马德里VS阿拉维斯 赛场原声 03:15
+http://513521.xyz:1234/964223043
 
-#EXTINF:-1 tvg-id="斯诺克特鲁姆普VS加里·威尔逊2号桌17:00" tvg-name="斯诺克 特鲁姆普VS加里·威尔逊 2号桌 17:00" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS加里·威尔逊 2号桌 17:00
-http://chengshuai.eu.org:1234/964184088
+#EXTINF:-1 tvg-id="NBA凯尔特人VS76人庄宁宇殷文玉王羽希06:45" tvg-name="NBA 凯尔特人VS76人 庄宁宇 殷文玉 王羽希 06:45" tvg-logo="" group-title="综合",NBA 凯尔特人VS76人 庄宁宇 殷文玉 王羽希 06:45
+http://513521.xyz:1234/964277032
 
-#EXTINF:-1 tvg-id="斯诺克特鲁姆普VS加里·威尔逊韦克林VS普伦17:00" tvg-name="斯诺克 特鲁姆普VS加里·威尔逊 韦克林VS普伦 17:00" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS加里·威尔逊 韦克林VS普伦 17:00
-http://chengshuai.eu.org:1234/964184025
+#EXTINF:-1 tvg-id="NBA凯尔特人VS76人英文原声06:55" tvg-name="NBA 凯尔特人VS76人 英文原声 06:55" tvg-logo="" group-title="综合",NBA 凯尔特人VS76人 英文原声 06:55
+http://513521.xyz:1234/964277070
 
-#EXTINF:-1 tvg-id="中超深圳新鹏城VS北京国安孙雨轩黄健翔郭小仙儿18:30" tvg-name="中超 深圳新鹏城VS北京国安 孙雨轩 黄健翔 郭小仙儿 18:30" tvg-logo="" group-title="综合",中超 深圳新鹏城VS北京国安 孙雨轩 黄健翔 郭小仙儿 18:30
-http://chengshuai.eu.org:1234/964238244
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者连睿曾令旭闫宇峰07:45" tvg-name="NBA 马刺VS开拓者 连睿 曾令旭 闫宇峰 07:45" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 连睿 曾令旭 闫宇峰 07:45
+http://513521.xyz:1234/964277077
 
-#EXTINF:-1 tvg-id="中超深圳新鹏城VS北京国安赛场原声18:45" tvg-name="中超 深圳新鹏城VS北京国安 赛场原声 18:45" tvg-logo="" group-title="综合",中超 深圳新鹏城VS北京国安 赛场原声 18:45
-http://chengshuai.eu.org:1234/964238265
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者英文原声07:55" tvg-name="NBA 马刺VS开拓者 英文原声 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 英文原声 07:55
+http://513521.xyz:1234/964277112
 
-#EXTINF:-1 tvg-id="NBL香港金牛VS上海玄鸟李天宇陈正昊19:05" tvg-name="NBL 香港金牛VS上海玄鸟 李天宇 陈正昊 19:05" tvg-logo="" group-title="综合",NBL 香港金牛VS上海玄鸟 李天宇 陈正昊 19:05
-http://chengshuai.eu.org:1234/964217577
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者邢晨07:55" tvg-name="NBA 马刺VS开拓者 邢晨 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 邢晨 07:55
+http://513521.xyz:1234/964277125
 
-#EXTINF:-1 tvg-id="NBL香港金牛VS上海玄鸟解说19:15" tvg-name="NBL 香港金牛VS上海玄鸟 解说 19:15" tvg-logo="" group-title="综合",NBL 香港金牛VS上海玄鸟 解说 19:15
-http://chengshuai.eu.org:1234/964196632
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者王晓晨07:55" tvg-name="NBA 马刺VS开拓者 王晓晨 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 王晓晨 07:55
+http://513521.xyz:1234/964277137
 
-#EXTINF:-1 tvg-id="NBL香港金牛VS上海玄鸟赛场原声19:20" tvg-name="NBL 香港金牛VS上海玄鸟 赛场原声 19:20" tvg-logo="" group-title="综合",NBL 香港金牛VS上海玄鸟 赛场原声 19:20
-http://chengshuai.eu.org:1234/964196589
+#EXTINF:-1 tvg-id="NBA马刺VS开拓者智能字幕07:55" tvg-name="NBA 马刺VS开拓者 智能字幕 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 智能字幕 07:55
+http://513521.xyz:1234/964289738
 
-#EXTINF:-1 tvg-id="NBL香港金牛VS上海玄鸟粤语解说19:20" tvg-name="NBL 香港金牛VS上海玄鸟 粤语解说 19:20" tvg-logo="" group-title="综合",NBL 香港金牛VS上海玄鸟 粤语解说 19:20
-http://chengshuai.eu.org:1234/964275571
+#EXTINF:-1 tvg-id="咪咕体育日报undefined咪咕体育日报第87期08:00" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第87期 08:00" tvg-logo="" group-title="体育",咪咕体育日报 undefined 咪咕体育日报 第87期 08:00
+http://513521.xyz:1234/964291427
 
-#EXTINF:-1 tvg-id="中超武汉三镇VS浙江俱乐部绿城鲁靖明徐云龙19:20" tvg-name="中超 武汉三镇VS浙江俱乐部绿城 鲁靖明 徐云龙 19:20" tvg-logo="" group-title="综合",中超 武汉三镇VS浙江俱乐部绿城 鲁靖明 徐云龙 19:20
-http://chengshuai.eu.org:1234/964238362
+#EXTINF:-1 tvg-id="中国田径大众达标校园系列赛北京体育大学第56届田径运动会解说09:05" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 09:05" tvg-logo="" group-title="体育",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 09:05
+http://513521.xyz:1234/964299336
 
-#EXTINF:-1 tvg-id="中超武汉三镇VS浙江俱乐部绿城赛场原声19:20" tvg-name="中超 武汉三镇VS浙江俱乐部绿城 赛场原声 19:20" tvg-logo="" group-title="综合",中超 武汉三镇VS浙江俱乐部绿城 赛场原声 19:20
-http://chengshuai.eu.org:1234/964238371
+#EXTINF:-1 tvg-id="NBA湖人VS火箭杨健李根马健10:15" tvg-name="NBA 湖人VS火箭 杨健 李根 马健 10:15" tvg-logo="" group-title="综合",NBA 湖人VS火箭 杨健 李根 马健 10:15
+http://513521.xyz:1234/964277168
 
-#EXTINF:-1 tvg-id="中超成都蓉城VS云南玉昆李欣杨晨程思钦19:00" tvg-name="中超 成都蓉城VS云南玉昆 李欣 杨晨 程思钦 19:00" tvg-logo="" group-title="综合",中超 成都蓉城VS云南玉昆 李欣 杨晨 程思钦 19:00
-http://chengshuai.eu.org:1234/964238288
+#EXTINF:-1 tvg-id="NBA湖人VS火箭郑泽鹏10:25" tvg-name="NBA 湖人VS火箭 郑泽鹏 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 郑泽鹏 10:25
+http://513521.xyz:1234/964277201
 
-#EXTINF:-1 tvg-id="中超成都蓉城VS云南玉昆涂远19:20" tvg-name="中超 成都蓉城VS云南玉昆 涂远 19:20" tvg-logo="" group-title="综合",中超 成都蓉城VS云南玉昆 涂远 19:20
-http://chengshuai.eu.org:1234/964238318
+#EXTINF:-1 tvg-id="NBA湖人VS火箭周鹏10:25" tvg-name="NBA 湖人VS火箭 周鹏 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 周鹏 10:25
+http://513521.xyz:1234/964277225
 
-#EXTINF:-1 tvg-id="中超成都蓉城VS云南玉昆4K赛场原声19:20" tvg-name="中超 成都蓉城VS云南玉昆 4K赛场原声 19:20" tvg-logo="" group-title="综合",中超 成都蓉城VS云南玉昆 4K赛场原声 19:20
-http://chengshuai.eu.org:1234/964238330
+#EXTINF:-1 tvg-id="NBA湖人VS火箭英文原声10:25" tvg-name="NBA 湖人VS火箭 英文原声 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 英文原声 10:25
+http://513521.xyz:1234/964277196
 
-#EXTINF:-1 tvg-id="中超成都蓉城VS云南玉昆数智战术视角19:30" tvg-name="中超 成都蓉城VS云南玉昆 数智战术视角 19:30" tvg-logo="" group-title="综合",中超 成都蓉城VS云南玉昆 数智战术视角 19:30
-http://chengshuai.eu.org:1234/964238333
+#EXTINF:-1 tvg-id="NBA湖人VS火箭莫俊祺10:25" tvg-name="NBA 湖人VS火箭 莫俊祺 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 莫俊祺 10:25
+http://513521.xyz:1234/964277233
 
-#EXTINF:-1 tvg-id="中超成都蓉城VS云南玉昆成都蓉城球星视角19:20" tvg-name="中超 成都蓉城VS云南玉昆 成都蓉城球星视角 19:20" tvg-logo="" group-title="综合",中超 成都蓉城VS云南玉昆 成都蓉城球星视角 19:20
-http://chengshuai.eu.org:1234/964238340
+#EXTINF:-1 tvg-id="NBA湖人VS火箭洪荒10:25" tvg-name="NBA 湖人VS火箭 洪荒 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 洪荒 10:25
+http://513521.xyz:1234/964277244
 
-#EXTINF:-1 tvg-id="中超成都蓉城VS云南玉昆云南玉昆球星视角19:20" tvg-name="中超 成都蓉城VS云南玉昆 云南玉昆球星视角 19:20" tvg-logo="" group-title="综合",中超 成都蓉城VS云南玉昆 云南玉昆球星视角 19:20
-http://chengshuai.eu.org:1234/964238344
+#EXTINF:-1 tvg-id="NBA湖人VS火箭智能字幕10:25" tvg-name="NBA 湖人VS火箭 智能字幕 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 智能字幕 10:25
+http://513521.xyz:1234/964289765
 
-#EXTINF:-1 tvg-id="中超天津津门虎VS山东泰山石庆圣李彦孙蕊19:30" tvg-name="中超 天津津门虎VS山东泰山 石庆圣 李彦 孙蕊 19:30" tvg-logo="" group-title="综合",中超 天津津门虎VS山东泰山 石庆圣 李彦 孙蕊 19:30
-http://chengshuai.eu.org:1234/964238176
+#EXTINF:-1 tvg-id="斯诺克克里斯·韦克林VS利亚姆·普伦1号桌17:00" tvg-name="斯诺克 克里斯·韦克林VS利亚姆·普伦 1号桌 17:00" tvg-logo="" group-title="综合",斯诺克 克里斯·韦克林VS利亚姆·普伦 1号桌 17:00
+http://513521.xyz:1234/964183798
 
-#EXTINF:-1 tvg-id="中超天津津门虎VS山东泰山赛场原声19:45" tvg-name="中超 天津津门虎VS山东泰山 赛场原声 19:45" tvg-logo="" group-title="综合",中超 天津津门虎VS山东泰山 赛场原声 19:45
-http://chengshuai.eu.org:1234/964238170
+#EXTINF:-1 tvg-id="斯诺克塞尔比VS杰克·琼斯2号桌17:00" tvg-name="斯诺克 塞尔比VS杰克·琼斯 2号桌 17:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS杰克·琼斯 2号桌 17:00
+http://513521.xyz:1234/964183838
 
-#EXTINF:-1 tvg-id="中超上海海港VS重庆铜梁龙娄一晨刘越姚安妮19:30" tvg-name="中超 上海海港VS重庆铜梁龙 娄一晨 刘越 姚安妮 19:30" tvg-logo="" group-title="综合",中超 上海海港VS重庆铜梁龙 娄一晨 刘越 姚安妮 19:30
-http://chengshuai.eu.org:1234/964238401
+#EXTINF:-1 tvg-id="WTAWTA马德里站Day2赛场原声17:00" tvg-name="WTA WTA马德里站Day2 赛场原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day2 赛场原声 17:00
+http://513521.xyz:1234/964215349
 
-#EXTINF:-1 tvg-id="中超上海海港VS重庆铜梁龙赛场原声19:45" tvg-name="中超 上海海港VS重庆铜梁龙 赛场原声 19:45" tvg-logo="" group-title="综合",中超 上海海港VS重庆铜梁龙 赛场原声 19:45
-http://chengshuai.eu.org:1234/964238390
+#EXTINF:-1 tvg-id="WTAWTA马德里站Day2英文原声17:00" tvg-name="WTA WTA马德里站Day2 英文原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day2 英文原声 17:00
+http://513521.xyz:1234/964215373
 
-#EXTINF:-1 tvg-id="斯诺克奥沙利文VS贺国强柏林21:30" tvg-name="斯诺克 奥沙利文VS贺国强 柏林 21:30" tvg-logo="" group-title="综合",斯诺克 奥沙利文VS贺国强 柏林 21:30
-http://chengshuai.eu.org:1234/964278360
+#EXTINF:-1 tvg-id="吴越杯舟山队VS台州队2026赛季浙江省城市足球联赛第四轮:舟山VS台州19:05" tvg-name="吴越杯 舟山队VS台州队 2026赛季浙江省城市足球联赛第四轮: 舟山VS台州 19:05" tvg-logo="" group-title="综合",吴越杯 舟山队VS台州队 2026赛季浙江省城市足球联赛第四轮: 舟山VS台州 19:05
+http://513521.xyz:1234/964223997
+
+#EXTINF:-1 tvg-id="吴越杯衢州队VS湖州队2026赛季浙江省城市足球联赛第四轮:衢州VS湖州19:15" tvg-name="吴越杯 衢州队VS湖州队 2026赛季浙江省城市足球联赛第四轮: 衢州VS湖州 19:15" tvg-logo="" group-title="综合",吴越杯 衢州队VS湖州队 2026赛季浙江省城市足球联赛第四轮: 衢州VS湖州 19:15
+http://513521.xyz:1234/964224011
+
+#EXTINF:-1 tvg-id="吴越杯温州队VS金华队2026赛季浙江省城市足球联赛第四轮:温州VS金华19:15" tvg-name="吴越杯 温州队VS金华队 2026赛季浙江省城市足球联赛第四轮: 温州VS金华 19:15" tvg-logo="" group-title="综合",吴越杯 温州队VS金华队 2026赛季浙江省城市足球联赛第四轮: 温州VS金华 19:15
+http://513521.xyz:1234/964224037
+
+#EXTINF:-1 tvg-id="WCBA四川蜀道远达VS山西竹叶青酒邵化谦赵爽19:10" tvg-name="WCBA 四川蜀道远达VS山西竹叶青酒 邵化谦 赵爽 19:10" tvg-logo="" group-title="综合",WCBA 四川蜀道远达VS山西竹叶青酒 邵化谦 赵爽 19:10
+http://513521.xyz:1234/964273791
+
+#EXTINF:-1 tvg-id="WCBA四川蜀道远达VS山西竹叶青酒解说19:10" tvg-name="WCBA 四川蜀道远达VS山西竹叶青酒 解说 19:10" tvg-logo="" group-title="综合",WCBA 四川蜀道远达VS山西竹叶青酒 解说 19:10
+http://513521.xyz:1234/964273828
+
+#EXTINF:-1 tvg-id="WCBA四川蜀道远达VS山西竹叶青酒清流播出19:10" tvg-name="WCBA 四川蜀道远达VS山西竹叶青酒 清流播出 19:10" tvg-logo="" group-title="综合",WCBA 四川蜀道远达VS山西竹叶青酒 清流播出 19:10
+http://513521.xyz:1234/964273910
+
+#EXTINF:-1 tvg-id="中超青岛西海岸VS河南俱乐部彩陶坊袁甲张辛昕19:20" tvg-name="中超 青岛西海岸VS河南俱乐部彩陶坊 袁甲 张辛昕 19:20" tvg-logo="" group-title="综合",中超 青岛西海岸VS河南俱乐部彩陶坊 袁甲 张辛昕 19:20
+http://513521.xyz:1234/964238336
+
+#EXTINF:-1 tvg-id="中超青岛西海岸VS河南俱乐部彩陶坊赛场原声19:20" tvg-name="中超 青岛西海岸VS河南俱乐部彩陶坊 赛场原声 19:20" tvg-logo="" group-title="综合",中超 青岛西海岸VS河南俱乐部彩陶坊 赛场原声 19:20
+http://513521.xyz:1234/964238327
+
+#EXTINF:-1 tvg-id="中超辽宁铁人楠波湾VS大连英博海发苏东徐阳18:30" tvg-name="中超 辽宁铁人楠波湾VS大连英博海发 苏东 徐阳 18:30" tvg-logo="" group-title="综合",中超 辽宁铁人楠波湾VS大连英博海发 苏东 徐阳 18:30
+http://513521.xyz:1234/964238251
+
+#EXTINF:-1 tvg-id="中超辽宁铁人楠波湾VS大连英博海发赛场原声19:20" tvg-name="中超 辽宁铁人楠波湾VS大连英博海发 赛场原声 19:20" tvg-logo="" group-title="综合",中超 辽宁铁人楠波湾VS大连英博海发 赛场原声 19:20
+http://513521.xyz:1234/964238191
+
+#EXTINF:-1 tvg-id="中超上海申花VS青岛海牛涂远马延峰姚安妮19:30" tvg-name="中超 上海申花VS青岛海牛 涂远 马延峰 姚安妮 19:30" tvg-logo="" group-title="综合",中超 上海申花VS青岛海牛 涂远 马延峰 姚安妮 19:30
+http://513521.xyz:1234/964238378
+
+#EXTINF:-1 tvg-id="中超上海申花VS青岛海牛赛场原声19:45" tvg-name="中超 上海申花VS青岛海牛 赛场原声 19:45" tvg-logo="" group-title="综合",中超 上海申花VS青岛海牛 赛场原声 19:45
+http://513521.xyz:1234/964238367
 
 #EXTINF:-1 tvg-id="斯诺克奥沙利文VS贺国强1号桌21:30" tvg-name="斯诺克 奥沙利文VS贺国强 1号桌 21:30" tvg-logo="" group-title="综合",斯诺克 奥沙利文VS贺国强 1号桌 21:30
-http://chengshuai.eu.org:1234/964183631
+http://513521.xyz:1234/964183867
 
-#EXTINF:-1 tvg-id="斯诺克吴宜泽VS雷佩凡朱蒙21:30" tvg-name="斯诺克 吴宜泽VS雷佩凡 朱蒙 21:30" tvg-logo="" group-title="综合",斯诺克 吴宜泽VS雷佩凡 朱蒙 21:30
-http://chengshuai.eu.org:1234/964278365
-
-#EXTINF:-1 tvg-id="斯诺克吴宜泽VS雷佩凡2号桌21:30" tvg-name="斯诺克 吴宜泽VS雷佩凡 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 吴宜泽VS雷佩凡 2号桌 21:30
-http://chengshuai.eu.org:1234/964183656
-
-#EXTINF:-1 tvg-id="女篮世界杯资格赛国际篮联女篮世界杯抽签仪式邵化谦季孟年23:50" tvg-name="女篮世界杯资格赛 国际篮联女篮世界杯抽签仪式 邵化谦 季孟年 23:50" tvg-logo="" group-title="综合",女篮世界杯资格赛 国际篮联女篮世界杯抽签仪式 邵化谦 季孟年 23:50
-http://chengshuai.eu.org:1234/964292104
+#EXTINF:-1 tvg-id="斯诺克斯佳辉VS侯赛因·瓦菲2号桌21:30" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 斯佳辉VS侯赛因·瓦菲 2号桌 21:30
+http://513521.xyz:1234/964183909
 
 #EXTINF:-1 tvg-id="体育-明天" tvg-name="体育-明天" tvg-logo="" group-title="体育",体育-明天
 #genre#
 
-#EXTINF:-1 tvg-id="亚冠精英町田泽维亚VS迪拜青年国民石庆圣00:00" tvg-name="亚冠精英 町田泽维亚VS迪拜青年国民 石庆圣 00:00" tvg-logo="" group-title="综合",亚冠精英 町田泽维亚VS迪拜青年国民 石庆圣 00:00
-http://chengshuai.eu.org:1234/964290799
+#EXTINF:-1 tvg-id="亚冠二级利雅得胜利VS多哈国民乔迁23:45" tvg-name="亚冠二级 利雅得胜利VS多哈国民 乔迁 23:45" tvg-logo="" group-title="综合",亚冠二级 利雅得胜利VS多哈国民 乔迁 23:45
+http://513521.xyz:1234/964309989
 
-#EXTINF:-1 tvg-id="亚冠精英町田泽维亚VS迪拜青年国民赛场原声00:00" tvg-name="亚冠精英 町田泽维亚VS迪拜青年国民 赛场原声 00:00" tvg-logo="" group-title="综合",亚冠精英 町田泽维亚VS迪拜青年国民 赛场原声 00:00
-http://chengshuai.eu.org:1234/964290793
+#EXTINF:-1 tvg-id="亚冠二级利雅得胜利VS多哈国民赛场原声23:45" tvg-name="亚冠二级 利雅得胜利VS多哈国民 赛场原声 23:45" tvg-logo="" group-title="综合",亚冠二级 利雅得胜利VS多哈国民 赛场原声 23:45
+http://513521.xyz:1234/964310127
 
-#EXTINF:-1 tvg-id="西甲马略卡VS瓦伦西亚梁祥宇00:45" tvg-name="西甲 马略卡VS瓦伦西亚 梁祥宇 00:45" tvg-logo="" group-title="综合",西甲 马略卡VS瓦伦西亚 梁祥宇 00:45
-http://chengshuai.eu.org:1234/964223230
+#EXTINF:-1 tvg-id="法甲巴黎圣日耳曼VS南特鹿中原王宇00:45" tvg-name="法甲 巴黎圣日耳曼VS南特 鹿中原 王宇 00:45" tvg-logo="" group-title="综合",法甲 巴黎圣日耳曼VS南特 鹿中原 王宇 00:45
+http://513521.xyz:1234/964222955
 
-#EXTINF:-1 tvg-id="西甲马略卡VS瓦伦西亚赛场原声00:45" tvg-name="西甲 马略卡VS瓦伦西亚 赛场原声 00:45" tvg-logo="" group-title="综合",西甲 马略卡VS瓦伦西亚 赛场原声 00:45
-http://chengshuai.eu.org:1234/964223215
+#EXTINF:-1 tvg-id="法甲巴黎圣日耳曼VS南特赛场原声00:45" tvg-name="法甲 巴黎圣日耳曼VS南特 赛场原声 00:45" tvg-logo="" group-title="综合",法甲 巴黎圣日耳曼VS南特 赛场原声 00:45
+http://513521.xyz:1234/964222964
 
-#EXTINF:-1 tvg-id="西甲毕尔巴鄂竞技VS奥萨苏纳张天翼00:45" tvg-name="西甲 毕尔巴鄂竞技VS奥萨苏纳 张天翼 00:45" tvg-logo="" group-title="综合",西甲 毕尔巴鄂竞技VS奥萨苏纳 张天翼 00:45
-http://chengshuai.eu.org:1234/964222984
+#EXTINF:-1 tvg-id="法甲巴黎圣日耳曼VS南特鹿中原王宇00:45" tvg-name="法甲 巴黎圣日耳曼VS南特 鹿中原 王宇 00:45" tvg-logo="" group-title="综合",法甲 巴黎圣日耳曼VS南特 鹿中原 王宇 00:45
+http://513521.xyz:1234/964223072
 
-#EXTINF:-1 tvg-id="西甲毕尔巴鄂竞技VS奥萨苏纳赛场原声00:45" tvg-name="西甲 毕尔巴鄂竞技VS奥萨苏纳 赛场原声 00:45" tvg-logo="" group-title="综合",西甲 毕尔巴鄂竞技VS奥萨苏纳 赛场原声 00:45
-http://chengshuai.eu.org:1234/964222978
+#EXTINF:-1 tvg-id="西甲埃尔切VS马德里竞技孙雨轩贺宇00:45" tvg-name="西甲 埃尔切VS马德里竞技 孙雨轩 贺宇 00:45" tvg-logo="" group-title="综合",西甲 埃尔切VS马德里竞技 孙雨轩 贺宇 00:45
+http://513521.xyz:1234/964223350
 
-#EXTINF:-1 tvg-id="女篮世界杯资格赛国际篮联篮球名人堂入堂仪式邵化谦季孟年01:50" tvg-name="女篮世界杯资格赛 国际篮联篮球名人堂入堂仪式 邵化谦 季孟年 01:50" tvg-logo="" group-title="综合",女篮世界杯资格赛 国际篮联篮球名人堂入堂仪式 邵化谦 季孟年 01:50
-http://chengshuai.eu.org:1234/964293085
+#EXTINF:-1 tvg-id="西甲埃尔切VS马德里竞技赛场原声00:45" tvg-name="西甲 埃尔切VS马德里竞技 赛场原声 00:45" tvg-logo="" group-title="综合",西甲 埃尔切VS马德里竞技 赛场原声 00:45
+http://513521.xyz:1234/964223357
 
-#EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一朱峰立02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 朱峰立 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 朱峰立 02:00
-http://chengshuai.eu.org:1234/964278373
+#EXTINF:-1 tvg-id="西甲埃尔切VS马德里竞技孙雨轩贺宇00:45" tvg-name="西甲 埃尔切VS马德里竞技 孙雨轩 贺宇 00:45" tvg-logo="" group-title="综合",西甲 埃尔切VS马德里竞技 孙雨轩 贺宇 00:45
+http://513521.xyz:1234/964223378
 
-#EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一1号桌02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 1号桌 02:00
-http://chengshuai.eu.org:1234/964183735
+#EXTINF:-1 tvg-id="西甲皇家社会VS赫塔菲洪宇青01:45" tvg-name="西甲 皇家社会VS赫塔菲 洪宇青 01:45" tvg-logo="" group-title="综合",西甲 皇家社会VS赫塔菲 洪宇青 01:45
+http://513521.xyz:1234/964223274
 
-#EXTINF:-1 tvg-id="斯诺克特鲁姆普VS加里·威尔逊孙嘉星02:00" tvg-name="斯诺克 特鲁姆普VS加里·威尔逊 孙嘉星 02:00" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS加里·威尔逊 孙嘉星 02:00
-http://chengshuai.eu.org:1234/964278379
+#EXTINF:-1 tvg-id="西甲皇家社会VS赫塔菲赛场原声01:45" tvg-name="西甲 皇家社会VS赫塔菲 赛场原声 01:45" tvg-logo="" group-title="综合",西甲 皇家社会VS赫塔菲 赛场原声 01:45
+http://513521.xyz:1234/964223256
 
-#EXTINF:-1 tvg-id="斯诺克特鲁姆普VS加里·威尔逊2号桌02:00" tvg-name="斯诺克 特鲁姆普VS加里·威尔逊 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS加里·威尔逊 2号桌 02:00
-http://chengshuai.eu.org:1234/964183772
+#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭1号桌02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 1号桌 02:00
+http://513521.xyz:1234/964183997
 
-#EXTINF:-1 tvg-id="英超布莱顿VS切尔西苏东徐阳林梦鸽02:30" tvg-name="英超 布莱顿VS切尔西 苏东 徐阳 林梦鸽 02:30" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 苏东 徐阳 林梦鸽 02:30
-http://chengshuai.eu.org:1234/964223610
+#EXTINF:-1 tvg-id="斯诺克塞尔比VS杰克·琼斯2号桌02:00" tvg-name="斯诺克 塞尔比VS杰克·琼斯 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS杰克·琼斯 2号桌 02:00
+http://513521.xyz:1234/964184035
 
-#EXTINF:-1 tvg-id="英超布莱顿VS切尔西英文原声02:45" tvg-name="英超 布莱顿VS切尔西 英文原声 02:45" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 英文原声 02:45
-http://chengshuai.eu.org:1234/964222880
+#EXTINF:-1 tvg-id="英超伯恩利VS曼城刘畅颜强李子琪02:30" tvg-name="英超 伯恩利VS曼城 刘畅 颜强 李子琪 02:30" tvg-logo="" group-title="综合",英超 伯恩利VS曼城 刘畅 颜强 李子琪 02:30
+http://513521.xyz:1234/964223324
 
-#EXTINF:-1 tvg-id="英超布莱顿VS切尔西赛场原声02:45" tvg-name="英超 布莱顿VS切尔西 赛场原声 02:45" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 赛场原声 02:45
-http://chengshuai.eu.org:1234/964222863
+#EXTINF:-1 tvg-id="英超伯恩利VS曼城英文原声02:45" tvg-name="英超 伯恩利VS曼城 英文原声 02:45" tvg-logo="" group-title="综合",英超 伯恩利VS曼城 英文原声 02:45
+http://513521.xyz:1234/964223572
 
-#EXTINF:-1 tvg-id="英超布莱顿VS切尔西苏东徐阳林梦鸽02:30" tvg-name="英超 布莱顿VS切尔西 苏东 徐阳 林梦鸽 02:30" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 苏东 徐阳 林梦鸽 02:30
-http://chengshuai.eu.org:1234/964222941
+#EXTINF:-1 tvg-id="英超伯恩利VS曼城赛场原声02:45" tvg-name="英超 伯恩利VS曼城 赛场原声 02:45" tvg-logo="" group-title="综合",英超 伯恩利VS曼城 赛场原声 02:45
+http://513521.xyz:1234/964223564
 
-#EXTINF:-1 tvg-id="意大利杯国际米兰VS科莫吴桐贺宇02:45" tvg-name="意大利杯 国际米兰VS科莫 吴桐 贺宇 02:45" tvg-logo="" group-title="综合",意大利杯 国际米兰VS科莫 吴桐 贺宇 02:45
-http://chengshuai.eu.org:1234/964222980
+#EXTINF:-1 tvg-id="英超伯恩茅斯VS利兹联刘焕02:45" tvg-name="英超 伯恩茅斯VS利兹联 刘焕 02:45" tvg-logo="" group-title="综合",英超 伯恩茅斯VS利兹联 刘焕 02:45
+http://513521.xyz:1234/964223656
 
-#EXTINF:-1 tvg-id="意大利杯国际米兰VS科莫赛场原声02:45" tvg-name="意大利杯 国际米兰VS科莫 赛场原声 02:45" tvg-logo="" group-title="综合",意大利杯 国际米兰VS科莫 赛场原声 02:45
-http://chengshuai.eu.org:1234/964222702
+#EXTINF:-1 tvg-id="英超伯恩茅斯VS利兹联赛场原声02:45" tvg-name="英超 伯恩茅斯VS利兹联 赛场原声 02:45" tvg-logo="" group-title="综合",英超 伯恩茅斯VS利兹联 赛场原声 02:45
+http://513521.xyz:1234/964223734
 
-#EXTINF:-1 tvg-id="意大利杯国际米兰VS科莫吴桐贺宇02:45" tvg-name="意大利杯 国际米兰VS科莫 吴桐 贺宇 02:45" tvg-logo="" group-title="综合",意大利杯 国际米兰VS科莫 吴桐 贺宇 02:45
-http://chengshuai.eu.org:1234/964231099
+#EXTINF:-1 tvg-id="英超伯恩茅斯VS利兹联英文原声02:45" tvg-name="英超 伯恩茅斯VS利兹联 英文原声 02:45" tvg-logo="" group-title="综合",英超 伯恩茅斯VS利兹联 英文原声 02:45
+http://513521.xyz:1234/964223752
 
-#EXTINF:-1 tvg-id="西甲吉罗纳VS皇家贝蒂斯张天翼03:15" tvg-name="西甲 吉罗纳VS皇家贝蒂斯 张天翼 03:15" tvg-logo="" group-title="综合",西甲 吉罗纳VS皇家贝蒂斯 张天翼 03:15
-http://chengshuai.eu.org:1234/964223330
+#EXTINF:-1 tvg-id="意大利杯亚特兰大VS拉齐奥石庆圣02:45" tvg-name="意大利杯 亚特兰大VS拉齐奥 石庆圣 02:45" tvg-logo="" group-title="综合",意大利杯 亚特兰大VS拉齐奥 石庆圣 02:45
+http://513521.xyz:1234/964222812
 
-#EXTINF:-1 tvg-id="西甲吉罗纳VS皇家贝蒂斯赛场原声03:15" tvg-name="西甲 吉罗纳VS皇家贝蒂斯 赛场原声 03:15" tvg-logo="" group-title="综合",西甲 吉罗纳VS皇家贝蒂斯 赛场原声 03:15
-http://chengshuai.eu.org:1234/964223308
+#EXTINF:-1 tvg-id="意大利杯亚特兰大VS拉齐奥赛场原声02:45" tvg-name="意大利杯 亚特兰大VS拉齐奥 赛场原声 02:45" tvg-logo="" group-title="综合",意大利杯 亚特兰大VS拉齐奥 赛场原声 02:45
+http://513521.xyz:1234/964222794
 
-#EXTINF:-1 tvg-id="西甲皇家马德里VS阿拉维斯鹿中原王宇03:15" tvg-name="西甲 皇家马德里VS阿拉维斯 鹿中原 王宇 03:15" tvg-logo="" group-title="综合",西甲 皇家马德里VS阿拉维斯 鹿中原 王宇 03:15
-http://chengshuai.eu.org:1234/964223066
+#EXTINF:-1 tvg-id="西甲巴塞罗那VS塞尔塔张昊泽李欣03:15" tvg-name="西甲 巴塞罗那VS塞尔塔 张昊泽 李欣 03:15" tvg-logo="" group-title="综合",西甲 巴塞罗那VS塞尔塔 张昊泽 李欣 03:15
+http://513521.xyz:1234/964222918
 
-#EXTINF:-1 tvg-id="西甲皇家马德里VS阿拉维斯赛场原声03:15" tvg-name="西甲 皇家马德里VS阿拉维斯 赛场原声 03:15" tvg-logo="" group-title="综合",西甲 皇家马德里VS阿拉维斯 赛场原声 03:15
-http://chengshuai.eu.org:1234/964223043
+#EXTINF:-1 tvg-id="西甲巴塞罗那VS塞尔塔赛场原声03:15" tvg-name="西甲 巴塞罗那VS塞尔塔 赛场原声 03:15" tvg-logo="" group-title="综合",西甲 巴塞罗那VS塞尔塔 赛场原声 03:15
+http://513521.xyz:1234/964222871
 
-#EXTINF:-1 tvg-id="NBA凯尔特人VS76人庄宁宇殷文玉王羽希06:45" tvg-name="NBA 凯尔特人VS76人 庄宁宇 殷文玉 王羽希 06:45" tvg-logo="" group-title="综合",NBA 凯尔特人VS76人 庄宁宇 殷文玉 王羽希 06:45
-http://chengshuai.eu.org:1234/964277032
+#EXTINF:-1 tvg-id="西甲巴塞罗那VS塞尔塔张昊泽李欣03:15" tvg-name="西甲 巴塞罗那VS塞尔塔 张昊泽 李欣 03:15" tvg-logo="" group-title="综合",西甲 巴塞罗那VS塞尔塔 张昊泽 李欣 03:15
+http://513521.xyz:1234/964223844
 
-#EXTINF:-1 tvg-id="NBA凯尔特人VS76人英文原声06:55" tvg-name="NBA 凯尔特人VS76人 英文原声 06:55" tvg-logo="" group-title="综合",NBA 凯尔特人VS76人 英文原声 06:55
-http://chengshuai.eu.org:1234/964277070
+#EXTINF:-1 tvg-id="NBA活塞VS魔术姜帆季孟年06:55" tvg-name="NBA 活塞VS魔术 姜帆 季孟年 06:55" tvg-logo="" group-title="综合",NBA 活塞VS魔术 姜帆 季孟年 06:55
+http://513521.xyz:1234/964277079
 
-#EXTINF:-1 tvg-id="NBA马刺VS开拓者连睿曾令旭闫宇峰07:45" tvg-name="NBA 马刺VS开拓者 连睿 曾令旭 闫宇峰 07:45" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 连睿 曾令旭 闫宇峰 07:45
-http://chengshuai.eu.org:1234/964277077
+#EXTINF:-1 tvg-id="NBA活塞VS魔术英文原声06:55" tvg-name="NBA 活塞VS魔术 英文原声 06:55" tvg-logo="" group-title="综合",NBA 活塞VS魔术 英文原声 06:55
+http://513521.xyz:1234/964277157
 
-#EXTINF:-1 tvg-id="NBA马刺VS开拓者英文原声07:55" tvg-name="NBA 马刺VS开拓者 英文原声 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 英文原声 07:55
-http://chengshuai.eu.org:1234/964277112
+#EXTINF:-1 tvg-id="NBA活塞VS魔术智能字幕06:55" tvg-name="NBA 活塞VS魔术 智能字幕 06:55" tvg-logo="" group-title="综合",NBA 活塞VS魔术 智能字幕 06:55
+http://513521.xyz:1234/964289788
 
-#EXTINF:-1 tvg-id="NBA马刺VS开拓者邢晨07:55" tvg-name="NBA 马刺VS开拓者 邢晨 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 邢晨 07:55
-http://chengshuai.eu.org:1234/964277125
+#EXTINF:-1 tvg-id="咪咕体育日报undefined咪咕体育日报第88期08:00" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第88期 08:00" tvg-logo="" group-title="体育",咪咕体育日报 undefined 咪咕体育日报 第88期 08:00
+http://513521.xyz:1234/964291455
 
-#EXTINF:-1 tvg-id="NBA马刺VS开拓者王晓晨07:55" tvg-name="NBA 马刺VS开拓者 王晓晨 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 王晓晨 07:55
-http://chengshuai.eu.org:1234/964277137
+#EXTINF:-1 tvg-id="中国田径大众达标校园系列赛北京体育大学第56届田径运动会解说08:15" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 08:15" tvg-logo="" group-title="体育",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 08:15
+http://513521.xyz:1234/964299385
 
-#EXTINF:-1 tvg-id="NBA马刺VS开拓者智能字幕07:55" tvg-name="NBA 马刺VS开拓者 智能字幕 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 智能字幕 07:55
-http://chengshuai.eu.org:1234/964289738
+#EXTINF:-1 tvg-id="NBA雷霆VS太阳孙博李根马健09:15" tvg-name="NBA 雷霆VS太阳 孙博 李根 马健 09:15" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 孙博 李根 马健 09:15
+http://513521.xyz:1234/964277177
 
-#EXTINF:-1 tvg-id="咪咕体育日报undefined咪咕体育日报第87期08:00" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第87期 08:00" tvg-logo="" group-title="体育",咪咕体育日报 undefined 咪咕体育日报 第87期 08:00
-http://chengshuai.eu.org:1234/964291427
+#EXTINF:-1 tvg-id="NBA雷霆VS太阳英文原声09:25" tvg-name="NBA 雷霆VS太阳 英文原声 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 英文原声 09:25
+http://513521.xyz:1234/964277230
 
-#EXTINF:-1 tvg-id="NBA湖人VS火箭杨健李根马健10:15" tvg-name="NBA 湖人VS火箭 杨健 李根 马健 10:15" tvg-logo="" group-title="综合",NBA 湖人VS火箭 杨健 李根 马健 10:15
-http://chengshuai.eu.org:1234/964277168
+#EXTINF:-1 tvg-id="NBA雷霆VS太阳智能字幕09:25" tvg-name="NBA 雷霆VS太阳 智能字幕 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 智能字幕 09:25
+http://513521.xyz:1234/964289807
 
-#EXTINF:-1 tvg-id="NBA湖人VS火箭郑泽鹏10:25" tvg-name="NBA 湖人VS火箭 郑泽鹏 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 郑泽鹏 10:25
-http://chengshuai.eu.org:1234/964277201
+#EXTINF:-1 tvg-id="WTAWTA马德里站Day3赛场原声17:00" tvg-name="WTA WTA马德里站Day3 赛场原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day3 赛场原声 17:00
+http://513521.xyz:1234/964215405
 
-#EXTINF:-1 tvg-id="NBA湖人VS火箭周鹏10:25" tvg-name="NBA 湖人VS火箭 周鹏 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 周鹏 10:25
-http://chengshuai.eu.org:1234/964277225
+#EXTINF:-1 tvg-id="WTAWTA马德里站Day3英文原声17:00" tvg-name="WTA WTA马德里站Day3 英文原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day3 英文原声 17:00
+http://513521.xyz:1234/964215432
 
-#EXTINF:-1 tvg-id="NBA湖人VS火箭英文原声10:25" tvg-name="NBA 湖人VS火箭 英文原声 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 英文原声 10:25
-http://chengshuai.eu.org:1234/964277196
+#EXTINF:-1 tvg-id="吴越杯杭州队VS绍兴队2026赛季浙江省城市足球联赛第四轮:杭州VS绍兴19:15" tvg-name="吴越杯 杭州队VS绍兴队 2026赛季浙江省城市足球联赛第四轮: 杭州VS绍兴 19:15" tvg-logo="" group-title="综合",吴越杯 杭州队VS绍兴队 2026赛季浙江省城市足球联赛第四轮: 杭州VS绍兴 19:15
+http://513521.xyz:1234/964224054
 
-#EXTINF:-1 tvg-id="NBA湖人VS火箭莫俊祺10:25" tvg-name="NBA 湖人VS火箭 莫俊祺 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 莫俊祺 10:25
-http://chengshuai.eu.org:1234/964277233
+#EXTINF:-1 tvg-id="吴越杯宁波队VS丽水队2026赛季浙江省城市足球联赛第四轮:宁波VS丽水18:50" tvg-name="吴越杯 宁波队VS丽水队 2026赛季浙江省城市足球联赛第四轮: 宁波VS丽水 18:50" tvg-logo="" group-title="综合",吴越杯 宁波队VS丽水队 2026赛季浙江省城市足球联赛第四轮: 宁波VS丽水 18:50
+http://513521.xyz:1234/964224060
 
-#EXTINF:-1 tvg-id="NBA湖人VS火箭洪荒10:25" tvg-name="NBA 湖人VS火箭 洪荒 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 洪荒 10:25
-http://chengshuai.eu.org:1234/964277244
+#EXTINF:-1 tvg-id="斯诺克16进81号桌20:00" tvg-name="斯诺克 16进8 1号桌 20:00" tvg-logo="" group-title="综合",斯诺克 16进8 1号桌 20:00
+http://513521.xyz:1234/964184063
 
-#EXTINF:-1 tvg-id="NBA湖人VS火箭智能字幕10:25" tvg-name="NBA 湖人VS火箭 智能字幕 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 智能字幕 10:25
-http://chengshuai.eu.org:1234/964289765
+#EXTINF:-1 tvg-id="斯诺克斯佳辉VS侯赛因·瓦菲2号桌20:00" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 2号桌 20:00" tvg-logo="" group-title="综合",斯诺克 斯佳辉VS侯赛因·瓦菲 2号桌 20:00
+http://513521.xyz:1234/964184094
 
-#EXTINF:-1 tvg-id="斯诺克克里斯·韦克林VS利亚姆·普伦1号桌17:00" tvg-name="斯诺克 克里斯·韦克林VS利亚姆·普伦 1号桌 17:00" tvg-logo="" group-title="综合",斯诺克 克里斯·韦克林VS利亚姆·普伦 1号桌 17:00
-http://chengshuai.eu.org:1234/964183798
-
-#EXTINF:-1 tvg-id="斯诺克塞尔比VS杰克·琼斯2号桌17:00" tvg-name="斯诺克 塞尔比VS杰克·琼斯 2号桌 17:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS杰克·琼斯 2号桌 17:00
-http://chengshuai.eu.org:1234/964183838
-
-#EXTINF:-1 tvg-id="WTAWTA马德里站Day2赛场原声17:00" tvg-name="WTA WTA马德里站Day2 赛场原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day2 赛场原声 17:00
-http://chengshuai.eu.org:1234/964215349
-
-#EXTINF:-1 tvg-id="WTAWTA马德里站Day2英文原声17:00" tvg-name="WTA WTA马德里站Day2 英文原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day2 英文原声 17:00
-http://chengshuai.eu.org:1234/964215373
-
-#EXTINF:-1 tvg-id="吴越杯舟山队VS台州队2026赛季浙江省城市足球联赛第四轮:舟山VS台州19:15" tvg-name="吴越杯 舟山队VS台州队 2026赛季浙江省城市足球联赛第四轮: 舟山VS台州 19:15" tvg-logo="" group-title="综合",吴越杯 舟山队VS台州队 2026赛季浙江省城市足球联赛第四轮: 舟山VS台州 19:15
-http://chengshuai.eu.org:1234/964223997
-
-#EXTINF:-1 tvg-id="吴越杯衢州队VS湖州队2026赛季浙江省城市足球联赛第四轮:衢州VS湖州19:15" tvg-name="吴越杯 衢州队VS湖州队 2026赛季浙江省城市足球联赛第四轮: 衢州VS湖州 19:15" tvg-logo="" group-title="综合",吴越杯 衢州队VS湖州队 2026赛季浙江省城市足球联赛第四轮: 衢州VS湖州 19:15
-http://chengshuai.eu.org:1234/964224011
-
-#EXTINF:-1 tvg-id="吴越杯温州队VS金华队2026赛季浙江省城市足球联赛第四轮:温州VS金华19:15" tvg-name="吴越杯 温州队VS金华队 2026赛季浙江省城市足球联赛第四轮: 温州VS金华 19:15" tvg-logo="" group-title="综合",吴越杯 温州队VS金华队 2026赛季浙江省城市足球联赛第四轮: 温州VS金华 19:15
-http://chengshuai.eu.org:1234/964224037
-
-#EXTINF:-1 tvg-id="WCBA四川蜀道远达VS山西竹叶青酒邵化谦赵爽19:10" tvg-name="WCBA 四川蜀道远达VS山西竹叶青酒 邵化谦 赵爽 19:10" tvg-logo="" group-title="综合",WCBA 四川蜀道远达VS山西竹叶青酒 邵化谦 赵爽 19:10
-http://chengshuai.eu.org:1234/964273791
-
-#EXTINF:-1 tvg-id="WCBA四川蜀道远达VS山西竹叶青酒解说19:10" tvg-name="WCBA 四川蜀道远达VS山西竹叶青酒 解说 19:10" tvg-logo="" group-title="综合",WCBA 四川蜀道远达VS山西竹叶青酒 解说 19:10
-http://chengshuai.eu.org:1234/964273828
-
-#EXTINF:-1 tvg-id="WCBA四川蜀道远达VS山西竹叶青酒清流播出19:10" tvg-name="WCBA 四川蜀道远达VS山西竹叶青酒 清流播出 19:10" tvg-logo="" group-title="综合",WCBA 四川蜀道远达VS山西竹叶青酒 清流播出 19:10
-http://chengshuai.eu.org:1234/964273910
-
-#EXTINF:-1 tvg-id="中超青岛西海岸VS河南俱乐部彩陶坊袁甲张辛昕19:20" tvg-name="中超 青岛西海岸VS河南俱乐部彩陶坊 袁甲 张辛昕 19:20" tvg-logo="" group-title="综合",中超 青岛西海岸VS河南俱乐部彩陶坊 袁甲 张辛昕 19:20
-http://chengshuai.eu.org:1234/964238336
-
-#EXTINF:-1 tvg-id="中超青岛西海岸VS河南俱乐部彩陶坊赛场原声19:20" tvg-name="中超 青岛西海岸VS河南俱乐部彩陶坊 赛场原声 19:20" tvg-logo="" group-title="综合",中超 青岛西海岸VS河南俱乐部彩陶坊 赛场原声 19:20
-http://chengshuai.eu.org:1234/964238327
-
-#EXTINF:-1 tvg-id="中超辽宁铁人楠波湾VS大连英博海发苏东徐阳18:30" tvg-name="中超 辽宁铁人楠波湾VS大连英博海发 苏东 徐阳 18:30" tvg-logo="" group-title="综合",中超 辽宁铁人楠波湾VS大连英博海发 苏东 徐阳 18:30
-http://chengshuai.eu.org:1234/964238251
-
-#EXTINF:-1 tvg-id="中超辽宁铁人楠波湾VS大连英博海发赛场原声19:20" tvg-name="中超 辽宁铁人楠波湾VS大连英博海发 赛场原声 19:20" tvg-logo="" group-title="综合",中超 辽宁铁人楠波湾VS大连英博海发 赛场原声 19:20
-http://chengshuai.eu.org:1234/964238191
-
-#EXTINF:-1 tvg-id="中超上海申花VS青岛海牛涂远马延峰姚安妮19:30" tvg-name="中超 上海申花VS青岛海牛 涂远 马延峰 姚安妮 19:30" tvg-logo="" group-title="综合",中超 上海申花VS青岛海牛 涂远 马延峰 姚安妮 19:30
-http://chengshuai.eu.org:1234/964238378
-
-#EXTINF:-1 tvg-id="中超上海申花VS青岛海牛赛场原声19:45" tvg-name="中超 上海申花VS青岛海牛 赛场原声 19:45" tvg-logo="" group-title="综合",中超 上海申花VS青岛海牛 赛场原声 19:45
-http://chengshuai.eu.org:1234/964238367
-
-#EXTINF:-1 tvg-id="斯诺克奥沙利文VS贺国强1号桌21:30" tvg-name="斯诺克 奥沙利文VS贺国强 1号桌 21:30" tvg-logo="" group-title="综合",斯诺克 奥沙利文VS贺国强 1号桌 21:30
-http://chengshuai.eu.org:1234/964183867
-
-#EXTINF:-1 tvg-id="斯诺克斯佳辉VS侯赛因·瓦菲2号桌21:30" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 斯佳辉VS侯赛因·瓦菲 2号桌 21:30
-http://chengshuai.eu.org:1234/964183909
-
-# 
 # 
 # 
 # 
@@ -2885,10 +2860,11 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/emsxw_2000.m3u8
 https://gd.tv1288.xyz/hls/1/index.m3u8
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="" group-title="体育",五星体育
-http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
+https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 
+# 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="" group-title="体育",五星体育
-http://156.238.248.80/live/2.index.m3u8
+http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 
 # 
 #EXTINF:-1 tvg-id="港台秒播" tvg-name="港台秒播" tvg-logo="" group-title="综合",港台秒播
