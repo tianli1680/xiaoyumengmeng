@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新日期: 2026-04-23 18:25:49
+# 更新日期: 2026-04-24 07:47:05
 
 #EXTINF:-1 tvg-id="音乐欣赏" tvg-name="音乐欣赏" tvg-logo="" group-title="综合",音乐欣赏
 #genre#
@@ -267,1371 +267,625 @@ http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 #genre#
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV1
-http://513521.xyz:1234/608807420
+http://180.152.19.206:1234/608807420
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="央视",CCTV2
-http://513521.xyz:1234/631780532
+http://180.152.19.206:1234/631780532
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="央视",CCTV3
-http://513521.xyz:1234/624878271
+http://180.152.19.206:1234/624878271
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="央视",CCTV4
-http://513521.xyz:1234/631780421
+http://180.152.19.206:1234/631780421
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5
-http://513521.xyz:1234/641886683
+http://180.152.19.206:1234/641886683
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="央视",CCTV5+
-http://513521.xyz:1234/641886773
+http://180.152.19.206:1234/641886773
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="央视",CCTV6
-http://513521.xyz:1234/624878396
+http://180.152.19.206:1234/624878396
 
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="央视",CCTV7
-http://513521.xyz:1234/673168121
+http://180.152.19.206:1234/673168121
 
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="央视",CCTV8
-http://513521.xyz:1234/624878356
+http://180.152.19.206:1234/624878356
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="央视",CCTV9
-http://513521.xyz:1234/673168140
+http://180.152.19.206:1234/673168140
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="央视",CCTV10
-http://513521.xyz:1234/624878405
+http://180.152.19.206:1234/624878405
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="央视",CCTV11
-http://513521.xyz:1234/667987558
+http://180.152.19.206:1234/667987558
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="央视",CCTV12
-http://513521.xyz:1234/673168185
+http://180.152.19.206:1234/673168185
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="央视",CCTV13
-http://513521.xyz:1234/608807423
+http://180.152.19.206:1234/608807423
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="央视",CCTV14
-http://513521.xyz:1234/624878440
+http://180.152.19.206:1234/624878440
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="央视",CCTV15
-http://513521.xyz:1234/673168223
+http://180.152.19.206:1234/673168223
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="央视",CCTV17
-http://513521.xyz:1234/673168256
+http://180.152.19.206:1234/673168256
 
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="" group-title="央视",CCTV4欧洲
-http://513521.xyz:1234/608807419
+http://180.152.19.206:1234/608807419
 
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="" group-title="央视",CCTV4美洲
-http://513521.xyz:1234/608807416
+http://180.152.19.206:1234/608807416
 
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="" group-title="综合",赛事最经典
-http://513521.xyz:1234/646596895
+http://180.152.19.206:1234/646596895
 
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="" group-title="综合",体坛名栏汇
-http://513521.xyz:1234/629943305
+http://180.152.19.206:1234/629943305
 
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="" group-title="综合",四海钓鱼
-http://513521.xyz:1234/637444975
+http://180.152.19.206:1234/637444975
 
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="" group-title="卫视",大湾区卫视
-http://513521.xyz:1234/608917627
+http://180.152.19.206:1234/608917627
 
 #EXTINF:-1 tvg-id="陕西体育" tvg-name="陕西体育" tvg-logo="" group-title="体育",陕西体育
-http://513521.xyz:1234/956909356
+http://180.152.19.206:1234/956909356
 
 #EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="" group-title="体育",辽宁体育
-http://513521.xyz:1234/962067526
+http://180.152.19.206:1234/962067526
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
-http://513521.xyz:1234/651632648
+http://180.152.19.206:1234/651632648
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
-http://513521.xyz:1234/623899368
+http://180.152.19.206:1234/623899368
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
-http://513521.xyz:1234/608831231
+http://180.152.19.206:1234/608831231
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
-http://513521.xyz:1234/630287636
+http://180.152.19.206:1234/630287636
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
-http://513521.xyz:1234/630291707
+http://180.152.19.206:1234/630291707
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
-http://513521.xyz:1234/962042070
+http://180.152.19.206:1234/962042070
 
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
-http://513521.xyz:1234/783847495
+http://180.152.19.206:1234/783847495
 
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视",陕西卫视
-http://513521.xyz:1234/738910838
+http://180.152.19.206:1234/738910838
 
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
-http://513521.xyz:1234/947472496
+http://180.152.19.206:1234/947472496
 
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="" group-title="卫视",农林卫视
-http://513521.xyz:1234/956904896
+http://180.152.19.206:1234/956904896
 
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视",兵团卫视
-http://513521.xyz:1234/956923145
+http://180.152.19.206:1234/956923145
 
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="" group-title="新闻",上海新闻综合
-http://513521.xyz:1234/651632657
+http://180.152.19.206:1234/651632657
 
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="" group-title="综合",上视东方影视
-http://513521.xyz:1234/617290047
+http://180.152.19.206:1234/617290047
 
 #EXTINF:-1 tvg-id="公共新闻频道" tvg-name="公共新闻频道" tvg-logo="" group-title="新闻",公共新闻频道
-http://513521.xyz:1234/626064693
+http://180.152.19.206:1234/626064693
 
 #EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="" group-title="新闻",盐城新闻综合
-http://513521.xyz:1234/639731825
+http://180.152.19.206:1234/639731825
 
 #EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="" group-title="新闻",江阴新闻综合
-http://513521.xyz:1234/955227979
+http://180.152.19.206:1234/955227979
 
 #EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="" group-title="新闻",南通新闻综合
-http://513521.xyz:1234/955227985
+http://180.152.19.206:1234/955227985
 
 #EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="" group-title="新闻",宜兴新闻综合
-http://513521.xyz:1234/955227996
+http://180.152.19.206:1234/955227996
 
 #EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="" group-title="新闻",溧水新闻综合
-http://513521.xyz:1234/639737327
+http://180.152.19.206:1234/639737327
 
 #EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="" group-title="综合",陕西银龄频道
-http://513521.xyz:1234/956909362
+http://180.152.19.206:1234/956909362
 
 #EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="" group-title="综合",陕西都市青春频道
-http://513521.xyz:1234/956909358
+http://180.152.19.206:1234/956909358
 
 #EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="" group-title="综合",陕西秦腔频道
-http://513521.xyz:1234/956909303
+http://180.152.19.206:1234/956909303
 
 #EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" tvg-logo="" group-title="新闻",陕西新闻资讯频道
-http://513521.xyz:1234/956909289
+http://180.152.19.206:1234/956909289
 
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="" group-title="综合",财富天下
-http://513521.xyz:1234/956923159
+http://180.152.19.206:1234/956923159
 
 #EXTINF:-1 tvg-id="辽宁公共频道" tvg-name="辽宁公共频道" tvg-logo="" group-title="综合",辽宁公共频道
-http://513521.xyz:1234/962045223
+http://180.152.19.206:1234/962045223
 
 #EXTINF:-1 tvg-id="辽宁生活频道" tvg-name="辽宁生活频道" tvg-logo="" group-title="综合",辽宁生活频道
-http://513521.xyz:1234/962045226
+http://180.152.19.206:1234/962045226
 
 #EXTINF:-1 tvg-id="辽宁影视剧频道" tvg-name="辽宁影视剧频道" tvg-logo="" group-title="综合",辽宁影视剧频道
-http://513521.xyz:1234/962067517
+http://180.152.19.206:1234/962067517
 
 #EXTINF:-1 tvg-id="宁夏文旅频道" tvg-name="宁夏文旅频道" tvg-logo="" group-title="综合",宁夏文旅频道
-http://513521.xyz:1234/962067523
+http://180.152.19.206:1234/962067523
 
 #EXTINF:-1 tvg-id="宁夏经济频道" tvg-name="宁夏经济频道" tvg-logo="" group-title="综合",宁夏经济频道
-http://513521.xyz:1234/962067520
+http://180.152.19.206:1234/962067520
 
 #EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="" group-title="电影",经典香港电影
-http://513521.xyz:1234/625703337
+http://180.152.19.206:1234/625703337
 
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="" group-title="综合",抗战经典影片
-http://513521.xyz:1234/617432318
+http://180.152.19.206:1234/617432318
 
 #EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="" group-title="综合",新片放映厅
-http://513521.xyz:1234/619495952
+http://180.152.19.206:1234/619495952
 
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="" group-title="电影",CHC影迷电影
-http://513521.xyz:1234/952383261
+http://180.152.19.206:1234/952383261
 
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="电影",CHC动作电影
-http://513521.xyz:1234/644368714
+http://180.152.19.206:1234/644368714
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="电影",CHC家庭影院
-http://513521.xyz:1234/644368373
+http://180.152.19.206:1234/644368373
 
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="" group-title="综合",和美乡途轮播台
-http://513521.xyz:1234/713591450
+http://180.152.19.206:1234/713591450
 
 #EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="" group-title="综合",最强综艺趴
-http://513521.xyz:1234/629942228
+http://180.152.19.206:1234/629942228
 
 # 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV1
-http://chengshuai.eu.org:1234/608807420
-
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="央视",CCTV2
-http://chengshuai.eu.org:1234/631780532
-
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="央视",CCTV3
-http://chengshuai.eu.org:1234/624878271
-
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="央视",CCTV4
-http://chengshuai.eu.org:1234/631780421
-
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5
-http://chengshuai.eu.org:1234/641886683
-
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="央视",CCTV5+
-http://chengshuai.eu.org:1234/641886773
-
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="央视",CCTV6
-http://chengshuai.eu.org:1234/624878396
-
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="央视",CCTV7
-http://chengshuai.eu.org:1234/673168121
-
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="央视",CCTV8
-http://chengshuai.eu.org:1234/624878356
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="央视",CCTV9
-http://chengshuai.eu.org:1234/673168140
-
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="央视",CCTV10
-http://chengshuai.eu.org:1234/624878405
-
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="央视",CCTV11
-http://chengshuai.eu.org:1234/667987558
-
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="央视",CCTV12
-http://chengshuai.eu.org:1234/673168185
-
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="央视",CCTV13
-http://chengshuai.eu.org:1234/608807423
-
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="央视",CCTV14
-http://chengshuai.eu.org:1234/624878440
-
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="央视",CCTV15
-http://chengshuai.eu.org:1234/673168223
-
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="央视",CCTV17
-http://chengshuai.eu.org:1234/673168256
-
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="" group-title="央视",CCTV4欧洲
-http://chengshuai.eu.org:1234/608807419
-
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="" group-title="央视",CCTV4美洲
-http://chengshuai.eu.org:1234/608807416
-
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="" group-title="综合",赛事最经典
-http://chengshuai.eu.org:1234/646596895
-
-#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="" group-title="综合",体坛名栏汇
-http://chengshuai.eu.org:1234/629943305
-
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="" group-title="综合",四海钓鱼
-http://chengshuai.eu.org:1234/637444975
-
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="" group-title="卫视",大湾区卫视
-http://chengshuai.eu.org:1234/608917627
-
-#EXTINF:-1 tvg-id="陕西体育" tvg-name="陕西体育" tvg-logo="" group-title="体育",陕西体育
-http://chengshuai.eu.org:1234/956909356
-
-#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="" group-title="体育",辽宁体育
-http://chengshuai.eu.org:1234/962067526
-
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
-http://chengshuai.eu.org:1234/651632648
-
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
-http://chengshuai.eu.org:1234/623899368
-
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
-http://chengshuai.eu.org:1234/608831231
-
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
-http://chengshuai.eu.org:1234/630287636
-
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
-http://chengshuai.eu.org:1234/630291707
-
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
-http://chengshuai.eu.org:1234/962042070
-
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
-http://chengshuai.eu.org:1234/783847495
-
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视",陕西卫视
-http://chengshuai.eu.org:1234/738910838
-
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
-http://chengshuai.eu.org:1234/947472496
-
-#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="" group-title="卫视",农林卫视
-http://chengshuai.eu.org:1234/956904896
-
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视",兵团卫视
-http://chengshuai.eu.org:1234/956923145
-
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="" group-title="新闻",上海新闻综合
-http://chengshuai.eu.org:1234/651632657
-
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="" group-title="综合",上视东方影视
-http://chengshuai.eu.org:1234/617290047
-
-#EXTINF:-1 tvg-id="公共新闻频道" tvg-name="公共新闻频道" tvg-logo="" group-title="新闻",公共新闻频道
-http://chengshuai.eu.org:1234/626064693
-
-#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="" group-title="新闻",盐城新闻综合
-http://chengshuai.eu.org:1234/639731825
-
-#EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="" group-title="新闻",江阴新闻综合
-http://chengshuai.eu.org:1234/955227979
-
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="" group-title="新闻",南通新闻综合
-http://chengshuai.eu.org:1234/955227985
-
-#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="" group-title="新闻",宜兴新闻综合
-http://chengshuai.eu.org:1234/955227996
-
-#EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="" group-title="新闻",溧水新闻综合
-http://chengshuai.eu.org:1234/639737327
-
-#EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="" group-title="综合",陕西银龄频道
-http://chengshuai.eu.org:1234/956909362
-
-#EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="" group-title="综合",陕西都市青春频道
-http://chengshuai.eu.org:1234/956909358
-
-#EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="" group-title="综合",陕西秦腔频道
-http://chengshuai.eu.org:1234/956909303
-
-#EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" tvg-logo="" group-title="新闻",陕西新闻资讯频道
-http://chengshuai.eu.org:1234/956909289
-
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="" group-title="综合",财富天下
-http://chengshuai.eu.org:1234/956923159
-
-#EXTINF:-1 tvg-id="辽宁公共频道" tvg-name="辽宁公共频道" tvg-logo="" group-title="综合",辽宁公共频道
-http://chengshuai.eu.org:1234/962045223
-
-#EXTINF:-1 tvg-id="辽宁生活频道" tvg-name="辽宁生活频道" tvg-logo="" group-title="综合",辽宁生活频道
-http://chengshuai.eu.org:1234/962045226
-
-#EXTINF:-1 tvg-id="辽宁影视剧频道" tvg-name="辽宁影视剧频道" tvg-logo="" group-title="综合",辽宁影视剧频道
-http://chengshuai.eu.org:1234/962067517
-
-#EXTINF:-1 tvg-id="宁夏文旅频道" tvg-name="宁夏文旅频道" tvg-logo="" group-title="综合",宁夏文旅频道
-http://chengshuai.eu.org:1234/962067523
-
-#EXTINF:-1 tvg-id="宁夏经济频道" tvg-name="宁夏经济频道" tvg-logo="" group-title="综合",宁夏经济频道
-http://chengshuai.eu.org:1234/962067520
-
-#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="" group-title="电影",经典香港电影
-http://chengshuai.eu.org:1234/625703337
-
-#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="" group-title="综合",抗战经典影片
-http://chengshuai.eu.org:1234/617432318
-
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="" group-title="综合",新片放映厅
-http://chengshuai.eu.org:1234/619495952
-
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="" group-title="电影",CHC影迷电影
-http://chengshuai.eu.org:1234/952383261
-
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="电影",CHC动作电影
-http://chengshuai.eu.org:1234/644368714
-
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="电影",CHC家庭影院
-http://chengshuai.eu.org:1234/644368373
-
-#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="" group-title="综合",和美乡途轮播台
-http://chengshuai.eu.org:1234/713591450
-
-#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="" group-title="综合",最强综艺趴
-http://chengshuai.eu.org:1234/629942228
-
 # 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV1
-http://houchunxia.eu.org:1234/608807420
-
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="央视",CCTV2
-http://houchunxia.eu.org:1234/631780532
-
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="央视",CCTV3
-http://houchunxia.eu.org:1234/624878271
-
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="央视",CCTV4
-http://houchunxia.eu.org:1234/631780421
-
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5
-http://houchunxia.eu.org:1234/641886683
-
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="央视",CCTV5+
-http://houchunxia.eu.org:1234/641886773
-
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="央视",CCTV6
-http://houchunxia.eu.org:1234/624878396
-
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="央视",CCTV7
-http://houchunxia.eu.org:1234/673168121
-
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="央视",CCTV8
-http://houchunxia.eu.org:1234/624878356
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="央视",CCTV9
-http://houchunxia.eu.org:1234/673168140
-
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="央视",CCTV10
-http://houchunxia.eu.org:1234/624878405
-
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="央视",CCTV11
-http://houchunxia.eu.org:1234/667987558
-
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="央视",CCTV12
-http://houchunxia.eu.org:1234/673168185
-
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="央视",CCTV13
-http://houchunxia.eu.org:1234/608807423
-
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="央视",CCTV14
-http://houchunxia.eu.org:1234/624878440
-
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="央视",CCTV15
-http://houchunxia.eu.org:1234/673168223
-
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="央视",CCTV17
-http://houchunxia.eu.org:1234/673168256
-
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="" group-title="央视",CCTV4欧洲
-http://houchunxia.eu.org:1234/608807419
-
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="" group-title="央视",CCTV4美洲
-http://houchunxia.eu.org:1234/608807416
-
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="" group-title="综合",赛事最经典
-http://houchunxia.eu.org:1234/646596895
-
-#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="" group-title="综合",体坛名栏汇
-http://houchunxia.eu.org:1234/629943305
-
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="" group-title="综合",四海钓鱼
-http://houchunxia.eu.org:1234/637444975
-
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="" group-title="卫视",大湾区卫视
-http://houchunxia.eu.org:1234/608917627
-
-#EXTINF:-1 tvg-id="陕西体育" tvg-name="陕西体育" tvg-logo="" group-title="体育",陕西体育
-http://houchunxia.eu.org:1234/956909356
-
-#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="" group-title="体育",辽宁体育
-http://houchunxia.eu.org:1234/962067526
-
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
-http://houchunxia.eu.org:1234/651632648
-
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
-http://houchunxia.eu.org:1234/623899368
-
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
-http://houchunxia.eu.org:1234/608831231
-
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
-http://houchunxia.eu.org:1234/630287636
-
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
-http://houchunxia.eu.org:1234/630291707
-
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
-http://houchunxia.eu.org:1234/962042070
-
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
-http://houchunxia.eu.org:1234/783847495
-
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视",陕西卫视
-http://houchunxia.eu.org:1234/738910838
-
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
-http://houchunxia.eu.org:1234/947472496
-
-#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="" group-title="卫视",农林卫视
-http://houchunxia.eu.org:1234/956904896
-
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视",兵团卫视
-http://houchunxia.eu.org:1234/956923145
-
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="" group-title="新闻",上海新闻综合
-http://houchunxia.eu.org:1234/651632657
-
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="" group-title="综合",上视东方影视
-http://houchunxia.eu.org:1234/617290047
-
-#EXTINF:-1 tvg-id="公共新闻频道" tvg-name="公共新闻频道" tvg-logo="" group-title="新闻",公共新闻频道
-http://houchunxia.eu.org:1234/626064693
-
-#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="" group-title="新闻",盐城新闻综合
-http://houchunxia.eu.org:1234/639731825
-
-#EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="" group-title="新闻",江阴新闻综合
-http://houchunxia.eu.org:1234/955227979
-
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="" group-title="新闻",南通新闻综合
-http://houchunxia.eu.org:1234/955227985
-
-#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="" group-title="新闻",宜兴新闻综合
-http://houchunxia.eu.org:1234/955227996
-
-#EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="" group-title="新闻",溧水新闻综合
-http://houchunxia.eu.org:1234/639737327
-
-#EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="" group-title="综合",陕西银龄频道
-http://houchunxia.eu.org:1234/956909362
-
-#EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="" group-title="综合",陕西都市青春频道
-http://houchunxia.eu.org:1234/956909358
-
-#EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="" group-title="综合",陕西秦腔频道
-http://houchunxia.eu.org:1234/956909303
-
-#EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" tvg-logo="" group-title="新闻",陕西新闻资讯频道
-http://houchunxia.eu.org:1234/956909289
-
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="" group-title="综合",财富天下
-http://houchunxia.eu.org:1234/956923159
-
-#EXTINF:-1 tvg-id="辽宁公共频道" tvg-name="辽宁公共频道" tvg-logo="" group-title="综合",辽宁公共频道
-http://houchunxia.eu.org:1234/962045223
-
-#EXTINF:-1 tvg-id="辽宁生活频道" tvg-name="辽宁生活频道" tvg-logo="" group-title="综合",辽宁生活频道
-http://houchunxia.eu.org:1234/962045226
-
-#EXTINF:-1 tvg-id="辽宁影视剧频道" tvg-name="辽宁影视剧频道" tvg-logo="" group-title="综合",辽宁影视剧频道
-http://houchunxia.eu.org:1234/962067517
-
-#EXTINF:-1 tvg-id="宁夏文旅频道" tvg-name="宁夏文旅频道" tvg-logo="" group-title="综合",宁夏文旅频道
-http://houchunxia.eu.org:1234/962067523
-
-#EXTINF:-1 tvg-id="宁夏经济频道" tvg-name="宁夏经济频道" tvg-logo="" group-title="综合",宁夏经济频道
-http://houchunxia.eu.org:1234/962067520
-
-#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="" group-title="电影",经典香港电影
-http://houchunxia.eu.org:1234/625703337
-
-#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="" group-title="综合",抗战经典影片
-http://houchunxia.eu.org:1234/617432318
-
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="" group-title="综合",新片放映厅
-http://houchunxia.eu.org:1234/619495952
-
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="" group-title="电影",CHC影迷电影
-http://houchunxia.eu.org:1234/952383261
-
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="电影",CHC动作电影
-http://houchunxia.eu.org:1234/644368714
-
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="电影",CHC家庭影院
-http://houchunxia.eu.org:1234/644368373
-
-#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="" group-title="综合",和美乡途轮播台
-http://houchunxia.eu.org:1234/713591450
-
-#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="" group-title="综合",最强综艺趴
-http://houchunxia.eu.org:1234/629942228
-
-# 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV1
-http://2560.eu.org:1234/608807420
-
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="央视",CCTV2
-http://2560.eu.org:1234/631780532
-
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="央视",CCTV3
-http://2560.eu.org:1234/624878271
-
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="央视",CCTV4
-http://2560.eu.org:1234/631780421
-
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5
-http://2560.eu.org:1234/641886683
-
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="央视",CCTV5+
-http://2560.eu.org:1234/641886773
-
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="央视",CCTV6
-http://2560.eu.org:1234/624878396
-
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="央视",CCTV7
-http://2560.eu.org:1234/673168121
-
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="央视",CCTV8
-http://2560.eu.org:1234/624878356
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="央视",CCTV9
-http://2560.eu.org:1234/673168140
-
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="央视",CCTV10
-http://2560.eu.org:1234/624878405
-
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="央视",CCTV11
-http://2560.eu.org:1234/667987558
-
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="央视",CCTV12
-http://2560.eu.org:1234/673168185
-
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="央视",CCTV13
-http://2560.eu.org:1234/608807423
-
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="央视",CCTV14
-http://2560.eu.org:1234/624878440
-
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="央视",CCTV15
-http://2560.eu.org:1234/673168223
-
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="央视",CCTV17
-http://2560.eu.org:1234/673168256
-
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="" group-title="央视",CCTV4欧洲
-http://2560.eu.org:1234/608807419
-
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="" group-title="央视",CCTV4美洲
-http://2560.eu.org:1234/608807416
-
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="" group-title="综合",赛事最经典
-http://2560.eu.org:1234/646596895
-
-#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="" group-title="综合",体坛名栏汇
-http://2560.eu.org:1234/629943305
-
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="" group-title="综合",四海钓鱼
-http://2560.eu.org:1234/637444975
-
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="" group-title="卫视",大湾区卫视
-http://2560.eu.org:1234/608917627
-
-#EXTINF:-1 tvg-id="陕西体育" tvg-name="陕西体育" tvg-logo="" group-title="体育",陕西体育
-http://2560.eu.org:1234/956909356
-
-#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="" group-title="体育",辽宁体育
-http://2560.eu.org:1234/962067526
-
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
-http://2560.eu.org:1234/651632648
-
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
-http://2560.eu.org:1234/623899368
-
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
-http://2560.eu.org:1234/608831231
-
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
-http://2560.eu.org:1234/630287636
-
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
-http://2560.eu.org:1234/630291707
-
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
-http://2560.eu.org:1234/962042070
-
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
-http://2560.eu.org:1234/783847495
-
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视",陕西卫视
-http://2560.eu.org:1234/738910838
-
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
-http://2560.eu.org:1234/947472496
-
-#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="" group-title="卫视",农林卫视
-http://2560.eu.org:1234/956904896
-
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视",兵团卫视
-http://2560.eu.org:1234/956923145
-
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="" group-title="新闻",上海新闻综合
-http://2560.eu.org:1234/651632657
-
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="" group-title="综合",上视东方影视
-http://2560.eu.org:1234/617290047
-
-#EXTINF:-1 tvg-id="公共新闻频道" tvg-name="公共新闻频道" tvg-logo="" group-title="新闻",公共新闻频道
-http://2560.eu.org:1234/626064693
-
-#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="" group-title="新闻",盐城新闻综合
-http://2560.eu.org:1234/639731825
-
-#EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="" group-title="新闻",江阴新闻综合
-http://2560.eu.org:1234/955227979
-
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="" group-title="新闻",南通新闻综合
-http://2560.eu.org:1234/955227985
-
-#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="" group-title="新闻",宜兴新闻综合
-http://2560.eu.org:1234/955227996
-
-#EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="" group-title="新闻",溧水新闻综合
-http://2560.eu.org:1234/639737327
-
-#EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="" group-title="综合",陕西银龄频道
-http://2560.eu.org:1234/956909362
-
-#EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="" group-title="综合",陕西都市青春频道
-http://2560.eu.org:1234/956909358
-
-#EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="" group-title="综合",陕西秦腔频道
-http://2560.eu.org:1234/956909303
-
-#EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" tvg-logo="" group-title="新闻",陕西新闻资讯频道
-http://2560.eu.org:1234/956909289
-
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="" group-title="综合",财富天下
-http://2560.eu.org:1234/956923159
-
-#EXTINF:-1 tvg-id="辽宁公共频道" tvg-name="辽宁公共频道" tvg-logo="" group-title="综合",辽宁公共频道
-http://2560.eu.org:1234/962045223
-
-#EXTINF:-1 tvg-id="辽宁生活频道" tvg-name="辽宁生活频道" tvg-logo="" group-title="综合",辽宁生活频道
-http://2560.eu.org:1234/962045226
-
-#EXTINF:-1 tvg-id="辽宁影视剧频道" tvg-name="辽宁影视剧频道" tvg-logo="" group-title="综合",辽宁影视剧频道
-http://2560.eu.org:1234/962067517
-
-#EXTINF:-1 tvg-id="宁夏文旅频道" tvg-name="宁夏文旅频道" tvg-logo="" group-title="综合",宁夏文旅频道
-http://2560.eu.org:1234/962067523
-
-#EXTINF:-1 tvg-id="宁夏经济频道" tvg-name="宁夏经济频道" tvg-logo="" group-title="综合",宁夏经济频道
-http://2560.eu.org:1234/962067520
-
-#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="" group-title="电影",经典香港电影
-http://2560.eu.org:1234/625703337
-
-#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="" group-title="综合",抗战经典影片
-http://2560.eu.org:1234/617432318
-
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="" group-title="综合",新片放映厅
-http://2560.eu.org:1234/619495952
-
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="" group-title="电影",CHC影迷电影
-http://2560.eu.org:1234/952383261
-
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="电影",CHC动作电影
-http://2560.eu.org:1234/644368714
-
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="电影",CHC家庭影院
-http://2560.eu.org:1234/644368373
-
-#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="" group-title="综合",和美乡途轮播台
-http://2560.eu.org:1234/713591450
-
-#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="" group-title="综合",最强综艺趴
-http://2560.eu.org:1234/629942228
-
-# 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV1
-http://www.513521.xyz:1234/608807420
-
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="央视",CCTV2
-http://www.513521.xyz:1234/631780532
-
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="央视",CCTV3
-http://www.513521.xyz:1234/624878271
-
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="央视",CCTV4
-http://www.513521.xyz:1234/631780421
-
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5
-http://www.513521.xyz:1234/641886683
-
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="央视",CCTV5+
-http://www.513521.xyz:1234/641886773
-
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="央视",CCTV6
-http://www.513521.xyz:1234/624878396
-
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="央视",CCTV7
-http://www.513521.xyz:1234/673168121
-
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="央视",CCTV8
-http://www.513521.xyz:1234/624878356
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="央视",CCTV9
-http://www.513521.xyz:1234/673168140
-
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="央视",CCTV10
-http://www.513521.xyz:1234/624878405
-
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="央视",CCTV11
-http://www.513521.xyz:1234/667987558
-
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="央视",CCTV12
-http://www.513521.xyz:1234/673168185
-
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="央视",CCTV13
-http://www.513521.xyz:1234/608807423
-
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="央视",CCTV14
-http://www.513521.xyz:1234/624878440
-
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="央视",CCTV15
-http://www.513521.xyz:1234/673168223
-
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="央视",CCTV17
-http://www.513521.xyz:1234/673168256
-
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="" group-title="央视",CCTV4欧洲
-http://www.513521.xyz:1234/608807419
-
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="" group-title="央视",CCTV4美洲
-http://www.513521.xyz:1234/608807416
-
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="" group-title="综合",赛事最经典
-http://www.513521.xyz:1234/646596895
-
-#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="" group-title="综合",体坛名栏汇
-http://www.513521.xyz:1234/629943305
-
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="" group-title="综合",四海钓鱼
-http://www.513521.xyz:1234/637444975
-
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="" group-title="卫视",大湾区卫视
-http://www.513521.xyz:1234/608917627
-
-#EXTINF:-1 tvg-id="陕西体育" tvg-name="陕西体育" tvg-logo="" group-title="体育",陕西体育
-http://www.513521.xyz:1234/956909356
-
-#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="" group-title="体育",辽宁体育
-http://www.513521.xyz:1234/962067526
-
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
-http://www.513521.xyz:1234/651632648
-
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
-http://www.513521.xyz:1234/623899368
-
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
-http://www.513521.xyz:1234/608831231
-
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
-http://www.513521.xyz:1234/630287636
-
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
-http://www.513521.xyz:1234/630291707
-
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
-http://www.513521.xyz:1234/962042070
-
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
-http://www.513521.xyz:1234/783847495
-
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视",陕西卫视
-http://www.513521.xyz:1234/738910838
-
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
-http://www.513521.xyz:1234/947472496
-
-#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="" group-title="卫视",农林卫视
-http://www.513521.xyz:1234/956904896
-
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视",兵团卫视
-http://www.513521.xyz:1234/956923145
-
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="" group-title="新闻",上海新闻综合
-http://www.513521.xyz:1234/651632657
-
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="" group-title="综合",上视东方影视
-http://www.513521.xyz:1234/617290047
-
-#EXTINF:-1 tvg-id="公共新闻频道" tvg-name="公共新闻频道" tvg-logo="" group-title="新闻",公共新闻频道
-http://www.513521.xyz:1234/626064693
-
-#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="" group-title="新闻",盐城新闻综合
-http://www.513521.xyz:1234/639731825
-
-#EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="" group-title="新闻",江阴新闻综合
-http://www.513521.xyz:1234/955227979
-
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="" group-title="新闻",南通新闻综合
-http://www.513521.xyz:1234/955227985
-
-#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="" group-title="新闻",宜兴新闻综合
-http://www.513521.xyz:1234/955227996
-
-#EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="" group-title="新闻",溧水新闻综合
-http://www.513521.xyz:1234/639737327
-
-#EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="" group-title="综合",陕西银龄频道
-http://www.513521.xyz:1234/956909362
-
-#EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="" group-title="综合",陕西都市青春频道
-http://www.513521.xyz:1234/956909358
-
-#EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="" group-title="综合",陕西秦腔频道
-http://www.513521.xyz:1234/956909303
-
-#EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" tvg-logo="" group-title="新闻",陕西新闻资讯频道
-http://www.513521.xyz:1234/956909289
-
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="" group-title="综合",财富天下
-http://www.513521.xyz:1234/956923159
-
-#EXTINF:-1 tvg-id="辽宁公共频道" tvg-name="辽宁公共频道" tvg-logo="" group-title="综合",辽宁公共频道
-http://www.513521.xyz:1234/962045223
-
-#EXTINF:-1 tvg-id="辽宁生活频道" tvg-name="辽宁生活频道" tvg-logo="" group-title="综合",辽宁生活频道
-http://www.513521.xyz:1234/962045226
-
-#EXTINF:-1 tvg-id="辽宁影视剧频道" tvg-name="辽宁影视剧频道" tvg-logo="" group-title="综合",辽宁影视剧频道
-http://www.513521.xyz:1234/962067517
-
-#EXTINF:-1 tvg-id="宁夏文旅频道" tvg-name="宁夏文旅频道" tvg-logo="" group-title="综合",宁夏文旅频道
-http://www.513521.xyz:1234/962067523
-
-#EXTINF:-1 tvg-id="宁夏经济频道" tvg-name="宁夏经济频道" tvg-logo="" group-title="综合",宁夏经济频道
-http://www.513521.xyz:1234/962067520
-
-#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="" group-title="电影",经典香港电影
-http://www.513521.xyz:1234/625703337
-
-#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="" group-title="综合",抗战经典影片
-http://www.513521.xyz:1234/617432318
-
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="" group-title="综合",新片放映厅
-http://www.513521.xyz:1234/619495952
-
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="" group-title="电影",CHC影迷电影
-http://www.513521.xyz:1234/952383261
-
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="电影",CHC动作电影
-http://www.513521.xyz:1234/644368714
-
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="电影",CHC家庭影院
-http://www.513521.xyz:1234/644368373
-
-#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="" group-title="综合",和美乡途轮播台
-http://www.513521.xyz:1234/713591450
-
-#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="" group-title="综合",最强综艺趴
-http://www.513521.xyz:1234/629942228
-
 # 
 #EXTINF:-1 tvg-id="体育-昨天" tvg-name="体育-昨天" tvg-logo="" group-title="体育",体育-昨天
 #genre#
 
 #EXTINF:-1 tvg-id="亚冠精英町田泽维亚VS迪拜青年国民全场回放（石庆圣）00:00" tvg-name="亚冠精英 町田泽维亚VS迪拜青年国民 全场回放（石庆圣） 00:00" tvg-logo="" group-title="综合",亚冠精英 町田泽维亚VS迪拜青年国民 全场回放（石庆圣） 00:00
-http://513521.xyz:1234/964328653
+http://180.152.19.206:1234/964328653
 
 #EXTINF:-1 tvg-id="西甲马略卡VS瓦伦西亚全场回放（梁祥宇）00:45" tvg-name="西甲 马略卡VS瓦伦西亚 全场回放（梁祥宇） 00:45" tvg-logo="" group-title="综合",西甲 马略卡VS瓦伦西亚 全场回放（梁祥宇） 00:45
-http://513521.xyz:1234/964328765
+http://180.152.19.206:1234/964328765
 
 #EXTINF:-1 tvg-id="西甲毕尔巴鄂竞技VS奥萨苏纳全场回放（张天翼）00:45" tvg-name="西甲 毕尔巴鄂竞技VS奥萨苏纳 全场回放（张天翼） 00:45" tvg-logo="" group-title="综合",西甲 毕尔巴鄂竞技VS奥萨苏纳 全场回放（张天翼） 00:45
-http://513521.xyz:1234/964328903
+http://180.152.19.206:1234/964328903
 
 #EXTINF:-1 tvg-id="女篮世界杯资格赛国际篮联篮球名人堂入选仪式全场回放（邵化谦、季孟年）01:50" tvg-name="女篮世界杯资格赛 国际篮联篮球名人堂入选仪式 全场回放（邵化谦、季孟年） 01:50" tvg-logo="" group-title="综合",女篮世界杯资格赛 国际篮联篮球名人堂入选仪式 全场回放（邵化谦、季孟年） 01:50
-http://513521.xyz:1234/964329407
+http://180.152.19.206:1234/964329407
 
 #EXTINF:-1 tvg-id="女篮世界杯资格赛国际篮联篮球名人堂入选仪式全场回放（赛场原声）01:50" tvg-name="女篮世界杯资格赛 国际篮联篮球名人堂入选仪式 全场回放（赛场原声） 01:50" tvg-logo="" group-title="综合",女篮世界杯资格赛 国际篮联篮球名人堂入选仪式 全场回放（赛场原声） 01:50
-http://513521.xyz:1234/964329647
+http://180.152.19.206:1234/964329647
 
 #EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一【回放】肖恩·墨菲10-9范争一（第二阶段）（朱峰立）02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲10-9范争一（第二阶段）（朱峰立） 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲10-9范争一（第二阶段）（朱峰立） 02:00
-http://513521.xyz:1234/964330048
+http://180.152.19.206:1234/964330048
 
 #EXTINF:-1 tvg-id="斯诺克肖恩·墨菲VS范争一【回放】肖恩·墨菲10-9范争一（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲10-9范争一（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 肖恩·墨菲VS范争一 【回放】肖恩·墨菲10-9范争一（第二阶段）（赛场原声） 02:00
-http://513521.xyz:1234/964330902
+http://180.152.19.206:1234/964330902
 
 #EXTINF:-1 tvg-id="斯诺克特鲁姆普VS加里·威尔逊【回放】贾德·特鲁姆普10-5加里·威尔逊（第二阶段）（孙嘉星）02:00" tvg-name="斯诺克 特鲁姆普VS加里·威尔逊 【回放】贾德·特鲁姆普10-5加里·威尔逊（第二阶段）（孙嘉星） 02:00" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS加里·威尔逊 【回放】贾德·特鲁姆普10-5加里·威尔逊（第二阶段）（孙嘉星） 02:00
-http://513521.xyz:1234/964329686
+http://180.152.19.206:1234/964329686
 
 #EXTINF:-1 tvg-id="斯诺克特鲁姆普VS加里·威尔逊【回放】贾德·特鲁姆普10-5加里·威尔逊（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 特鲁姆普VS加里·威尔逊 【回放】贾德·特鲁姆普10-5加里·威尔逊（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS加里·威尔逊 【回放】贾德·特鲁姆普10-5加里·威尔逊（第二阶段）（赛场原声） 02:00
-http://513521.xyz:1234/964329843
+http://180.152.19.206:1234/964329843
 
 #EXTINF:-1 tvg-id="英超布莱顿VS切尔西全场回放02:45" tvg-name="英超 布莱顿VS切尔西 全场回放 02:45" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 全场回放 02:45
-http://513521.xyz:1234/964331695
+http://180.152.19.206:1234/964331695
 
 #EXTINF:-1 tvg-id="英超布莱顿VS切尔西全场回放（苏东、徐阳、林梦鸽）02:45" tvg-name="英超 布莱顿VS切尔西 全场回放（苏东、徐阳、林梦鸽） 02:45" tvg-logo="" group-title="综合",英超 布莱顿VS切尔西 全场回放（苏东、徐阳、林梦鸽） 02:45
-http://513521.xyz:1234/964329704
+http://180.152.19.206:1234/964329704
 
 #EXTINF:-1 tvg-id="意大利杯国际米兰VS科莫全场回放（吴桐、贺宇）02:45" tvg-name="意大利杯 国际米兰VS科莫 全场回放（吴桐、贺宇） 02:45" tvg-logo="" group-title="综合",意大利杯 国际米兰VS科莫 全场回放（吴桐、贺宇） 02:45
-http://513521.xyz:1234/964330269
+http://180.152.19.206:1234/964330269
 
 #EXTINF:-1 tvg-id="西甲吉罗纳VS皇家贝蒂斯全场回放（张天翼）03:15" tvg-name="西甲 吉罗纳VS皇家贝蒂斯 全场回放（张天翼） 03:15" tvg-logo="" group-title="综合",西甲 吉罗纳VS皇家贝蒂斯 全场回放（张天翼） 03:15
-http://513521.xyz:1234/964329838
+http://180.152.19.206:1234/964329838
 
 #EXTINF:-1 tvg-id="西甲皇家马德里VS阿拉维斯全场回放（鹿中原、王宇）03:15" tvg-name="西甲 皇家马德里VS阿拉维斯 全场回放（鹿中原、王宇） 03:15" tvg-logo="" group-title="综合",西甲 皇家马德里VS阿拉维斯 全场回放（鹿中原、王宇） 03:15
-http://513521.xyz:1234/964329791
+http://180.152.19.206:1234/964329791
 
 #EXTINF:-1 tvg-id="NBA凯尔特人VS76人全场回放（庄宁宇、殷文玉、王羽希）06:55" tvg-name="NBA 凯尔特人VS76人 全场回放（庄宁宇、殷文玉、王羽希） 06:55" tvg-logo="" group-title="综合",NBA 凯尔特人VS76人 全场回放（庄宁宇、殷文玉、王羽希） 06:55
-http://513521.xyz:1234/964332261
+http://180.152.19.206:1234/964332261
 
 #EXTINF:-1 tvg-id="NBA凯尔特人VS76人全场回放（英文原声）06:55" tvg-name="NBA 凯尔特人VS76人 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 凯尔特人VS76人 全场回放（英文原声） 06:55
-http://513521.xyz:1234/964332241
+http://180.152.19.206:1234/964332241
 
 #EXTINF:-1 tvg-id="NBA马刺VS开拓者全场回放（连睿、曾令旭、闫宇峰、秋童）07:55" tvg-name="NBA 马刺VS开拓者 全场回放（连睿、曾令旭、闫宇峰、秋童） 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 全场回放（连睿、曾令旭、闫宇峰、秋童） 07:55
-http://513521.xyz:1234/964333957
+http://180.152.19.206:1234/964333957
 
 #EXTINF:-1 tvg-id="NBA马刺VS开拓者全场回放（邢晨）07:55" tvg-name="NBA 马刺VS开拓者 全场回放（邢晨） 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 全场回放（邢晨） 07:55
-http://513521.xyz:1234/964333852
+http://180.152.19.206:1234/964333852
 
 #EXTINF:-1 tvg-id="NBA马刺VS开拓者全场回放（王晓晨）07:55" tvg-name="NBA 马刺VS开拓者 全场回放（王晓晨） 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 全场回放（王晓晨） 07:55
-http://513521.xyz:1234/964334196
+http://180.152.19.206:1234/964334196
 
 #EXTINF:-1 tvg-id="NBA马刺VS开拓者全场回放（英文原声）07:55" tvg-name="NBA 马刺VS开拓者 全场回放（英文原声） 07:55" tvg-logo="" group-title="综合",NBA 马刺VS开拓者 全场回放（英文原声） 07:55
-http://513521.xyz:1234/964334060
+http://180.152.19.206:1234/964334060
 
 #EXTINF:-1 tvg-id="NBA湖人VS火箭全场回放（杨健、李根、马健、佳依）10:25" tvg-name="NBA 湖人VS火箭 全场回放（杨健、李根、马健、佳依） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 全场回放（杨健、李根、马健、佳依） 10:25
-http://513521.xyz:1234/964336307
+http://180.152.19.206:1234/964336307
 
 #EXTINF:-1 tvg-id="NBA湖人VS火箭全场回放（英文原声）10:25" tvg-name="NBA 湖人VS火箭 全场回放（英文原声） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 全场回放（英文原声） 10:25
-http://513521.xyz:1234/964336366
+http://180.152.19.206:1234/964336366
 
 #EXTINF:-1 tvg-id="NBA湖人VS火箭全场回放（周鹏）10:25" tvg-name="NBA 湖人VS火箭 全场回放（周鹏） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 全场回放（周鹏） 10:25
-http://513521.xyz:1234/964336487
+http://180.152.19.206:1234/964336487
 
 #EXTINF:-1 tvg-id="NBA湖人VS火箭全场回放（郑泽鹏）10:25" tvg-name="NBA 湖人VS火箭 全场回放（郑泽鹏） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 全场回放（郑泽鹏） 10:25
-http://513521.xyz:1234/964336320
+http://180.152.19.206:1234/964336320
 
 #EXTINF:-1 tvg-id="NBA湖人VS火箭全场回放（莫俊祺）10:25" tvg-name="NBA 湖人VS火箭 全场回放（莫俊祺） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 全场回放（莫俊祺） 10:25
-http://513521.xyz:1234/964336404
+http://180.152.19.206:1234/964336404
 
 #EXTINF:-1 tvg-id="NBA湖人VS火箭全场回放（洪荒）10:25" tvg-name="NBA 湖人VS火箭 全场回放（洪荒） 10:25" tvg-logo="" group-title="综合",NBA 湖人VS火箭 全场回放（洪荒） 10:25
-http://513521.xyz:1234/964336282
+http://180.152.19.206:1234/964336282
 
 #EXTINF:-1 tvg-id="斯诺克克里斯·韦克林VS利亚姆·普伦【回放】克里斯·韦克林10-6利亚姆·普伦（第二阶段）（乔迁）17:00" tvg-name="斯诺克 克里斯·韦克林VS利亚姆·普伦 【回放】克里斯·韦克林10-6利亚姆·普伦（第二阶段）（乔迁） 17:00" tvg-logo="" group-title="综合",斯诺克 克里斯·韦克林VS利亚姆·普伦 【回放】克里斯·韦克林10-6利亚姆·普伦（第二阶段）（乔迁） 17:00
-http://513521.xyz:1234/964341792
+http://180.152.19.206:1234/964341792
 
 #EXTINF:-1 tvg-id="斯诺克克里斯·韦克林VS利亚姆·普伦【回放】克里斯·韦克林10-6利亚姆·普伦（第二阶段）（赛场原声）17:00" tvg-name="斯诺克 克里斯·韦克林VS利亚姆·普伦 【回放】克里斯·韦克林10-6利亚姆·普伦（第二阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 克里斯·韦克林VS利亚姆·普伦 【回放】克里斯·韦克林10-6利亚姆·普伦（第二阶段）（赛场原声） 17:00
-http://513521.xyz:1234/964343758
+http://180.152.19.206:1234/964343758
 
 #EXTINF:-1 tvg-id="斯诺克塞尔比VS杰克·琼斯【回放】马克·塞尔比7-2杰克·琼斯（第一阶段）（陶哲铭）17:00" tvg-name="斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比7-2杰克·琼斯（第一阶段）（陶哲铭） 17:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比7-2杰克·琼斯（第一阶段）（陶哲铭） 17:00
-http://513521.xyz:1234/964344647
+http://180.152.19.206:1234/964344647
 
 #EXTINF:-1 tvg-id="斯诺克塞尔比VS杰克·琼斯【回放】马克·塞尔比7-2杰克·琼斯（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比7-2杰克·琼斯（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比7-2杰克·琼斯（第一阶段）（赛场原声） 17:00
-http://513521.xyz:1234/964346912
+http://180.152.19.206:1234/964346912
 
 #EXTINF:-1 tvg-id="WTA张帅VS利斯全场回放（胡力涛）17:00" tvg-name="WTA 张帅VS利斯 全场回放（胡力涛） 17:00" tvg-logo="" group-title="综合",WTA 张帅VS利斯 全场回放（胡力涛） 17:00
-http://513521.xyz:1234/964340783
+http://180.152.19.206:1234/964340783
 
 #EXTINF:-1 tvg-id="WTA张帅VS利斯全场回放17:00" tvg-name="WTA 张帅VS利斯 全场回放 17:00" tvg-logo="" group-title="综合",WTA 张帅VS利斯 全场回放 17:00
-http://513521.xyz:1234/964341197
+http://180.152.19.206:1234/964341197
 
 #EXTINF:-1 tvg-id="中国田径大众达标校园系列赛北京体育大学第56届田径运动会2026年北京体育大学第56届田径运动会下午场全场回放（官方解说）（20260422）17:45" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会下午场全场回放（官方解说）（20260422） 17:45" tvg-logo="" group-title="体育",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会下午场全场回放（官方解说）（20260422） 17:45
-http://513521.xyz:1234/964346315
+http://180.152.19.206:1234/964346315
 
 #EXTINF:-1 tvg-id="中国田径大众达标校园系列赛北京体育大学第56届田径运动会2026年北京体育大学第56届田径运动会全场回放（赛场原声）（20260422）17:45" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会全场回放（赛场原声）（20260422） 17:45" tvg-logo="" group-title="体育",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会全场回放（赛场原声）（20260422） 17:45
-http://513521.xyz:1234/964339963
+http://180.152.19.206:1234/964339963
 
 #EXTINF:-1 tvg-id="吴越杯舟山队VS台州队全场回放19:05" tvg-name="吴越杯 舟山队VS台州队 全场回放 19:05" tvg-logo="" group-title="综合",吴越杯 舟山队VS台州队 全场回放 19:05
-http://513521.xyz:1234/964347520
+http://180.152.19.206:1234/964347520
 
 #EXTINF:-1 tvg-id="吴越杯衢州队VS湖州队全场回放19:15" tvg-name="吴越杯 衢州队VS湖州队 全场回放 19:15" tvg-logo="" group-title="综合",吴越杯 衢州队VS湖州队 全场回放 19:15
-http://513521.xyz:1234/964347891
+http://180.152.19.206:1234/964347891
 
 #EXTINF:-1 tvg-id="吴越杯温州队VS金华队全场回放19:15" tvg-name="吴越杯 温州队VS金华队 全场回放 19:15" tvg-logo="" group-title="综合",吴越杯 温州队VS金华队 全场回放 19:15
-http://513521.xyz:1234/964347506
+http://180.152.19.206:1234/964347506
 
 #EXTINF:-1 tvg-id="WCBA四川蜀道远达VS山西竹叶青酒全场回放（邵化谦、赵爽）19:10" tvg-name="WCBA 四川蜀道远达VS山西竹叶青酒 全场回放（邵化谦、赵爽） 19:10" tvg-logo="" group-title="综合",WCBA 四川蜀道远达VS山西竹叶青酒 全场回放（邵化谦、赵爽） 19:10
-http://513521.xyz:1234/964345314
+http://180.152.19.206:1234/964345314
 
 #EXTINF:-1 tvg-id="WCBA四川蜀道远达VS山西竹叶青酒全场回放（现场解说）19:10" tvg-name="WCBA 四川蜀道远达VS山西竹叶青酒 全场回放（现场解说） 19:10" tvg-logo="" group-title="综合",WCBA 四川蜀道远达VS山西竹叶青酒 全场回放（现场解说） 19:10
-http://513521.xyz:1234/964346764
+http://180.152.19.206:1234/964346764
 
 #EXTINF:-1 tvg-id="WCBA四川蜀道远达VS山西竹叶青酒全场回放（原声）19:10" tvg-name="WCBA 四川蜀道远达VS山西竹叶青酒 全场回放（原声） 19:10" tvg-logo="" group-title="综合",WCBA 四川蜀道远达VS山西竹叶青酒 全场回放（原声） 19:10
-http://513521.xyz:1234/964346628
+http://180.152.19.206:1234/964346628
 
 #EXTINF:-1 tvg-id="中超青岛西海岸VS河南俱乐部彩陶坊全场回放（袁甲、张辛昕）19:20" tvg-name="中超 青岛西海岸VS河南俱乐部彩陶坊 全场回放（袁甲、张辛昕） 19:20" tvg-logo="" group-title="综合",中超 青岛西海岸VS河南俱乐部彩陶坊 全场回放（袁甲、张辛昕） 19:20
-http://513521.xyz:1234/964345924
+http://180.152.19.206:1234/964345924
 
 #EXTINF:-1 tvg-id="中超辽宁铁人楠波湾VS大连英博海发全场回放（苏东、徐阳）19:20" tvg-name="中超 辽宁铁人楠波湾VS大连英博海发 全场回放（苏东、徐阳） 19:20" tvg-logo="" group-title="综合",中超 辽宁铁人楠波湾VS大连英博海发 全场回放（苏东、徐阳） 19:20
-http://513521.xyz:1234/964346196
+http://180.152.19.206:1234/964346196
 
 #EXTINF:-1 tvg-id="中超上海申花VS青岛海牛全场回放（涂远、马延峰、姚安妮）19:45" tvg-name="中超 上海申花VS青岛海牛 全场回放（涂远、马延峰、姚安妮） 19:45" tvg-logo="" group-title="综合",中超 上海申花VS青岛海牛 全场回放（涂远、马延峰、姚安妮） 19:45
-http://513521.xyz:1234/964346860
+http://180.152.19.206:1234/964346860
 
 #EXTINF:-1 tvg-id="斯诺克奥沙利文VS贺国强【回放】罗尼·奥沙利文10-2贺国强（第二阶段）（柏林）21:30" tvg-name="斯诺克 奥沙利文VS贺国强 【回放】罗尼·奥沙利文10-2贺国强（第二阶段）（柏林） 21:30" tvg-logo="" group-title="综合",斯诺克 奥沙利文VS贺国强 【回放】罗尼·奥沙利文10-2贺国强（第二阶段）（柏林） 21:30
-http://513521.xyz:1234/964346501
+http://180.152.19.206:1234/964346501
 
 #EXTINF:-1 tvg-id="斯诺克奥沙利文VS贺国强【回放】罗尼·奥沙利文10-2贺国强（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 奥沙利文VS贺国强 【回放】罗尼·奥沙利文10-2贺国强（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 奥沙利文VS贺国强 【回放】罗尼·奥沙利文10-2贺国强（第二阶段）（赛场原声） 21:30
-http://513521.xyz:1234/964347056
+http://180.152.19.206:1234/964347056
 
 #EXTINF:-1 tvg-id="斯诺克斯佳辉VS侯赛因·瓦菲【回放】斯佳辉3-6侯赛因·瓦菲（第一阶段）（孙嘉星）21:30" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-6侯赛因·瓦菲（第一阶段）（孙嘉星） 21:30" tvg-logo="" group-title="综合",斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-6侯赛因·瓦菲（第一阶段）（孙嘉星） 21:30
-http://513521.xyz:1234/964351294
+http://180.152.19.206:1234/964351294
 
 #EXTINF:-1 tvg-id="斯诺克斯佳辉VS侯赛因·瓦菲【回放】斯佳辉3-6侯赛因·瓦菲（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-6侯赛因·瓦菲（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-6侯赛因·瓦菲（第一阶段）（赛场原声） 21:30
-http://513521.xyz:1234/964351786
+http://180.152.19.206:1234/964351786
 
 #EXTINF:-1 tvg-id="WTA普利斯科娃逆转森梅兹、伊埃拉晋级2026WTA马德里站女单第1轮回放：普利斯科娃2-1克劳斯（赛场原声）17:00" tvg-name="WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 2026WTA马德里站女单第1轮回放：普利斯科娃2-1克劳斯（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 2026WTA马德里站女单第1轮回放：普利斯科娃2-1克劳斯（赛场原声） 17:00
-http://513521.xyz:1234/964352917
+http://180.152.19.206:1234/964352917
 
 #EXTINF:-1 tvg-id="WTA普利斯科娃逆转森梅兹、伊埃拉晋级2026WTA马德里站女单第1轮回放：普利斯科娃2-1克劳斯（英文原声）17:00" tvg-name="WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 2026WTA马德里站女单第1轮回放：普利斯科娃2-1克劳斯（英文原声） 17:00" tvg-logo="" group-title="综合",WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 2026WTA马德里站女单第1轮回放：普利斯科娃2-1克劳斯（英文原声） 17:00
-http://513521.xyz:1234/964352518
+http://180.152.19.206:1234/964352518
 
 #EXTINF:-1 tvg-id="WTA普利斯科娃逆转森梅兹、伊埃拉晋级【回放】帕芙柳琴科娃0-2伊埃拉（赛场原声）17:00" tvg-name="WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】帕芙柳琴科娃0-2伊埃拉（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】帕芙柳琴科娃0-2伊埃拉（赛场原声） 17:00
-http://513521.xyz:1234/964346257
+http://180.152.19.206:1234/964346257
 
 #EXTINF:-1 tvg-id="WTA普利斯科娃逆转森梅兹、伊埃拉晋级【回放】张帅2-0利斯（胡力涛）17:00" tvg-name="WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】张帅2-0利斯（胡力涛） 17:00" tvg-logo="" group-title="综合",WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】张帅2-0利斯（胡力涛） 17:00
-http://513521.xyz:1234/964340783
+http://180.152.19.206:1234/964340783
 
 #EXTINF:-1 tvg-id="WTA普利斯科娃逆转森梅兹、伊埃拉晋级【回放】张帅2-0利斯（赛场原声）17:00" tvg-name="WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】张帅2-0利斯（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】张帅2-0利斯（赛场原声） 17:00
-http://513521.xyz:1234/964341197
+http://180.152.19.206:1234/964341197
 
 #EXTINF:-1 tvg-id="WTA普利斯科娃逆转森梅兹、伊埃拉晋级【回放】森梅兹2-0马丁内斯-西雷斯（赛场原声）17:00" tvg-name="WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】森梅兹2-0马丁内斯-西雷斯（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】森梅兹2-0马丁内斯-西雷斯（赛场原声） 17:00
-http://513521.xyz:1234/964341759
+http://180.152.19.206:1234/964341759
 
 #EXTINF:-1 tvg-id="WTA普利斯科娃逆转森梅兹、伊埃拉晋级【回放】森梅兹2-0马丁内斯-西雷斯（英文原声）17:00" tvg-name="WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】森梅兹2-0马丁内斯-西雷斯（英文原声） 17:00" tvg-logo="" group-title="综合",WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】森梅兹2-0马丁内斯-西雷斯（英文原声） 17:00
-http://513521.xyz:1234/964341976
+http://180.152.19.206:1234/964341976
 
 #EXTINF:-1 tvg-id="WTA普利斯科娃逆转森梅兹、伊埃拉晋级【回放】帕芙柳琴科娃0-2伊埃拉（英文原声）17:00" tvg-name="WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】帕芙柳琴科娃0-2伊埃拉（英文原声） 17:00" tvg-logo="" group-title="综合",WTA 普利斯科娃逆转 森梅兹、伊埃拉晋级 【回放】帕芙柳琴科娃0-2伊埃拉（英文原声） 17:00
-http://513521.xyz:1234/964346304
+http://180.152.19.206:1234/964346304
 
 #EXTINF:-1 tvg-id="体育-今天" tvg-name="体育-今天" tvg-logo="" group-title="体育",体育-今天
 #genre#
 
 #EXTINF:-1 tvg-id="亚冠二级利雅得胜利VS多哈国民全场回放（乔迁）23:45" tvg-name="亚冠二级 利雅得胜利VS多哈国民 全场回放（乔迁） 23:45" tvg-logo="" group-title="综合",亚冠二级 利雅得胜利VS多哈国民 全场回放（乔迁） 23:45
-http://513521.xyz:1234/964351735
+http://180.152.19.206:1234/964351735
 
 #EXTINF:-1 tvg-id="法甲巴黎圣日耳曼VS南特全场回放（鹿中原、王宇）00:45" tvg-name="法甲 巴黎圣日耳曼VS南特 全场回放（鹿中原、王宇） 00:45" tvg-logo="" group-title="综合",法甲 巴黎圣日耳曼VS南特 全场回放（鹿中原、王宇） 00:45
-http://513521.xyz:1234/964352038
+http://180.152.19.206:1234/964352038
 
 #EXTINF:-1 tvg-id="西甲埃尔切VS马德里竞技全场回放（孙雨轩、贺宇）00:45" tvg-name="西甲 埃尔切VS马德里竞技 全场回放（孙雨轩、贺宇） 00:45" tvg-logo="" group-title="综合",西甲 埃尔切VS马德里竞技 全场回放（孙雨轩、贺宇） 00:45
-http://513521.xyz:1234/964352126
+http://180.152.19.206:1234/964352126
 
 #EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭朱蒙02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 朱蒙 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 朱蒙 02:00
-http://513521.xyz:1234/964331816
+http://180.152.19.206:1234/964331816
 
 #EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭现场原声02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 现场原声 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 现场原声 02:00
-http://513521.xyz:1234/964183997
+http://180.152.19.206:1234/964183997
 
 #EXTINF:-1 tvg-id="斯诺克塞尔比VS杰克·琼斯【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（朱峰立）02:00" tvg-name="斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（朱峰立） 02:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（朱峰立） 02:00
-http://513521.xyz:1234/964352821
+http://180.152.19.206:1234/964352821
 
 #EXTINF:-1 tvg-id="英超伯恩利VS曼城刘畅颜强李子琪02:30" tvg-name="英超 伯恩利VS曼城 刘畅 颜强 李子琪 02:30" tvg-logo="" group-title="综合",英超 伯恩利VS曼城 刘畅 颜强 李子琪 02:30
-http://513521.xyz:1234/964223324
+http://180.152.19.206:1234/964223324
 
 #EXTINF:-1 tvg-id="英超伯恩利VS曼城英文原声02:45" tvg-name="英超 伯恩利VS曼城 英文原声 02:45" tvg-logo="" group-title="综合",英超 伯恩利VS曼城 英文原声 02:45
-http://513521.xyz:1234/964223572
+http://180.152.19.206:1234/964223572
 
 #EXTINF:-1 tvg-id="英超伯恩利VS曼城赛场原声02:45" tvg-name="英超 伯恩利VS曼城 赛场原声 02:45" tvg-logo="" group-title="综合",英超 伯恩利VS曼城 赛场原声 02:45
-http://513521.xyz:1234/964223564
+http://180.152.19.206:1234/964223564
 
 #EXTINF:-1 tvg-id="英超伯恩茅斯VS利兹联刘焕02:45" tvg-name="英超 伯恩茅斯VS利兹联 刘焕 02:45" tvg-logo="" group-title="综合",英超 伯恩茅斯VS利兹联 刘焕 02:45
-http://513521.xyz:1234/964223656
+http://180.152.19.206:1234/964223656
 
 #EXTINF:-1 tvg-id="英超伯恩茅斯VS利兹联赛场原声02:45" tvg-name="英超 伯恩茅斯VS利兹联 赛场原声 02:45" tvg-logo="" group-title="综合",英超 伯恩茅斯VS利兹联 赛场原声 02:45
-http://513521.xyz:1234/964223734
+http://180.152.19.206:1234/964223734
 
 #EXTINF:-1 tvg-id="英超伯恩茅斯VS利兹联英文原声02:45" tvg-name="英超 伯恩茅斯VS利兹联 英文原声 02:45" tvg-logo="" group-title="综合",英超 伯恩茅斯VS利兹联 英文原声 02:45
-http://513521.xyz:1234/964223752
+http://180.152.19.206:1234/964223752
 
 #EXTINF:-1 tvg-id="意大利杯亚特兰大VS拉齐奥石庆圣02:45" tvg-name="意大利杯 亚特兰大VS拉齐奥 石庆圣 02:45" tvg-logo="" group-title="综合",意大利杯 亚特兰大VS拉齐奥 石庆圣 02:45
-http://513521.xyz:1234/964222812
+http://180.152.19.206:1234/964222812
 
 #EXTINF:-1 tvg-id="意大利杯亚特兰大VS拉齐奥赛场原声02:45" tvg-name="意大利杯 亚特兰大VS拉齐奥 赛场原声 02:45" tvg-logo="" group-title="综合",意大利杯 亚特兰大VS拉齐奥 赛场原声 02:45
-http://513521.xyz:1234/964222794
+http://180.152.19.206:1234/964222794
 
 #EXTINF:-1 tvg-id="西甲巴塞罗那VS塞尔塔张昊泽李欣03:15" tvg-name="西甲 巴塞罗那VS塞尔塔 张昊泽 李欣 03:15" tvg-logo="" group-title="综合",西甲 巴塞罗那VS塞尔塔 张昊泽 李欣 03:15
-http://513521.xyz:1234/964222918
+http://180.152.19.206:1234/964222918
 
 #EXTINF:-1 tvg-id="西甲巴塞罗那VS塞尔塔赛场原声03:15" tvg-name="西甲 巴塞罗那VS塞尔塔 赛场原声 03:15" tvg-logo="" group-title="综合",西甲 巴塞罗那VS塞尔塔 赛场原声 03:15
-http://513521.xyz:1234/964222871
+http://180.152.19.206:1234/964222871
 
 #EXTINF:-1 tvg-id="西甲巴塞罗那VS塞尔塔张昊泽李欣03:15" tvg-name="西甲 巴塞罗那VS塞尔塔 张昊泽 李欣 03:15" tvg-logo="" group-title="综合",西甲 巴塞罗那VS塞尔塔 张昊泽 李欣 03:15
-http://513521.xyz:1234/964223844
+http://180.152.19.206:1234/964223844
 
 #EXTINF:-1 tvg-id="NBA活塞VS魔术姜帆季孟年06:55" tvg-name="NBA 活塞VS魔术 姜帆 季孟年 06:55" tvg-logo="" group-title="综合",NBA 活塞VS魔术 姜帆 季孟年 06:55
-http://513521.xyz:1234/964277079
+http://180.152.19.206:1234/964277079
 
 #EXTINF:-1 tvg-id="NBA活塞VS魔术英文原声06:55" tvg-name="NBA 活塞VS魔术 英文原声 06:55" tvg-logo="" group-title="综合",NBA 活塞VS魔术 英文原声 06:55
-http://513521.xyz:1234/964277157
+http://180.152.19.206:1234/964277157
 
 #EXTINF:-1 tvg-id="NBA活塞VS魔术智能字幕06:55" tvg-name="NBA 活塞VS魔术 智能字幕 06:55" tvg-logo="" group-title="综合",NBA 活塞VS魔术 智能字幕 06:55
-http://513521.xyz:1234/964289788
+http://180.152.19.206:1234/964289788
 
 #EXTINF:-1 tvg-id="咪咕体育日报undefined咪咕体育日报第88期08:00" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第88期 08:00" tvg-logo="" group-title="体育",咪咕体育日报 undefined 咪咕体育日报 第88期 08:00
-http://513521.xyz:1234/964291455
+http://180.152.19.206:1234/964291455
 
 #EXTINF:-1 tvg-id="中国田径大众达标校园系列赛北京体育大学第56届田径运动会解说08:15" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 08:15" tvg-logo="" group-title="体育",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 08:15
-http://513521.xyz:1234/964299385
+http://180.152.19.206:1234/964299385
 
 #EXTINF:-1 tvg-id="亚洲室内高山滑雪锦标赛华发冰雪热雪奇迹杯day1解说08:30" tvg-name="亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day1 解说 08:30" tvg-logo="" group-title="综合",亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day1 解说 08:30
-http://513521.xyz:1234/964181332
+http://180.152.19.206:1234/964181332
 
 #EXTINF:-1 tvg-id="NBA雷霆VS太阳孙博李根马健09:15" tvg-name="NBA 雷霆VS太阳 孙博 李根 马健 09:15" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 孙博 李根 马健 09:15
-http://513521.xyz:1234/964277177
+http://180.152.19.206:1234/964277177
 
 #EXTINF:-1 tvg-id="NBA雷霆VS太阳英文原声09:25" tvg-name="NBA 雷霆VS太阳 英文原声 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 英文原声 09:25
-http://513521.xyz:1234/964277230
+http://180.152.19.206:1234/964277230
 
 #EXTINF:-1 tvg-id="NBA雷霆VS太阳智能字幕09:25" tvg-name="NBA 雷霆VS太阳 智能字幕 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 智能字幕 09:25
-http://513521.xyz:1234/964289807
+http://180.152.19.206:1234/964289807
 
 #EXTINF:-1 tvg-id="高尔夫中国公开赛吴阿顺领衔中国军团出战赛场原声12:30" tvg-name="高尔夫中国公开赛 吴阿顺领衔中国军团出战 赛场原声 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 吴阿顺领衔中国军团出战 赛场原声 12:30
-http://513521.xyz:1234/964310299
+http://180.152.19.206:1234/964310299
 
 #EXTINF:-1 tvg-id="高尔夫中国公开赛吴阿顺领衔中国军团出战中文解说12:30" tvg-name="高尔夫中国公开赛 吴阿顺领衔中国军团出战 中文解说 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 吴阿顺领衔中国军团出战 中文解说 12:30
-http://513521.xyz:1234/964310322
+http://180.152.19.206:1234/964310322
 
 #EXTINF:-1 tvg-id="WTA种子选手亮相！Iga、萨巴轮番登场赛场原声17:00" tvg-name="WTA 种子选手亮相！Iga、萨巴轮番登场 赛场原声 17:00" tvg-logo="" group-title="综合",WTA 种子选手亮相！Iga、萨巴轮番登场 赛场原声 17:00
-http://513521.xyz:1234/964215405
+http://180.152.19.206:1234/964215405
 
 #EXTINF:-1 tvg-id="WTA种子选手亮相！Iga、萨巴轮番登场英文原声17:00" tvg-name="WTA 种子选手亮相！Iga、萨巴轮番登场 英文原声 17:00" tvg-logo="" group-title="综合",WTA 种子选手亮相！Iga、萨巴轮番登场 英文原声 17:00
-http://513521.xyz:1234/964215432
+http://180.152.19.206:1234/964215432
 
 #EXTINF:-1 tvg-id="吴越杯杭州队VS绍兴队2026赛季浙江省城市足球联赛第四轮:杭州VS绍兴19:15" tvg-name="吴越杯 杭州队VS绍兴队 2026赛季浙江省城市足球联赛第四轮: 杭州VS绍兴 19:15" tvg-logo="" group-title="综合",吴越杯 杭州队VS绍兴队 2026赛季浙江省城市足球联赛第四轮: 杭州VS绍兴 19:15
-http://513521.xyz:1234/964224054
+http://180.152.19.206:1234/964224054
 
 #EXTINF:-1 tvg-id="吴越杯宁波队VS丽水队2026赛季浙江省城市足球联赛第四轮:宁波VS丽水18:50" tvg-name="吴越杯 宁波队VS丽水队 2026赛季浙江省城市足球联赛第四轮: 宁波VS丽水 18:50" tvg-logo="" group-title="综合",吴越杯 宁波队VS丽水队 2026赛季浙江省城市足球联赛第四轮: 宁波VS丽水 18:50
-http://513521.xyz:1234/964224060
+http://180.152.19.206:1234/964224060
 
 #EXTINF:-1 tvg-id="斯诺克肖国栋VS肖恩·墨菲1号桌20:00" tvg-name="斯诺克 肖国栋VS肖恩·墨菲 1号桌 20:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS肖恩·墨菲 1号桌 20:00
-http://513521.xyz:1234/964184063
+http://180.152.19.206:1234/964184063
 
 #EXTINF:-1 tvg-id="斯诺克肖国栋VS肖恩·墨菲乔迁20:00" tvg-name="斯诺克 肖国栋VS肖恩·墨菲 乔迁 20:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS肖恩·墨菲 乔迁 20:00
-http://513521.xyz:1234/964331884
+http://180.152.19.206:1234/964331884
 
 #EXTINF:-1 tvg-id="斯诺克斯佳辉VS侯赛因·瓦菲2号桌20:00" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 2号桌 20:00" tvg-logo="" group-title="综合",斯诺克 斯佳辉VS侯赛因·瓦菲 2号桌 20:00
-http://513521.xyz:1234/964184094
+http://180.152.19.206:1234/964184094
 
 #EXTINF:-1 tvg-id="斯诺克斯佳辉VS侯赛因·瓦菲朱峰立20:00" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 朱峰立 20:00" tvg-logo="" group-title="综合",斯诺克 斯佳辉VS侯赛因·瓦菲 朱峰立 20:00
-http://513521.xyz:1234/964331931
+http://180.152.19.206:1234/964331931
 
 #EXTINF:-1 tvg-id="体育-明天" tvg-name="体育-明天" tvg-logo="" group-title="体育",体育-明天
 #genre#
 
 #EXTINF:-1 tvg-id="西甲莱万特VS塞维利亚李霄00:45" tvg-name="西甲 莱万特VS塞维利亚 李霄 00:45" tvg-logo="" group-title="综合",西甲 莱万特VS塞维利亚 李霄 00:45
-http://513521.xyz:1234/964223348
+http://180.152.19.206:1234/964223348
 
 #EXTINF:-1 tvg-id="西甲莱万特VS塞维利亚赛场原声00:45" tvg-name="西甲 莱万特VS塞维利亚 赛场原声 00:45" tvg-logo="" group-title="综合",西甲 莱万特VS塞维利亚 赛场原声 00:45
-http://513521.xyz:1234/964223342
+http://180.152.19.206:1234/964223342
 
 #EXTINF:-1 tvg-id="西甲莱万特VS塞维利亚李霄00:45" tvg-name="西甲 莱万特VS塞维利亚 李霄 00:45" tvg-logo="" group-title="综合",西甲 莱万特VS塞维利亚 李霄 00:45
-http://513521.xyz:1234/964223377
+http://180.152.19.206:1234/964223377
 
 #EXTINF:-1 tvg-id="西甲巴列卡诺VS西班牙人周楚雄01:45" tvg-name="西甲 巴列卡诺VS西班牙人 周楚雄 01:45" tvg-logo="" group-title="综合",西甲 巴列卡诺VS西班牙人 周楚雄 01:45
-http://513521.xyz:1234/964222777
+http://180.152.19.206:1234/964222777
 
 #EXTINF:-1 tvg-id="西甲巴列卡诺VS西班牙人赛场原声01:45" tvg-name="西甲 巴列卡诺VS西班牙人 赛场原声 01:45" tvg-logo="" group-title="综合",西甲 巴列卡诺VS西班牙人 赛场原声 01:45
-http://513521.xyz:1234/964222764
+http://180.152.19.206:1234/964222764
 
 #EXTINF:-1 tvg-id="西甲巴列卡诺VS西班牙人周楚雄01:45" tvg-name="西甲 巴列卡诺VS西班牙人 周楚雄 01:45" tvg-logo="" group-title="综合",西甲 巴列卡诺VS西班牙人 周楚雄 01:45
-http://513521.xyz:1234/964223413
+http://180.152.19.206:1234/964223413
 
 #EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭1号桌02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 1号桌 02:00
-http://513521.xyz:1234/964184125
+http://180.152.19.206:1234/964184125
 
 #EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭孙嘉星02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 孙嘉星 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 孙嘉星 02:00
-http://513521.xyz:1234/964331973
+http://180.152.19.206:1234/964331973
 
 #EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦2号桌02:00" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 02:00
-http://513521.xyz:1234/964184142
+http://180.152.19.206:1234/964184142
 
 #EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦朱蒙02:00" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 朱蒙 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 朱蒙 02:00
-http://513521.xyz:1234/964331993
+http://180.152.19.206:1234/964331993
 
 #EXTINF:-1 tvg-id="西甲皇家奥维耶多VS比利亚雷亚尔李霄03:15" tvg-name="西甲 皇家奥维耶多VS比利亚雷亚尔 李霄 03:15" tvg-logo="" group-title="综合",西甲 皇家奥维耶多VS比利亚雷亚尔 李霄 03:15
-http://513521.xyz:1234/964223023
+http://180.152.19.206:1234/964223023
 
 #EXTINF:-1 tvg-id="西甲皇家奥维耶多VS比利亚雷亚尔赛场原声03:15" tvg-name="西甲 皇家奥维耶多VS比利亚雷亚尔 赛场原声 03:15" tvg-logo="" group-title="综合",西甲 皇家奥维耶多VS比利亚雷亚尔 赛场原声 03:15
-http://513521.xyz:1234/964222996
+http://180.152.19.206:1234/964222996
 
 #EXTINF:-1 tvg-id="NBA老鹰VS尼克斯邵化谦李根06:55" tvg-name="NBA 老鹰VS尼克斯 邵化谦 李根 06:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 邵化谦 李根 06:55
-http://513521.xyz:1234/964277608
+http://180.152.19.206:1234/964277608
 
 #EXTINF:-1 tvg-id="NBA老鹰VS尼克斯英文原声06:55" tvg-name="NBA 老鹰VS尼克斯 英文原声 06:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 英文原声 06:55
-http://513521.xyz:1234/964277582
+http://180.152.19.206:1234/964277582
 
 #EXTINF:-1 tvg-id="NBA老鹰VS尼克斯智能字幕06:55" tvg-name="NBA 老鹰VS尼克斯 智能字幕 06:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 智能字幕 06:55
-http://513521.xyz:1234/964289832
+http://180.152.19.206:1234/964289832
 
 #EXTINF:-1 tvg-id="NBA猛龙VS骑士李天宇陈正昊魏欣怡07:45" tvg-name="NBA 猛龙VS骑士 李天宇 陈正昊 魏欣怡 07:45" tvg-logo="" group-title="综合",NBA 猛龙VS骑士 李天宇 陈正昊 魏欣怡 07:45
-http://513521.xyz:1234/964277407
+http://180.152.19.206:1234/964277407
 
 #EXTINF:-1 tvg-id="NBA猛龙VS骑士英文原声07:55" tvg-name="NBA 猛龙VS骑士 英文原声 07:55" tvg-logo="" group-title="综合",NBA 猛龙VS骑士 英文原声 07:55
-http://513521.xyz:1234/964277444
+http://180.152.19.206:1234/964277444
 
 #EXTINF:-1 tvg-id="NBA猛龙VS骑士大史07:55" tvg-name="NBA 猛龙VS骑士 大史 07:55" tvg-logo="" group-title="综合",NBA 猛龙VS骑士 大史 07:55
-http://513521.xyz:1234/964277457
+http://180.152.19.206:1234/964277457
 
 #EXTINF:-1 tvg-id="咪咕体育日报undefined咪咕体育日报第89期08:00" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第89期 08:00" tvg-logo="" group-title="体育",咪咕体育日报 undefined 咪咕体育日报 第89期 08:00
-http://513521.xyz:1234/964291474
+http://180.152.19.206:1234/964291474
 
 #EXTINF:-1 tvg-id="亚洲室内高山滑雪锦标赛华发冰雪热雪奇迹杯day2解说08:30" tvg-name="亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 解说 08:30" tvg-logo="" group-title="综合",亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 解说 08:30
-http://513521.xyz:1234/964181347
+http://180.152.19.206:1234/964181347
 
 #EXTINF:-1 tvg-id="NBA森林狼VS掘金杨健曾令旭闫宇峰09:15" tvg-name="NBA 森林狼VS掘金 杨健 曾令旭 闫宇峰 09:15" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 杨健 曾令旭 闫宇峰 09:15
-http://513521.xyz:1234/964277300
+http://180.152.19.206:1234/964277300
 
 #EXTINF:-1 tvg-id="NBA森林狼VS掘金英文原声09:25" tvg-name="NBA 森林狼VS掘金 英文原声 09:25" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 英文原声 09:25
-http://513521.xyz:1234/964277251
+http://180.152.19.206:1234/964277251
 
 #EXTINF:-1 tvg-id="NBA森林狼VS掘金智能字幕09:25" tvg-name="NBA 森林狼VS掘金 智能字幕 09:25" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 智能字幕 09:25
-http://513521.xyz:1234/964289858
+http://180.152.19.206:1234/964289858
 
 #EXTINF:-1 tvg-id="高尔夫中国公开赛沃尔沃中国公开赛Day2赛场原声12:30" tvg-name="高尔夫中国公开赛 沃尔沃中国公开赛Day 2 赛场原声 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 沃尔沃中国公开赛Day 2 赛场原声 12:30
-http://513521.xyz:1234/964310330
+http://180.152.19.206:1234/964310330
 
 #EXTINF:-1 tvg-id="高尔夫中国公开赛沃尔沃中国公开赛Day2中文解说12:30" tvg-name="高尔夫中国公开赛 沃尔沃中国公开赛Day 2 中文解说 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 沃尔沃中国公开赛Day 2 中文解说 12:30
-http://513521.xyz:1234/964310352
+http://180.152.19.206:1234/964310352
 
 #EXTINF:-1 tvg-id="BWF中国VS澳大利亚3号场地14:30" tvg-name="BWF 中国VS澳大利亚 3号场地 14:30" tvg-logo="" group-title="综合",BWF 中国VS澳大利亚 3号场地 14:30
-http://513521.xyz:1234/964293741
+http://180.152.19.206:1234/964293741
 
 #EXTINF:-1 tvg-id="BWF中国VS乌克兰1号场地14:30" tvg-name="BWF 中国VS乌克兰 1号场地 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 1号场地 14:30
-http://513521.xyz:1234/964293785
+http://180.152.19.206:1234/964293785
 
 #EXTINF:-1 tvg-id="BWF中国VS乌克兰1号场地英文解说14:30" tvg-name="BWF 中国VS乌克兰 1号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 1号场地英文解说 14:30
-http://513521.xyz:1234/964293849
+http://180.152.19.206:1234/964293849
 
 #EXTINF:-1 tvg-id="BWFBWF汤尤杯小组赛第一日1号场地14:30" tvg-name="BWF BWF汤尤杯小组赛第一日 1号场地 14:30" tvg-logo="" group-title="综合",BWF BWF汤尤杯小组赛第一日 1号场地 14:30
-http://513521.xyz:1234/964293596
+http://180.152.19.206:1234/964293596
 
 #EXTINF:-1 tvg-id="BWFBWF汤尤杯小组赛第一日2号场地14:30" tvg-name="BWF BWF汤尤杯小组赛第一日 2号场地 14:30" tvg-logo="" group-title="综合",BWF BWF汤尤杯小组赛第一日 2号场地 14:30
-http://513521.xyz:1234/964293715
+http://180.152.19.206:1234/964293715
 
 #EXTINF:-1 tvg-id="BWFBWF汤尤杯小组赛第一日3号场地14:30" tvg-name="BWF BWF汤尤杯小组赛第一日 3号场地 14:30" tvg-logo="" group-title="综合",BWF BWF汤尤杯小组赛第一日 3号场地 14:30
-http://513521.xyz:1234/964293741
+http://180.152.19.206:1234/964293741
 
 #EXTINF:-1 tvg-id="BWFBWF汤尤杯小组赛第一日1号场地英文解说14:30" tvg-name="BWF BWF汤尤杯小组赛第一日 1号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF BWF汤尤杯小组赛第一日 1号场地英文解说 14:30
-http://513521.xyz:1234/964293760
+http://180.152.19.206:1234/964293760
 
 #EXTINF:-1 tvg-id="BWFBWF汤尤杯小组赛第一日2号场地英文解说14:30" tvg-name="BWF BWF汤尤杯小组赛第一日 2号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF BWF汤尤杯小组赛第一日 2号场地英文解说 14:30
-http://513521.xyz:1234/964293768
+http://180.152.19.206:1234/964293768
 
 #EXTINF:-1 tvg-id="斯诺克肖国栋VS肖恩·墨菲1号桌17:00" tvg-name="斯诺克 肖国栋VS肖恩·墨菲 1号桌 17:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS肖恩·墨菲 1号桌 17:00
-http://513521.xyz:1234/964184172
+http://180.152.19.206:1234/964184172
 
 #EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS霍金斯2号桌17:00" tvg-name="斯诺克 马克·威廉姆斯VS霍金斯 2号桌 17:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS霍金斯 2号桌 17:00
-http://513521.xyz:1234/964184191
+http://180.152.19.206:1234/964184191
 
 #EXTINF:-1 tvg-id="WTAWTA马德里站Day4赛场原声17:00" tvg-name="WTA WTA马德里站Day4 赛场原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day4 赛场原声 17:00
-http://513521.xyz:1234/964215461
+http://180.152.19.206:1234/964215461
 
 #EXTINF:-1 tvg-id="WTAWTA马德里站Day4英文原声17:00" tvg-name="WTA WTA马德里站Day4 英文原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day4 英文原声 17:00
-http://513521.xyz:1234/964215484
+http://180.152.19.206:1234/964215484
 
 #EXTINF:-1 tvg-id="CBA宁波町渥VS北京控股图文直播19:35" tvg-name="CBA 宁波町渥VS北京控股 图文直播 19:35" tvg-logo="" group-title="综合",CBA 宁波町渥VS北京控股 图文直播 19:35
-http://513521.xyz:1234/963890942
+http://180.152.19.206:1234/963890942
 
 #EXTINF:-1 tvg-id="CBA福建晋江文旅VS广东东阳光图文直播19:35" tvg-name="CBA 福建晋江文旅VS广东东阳光 图文直播 19:35" tvg-logo="" group-title="综合",CBA 福建晋江文旅VS广东东阳光 图文直播 19:35
-http://513521.xyz:1234/963890934
+http://180.152.19.206:1234/963890934
 
 #EXTINF:-1 tvg-id="CBA广州朗肽海本VS深圳马可波罗图文直播19:35" tvg-name="CBA 广州朗肽海本VS深圳马可波罗 图文直播 19:35" tvg-logo="" group-title="综合",CBA 广州朗肽海本VS深圳马可波罗 图文直播 19:35
-http://513521.xyz:1234/963890916
+http://180.152.19.206:1234/963890916
 
 #EXTINF:-1 tvg-id="CBA江苏肯帝亚VS辽宁本钢图文直播19:35" tvg-name="CBA 江苏肯帝亚VS辽宁本钢 图文直播 19:35" tvg-logo="" group-title="综合",CBA 江苏肯帝亚VS辽宁本钢 图文直播 19:35
-http://513521.xyz:1234/963890905
+http://180.152.19.206:1234/963890905
 
 #EXTINF:-1 tvg-id="CBA青岛崂山啤酒VS新疆伊力特图文直播19:35" tvg-name="CBA 青岛崂山啤酒VS新疆伊力特 图文直播 19:35" tvg-logo="" group-title="综合",CBA 青岛崂山啤酒VS新疆伊力特 图文直播 19:35
-http://513521.xyz:1234/963890897
+http://180.152.19.206:1234/963890897
 
 #EXTINF:-1 tvg-id="CBA山东高速VS上海久事图文直播19:35" tvg-name="CBA 山东高速VS上海久事 图文直播 19:35" tvg-logo="" group-title="综合",CBA 山东高速VS上海久事 图文直播 19:35
-http://513521.xyz:1234/963890891
+http://180.152.19.206:1234/963890891
 
 #EXTINF:-1 tvg-id="CBA山西汾酒VS南京天之蓝图文直播19:35" tvg-name="CBA 山西汾酒VS南京天之蓝 图文直播 19:35" tvg-logo="" group-title="综合",CBA 山西汾酒VS南京天之蓝 图文直播 19:35
-http://513521.xyz:1234/963890881
+http://180.152.19.206:1234/963890881
 
 #EXTINF:-1 tvg-id="CBA北京北汽VS长白山恩都里图文直播19:35" tvg-name="CBA 北京北汽VS长白山恩都里 图文直播 19:35" tvg-logo="" group-title="综合",CBA 北京北汽VS长白山恩都里 图文直播 19:35
-http://513521.xyz:1234/963890854
+http://180.152.19.206:1234/963890854
 
 #EXTINF:-1 tvg-id="CBA四川丰谷酒业VS浙江稠州金租图文直播19:35" tvg-name="CBA 四川丰谷酒业VS浙江稠州金租 图文直播 19:35" tvg-logo="" group-title="综合",CBA 四川丰谷酒业VS浙江稠州金租 图文直播 19:35
-http://513521.xyz:1234/963890833
+http://180.152.19.206:1234/963890833
 
 #EXTINF:-1 tvg-id="CBA浙江浙商证券VS天津先行者图文直播19:35" tvg-name="CBA 浙江浙商证券VS天津先行者 图文直播 19:35" tvg-logo="" group-title="综合",CBA 浙江浙商证券VS天津先行者 图文直播 19:35
-http://513521.xyz:1234/963890824
+http://180.152.19.206:1234/963890824
 
 #EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖1号桌21:30" tvg-name="斯诺克 赵心童VS丁俊晖 1号桌 21:30" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 1号桌 21:30
-http://513521.xyz:1234/964184207
+http://180.152.19.206:1234/964184207
 
 #EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖秦正庞卫国21:10" tvg-name="斯诺克 赵心童VS丁俊晖 秦正 庞卫国 21:10" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 秦正 庞卫国 21:10
-http://513521.xyz:1234/964332008
+http://180.152.19.206:1234/964332008
 
 #EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦2号桌21:30" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 21:30
-http://513521.xyz:1234/964184229
+http://180.152.19.206:1234/964184229
 
 # 
 # 
