@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新日期: 2026-04-25 07:40:08
+# 更新日期: 2026-04-25 17:57:48
 
 #EXTINF:-1 tvg-id="音乐欣赏" tvg-name="音乐欣赏" tvg-logo="" group-title="综合",音乐欣赏
 #genre#
@@ -458,311 +458,221 @@ http://fei01.kmdns.net:8807/629942228
 #EXTINF:-1 tvg-id="体育-昨天" tvg-name="体育-昨天" tvg-logo="" group-title="体育",体育-昨天
 #genre#
 
-#EXTINF:-1 tvg-id="亚冠二级利雅得胜利VS多哈国民全场回放（乔迁）23:45" tvg-name="亚冠二级 利雅得胜利VS多哈国民 全场回放（乔迁） 23:45" tvg-logo="" group-title="综合",亚冠二级 利雅得胜利VS多哈国民 全场回放（乔迁） 23:45
-http://fei01.kmdns.net:8807/964351735
+#EXTINF:-1 tvg-id="西甲莱万特VS塞维利亚全场回放（李霄）00:45" tvg-name="西甲 莱万特VS塞维利亚 全场回放（李霄） 00:45" tvg-logo="" group-title="综合",西甲 莱万特VS塞维利亚 全场回放（李霄） 00:45
+http://fei01.kmdns.net:8807/964369785
 
-#EXTINF:-1 tvg-id="法甲巴黎圣日耳曼VS南特全场回放（鹿中原、王宇）00:45" tvg-name="法甲 巴黎圣日耳曼VS南特 全场回放（鹿中原、王宇） 00:45" tvg-logo="" group-title="综合",法甲 巴黎圣日耳曼VS南特 全场回放（鹿中原、王宇） 00:45
-http://fei01.kmdns.net:8807/964352038
+#EXTINF:-1 tvg-id="西甲巴列卡诺VS西班牙人全场回放（周楚雄）01:45" tvg-name="西甲 巴列卡诺VS西班牙人 全场回放（周楚雄） 01:45" tvg-logo="" group-title="综合",西甲 巴列卡诺VS西班牙人 全场回放（周楚雄） 01:45
+http://fei01.kmdns.net:8807/964369913
 
-#EXTINF:-1 tvg-id="西甲埃尔切VS马德里竞技全场回放（孙雨轩、贺宇）00:45" tvg-name="西甲 埃尔切VS马德里竞技 全场回放（孙雨轩、贺宇） 00:45" tvg-logo="" group-title="综合",西甲 埃尔切VS马德里竞技 全场回放（孙雨轩、贺宇） 00:45
-http://fei01.kmdns.net:8807/964352126
+#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭【回放】尼尔·罗伯逊10-6庞俊旭（第二阶段）（孙嘉星）02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 【回放】尼尔·罗伯逊10-6庞俊旭（第二阶段）（孙嘉星） 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 【回放】尼尔·罗伯逊10-6庞俊旭（第二阶段）（孙嘉星） 02:00
+http://fei01.kmdns.net:8807/964369995
 
-#EXTINF:-1 tvg-id="西甲皇家社会VS赫塔菲全场回放（洪宇青）01:45" tvg-name="西甲 皇家社会VS赫塔菲 全场回放（洪宇青） 01:45" tvg-logo="" group-title="综合",西甲 皇家社会VS赫塔菲 全场回放（洪宇青） 01:45
-http://fei01.kmdns.net:8807/964353349
+#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭【回放】尼尔·罗伯逊10-6庞俊旭（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 【回放】尼尔·罗伯逊10-6庞俊旭（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 【回放】尼尔·罗伯逊10-6庞俊旭（第二阶段）（赛场原声） 02:00
+http://fei01.kmdns.net:8807/964370155
 
-#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭【回放】尼尔·罗伯逊5-4庞俊旭（第一阶段）（朱蒙）02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 【回放】尼尔·罗伯逊5-4庞俊旭（第一阶段）（朱蒙） 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 【回放】尼尔·罗伯逊5-4庞俊旭（第一阶段）（朱蒙） 02:00
-http://fei01.kmdns.net:8807/964354563
+#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦【回放】凯伦·威尔逊3-5马克·艾伦（第一阶段）（朱蒙）02:00" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 【回放】凯伦·威尔逊3-5马克·艾伦（第一阶段）（朱蒙） 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 【回放】凯伦·威尔逊3-5马克·艾伦（第一阶段）（朱蒙） 02:00
+http://fei01.kmdns.net:8807/964370107
 
-#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭【回放】尼尔·罗伯逊5-4庞俊旭（第一阶段）（赛场原声）02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 【回放】尼尔·罗伯逊5-4庞俊旭（第一阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 【回放】尼尔·罗伯逊5-4庞俊旭（第一阶段）（赛场原声） 02:00
-http://fei01.kmdns.net:8807/964354830
+#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦【回放】凯伦·威尔逊3-5马克·艾伦（第一阶段）（赛场原声）02:00" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 【回放】凯伦·威尔逊3-5马克·艾伦（第一阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 【回放】凯伦·威尔逊3-5马克·艾伦（第一阶段）（赛场原声） 02:00
+http://fei01.kmdns.net:8807/964370265
 
-#EXTINF:-1 tvg-id="斯诺克塞尔比VS杰克·琼斯【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（朱峰立）02:00" tvg-name="斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（朱峰立） 02:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（朱峰立） 02:00
-http://fei01.kmdns.net:8807/964352821
+#EXTINF:-1 tvg-id="西甲皇家奥维耶多VS比利亚雷亚尔全场回放（李霄）03:15" tvg-name="西甲 皇家奥维耶多VS比利亚雷亚尔 全场回放（李霄） 03:15" tvg-logo="" group-title="综合",西甲 皇家奥维耶多VS比利亚雷亚尔 全场回放（李霄） 03:15
+http://fei01.kmdns.net:8807/964370017
 
-#EXTINF:-1 tvg-id="斯诺克塞尔比VS杰克·琼斯【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（赛场原声）02:00" tvg-name="斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（赛场原声） 02:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（赛场原声） 02:00
-http://fei01.kmdns.net:8807/964353200
+#EXTINF:-1 tvg-id="NBA老鹰VS尼克斯全场回放（邵化谦、李根）06:55" tvg-name="NBA 老鹰VS尼克斯 全场回放（邵化谦、李根） 06:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 全场回放（邵化谦、李根） 06:55
+http://fei01.kmdns.net:8807/964373689
 
-#EXTINF:-1 tvg-id="英超伯恩利VS曼城全场回放（刘畅、颜强、李子琪）02:45" tvg-name="英超 伯恩利VS曼城 全场回放（刘畅、颜强、李子琪） 02:45" tvg-logo="" group-title="综合",英超 伯恩利VS曼城 全场回放（刘畅、颜强、李子琪） 02:45
-http://fei01.kmdns.net:8807/964354341
+#EXTINF:-1 tvg-id="NBA老鹰VS尼克斯全场回放（英文原声）06:55" tvg-name="NBA 老鹰VS尼克斯 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 全场回放（英文原声） 06:55
+http://fei01.kmdns.net:8807/964374080
 
-#EXTINF:-1 tvg-id="英超伯恩茅斯VS利兹联全场回放（刘焕）02:45" tvg-name="英超 伯恩茅斯VS利兹联 全场回放（刘焕） 02:45" tvg-logo="" group-title="综合",英超 伯恩茅斯VS利兹联 全场回放（刘焕） 02:45
-http://fei01.kmdns.net:8807/964354487
+#EXTINF:-1 tvg-id="NBA猛龙VS骑士全场回放（李天宇、陈正昊、魏欣怡）07:55" tvg-name="NBA 猛龙VS骑士 全场回放（李天宇、陈正昊、魏欣怡） 07:55" tvg-logo="" group-title="综合",NBA 猛龙VS骑士 全场回放（李天宇、陈正昊、魏欣怡） 07:55
+http://fei01.kmdns.net:8807/964375289
 
-#EXTINF:-1 tvg-id="意大利杯亚特兰大VS拉齐奥全场回放（石庆圣）02:45" tvg-name="意大利杯 亚特兰大VS拉齐奥 全场回放（石庆圣） 02:45" tvg-logo="" group-title="综合",意大利杯 亚特兰大VS拉齐奥 全场回放（石庆圣） 02:45
-http://fei01.kmdns.net:8807/964354546
+#EXTINF:-1 tvg-id="NBA猛龙VS骑士全场回放（大史）07:55" tvg-name="NBA 猛龙VS骑士 全场回放（大史） 07:55" tvg-logo="" group-title="综合",NBA 猛龙VS骑士 全场回放（大史） 07:55
+http://fei01.kmdns.net:8807/964375699
 
-#EXTINF:-1 tvg-id="西甲巴塞罗那VS塞尔塔全场回放（张昊泽、李欣）03:15" tvg-name="西甲 巴塞罗那VS塞尔塔 全场回放（张昊泽、李欣） 03:15" tvg-logo="" group-title="综合",西甲 巴塞罗那VS塞尔塔 全场回放（张昊泽、李欣） 03:15
-http://fei01.kmdns.net:8807/964354533
+#EXTINF:-1 tvg-id="NBA猛龙VS骑士全场回放（英文原声）07:55" tvg-name="NBA 猛龙VS骑士 全场回放（英文原声） 07:55" tvg-logo="" group-title="综合",NBA 猛龙VS骑士 全场回放（英文原声） 07:55
+http://fei01.kmdns.net:8807/964376308
 
-#EXTINF:-1 tvg-id="NBA活塞VS魔术全场回放（姜帆、季孟年）06:55" tvg-name="NBA 活塞VS魔术 全场回放（姜帆、季孟年） 06:55" tvg-logo="" group-title="综合",NBA 活塞VS魔术 全场回放（姜帆、季孟年） 06:55
-http://fei01.kmdns.net:8807/964357264
+#EXTINF:-1 tvg-id="亚洲室内高山滑雪锦标赛华发冰雪热雪奇迹杯day2华发冰雪热雪奇迹杯Day2全场回放09:00" tvg-name="亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 华发冰雪热雪奇迹杯Day2全场回放 09:00" tvg-logo="" group-title="综合",亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 华发冰雪热雪奇迹杯Day2全场回放 09:00
+http://fei01.kmdns.net:8807/964377993
 
-#EXTINF:-1 tvg-id="NBA活塞VS魔术全场回放（英文原声）06:55" tvg-name="NBA 活塞VS魔术 全场回放（英文原声） 06:55" tvg-logo="" group-title="综合",NBA 活塞VS魔术 全场回放（英文原声） 06:55
-http://fei01.kmdns.net:8807/964358329
+#EXTINF:-1 tvg-id="中国乒协会员联赛单打第一、二阶段全场回放（二）09:00" tvg-name="中国乒协会员联赛 单打第一、二阶段 全场回放（二） 09:00" tvg-logo="" group-title="综合",中国乒协会员联赛 单打第一、二阶段 全场回放（二） 09:00
+http://fei01.kmdns.net:8807/964384101
 
-#EXTINF:-1 tvg-id="亚洲室内高山滑雪锦标赛华发冰雪热雪奇迹杯day1华发冰雪热雪奇迹杯Day1全场回放08:30" tvg-name="亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day1 华发冰雪热雪奇迹杯Day1全场回放 08:30" tvg-logo="" group-title="综合",亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day1 华发冰雪热雪奇迹杯Day1全场回放 08:30
-http://fei01.kmdns.net:8807/964361018
+#EXTINF:-1 tvg-id="中国乒协会员联赛单打第一、二阶段全场回放（一）09:00" tvg-name="中国乒协会员联赛 单打第一、二阶段 全场回放（一） 09:00" tvg-logo="" group-title="综合",中国乒协会员联赛 单打第一、二阶段 全场回放（一） 09:00
+http://fei01.kmdns.net:8807/964379132
 
-#EXTINF:-1 tvg-id="NBA雷霆VS太阳全场回放（孙博、李根、马健、廖昕阳）09:25" tvg-name="NBA 雷霆VS太阳 全场回放（孙博、李根、马健、廖昕阳） 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 全场回放（孙博、李根、马健、廖昕阳） 09:25
-http://fei01.kmdns.net:8807/964360462
+#EXTINF:-1 tvg-id="NBA森林狼VS掘金全场回放（杨健、曾令旭、闫宇峰、秋童）09:25" tvg-name="NBA 森林狼VS掘金 全场回放（杨健、曾令旭、闫宇峰、秋童） 09:25" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 全场回放（杨健、曾令旭、闫宇峰、秋童） 09:25
+http://fei01.kmdns.net:8807/964376876
 
-#EXTINF:-1 tvg-id="NBA雷霆VS太阳全场回放（英文原声）09:25" tvg-name="NBA 雷霆VS太阳 全场回放（英文原声） 09:25" tvg-logo="" group-title="综合",NBA 雷霆VS太阳 全场回放（英文原声） 09:25
-http://fei01.kmdns.net:8807/964360420
+#EXTINF:-1 tvg-id="NBA森林狼VS掘金全场回放（英文原声）09:25" tvg-name="NBA 森林狼VS掘金 全场回放（英文原声） 09:25" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 全场回放（英文原声） 09:25
+http://fei01.kmdns.net:8807/964376764
 
-#EXTINF:-1 tvg-id="高尔夫中国公开赛周彦含、吴阿顺首日表现亮眼2026年沃尔沃中国公开赛Day1全场回放（赛场原声）（一）12:30" tvg-name="高尔夫中国公开赛 周彦含、吴阿顺首日表现亮眼 2026年沃尔沃中国公开赛Day1全场回放（赛场原声）（一） 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 周彦含、吴阿顺首日表现亮眼 2026年沃尔沃中国公开赛Day1全场回放（赛场原声）（一） 12:30
-http://fei01.kmdns.net:8807/964367079
+#EXTINF:-1 tvg-id="高尔夫中国公开赛周彦含、吴阿顺力争佳绩2026年沃尔沃中国公开赛Day2全场回放（中文解说）（一）12:30" tvg-name="高尔夫中国公开赛 周彦含、吴阿顺力争佳绩 2026年沃尔沃中国公开赛Day2全场回放（中文解说）（一） 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 周彦含、吴阿顺力争佳绩 2026年沃尔沃中国公开赛Day2全场回放（中文解说）（一） 12:30
+http://fei01.kmdns.net:8807/964383851
 
-#EXTINF:-1 tvg-id="高尔夫中国公开赛周彦含、吴阿顺首日表现亮眼2026年沃尔沃中国公开赛Day1全场回放（中文解说）（一）12:30" tvg-name="高尔夫中国公开赛 周彦含、吴阿顺首日表现亮眼 2026年沃尔沃中国公开赛Day1全场回放（中文解说）（一） 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 周彦含、吴阿顺首日表现亮眼 2026年沃尔沃中国公开赛Day1全场回放（中文解说）（一） 12:30
-http://fei01.kmdns.net:8807/964366980
+#EXTINF:-1 tvg-id="高尔夫中国公开赛周彦含、吴阿顺力争佳绩2026年沃尔沃中国公开赛Day2全场回放（赛场原声）（一）12:30" tvg-name="高尔夫中国公开赛 周彦含、吴阿顺力争佳绩 2026年沃尔沃中国公开赛Day2全场回放（赛场原声）（一） 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 周彦含、吴阿顺力争佳绩 2026年沃尔沃中国公开赛Day2全场回放（赛场原声）（一） 12:30
+http://fei01.kmdns.net:8807/964383787
 
-#EXTINF:-1 tvg-id="高尔夫中国公开赛周彦含、吴阿顺首日表现亮眼2026年沃尔沃中国公开赛Day1全场回放（中文解说）（二）12:30" tvg-name="高尔夫中国公开赛 周彦含、吴阿顺首日表现亮眼 2026年沃尔沃中国公开赛Day1全场回放（中文解说）（二） 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 周彦含、吴阿顺首日表现亮眼 2026年沃尔沃中国公开赛Day1全场回放（中文解说）（二） 12:30
-http://fei01.kmdns.net:8807/964366721
+#EXTINF:-1 tvg-id="高尔夫中国公开赛周彦含、吴阿顺力争佳绩2026年沃尔沃中国公开赛Day2全场回放（赛场原声）（二）12:30" tvg-name="高尔夫中国公开赛 周彦含、吴阿顺力争佳绩 2026年沃尔沃中国公开赛Day2全场回放（赛场原声）（二） 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 周彦含、吴阿顺力争佳绩 2026年沃尔沃中国公开赛Day2全场回放（赛场原声）（二） 12:30
+http://fei01.kmdns.net:8807/964382637
 
-#EXTINF:-1 tvg-id="高尔夫中国公开赛周彦含、吴阿顺首日表现亮眼2026年沃尔沃中国公开赛Day1全场回放（赛场原声）（二）12:30" tvg-name="高尔夫中国公开赛 周彦含、吴阿顺首日表现亮眼 2026年沃尔沃中国公开赛Day1全场回放（赛场原声）（二） 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 周彦含、吴阿顺首日表现亮眼 2026年沃尔沃中国公开赛Day1全场回放（赛场原声）（二） 12:30
-http://fei01.kmdns.net:8807/964366693
+#EXTINF:-1 tvg-id="高尔夫中国公开赛周彦含、吴阿顺力争佳绩2026年沃尔沃中国公开赛Day2全场回放（中文解说）（二）12:30" tvg-name="高尔夫中国公开赛 周彦含、吴阿顺力争佳绩 2026年沃尔沃中国公开赛Day2全场回放（中文解说）（二） 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 周彦含、吴阿顺力争佳绩 2026年沃尔沃中国公开赛Day2全场回放（中文解说）（二） 12:30
+http://fei01.kmdns.net:8807/964382604
 
-#EXTINF:-1 tvg-id="中国田径大众达标校园系列赛北京体育大学第56届田径运动会2026年北京体育大学第56届田径运动会下午场全场回放（赛场原声）（20260423）13:15" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会下午场全场回放（赛场原声）（20260423） 13:15" tvg-logo="" group-title="体育",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会下午场全场回放（赛场原声）（20260423） 13:15
-http://fei01.kmdns.net:8807/964365473
+#EXTINF:-1 tvg-id="BWF中国VS澳大利亚【回放】石宇奇2-0埃弗莱姆（余博洋）14:30" tvg-name="BWF 中国VS澳大利亚 【回放】石宇奇2-0埃弗莱姆（余博洋） 14:30" tvg-logo="" group-title="综合",BWF 中国VS澳大利亚 【回放】石宇奇2-0埃弗莱姆（余博洋） 14:30
+http://fei01.kmdns.net:8807/964379571
 
-#EXTINF:-1 tvg-id="中国田径大众达标校园系列赛北京体育大学第56届田径运动会2026年北京体育大学第56届田径运动会上午场全场回放（赛场原声）（202604223）13:15" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会上午场全场回放（赛场原声）（202604223） 13:15" tvg-logo="" group-title="体育",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会上午场全场回放（赛场原声）（202604223） 13:15
-http://fei01.kmdns.net:8807/964360617
+#EXTINF:-1 tvg-id="BWF中国VS澳大利亚【回放】梁伟铿/王昶2-0里兹基/于亚贝（余博洋）14:30" tvg-name="BWF 中国VS澳大利亚 【回放】梁伟铿/王昶 2- 0里兹基/于亚贝（余博洋） 14:30" tvg-logo="" group-title="综合",BWF 中国VS澳大利亚 【回放】梁伟铿/王昶 2- 0里兹基/于亚贝（余博洋） 14:30
+http://fei01.kmdns.net:8807/964379795
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】安德列娃2-0乌德瓦尔迪（赛场原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】安德列娃2-0乌德瓦尔迪（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】安德列娃2-0乌德瓦尔迪（赛场原声） 17:00
-http://fei01.kmdns.net:8807/964369789
+#EXTINF:-1 tvg-id="BWF中国VS澳大利亚【回放】李诗沣2-1史雷·丹德（余博洋）14:30" tvg-name="BWF 中国VS澳大利亚 【回放】李诗沣2-1史雷·丹德（余博洋） 14:30" tvg-logo="" group-title="综合",BWF 中国VS澳大利亚 【回放】李诗沣2-1史雷·丹德（余博洋） 14:30
+http://fei01.kmdns.net:8807/964381549
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】奥索里奥0-2大坂直美（赛场原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】奥索里奥0-2大坂直美（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】奥索里奥0-2大坂直美（赛场原声） 17:00
-http://fei01.kmdns.net:8807/964369603
+#EXTINF:-1 tvg-id="BWF中国VS澳大利亚【回放】陈柏阳/刘毅2-0安迪卡/弗雷德里克·赵（余博洋）14:30" tvg-name="BWF 中国VS澳大利亚 【回放】陈柏阳/刘毅2-0安迪卡/弗雷德里克·赵（余博洋） 14:30" tvg-logo="" group-title="综合",BWF 中国VS澳大利亚 【回放】陈柏阳/刘毅2-0安迪卡/弗雷德里克·赵（余博洋） 14:30
+http://fei01.kmdns.net:8807/964382176
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】王欣瑜1-2萨姆森（刘钟鸣）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】王欣瑜1-2萨姆森（刘钟鸣） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】王欣瑜1-2萨姆森（刘钟鸣） 17:00
-http://fei01.kmdns.net:8807/964367204
+#EXTINF:-1 tvg-id="BWF中国VS澳大利亚【回放】陆光祖2-0布帕西（余博洋）14:30" tvg-name="BWF 中国VS澳大利亚 【回放】陆光祖2-0布帕西（余博洋） 14:30" tvg-logo="" group-title="综合",BWF 中国VS澳大利亚 【回放】陆光祖2-0布帕西（余博洋） 14:30
+http://fei01.kmdns.net:8807/964382740
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】萨巴伦卡2-0斯特恩斯（赛场原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】萨巴伦卡2-0斯特恩斯（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】萨巴伦卡2-0斯特恩斯（赛场原声） 17:00
-http://fei01.kmdns.net:8807/964368802
+#EXTINF:-1 tvg-id="BWF中国VS澳大利亚【全场回放】中国5-0澳大利亚（余博洋）14:30" tvg-name="BWF 中国VS澳大利亚 【全场回放】中国5-0澳大利亚（余博洋） 14:30" tvg-logo="" group-title="综合",BWF 中国VS澳大利亚 【全场回放】中国5-0澳大利亚（余博洋） 14:30
+http://fei01.kmdns.net:8807/964383269
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】王欣瑜1-2萨姆森（赛场原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】王欣瑜1-2萨姆森（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】王欣瑜1-2萨姆森（赛场原声） 17:00
-http://fei01.kmdns.net:8807/964367576
+#EXTINF:-1 tvg-id="BWF中国VS乌克兰【回放】陈雨菲2-0拉夫罗娃（鸿昆）14:30" tvg-name="BWF 中国VS乌克兰 【回放】陈雨菲2-0拉夫罗娃（鸿昆） 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 【回放】陈雨菲2-0拉夫罗娃（鸿昆） 14:30
+http://fei01.kmdns.net:8807/964379384
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】斯瓦泰克2-0斯尼古尔（赛场原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】斯瓦泰克2-0斯尼古尔（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】斯瓦泰克2-0斯尼古尔（赛场原声） 17:00
-http://fei01.kmdns.net:8807/964367643
+#EXTINF:-1 tvg-id="BWF中国VS乌克兰【回放】韩悦2-0阿里莫娃（鸿昆）14:30" tvg-name="BWF 中国VS乌克兰 【回放】韩悦2-0阿里莫娃（鸿昆） 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 【回放】韩悦2-0阿里莫娃（鸿昆） 14:30
+http://fei01.kmdns.net:8807/964379816
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】邦达尔2-0斯维托丽娜（赛场原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】邦达尔2-0斯维托丽娜（赛场原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】邦达尔2-0斯维托丽娜（赛场原声） 17:00
-http://fei01.kmdns.net:8807/964366715
+#EXTINF:-1 tvg-id="BWF中国VS乌克兰【回放】徐文婧2-0雷伊娅（鸿昆）14:30" tvg-name="BWF 中国VS乌克兰 【回放】徐文婧2-0雷伊娅（鸿昆） 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 【回放】徐文婧2-0雷伊娅（鸿昆） 14:30
+http://fei01.kmdns.net:8807/964380412
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】安德列娃2-0乌德瓦尔迪（英文原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】安德列娃2-0乌德瓦尔迪（英文原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】安德列娃2-0乌德瓦尔迪（英文原声） 17:00
-http://fei01.kmdns.net:8807/964369793
+#EXTINF:-1 tvg-id="BWF中国VS乌克兰【回放】贾一凡/张殊贤2-0阿里莫娃/斯托利亚伦科（鸿昆）14:30" tvg-name="BWF 中国VS乌克兰 【回放】贾一凡/张殊贤2-0阿里莫娃/斯托利亚伦科 （鸿昆） 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 【回放】贾一凡/张殊贤2-0阿里莫娃/斯托利亚伦科 （鸿昆） 14:30
+http://fei01.kmdns.net:8807/964381304
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】萨巴伦卡2-0斯特恩斯（英文原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】萨巴伦卡2-0斯特恩斯（英文原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】萨巴伦卡2-0斯特恩斯（英文原声） 17:00
-http://fei01.kmdns.net:8807/964368847
+#EXTINF:-1 tvg-id="BWF中国VS乌克兰【回放】李怡婧/罗徐敏2-0雷伊娅/拉夫罗娃（鸿昆）14:30" tvg-name="BWF 中国VS乌克兰 【回放】李怡婧/罗徐敏2-0雷伊娅/拉夫罗娃（鸿昆） 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 【回放】李怡婧/罗徐敏2-0雷伊娅/拉夫罗娃（鸿昆） 14:30
+http://fei01.kmdns.net:8807/964381895
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】斯瓦泰克2-0斯尼古尔（英文原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】斯瓦泰克2-0斯尼古尔（英文原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】斯瓦泰克2-0斯尼古尔（英文原声） 17:00
-http://fei01.kmdns.net:8807/964367669
+#EXTINF:-1 tvg-id="BWF中国VS乌克兰【全场回放】中国5-0乌克兰（鸿昆）14:30" tvg-name="BWF 中国VS乌克兰 【全场回放】中国5-0乌克兰（鸿昆） 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 【全场回放】中国5-0乌克兰（鸿昆） 14:30
+http://fei01.kmdns.net:8807/964382127
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】邦达尔2-0斯维托丽娜（英文原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】邦达尔2-0斯维托丽娜（英文原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】邦达尔2-0斯维托丽娜（英文原声） 17:00
-http://fei01.kmdns.net:8807/964366679
+#EXTINF:-1 tvg-id="BWF汤尤杯揭幕战！国羽双线大捷轩子博00:30" tvg-name="BWF 汤尤杯揭幕战！国羽双线大捷 轩子博 00:30" tvg-logo="" group-title="综合",BWF 汤尤杯揭幕战！国羽双线大捷 轩子博 00:30
+http://fei01.kmdns.net:8807/964361665
 
-#EXTINF:-1 tvg-id="WTAlga、萨巴晋级大坂直美红土开门红【回放】奥索里奥0-2大坂直美（英文原声）17:00" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】奥索里奥0-2大坂直美（英文原声） 17:00" tvg-logo="" group-title="综合",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】奥索里奥0-2大坂直美（英文原声） 17:00
-http://fei01.kmdns.net:8807/964369608
+#EXTINF:-1 tvg-id="BWF汤尤杯揭幕战！国羽双线大捷1号场地14:30" tvg-name="BWF 汤尤杯揭幕战！国羽双线大捷 1号场地 14:30" tvg-logo="" group-title="综合",BWF 汤尤杯揭幕战！国羽双线大捷 1号场地 14:30
+http://fei01.kmdns.net:8807/964293596
 
-#EXTINF:-1 tvg-id="WTA王欣瑜VS萨姆森全场回放18:20" tvg-name="WTA 王欣瑜VS萨姆森 全场回放 18:20" tvg-logo="" group-title="综合",WTA 王欣瑜VS萨姆森 全场回放 18:20
-http://fei01.kmdns.net:8807/964367576
+#EXTINF:-1 tvg-id="BWF汤尤杯揭幕战！国羽双线大捷2号场地14:30" tvg-name="BWF 汤尤杯揭幕战！国羽双线大捷 2号场地 14:30" tvg-logo="" group-title="综合",BWF 汤尤杯揭幕战！国羽双线大捷 2号场地 14:30
+http://fei01.kmdns.net:8807/964293715
 
-#EXTINF:-1 tvg-id="WTA王欣瑜VS萨姆森全场回放（刘钟鸣）18:20" tvg-name="WTA 王欣瑜VS萨姆森 全场回放（刘钟鸣） 18:20" tvg-logo="" group-title="综合",WTA 王欣瑜VS萨姆森 全场回放（刘钟鸣） 18:20
-http://fei01.kmdns.net:8807/964367204
+#EXTINF:-1 tvg-id="BWF汤尤杯揭幕战！国羽双线大捷1号场地英文解说14:30" tvg-name="BWF 汤尤杯揭幕战！国羽双线大捷 1号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 汤尤杯揭幕战！国羽双线大捷 1号场地英文解说 14:30
+http://fei01.kmdns.net:8807/964293760
 
-#EXTINF:-1 tvg-id="吴越杯杭州队VS绍兴队全场回放9:30" tvg-name="吴越杯 杭州队VS绍兴队 全场回放 9:30" tvg-logo="" group-title="综合",吴越杯 杭州队VS绍兴队 全场回放 9:30
-http://fei01.kmdns.net:8807/964368374
+#EXTINF:-1 tvg-id="BWF汤尤杯揭幕战！国羽双线大捷2号场地英文解说14:30" tvg-name="BWF 汤尤杯揭幕战！国羽双线大捷 2号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 汤尤杯揭幕战！国羽双线大捷 2号场地英文解说 14:30
+http://fei01.kmdns.net:8807/964293768
 
-#EXTINF:-1 tvg-id="吴越杯宁波队VS丽水队全场回放18:50" tvg-name="吴越杯 宁波队VS丽水队 全场回放 18:50" tvg-logo="" group-title="综合",吴越杯 宁波队VS丽水队 全场回放 18:50
-http://fei01.kmdns.net:8807/964368481
+#EXTINF:-1 tvg-id="中乙大连英博B队VS长春喜都全场回放（官方解说）14:50" tvg-name="中乙 大连英博B队VS长春喜都 全场回放（官方解说） 14:50" tvg-logo="" group-title="综合",中乙 大连英博B队VS长春喜都 全场回放（官方解说） 14:50
+http://fei01.kmdns.net:8807/964382675
 
-#EXTINF:-1 tvg-id="斯诺克肖国栋VS肖恩·墨菲【回放】肖国栋2-6肖恩·墨菲（第一阶段）（乔迁）20:00" tvg-name="斯诺克 肖国栋VS肖恩·墨菲 【回放】肖国栋2-6肖恩·墨菲（第一阶段）（乔迁） 20:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS肖恩·墨菲 【回放】肖国栋2-6肖恩·墨菲（第一阶段）（乔迁） 20:00
-http://fei01.kmdns.net:8807/964368673
+#EXTINF:-1 tvg-id="中乙上海赛更达VS大连可为全场回放（官方解说）15:20" tvg-name="中乙 上海赛更达VS大连可为 全场回放（官方解说） 15:20" tvg-logo="" group-title="综合",中乙 上海赛更达VS大连可为 全场回放（官方解说） 15:20
+http://fei01.kmdns.net:8807/964382837
 
-#EXTINF:-1 tvg-id="斯诺克肖国栋VS肖恩·墨菲【回放】肖国栋2-6肖恩·墨菲（第一阶段）（赛场原声）20:00" tvg-name="斯诺克 肖国栋VS肖恩·墨菲 【回放】肖国栋2-6肖恩·墨菲（第一阶段）（赛场原声） 20:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS肖恩·墨菲 【回放】肖国栋2-6肖恩·墨菲（第一阶段）（赛场原声） 20:00
-http://fei01.kmdns.net:8807/964369562
+#EXTINF:-1 tvg-id="斯诺克肖国栋VS肖恩·墨菲【回放】肖国栋3-13肖恩·墨菲（第二阶段）（朱峰立）17:00" tvg-name="斯诺克 肖国栋VS肖恩·墨菲 【回放】肖国栋3-13肖恩·墨菲（第二阶段）（朱峰立） 17:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS肖恩·墨菲 【回放】肖国栋3-13肖恩·墨菲（第二阶段）（朱峰立） 17:00
+http://fei01.kmdns.net:8807/964383550
 
-#EXTINF:-1 tvg-id="斯诺克斯佳辉VS侯赛因·瓦菲【回放】斯佳辉3-10侯赛因·瓦菲（第二阶段）（朱峰立）20:00" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-10侯赛因·瓦菲（第二阶段）（朱峰立） 20:00" tvg-logo="" group-title="综合",斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-10侯赛因·瓦菲（第二阶段）（朱峰立） 20:00
-http://fei01.kmdns.net:8807/964367645
+#EXTINF:-1 tvg-id="斯诺克肖国栋VS肖恩·墨菲【回放】肖国栋3-13肖恩·墨菲（第二阶段）（赛场原声）17:00" tvg-name="斯诺克 肖国栋VS肖恩·墨菲 【回放】肖国栋3-13肖恩·墨菲（第二阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS肖恩·墨菲 【回放】肖国栋3-13肖恩·墨菲（第二阶段）（赛场原声） 17:00
+http://fei01.kmdns.net:8807/964383931
 
-#EXTINF:-1 tvg-id="斯诺克斯佳辉VS侯赛因·瓦菲【回放】斯佳辉3-10侯赛因·瓦菲（第二阶段）（赛场原声）20:00" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-10侯赛因·瓦菲（第二阶段）（赛场原声） 20:00" tvg-logo="" group-title="综合",斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-10侯赛因·瓦菲（第二阶段）（赛场原声） 20:00
-http://fei01.kmdns.net:8807/964368117
+#EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS霍金斯【回放】马克·威廉姆斯4-4巴里·霍金斯（第一阶段）（孙嘉星）17:00" tvg-name="斯诺克 马克·威廉姆斯VS霍金斯 【回放】马克·威廉姆斯4-4巴里·霍金斯（第一阶段）（孙嘉星） 17:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS霍金斯 【回放】马克·威廉姆斯4-4巴里·霍金斯（第一阶段）（孙嘉星） 17:00
+http://fei01.kmdns.net:8807/964383673
+
+#EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS霍金斯【回放】马克·威廉姆斯4-4巴里·霍金斯（第一阶段）（赛场原声）17:00" tvg-name="斯诺克 马克·威廉姆斯VS霍金斯 【回放】马克·威廉姆斯4-4巴里·霍金斯（第一阶段）（赛场原声） 17:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS霍金斯 【回放】马克·威廉姆斯4-4巴里·霍金斯（第一阶段）（赛场原声） 17:00
+http://fei01.kmdns.net:8807/964384048
+
+#EXTINF:-1 tvg-id="WTA佩古拉出战姆博科0-2不敌麦克纳莉赛场原声17:00" tvg-name="WTA 佩古拉出战 姆博科0-2不敌麦克纳莉 赛场原声 17:00" tvg-logo="" group-title="综合",WTA 佩古拉出战 姆博科0-2不敌麦克纳莉 赛场原声 17:00
+http://fei01.kmdns.net:8807/964215461
+
+#EXTINF:-1 tvg-id="WTA佩古拉出战姆博科0-2不敌麦克纳莉英文原声17:00" tvg-name="WTA 佩古拉出战 姆博科0-2不敌麦克纳莉 英文原声 17:00" tvg-logo="" group-title="综合",WTA 佩古拉出战 姆博科0-2不敌麦克纳莉 英文原声 17:00
+http://fei01.kmdns.net:8807/964215484
+
+#EXTINF:-1 tvg-id="WTA郑钦文VS肯宁全场回放17:00" tvg-name="WTA 郑钦文VS肯宁 全场回放 17:00" tvg-logo="" group-title="综合",WTA 郑钦文VS肯宁 全场回放 17:00
+http://fei01.kmdns.net:8807/964384257
+
+#EXTINF:-1 tvg-id="WTA郑钦文VS肯宁全场回放（单文强）17:00" tvg-name="WTA 郑钦文VS肯宁 全场回放（单文强） 17:00" tvg-logo="" group-title="综合",WTA 郑钦文VS肯宁 全场回放（单文强） 17:00
+http://fei01.kmdns.net:8807/964383367
+
+#EXTINF:-1 tvg-id="WTA郑钦文VS肯宁【回放】郑钦文2-1肯宁（英文原声）17:00" tvg-name="WTA 郑钦文VS肯宁 【回放】郑钦文2-1肯宁（英文原声） 17:00" tvg-logo="" group-title="综合",WTA 郑钦文VS肯宁 【回放】郑钦文2-1肯宁（英文原声） 17:00
+http://fei01.kmdns.net:8807/964383839
+
+#EXTINF:-1 tvg-id="WTA波塔波娃VS张帅全场回放（郭丰庆）17:00" tvg-name="WTA 波塔波娃VS张帅 全场回放（郭丰庆） 17:00" tvg-logo="" group-title="综合",WTA 波塔波娃VS张帅 全场回放（郭丰庆） 17:00
+http://fei01.kmdns.net:8807/964382630
+
+#EXTINF:-1 tvg-id="WTA波塔波娃VS张帅全场回放17:00" tvg-name="WTA 波塔波娃VS张帅 全场回放 17:00" tvg-logo="" group-title="综合",WTA 波塔波娃VS张帅 全场回放 17:00
+http://fei01.kmdns.net:8807/964382874
+
+#EXTINF:-1 tvg-id="中乙山东泰山B队VS青岛红狮全场回放18:50" tvg-name="中乙 山东泰山B队VS青岛红狮 全场回放 18:50" tvg-logo="" group-title="综合",中乙 山东泰山B队VS青岛红狮 全场回放 18:50
+http://fei01.kmdns.net:8807/964386561
+
+#EXTINF:-1 tvg-id="中乙杭州临平吴越VS广州蒲公英全场回放（官方解说）19:20" tvg-name="中乙 杭州临平吴越VS广州蒲公英 全场回放（官方解说） 19:20" tvg-logo="" group-title="综合",中乙 杭州临平吴越VS广州蒲公英 全场回放（官方解说） 19:20
+http://fei01.kmdns.net:8807/964386381
+
+#EXTINF:-1 tvg-id="CBA福建晋江文旅VS广东东阳光广东遭福建逆转主客双杀！季后赛首轮将战龙狮19:35" tvg-name="CBA 福建晋江文旅VS广东东阳光 广东遭福建逆转主客双杀！季后赛首轮将战龙狮 19:35" tvg-logo="" group-title="综合",CBA 福建晋江文旅VS广东东阳光 广东遭福建逆转主客双杀！季后赛首轮将战龙狮 19:35
+http://fei01.kmdns.net:8807/964385350
+
+#EXTINF:-1 tvg-id="CBA江苏肯帝亚VS辽宁本钢赵继伟6记三分率队大胜江苏辽宁季后赛首轮战山东19:35" tvg-name="CBA 江苏肯帝亚VS辽宁本钢 赵继伟6记三分率队大胜江苏 辽宁季后赛首轮战山东 19:35" tvg-logo="" group-title="综合",CBA 江苏肯帝亚VS辽宁本钢 赵继伟6记三分率队大胜江苏 辽宁季后赛首轮战山东 19:35
+http://fei01.kmdns.net:8807/964384905
+
+#EXTINF:-1 tvg-id="CBA北京北汽VS长白山恩都里曾凡博谈复出：身体现在没有完全好需要比赛来克服疼痛19:35" tvg-name="CBA 北京北汽VS长白山恩都里 曾凡博谈复出：身体现在没有完全好 需要比赛来克服疼痛 19:35" tvg-logo="" group-title="综合",CBA 北京北汽VS长白山恩都里 曾凡博谈复出：身体现在没有完全好 需要比赛来克服疼痛 19:35
+http://fei01.kmdns.net:8807/964379521
+
+#EXTINF:-1 tvg-id="中乙成都蓉城希拉谷VS赣州瑞狮全场回放19:25" tvg-name="中乙 成都蓉城希拉谷VS赣州瑞狮 全场回放 19:25" tvg-logo="" group-title="综合",中乙 成都蓉城希拉谷VS赣州瑞狮 全场回放 19:25
+http://fei01.kmdns.net:8807/964386410
+
+#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖【回放】赵心童4-4丁俊晖（第一阶段）（秦正、庞卫国）（50帧原画）21:30" tvg-name="斯诺克 赵心童VS丁俊晖 【回放】赵心童4-4丁俊晖（第一阶段）（秦正、庞卫国）（50帧原画） 21:30" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 【回放】赵心童4-4丁俊晖（第一阶段）（秦正、庞卫国）（50帧原画） 21:30
+http://fei01.kmdns.net:8807/964387127
+
+#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖【回放】赵心童4-4丁俊晖（第一阶段）（乔迁）21:30" tvg-name="斯诺克 赵心童VS丁俊晖 【回放】赵心童4-4丁俊晖（第一阶段）（乔迁） 21:30" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 【回放】赵心童4-4丁俊晖（第一阶段）（乔迁） 21:30
+http://fei01.kmdns.net:8807/964387085
+
+#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖【回放】赵心童4-4丁俊晖（第一阶段）（赛场原声）21:30" tvg-name="斯诺克 赵心童VS丁俊晖 【回放】赵心童4-4丁俊晖（第一阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 【回放】赵心童4-4丁俊晖（第一阶段）（赛场原声） 21:30
+http://fei01.kmdns.net:8807/964387405
+
+#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦2026斯诺克世锦赛第二轮回放：凯伦·威尔逊7-9马克·艾伦（第二阶段）（赛场原声）21:30" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 2026斯诺克世锦赛第二轮回放：凯伦·威尔逊7-9马克·艾伦（第二阶段）（赛场原声） 21:30" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 2026斯诺克世锦赛第二轮回放：凯伦·威尔逊7-9马克·艾伦（第二阶段）（赛场原声） 21:30
+http://fei01.kmdns.net:8807/964387507
+
+#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦【回放】凯伦·威尔逊7-9马克·艾伦（第二阶段）（朱蒙）21:30" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 【回放】凯伦·威尔逊7-9马克·艾伦（第二阶段）（朱蒙） 21:30" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 【回放】凯伦·威尔逊7-9马克·艾伦（第二阶段）（朱蒙） 21:30
+http://fei01.kmdns.net:8807/964387134
 
 #EXTINF:-1 tvg-id="体育-今天" tvg-name="体育-今天" tvg-logo="" group-title="体育",体育-今天
 #genre#
 
-#EXTINF:-1 tvg-id="西甲莱万特VS塞维利亚全场回放（李霄）00:45" tvg-name="西甲 莱万特VS塞维利亚 全场回放（李霄） 00:45" tvg-logo="" group-title="综合",西甲 莱万特VS塞维利亚 全场回放（李霄） 00:45
-http://fei01.kmdns.net:8807/964369785
-
-#EXTINF:-1 tvg-id="西甲巴列卡诺VS西班牙人全场回放01:45" tvg-name="西甲 巴列卡诺VS西班牙人 全场回放 01:45" tvg-logo="" group-title="综合",西甲 巴列卡诺VS西班牙人 全场回放 01:45
-http://fei01.kmdns.net:8807/964369913
-
-#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭现场原声02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 现场原声 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 现场原声 02:00
-http://fei01.kmdns.net:8807/964184125
-
-#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭解说02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 解说 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 解说 02:00
-http://fei01.kmdns.net:8807/964331973
-
-#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS庞俊旭凯伦·威尔逊vs马克·艾伦02:00" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 凯伦·威尔逊vs 马克·艾伦 02:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS庞俊旭 凯伦·威尔逊vs 马克·艾伦 02:00
-http://fei01.kmdns.net:8807/964184142
-
-#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦朱蒙02:00" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 朱蒙 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 朱蒙 02:00
-http://fei01.kmdns.net:8807/964331993
-
-#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦现场原声02:00" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 现场原声 02:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 现场原声 02:00
-http://fei01.kmdns.net:8807/964184142
-
-#EXTINF:-1 tvg-id="西甲皇家奥维耶多VS比利亚雷亚尔李霄03:15" tvg-name="西甲 皇家奥维耶多VS比利亚雷亚尔 李霄 03:15" tvg-logo="" group-title="综合",西甲 皇家奥维耶多VS比利亚雷亚尔 李霄 03:15
-http://fei01.kmdns.net:8807/964223023
-
-#EXTINF:-1 tvg-id="西甲皇家奥维耶多VS比利亚雷亚尔赛场原声03:15" tvg-name="西甲 皇家奥维耶多VS比利亚雷亚尔 赛场原声 03:15" tvg-logo="" group-title="综合",西甲 皇家奥维耶多VS比利亚雷亚尔 赛场原声 03:15
-http://fei01.kmdns.net:8807/964222996
-
-#EXTINF:-1 tvg-id="NBA老鹰VS尼克斯邵化谦李根06:55" tvg-name="NBA 老鹰VS尼克斯 邵化谦 李根 06:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 邵化谦 李根 06:55
-http://fei01.kmdns.net:8807/964277608
-
-#EXTINF:-1 tvg-id="NBA老鹰VS尼克斯英文原声06:55" tvg-name="NBA 老鹰VS尼克斯 英文原声 06:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 英文原声 06:55
-http://fei01.kmdns.net:8807/964277582
-
-#EXTINF:-1 tvg-id="NBA老鹰VS尼克斯智能字幕06:55" tvg-name="NBA 老鹰VS尼克斯 智能字幕 06:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 智能字幕 06:55
-http://fei01.kmdns.net:8807/964289832
-
-#EXTINF:-1 tvg-id="NBA猛龙VS骑士李天宇陈正昊魏欣怡07:45" tvg-name="NBA 猛龙VS骑士 李天宇 陈正昊 魏欣怡 07:45" tvg-logo="" group-title="综合",NBA 猛龙VS骑士 李天宇 陈正昊 魏欣怡 07:45
-http://fei01.kmdns.net:8807/964277407
-
-#EXTINF:-1 tvg-id="NBA猛龙VS骑士英文原声07:55" tvg-name="NBA 猛龙VS骑士 英文原声 07:55" tvg-logo="" group-title="综合",NBA 猛龙VS骑士 英文原声 07:55
-http://fei01.kmdns.net:8807/964277444
-
-#EXTINF:-1 tvg-id="NBA猛龙VS骑士大史07:55" tvg-name="NBA 猛龙VS骑士 大史 07:55" tvg-logo="" group-title="综合",NBA 猛龙VS骑士 大史 07:55
-http://fei01.kmdns.net:8807/964277457
-
-#EXTINF:-1 tvg-id="咪咕体育日报undefined咪咕体育日报第89期08:00" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第89期 08:00" tvg-logo="" group-title="体育",咪咕体育日报 undefined 咪咕体育日报 第89期 08:00
-http://fei01.kmdns.net:8807/964291474
-
-#EXTINF:-1 tvg-id="中国乒协会员联赛单打一、二阶段赛场原声08:30" tvg-name="中国乒协会员联赛 单打一、二阶段 赛场原声 08:30" tvg-logo="" group-title="综合",中国乒协会员联赛 单打一、二阶段 赛场原声 08:30
-http://fei01.kmdns.net:8807/964358832
-
-#EXTINF:-1 tvg-id="亚洲室内高山滑雪锦标赛华发冰雪热雪奇迹杯day2解说09:00" tvg-name="亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 解说 09:00" tvg-logo="" group-title="综合",亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 解说 09:00
-http://fei01.kmdns.net:8807/964181347
-
-#EXTINF:-1 tvg-id="NBA森林狼VS掘金杨健曾令旭闫宇峰09:15" tvg-name="NBA 森林狼VS掘金 杨健 曾令旭 闫宇峰 09:15" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 杨健 曾令旭 闫宇峰 09:15
-http://fei01.kmdns.net:8807/964277300
-
-#EXTINF:-1 tvg-id="NBA森林狼VS掘金英文原声09:25" tvg-name="NBA 森林狼VS掘金 英文原声 09:25" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 英文原声 09:25
-http://fei01.kmdns.net:8807/964277251
-
-#EXTINF:-1 tvg-id="NBA森林狼VS掘金智能字幕09:25" tvg-name="NBA 森林狼VS掘金 智能字幕 09:25" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 智能字幕 09:25
-http://fei01.kmdns.net:8807/964289858
-
-#EXTINF:-1 tvg-id="高尔夫中国公开赛沃尔沃中国公开赛Day2赛场原声12:30" tvg-name="高尔夫中国公开赛 沃尔沃中国公开赛Day 2 赛场原声 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 沃尔沃中国公开赛Day 2 赛场原声 12:30
-http://fei01.kmdns.net:8807/964310330
-
-#EXTINF:-1 tvg-id="高尔夫中国公开赛沃尔沃中国公开赛Day2中文解说12:30" tvg-name="高尔夫中国公开赛 沃尔沃中国公开赛Day 2 中文解说 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 沃尔沃中国公开赛Day 2 中文解说 12:30
-http://fei01.kmdns.net:8807/964310352
-
-#EXTINF:-1 tvg-id="BWF中国VS澳大利亚2026BWF小组赛:汤杯A组中国VS澳大利亚(余博洋)14:30" tvg-name="BWF 中国VS澳大利亚 2026BWF小组赛: 汤杯A组 中国VS澳大利亚(余博洋) 14:30" tvg-logo="" group-title="综合",BWF 中国VS澳大利亚 2026BWF小组赛: 汤杯A组 中国VS澳大利亚(余博洋) 14:30
-http://fei01.kmdns.net:8807/964361616
-
-#EXTINF:-1 tvg-id="BWF中国VS澳大利亚3号场地14:30" tvg-name="BWF 中国VS澳大利亚 3号场地 14:30" tvg-logo="" group-title="综合",BWF 中国VS澳大利亚 3号场地 14:30
-http://fei01.kmdns.net:8807/964293741
-
-#EXTINF:-1 tvg-id="BWF中国VS乌克兰2026BWF小组赛:尤杯A组中国VS乌克兰(鸿昆)14:30" tvg-name="BWF 中国VS乌克兰 2026BWF小组赛: 尤杯A组 中国VS乌克兰(鸿昆) 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 2026BWF小组赛: 尤杯A组 中国VS乌克兰(鸿昆) 14:30
-http://fei01.kmdns.net:8807/964361583
-
-#EXTINF:-1 tvg-id="BWF中国VS乌克兰1号场地14:30" tvg-name="BWF 中国VS乌克兰 1号场地 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 1号场地 14:30
-http://fei01.kmdns.net:8807/964293785
-
-#EXTINF:-1 tvg-id="BWF中国VS乌克兰1号场地英文解说14:30" tvg-name="BWF 中国VS乌克兰 1号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 中国VS乌克兰 1号场地英文解说 14:30
-http://fei01.kmdns.net:8807/964293849
-
-#EXTINF:-1 tvg-id="BWF双战来袭！中国队分别迎战乌克兰、澳大利亚队余博洋14:30" tvg-name="BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 余博洋 14:30" tvg-logo="" group-title="综合",BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 余博洋 14:30
-http://fei01.kmdns.net:8807/964361616
-
-#EXTINF:-1 tvg-id="BWF双战来袭！中国队分别迎战乌克兰、澳大利亚队鸿昆14:30" tvg-name="BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 鸿昆 14:30" tvg-logo="" group-title="综合",BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 鸿昆 14:30
-http://fei01.kmdns.net:8807/964361583
-
-#EXTINF:-1 tvg-id="BWF双战来袭！中国队分别迎战乌克兰、澳大利亚队1号场地14:30" tvg-name="BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 1号场地 14:30" tvg-logo="" group-title="综合",BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 1号场地 14:30
-http://fei01.kmdns.net:8807/964293596
-
-#EXTINF:-1 tvg-id="BWF双战来袭！中国队分别迎战乌克兰、澳大利亚队2号场地14:30" tvg-name="BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 2号场地 14:30" tvg-logo="" group-title="综合",BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 2号场地 14:30
-http://fei01.kmdns.net:8807/964293715
-
-#EXTINF:-1 tvg-id="BWF双战来袭！中国队分别迎战乌克兰、澳大利亚队3号场地14:30" tvg-name="BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 3号场地 14:30" tvg-logo="" group-title="综合",BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 3号场地 14:30
-http://fei01.kmdns.net:8807/964293741
-
-#EXTINF:-1 tvg-id="BWF双战来袭！中国队分别迎战乌克兰、澳大利亚队1号场地英文解说14:30" tvg-name="BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 1号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 1号场地英文解说 14:30
-http://fei01.kmdns.net:8807/964293760
-
-#EXTINF:-1 tvg-id="BWF双战来袭！中国队分别迎战乌克兰、澳大利亚队2号场地英文解说14:30" tvg-name="BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 2号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 2号场地英文解说 14:30
-http://fei01.kmdns.net:8807/964293768
-
-#EXTINF:-1 tvg-id="BWF双战来袭！中国队分别迎战乌克兰、澳大利亚队孙宁智18:00" tvg-name="BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 孙宁智 18:00" tvg-logo="" group-title="综合",BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 孙宁智 18:00
-http://fei01.kmdns.net:8807/964361641
-
-#EXTINF:-1 tvg-id="BWF双战来袭！中国队分别迎战乌克兰、澳大利亚队轩子博00:30" tvg-name="BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 轩子博 00:30" tvg-logo="" group-title="综合",BWF 双战来袭！中国队分别迎战乌克兰、澳大利亚队 轩子博 00:30
-http://fei01.kmdns.net:8807/964361665
-
-#EXTINF:-1 tvg-id="斯诺克肖国栋VS肖恩·墨菲1号桌17:00" tvg-name="斯诺克 肖国栋VS肖恩·墨菲 1号桌 17:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS肖恩·墨菲 1号桌 17:00
-http://fei01.kmdns.net:8807/964184172
-
-#EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS霍金斯2号桌17:00" tvg-name="斯诺克 马克·威廉姆斯VS霍金斯 2号桌 17:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS霍金斯 2号桌 17:00
-http://fei01.kmdns.net:8807/964184191
-
-#EXTINF:-1 tvg-id="WTA莱巴金娜、高芙出战佩古拉压场赛场原声17:00" tvg-name="WTA 莱巴金娜、高芙出战 佩古拉压场 赛场原声 17:00" tvg-logo="" group-title="综合",WTA 莱巴金娜、高芙出战 佩古拉压场 赛场原声 17:00
-http://fei01.kmdns.net:8807/964215461
-
-#EXTINF:-1 tvg-id="WTA莱巴金娜、高芙出战佩古拉压场英文原声17:00" tvg-name="WTA 莱巴金娜、高芙出战 佩古拉压场 英文原声 17:00" tvg-logo="" group-title="综合",WTA 莱巴金娜、高芙出战 佩古拉压场 英文原声 17:00
-http://fei01.kmdns.net:8807/964215484
-
-#EXTINF:-1 tvg-id="WTA郑钦文VS肯宁郑钦文VS肯宁17:00" tvg-name="WTA 郑钦文VS肯宁 郑钦文VS肯宁 17:00" tvg-logo="" group-title="综合",WTA 郑钦文VS肯宁 郑钦文VS肯宁 17:00
-http://fei01.kmdns.net:8807/964215461
-
-#EXTINF:-1 tvg-id="CBA宁波町渥VS北京控股图文直播19:35" tvg-name="CBA 宁波町渥VS北京控股 图文直播 19:35" tvg-logo="" group-title="综合",CBA 宁波町渥VS北京控股 图文直播 19:35
-http://fei01.kmdns.net:8807/963890942
-
-#EXTINF:-1 tvg-id="CBA福建晋江文旅VS广东东阳光图文直播19:35" tvg-name="CBA 福建晋江文旅VS广东东阳光 图文直播 19:35" tvg-logo="" group-title="综合",CBA 福建晋江文旅VS广东东阳光 图文直播 19:35
-http://fei01.kmdns.net:8807/963890934
-
-#EXTINF:-1 tvg-id="CBA广州朗肽海本VS深圳马可波罗图文直播19:35" tvg-name="CBA 广州朗肽海本VS深圳马可波罗 图文直播 19:35" tvg-logo="" group-title="综合",CBA 广州朗肽海本VS深圳马可波罗 图文直播 19:35
-http://fei01.kmdns.net:8807/963890916
-
-#EXTINF:-1 tvg-id="CBA江苏肯帝亚VS辽宁本钢图文直播19:35" tvg-name="CBA 江苏肯帝亚VS辽宁本钢 图文直播 19:35" tvg-logo="" group-title="综合",CBA 江苏肯帝亚VS辽宁本钢 图文直播 19:35
-http://fei01.kmdns.net:8807/963890905
-
-#EXTINF:-1 tvg-id="CBA青岛崂山啤酒VS新疆伊力特图文直播19:35" tvg-name="CBA 青岛崂山啤酒VS新疆伊力特 图文直播 19:35" tvg-logo="" group-title="综合",CBA 青岛崂山啤酒VS新疆伊力特 图文直播 19:35
-http://fei01.kmdns.net:8807/963890897
-
-#EXTINF:-1 tvg-id="CBA山东高速VS上海久事图文直播19:35" tvg-name="CBA 山东高速VS上海久事 图文直播 19:35" tvg-logo="" group-title="综合",CBA 山东高速VS上海久事 图文直播 19:35
-http://fei01.kmdns.net:8807/963890891
-
-#EXTINF:-1 tvg-id="CBA山西汾酒VS南京天之蓝图文直播19:35" tvg-name="CBA 山西汾酒VS南京天之蓝 图文直播 19:35" tvg-logo="" group-title="综合",CBA 山西汾酒VS南京天之蓝 图文直播 19:35
-http://fei01.kmdns.net:8807/963890881
-
-#EXTINF:-1 tvg-id="CBA北京北汽VS长白山恩都里图文直播19:35" tvg-name="CBA 北京北汽VS长白山恩都里 图文直播 19:35" tvg-logo="" group-title="综合",CBA 北京北汽VS长白山恩都里 图文直播 19:35
-http://fei01.kmdns.net:8807/963890854
-
-#EXTINF:-1 tvg-id="CBA四川丰谷酒业VS浙江稠州金租图文直播19:35" tvg-name="CBA 四川丰谷酒业VS浙江稠州金租 图文直播 19:35" tvg-logo="" group-title="综合",CBA 四川丰谷酒业VS浙江稠州金租 图文直播 19:35
-http://fei01.kmdns.net:8807/963890833
-
-#EXTINF:-1 tvg-id="CBA浙江浙商证券VS天津先行者图文直播19:35" tvg-name="CBA 浙江浙商证券VS天津先行者 图文直播 19:35" tvg-logo="" group-title="综合",CBA 浙江浙商证券VS天津先行者 图文直播 19:35
-http://fei01.kmdns.net:8807/963890824
-
-#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖秦正庞卫国21:10" tvg-name="斯诺克 赵心童VS丁俊晖 秦正 庞卫国 21:10" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 秦正 庞卫国 21:10
-http://fei01.kmdns.net:8807/964332008
-
-#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖现场原声21:30" tvg-name="斯诺克 赵心童VS丁俊晖 现场原声 21:30" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 现场原声 21:30
-http://fei01.kmdns.net:8807/964184207
-
-#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦2号桌21:30" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 21:30
-http://fei01.kmdns.net:8807/964184229
-
-#EXTINF:-1 tvg-id="体育-明天" tvg-name="体育-明天" tvg-logo="" group-title="体育",体育-明天
-#genre#
-
-#EXTINF:-1 tvg-id="斯诺克肖国栋VS肖恩·墨菲1号桌02:00" tvg-name="斯诺克 肖国栋VS肖恩·墨菲 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 肖国栋VS肖恩·墨菲 1号桌 02:00
-http://fei01.kmdns.net:8807/964184255
-
 #EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS霍金斯2号桌02:00" tvg-name="斯诺克 马克·威廉姆斯VS霍金斯 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS霍金斯 2号桌 02:00
 http://fei01.kmdns.net:8807/964184282
+
+#EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS霍金斯陶哲铭02:00" tvg-name="斯诺克 马克·威廉姆斯VS霍金斯 陶哲铭 02:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS霍金斯 陶哲铭 02:00
+http://fei01.kmdns.net:8807/964373020
+
+#EXTINF:-1 tvg-id="法甲布雷斯特VS朗斯鹿中原02:30" tvg-name="法甲 布雷斯特VS朗斯 鹿中原 02:30" tvg-logo="" group-title="综合",法甲 布雷斯特VS朗斯 鹿中原 02:30
+http://fei01.kmdns.net:8807/964374581
+
+#EXTINF:-1 tvg-id="法甲布雷斯特VS朗斯赛场原声02:30" tvg-name="法甲 布雷斯特VS朗斯 赛场原声 02:30" tvg-logo="" group-title="综合",法甲 布雷斯特VS朗斯 赛场原声 02:30
+http://fei01.kmdns.net:8807/964374571
+
+#EXTINF:-1 tvg-id="意甲那不勒斯VS克雷莫内塞吴桐刘腾02:15" tvg-name="意甲 那不勒斯VS克雷莫内塞 吴桐 刘腾 02:15" tvg-logo="" group-title="综合",意甲 那不勒斯VS克雷莫内塞 吴桐 刘腾 02:15
+http://fei01.kmdns.net:8807/964375027
+
+#EXTINF:-1 tvg-id="意甲那不勒斯VS克雷莫内塞赛场原声02:30" tvg-name="意甲 那不勒斯VS克雷莫内塞 赛场原声 02:30" tvg-logo="" group-title="综合",意甲 那不勒斯VS克雷莫内塞 赛场原声 02:30
+http://fei01.kmdns.net:8807/964375011
+
+#EXTINF:-1 tvg-id="西甲皇家贝蒂斯VS皇家马德里刘畅贺宇02:45" tvg-name="西甲 皇家贝蒂斯VS皇家马德里 刘畅 贺宇 02:45" tvg-logo="" group-title="综合",西甲 皇家贝蒂斯VS皇家马德里 刘畅 贺宇 02:45
+http://fei01.kmdns.net:8807/964375664
+
+#EXTINF:-1 tvg-id="西甲皇家贝蒂斯VS皇家马德里赛场原声02:45" tvg-name="西甲 皇家贝蒂斯VS皇家马德里 赛场原声 02:45" tvg-logo="" group-title="综合",西甲 皇家贝蒂斯VS皇家马德里 赛场原声 02:45
+http://fei01.kmdns.net:8807/964375640
+
+#EXTINF:-1 tvg-id="西甲皇家贝蒂斯VS皇家马德里刘畅贺宇02:45" tvg-name="西甲 皇家贝蒂斯VS皇家马德里 刘畅 贺宇 02:45" tvg-logo="" group-title="综合",西甲 皇家贝蒂斯VS皇家马德里 刘畅 贺宇 02:45
+http://fei01.kmdns.net:8807/964375611
 
 #EXTINF:-1 tvg-id="NBA76人VS凯尔特人蔡凯臣季孟年拜月宁06:45" tvg-name="NBA 76人VS凯尔特人 蔡凯臣 季孟年 拜月宁 06:45" tvg-logo="" group-title="综合",NBA 76人VS凯尔特人 蔡凯臣 季孟年 拜月宁 06:45
 http://fei01.kmdns.net:8807/964276654
@@ -821,26 +731,68 @@ http://fei01.kmdns.net:8807/964310428
 #EXTINF:-1 tvg-id="峨眉山越野挑战赛2026TheNorthFace100峨眉山越野挑战赛解说12:00" tvg-name="峨眉山越野挑战赛 2026The North Face 100峨眉山越野挑战赛 解说 12:00" tvg-logo="" group-title="综合",峨眉山越野挑战赛 2026The North Face 100峨眉山越野挑战赛 解说 12:00
 http://fei01.kmdns.net:8807/964310999
 
+#EXTINF:-1 tvg-id="钻石杯青少年网球挑战赛FILAKIDS钻石杯青少年网球挑战赛赛场原声12:00" tvg-name="钻石杯青少年网球挑战赛 FILA KIDS钻石杯青少年网球挑战赛 赛场原声 12:00" tvg-logo="" group-title="综合",钻石杯青少年网球挑战赛 FILA KIDS钻石杯青少年网球挑战赛 赛场原声 12:00
+http://fei01.kmdns.net:8807/964362458
+
 #EXTINF:-1 tvg-id="乒乓球嘉年华大杨浦乒到顶：全民狂欢盛会赛场原声13:00" tvg-name="乒乓球嘉年华 大杨浦 乒到顶：全民狂欢盛会 赛场原声 13:00" tvg-logo="" group-title="综合",乒乓球嘉年华 大杨浦 乒到顶：全民狂欢盛会 赛场原声 13:00
 http://fei01.kmdns.net:8807/964361332
 
-#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第二日1号场地14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第二日 1号场地 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第二日 1号场地 14:30
+#EXTINF:-1 tvg-id="BWF硬碰硬！中国女队迎战东道主丹麦劲旅1号场地14:30" tvg-name="BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 1号场地 14:30" tvg-logo="" group-title="综合",BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 1号场地 14:30
 http://fei01.kmdns.net:8807/964293785
 
-#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第二日2号场地14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第二日 2号场地 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第二日 2号场地 14:30
+#EXTINF:-1 tvg-id="BWF硬碰硬！中国女队迎战东道主丹麦劲旅2号场地14:30" tvg-name="BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 2号场地 14:30" tvg-logo="" group-title="综合",BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 2号场地 14:30
 http://fei01.kmdns.net:8807/964293808
 
-#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第二日3号场地14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第二日 3号场地 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第二日 3号场地 14:30
+#EXTINF:-1 tvg-id="BWF硬碰硬！中国女队迎战东道主丹麦劲旅3号场地14:30" tvg-name="BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 3号场地 14:30" tvg-logo="" group-title="综合",BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 3号场地 14:30
 http://fei01.kmdns.net:8807/964293820
 
-#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第二日1号场地英文解说14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第二日 1号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第二日 1号场地英文解说 14:30
+#EXTINF:-1 tvg-id="BWF硬碰硬！中国女队迎战东道主丹麦劲旅1号场地英文解说14:30" tvg-name="BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 1号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 1号场地英文解说 14:30
 http://fei01.kmdns.net:8807/964293849
 
-#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第二日2号场地英文解说14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第二日 2号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第二日 2号场地英文解说 14:30
+#EXTINF:-1 tvg-id="BWF硬碰硬！中国女队迎战东道主丹麦劲旅2号场地英文解说14:30" tvg-name="BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 2号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 2号场地英文解说 14:30
 http://fei01.kmdns.net:8807/964293904
+
+#EXTINF:-1 tvg-id="BWF硬碰硬！中国女队迎战东道主丹麦劲旅孙宁智14:30" tvg-name="BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 孙宁智 14:30" tvg-logo="" group-title="综合",BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 孙宁智 14:30
+http://fei01.kmdns.net:8807/964382900
+
+#EXTINF:-1 tvg-id="BWF硬碰硬！中国女队迎战东道主丹麦劲旅杨妮娜18:00" tvg-name="BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 杨妮娜 18:00" tvg-logo="" group-title="综合",BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 杨妮娜 18:00
+http://fei01.kmdns.net:8807/964383235
+
+#EXTINF:-1 tvg-id="BWF硬碰硬！中国女队迎战东道主丹麦劲旅鸿昆00:30" tvg-name="BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 鸿昆 00:30" tvg-logo="" group-title="综合",BWF 硬碰硬！中国女队迎战东道主丹麦劲旅 鸿昆 00:30
+http://fei01.kmdns.net:8807/964383272
+
+#EXTINF:-1 tvg-id="广西县超崇左市龙州县队vs崇左市凭祥市队25/26赛季广西县级足球超级联赛第七轮:崇左市龙州县队vs崇左市凭祥市队14:30" tvg-name="广西县超 崇左市龙州县队vs崇左市凭祥市队 25/26赛季广西县级足球超级联赛第七轮: 崇左市龙州县队vs崇左市凭祥市队 14:30" tvg-logo="" group-title="综合",广西县超 崇左市龙州县队vs崇左市凭祥市队 25/26赛季广西县级足球超级联赛第七轮: 崇左市龙州县队vs崇左市凭祥市队 14:30
+http://fei01.kmdns.net:8807/964362872
+
+#EXTINF:-1 tvg-id="广西县超柳州市融水苗族自治县队vs桂林市灵川县队25/26赛季广西县级足球超级联赛第七轮:柳州市融水苗族自治县队vs桂林市灵川县队14:30" tvg-name="广西县超 柳州市融水苗族自治县队vs桂林市灵川县队 25/26赛季广西县级足球超级联赛第七轮: 柳州市融水苗族自治县队vs桂林市灵川县队 14:30" tvg-logo="" group-title="综合",广西县超 柳州市融水苗族自治县队vs桂林市灵川县队 25/26赛季广西县级足球超级联赛第七轮: 柳州市融水苗族自治县队vs桂林市灵川县队 14:30
+http://fei01.kmdns.net:8807/964362929
+
+#EXTINF:-1 tvg-id="中甲延边龙鼎VS陕西联合解说14:50" tvg-name="中甲 延边龙鼎VS陕西联合 解说 14:50" tvg-logo="" group-title="综合",中甲 延边龙鼎VS陕西联合 解说 14:50
+http://fei01.kmdns.net:8807/964374072
+
+#EXTINF:-1 tvg-id="中甲延边龙鼎VS陕西联合赛场原声14:50" tvg-name="中甲 延边龙鼎VS陕西联合 赛场原声 14:50" tvg-logo="" group-title="综合",中甲 延边龙鼎VS陕西联合 赛场原声 14:50
+http://fei01.kmdns.net:8807/964374085
+
+#EXTINF:-1 tvg-id="中乙山西崇德荣海VS上海海港B队解说14:50" tvg-name="中乙 山西崇德荣海VS上海海港B队 解说 14:50" tvg-logo="" group-title="综合",中乙 山西崇德荣海VS上海海港B队 解说 14:50
+http://fei01.kmdns.net:8807/964372979
 
 #EXTINF:-1 tvg-id="楚超天门队VS孝感孝傲江湖队2026湖北省城市足球联赛第二轮:天门vs孝感孝傲江湖14:50" tvg-name="楚超 天门队VS孝感孝傲江湖队 2026湖北省城市足球联赛第二轮: 天门vs孝感孝傲江湖 14:50" tvg-logo="" group-title="综合",楚超 天门队VS孝感孝傲江湖队 2026湖北省城市足球联赛第二轮: 天门vs孝感孝傲江湖 14:50
 http://fei01.kmdns.net:8807/964052672
+
+#EXTINF:-1 tvg-id="滇超迪庆队VS昭通队2026云南省城市足球联赛第十一轮:迪庆队VS昭通队15:00" tvg-name="滇超 迪庆队VS昭通队 2026云南省城市足球联赛第十一轮: 迪庆队VS昭通队 15:00" tvg-logo="" group-title="综合",滇超 迪庆队VS昭通队 2026云南省城市足球联赛第十一轮: 迪庆队VS昭通队 15:00
+http://fei01.kmdns.net:8807/964379230
+
+#EXTINF:-1 tvg-id="滇超临沧队VS保山队2026云南省城市足球联赛第十一轮:临沧队VS保山队15:00" tvg-name="滇超 临沧队VS保山队 2026云南省城市足球联赛第十一轮: 临沧队VS保山队 15:00" tvg-logo="" group-title="综合",滇超 临沧队VS保山队 2026云南省城市足球联赛第十一轮: 临沧队VS保山队 15:00
+http://fei01.kmdns.net:8807/964379242
+
+#EXTINF:-1 tvg-id="滇超丽江队VS怒江队2026云南省城市足球联赛第十一轮:丽江队VS怒江队15:00" tvg-name="滇超 丽江队VS怒江队 2026云南省城市足球联赛第十一轮: 丽江队VS怒江队 15:00" tvg-logo="" group-title="综合",滇超 丽江队VS怒江队 2026云南省城市足球联赛第十一轮: 丽江队VS怒江队 15:00
+http://fei01.kmdns.net:8807/964381185
+
+#EXTINF:-1 tvg-id="中乙泰安天贶VS兰州陇原竞技解说15:20" tvg-name="中乙 泰安天贶VS兰州陇原竞技 解说 15:20" tvg-logo="" group-title="综合",中乙 泰安天贶VS兰州陇原竞技 解说 15:20
+http://fei01.kmdns.net:8807/964373036
+
+#EXTINF:-1 tvg-id="中乙江西庐山VS湖北青年星解说15:20" tvg-name="中乙 江西庐山VS湖北青年星 解说 15:20" tvg-logo="" group-title="综合",中乙 江西庐山VS湖北青年星 解说 15:20
+http://fei01.kmdns.net:8807/964373009
 
 #EXTINF:-1 tvg-id="闽超宁德队VS南平队2026福建省城市足球超级联赛第一轮:宁德VS南平15:00" tvg-name="闽超 宁德队VS南平队 2026福建省城市足球超级联赛第一轮: 宁德VS南平 15:00" tvg-logo="" group-title="综合",闽超 宁德队VS南平队 2026福建省城市足球超级联赛第一轮: 宁德VS南平 15:00
 http://fei01.kmdns.net:8807/964337676
@@ -848,19 +800,43 @@ http://fei01.kmdns.net:8807/964337676
 #EXTINF:-1 tvg-id="齐鲁超赛济南队VS济宁港航2026山东省齐鲁足球超级联赛第一轮:济南队VS济宁港航15:30" tvg-name="齐鲁超赛 济南队VS济宁港航 2026山东省齐鲁足球超级联赛第一轮: 济南队VS济宁港航 15:30" tvg-logo="" group-title="综合",齐鲁超赛 济南队VS济宁港航 2026山东省齐鲁足球超级联赛第一轮: 济南队VS济宁港航 15:30
 http://fei01.kmdns.net:8807/964198465
 
+#EXTINF:-1 tvg-id="广西县超河池市宜州区队vs南宁市宾阳县25/26赛季广西县级足球超级联赛第七轮:河池市宜州区队vs南宁市宾阳县15:30" tvg-name="广西县超 河池市宜州区队vs南宁市宾阳县 25/26赛季广西县级足球超级联赛第七轮: 河池市宜州区队vs南宁市宾阳县 15:30" tvg-logo="" group-title="综合",广西县超 河池市宜州区队vs南宁市宾阳县 25/26赛季广西县级足球超级联赛第七轮: 河池市宜州区队vs南宁市宾阳县 15:30
+http://fei01.kmdns.net:8807/964362894
+
+#EXTINF:-1 tvg-id="中甲深圳青年人VS佛山南狮解说15:50" tvg-name="中甲 深圳青年人VS佛山南狮 解说 15:50" tvg-logo="" group-title="综合",中甲 深圳青年人VS佛山南狮 解说 15:50
+http://fei01.kmdns.net:8807/964374096
+
+#EXTINF:-1 tvg-id="中甲深圳青年人VS佛山南狮赛场原声15:50" tvg-name="中甲 深圳青年人VS佛山南狮 赛场原声 15:50" tvg-logo="" group-title="综合",中甲 深圳青年人VS佛山南狮 赛场原声 15:50
+http://fei01.kmdns.net:8807/964374108
+
+#EXTINF:-1 tvg-id="中乙厦门飞鹭VS武汉三镇B队解说15:50" tvg-name="中乙 厦门飞鹭VS武汉三镇B队 解说 15:50" tvg-logo="" group-title="综合",中乙 厦门飞鹭VS武汉三镇B队 解说 15:50
+http://fei01.kmdns.net:8807/964373096
+
+#EXTINF:-1 tvg-id="中乙深圳二零二八VS广东铭途解说15:50" tvg-name="中乙 深圳二零二八VS广东铭途 解说 15:50" tvg-logo="" group-title="综合",中乙 深圳二零二八VS广东铭途 解说 15:50
+http://fei01.kmdns.net:8807/964373065
+
 #EXTINF:-1 tvg-id="楚超恩施小土豆队VS黄石队2026湖北省城市足球联赛第二轮:恩施小土豆vs黄石15:50" tvg-name="楚超 恩施小土豆队VS黄石队 2026湖北省城市足球联赛第二轮: 恩施小土豆vs黄石 15:50" tvg-logo="" group-title="综合",楚超 恩施小土豆队VS黄石队 2026湖北省城市足球联赛第二轮: 恩施小土豆vs黄石 15:50
 http://fei01.kmdns.net:8807/964052685
 
-#EXTINF:-1 tvg-id="斯诺克16进8轮次1号桌17:00" tvg-name="斯诺克 16进8轮次 1号桌 17:00" tvg-logo="" group-title="综合",斯诺克 16进8轮次 1号桌 17:00
+#EXTINF:-1 tvg-id="滇超文山队VS玉溪队2026云南省城市足球联赛第十一轮:文山队VS玉溪队16:30" tvg-name="滇超 文山队VS玉溪队 2026云南省城市足球联赛第十一轮: 文山队VS玉溪队 16:30" tvg-logo="" group-title="综合",滇超 文山队VS玉溪队 2026云南省城市足球联赛第十一轮: 文山队VS玉溪队 16:30
+http://fei01.kmdns.net:8807/964381192
+
+#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS克里斯·韦克林1号桌17:00" tvg-name="斯诺克 尼尔·罗伯逊VS克里斯·韦克林 1号桌 17:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS克里斯·韦克林 1号桌 17:00
 http://fei01.kmdns.net:8807/964183629
+
+#EXTINF:-1 tvg-id="斯诺克尼尔·罗伯逊VS克里斯·韦克林陶哲铭17:00" tvg-name="斯诺克 尼尔·罗伯逊VS克里斯·韦克林 陶哲铭 17:00" tvg-logo="" group-title="综合",斯诺克 尼尔·罗伯逊VS克里斯·韦克林 陶哲铭 17:00
+http://fei01.kmdns.net:8807/964373070
 
 #EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦2号桌17:00" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 17:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 17:00
 http://fei01.kmdns.net:8807/964183637
 
-#EXTINF:-1 tvg-id="WTAWTA马德里站Day5赛场原声17:00" tvg-name="WTA WTA马德里站Day5 赛场原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day5 赛场原声 17:00
+#EXTINF:-1 tvg-id="斯诺克凯伦·威尔逊VS马克·艾伦乔迁17:00" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 乔迁 17:00" tvg-logo="" group-title="综合",斯诺克 凯伦·威尔逊VS马克·艾伦 乔迁 17:00
+http://fei01.kmdns.net:8807/964373138
+
+#EXTINF:-1 tvg-id="WTA小米拉出战！萨巴伦卡、Iga轮番登场赛场原声17:00" tvg-name="WTA 小米拉出战！萨巴伦卡、Iga轮番登场 赛场原声 17:00" tvg-logo="" group-title="综合",WTA 小米拉出战！萨巴伦卡、Iga轮番登场 赛场原声 17:00
 http://fei01.kmdns.net:8807/964215504
 
-#EXTINF:-1 tvg-id="WTAWTA马德里站Day5英文原声17:00" tvg-name="WTA WTA马德里站Day5 英文原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day5 英文原声 17:00
+#EXTINF:-1 tvg-id="WTA小米拉出战！萨巴伦卡、Iga轮番登场英文原声17:00" tvg-name="WTA 小米拉出战！萨巴伦卡、Iga轮番登场 英文原声 17:00" tvg-logo="" group-title="综合",WTA 小米拉出战！萨巴伦卡、Iga轮番登场 英文原声 17:00
 http://fei01.kmdns.net:8807/964215525
 
 #EXTINF:-1 tvg-id="中超成都蓉城VS浙江俱乐部绿城李欣徐阳程思钦18:30" tvg-name="中超 成都蓉城VS浙江俱乐部绿城 李欣 徐阳 程思钦 18:30" tvg-logo="" group-title="综合",中超 成都蓉城VS浙江俱乐部绿城 李欣 徐阳 程思钦 18:30
@@ -875,11 +851,59 @@ http://fei01.kmdns.net:8807/964335980
 #EXTINF:-1 tvg-id="中超成都蓉城VS浙江俱乐部绿城赛场原声18:45" tvg-name="中超 成都蓉城VS浙江俱乐部绿城 赛场原声 18:45" tvg-logo="" group-title="综合",中超 成都蓉城VS浙江俱乐部绿城 赛场原声 18:45
 http://fei01.kmdns.net:8807/964335972
 
+#EXTINF:-1 tvg-id="中甲苏州东吴VS定南赣联解说18:50" tvg-name="中甲 苏州东吴VS定南赣联 解说 18:50" tvg-logo="" group-title="综合",中甲 苏州东吴VS定南赣联 解说 18:50
+http://fei01.kmdns.net:8807/964374127
+
+#EXTINF:-1 tvg-id="中甲苏州东吴VS定南赣联赛场原声18:50" tvg-name="中甲 苏州东吴VS定南赣联 赛场原声 18:50" tvg-logo="" group-title="综合",中甲 苏州东吴VS定南赣联 赛场原声 18:50
+http://fei01.kmdns.net:8807/964374143
+
 #EXTINF:-1 tvg-id="JCKJCK觉城之夜N118：塔尼加萨拉姆VS卢西亚诺解说19:00" tvg-name="JCK JCK觉城之夜N118：塔尼加萨拉姆VS卢西亚诺 解说 19:00" tvg-logo="" group-title="综合",JCK JCK觉城之夜N118：塔尼加萨拉姆VS卢西亚诺 解说 19:00
 http://fei01.kmdns.net:8807/964357894
 
 #EXTINF:-1 tvg-id="JCKJCK觉城之夜N118：塔尼加萨拉姆VS卢西亚诺英文解说19:00" tvg-name="JCK JCK觉城之夜N118：塔尼加萨拉姆VS卢西亚诺 英文解说 19:00" tvg-logo="" group-title="综合",JCK JCK觉城之夜N118：塔尼加萨拉姆VS卢西亚诺 英文解说 19:00
 http://fei01.kmdns.net:8807/964358036
+
+#EXTINF:-1 tvg-id="粤超广州VS江门2026赛季广东省城市足球超级联赛第一轮:广州VS江门19:00" tvg-name="粤超 广州VS江门 2026赛季广东省城市足球超级联赛第一轮: 广州VS江门 19:00" tvg-logo="" group-title="综合",粤超 广州VS江门 2026赛季广东省城市足球超级联赛第一轮: 广州VS江门 19:00
+http://fei01.kmdns.net:8807/964216253
+
+#EXTINF:-1 tvg-id="城超武汉引力空间VSCHA海外仓2026赛季武汉篮球城市超级联赛揭幕战:武汉引力空间vsCHA海外仓19:00" tvg-name="城超 武汉引力空间VSCHA海外仓 2026赛季武汉篮球城市超级联赛揭幕战: 武汉引力空间vsCHA海外仓 19:00" tvg-logo="" group-title="综合",城超 武汉引力空间VSCHA海外仓 2026赛季武汉篮球城市超级联赛揭幕战: 武汉引力空间vsCHA海外仓 19:00
+http://fei01.kmdns.net:8807/964362270
+
+#EXTINF:-1 tvg-id="广西县超河池市金城江区队vs百色市平果市队25/26赛季广西县级足球超级联赛第七轮:河池市金城江区队vs百色市平果市队19:00" tvg-name="广西县超 河池市金城江区队vs百色市平果市队 25/26赛季广西县级足球超级联赛第七轮: 河池市金城江区队vs百色市平果市队 19:00" tvg-logo="" group-title="综合",广西县超 河池市金城江区队vs百色市平果市队 25/26赛季广西县级足球超级联赛第七轮: 河池市金城江区队vs百色市平果市队 19:00
+http://fei01.kmdns.net:8807/964362904
+
+#EXTINF:-1 tvg-id="英女超布莱顿女足VS曼城女足沈云怡18:45" tvg-name="英女超 布莱顿女足VS曼城女足 沈云怡 18:45" tvg-logo="" group-title="综合",英女超 布莱顿女足VS曼城女足 沈云怡 18:45
+http://fei01.kmdns.net:8807/964374897
+
+#EXTINF:-1 tvg-id="英女超布莱顿女足VS曼城女足赛场原声18:45" tvg-name="英女超 布莱顿女足VS曼城女足 赛场原声 18:45" tvg-logo="" group-title="综合",英女超 布莱顿女足VS曼城女足 赛场原声 18:45
+http://fei01.kmdns.net:8807/964374880
+
+#EXTINF:-1 tvg-id="英超富勒姆VS阿斯顿维拉苗锟19:15" tvg-name="英超 富勒姆VS阿斯顿维拉 苗锟 19:15" tvg-logo="" group-title="综合",英超 富勒姆VS阿斯顿维拉 苗锟 19:15
+http://fei01.kmdns.net:8807/964374523
+
+#EXTINF:-1 tvg-id="英超富勒姆VS阿斯顿维拉英文原声19:15" tvg-name="英超 富勒姆VS阿斯顿维拉 英文原声 19:15" tvg-logo="" group-title="综合",英超 富勒姆VS阿斯顿维拉 英文原声 19:15
+http://fei01.kmdns.net:8807/964374455
+
+#EXTINF:-1 tvg-id="英超富勒姆VS阿斯顿维拉赛场原声19:15" tvg-name="英超 富勒姆VS阿斯顿维拉 赛场原声 19:15" tvg-logo="" group-title="综合",英超 富勒姆VS阿斯顿维拉 赛场原声 19:15
+http://fei01.kmdns.net:8807/964374435
+
+#EXTINF:-1 tvg-id="中甲梅州客家VS宁波职业足球俱乐部解说19:20" tvg-name="中甲 梅州客家VS宁波职业足球俱乐部 解说 19:20" tvg-logo="" group-title="综合",中甲 梅州客家VS宁波职业足球俱乐部 解说 19:20
+http://fei01.kmdns.net:8807/964374915
+
+#EXTINF:-1 tvg-id="中甲梅州客家VS宁波职业足球俱乐部赛场原声19:20" tvg-name="中甲 梅州客家VS宁波职业足球俱乐部 赛场原声 19:20" tvg-logo="" group-title="综合",中甲 梅州客家VS宁波职业足球俱乐部 赛场原声 19:20
+http://fei01.kmdns.net:8807/964374983
+
+#EXTINF:-1 tvg-id="中甲广西恒宸VS南京城市解说19:20" tvg-name="中甲 广西恒宸VS南京城市 解说 19:20" tvg-logo="" group-title="综合",中甲 广西恒宸VS南京城市 解说 19:20
+http://fei01.kmdns.net:8807/964374228
+
+#EXTINF:-1 tvg-id="中甲广西恒宸VS南京城市赛场原声19:20" tvg-name="中甲 广西恒宸VS南京城市 赛场原声 19:20" tvg-logo="" group-title="综合",中甲 广西恒宸VS南京城市 赛场原声 19:20
+http://fei01.kmdns.net:8807/964374263
+
+#EXTINF:-1 tvg-id="中乙贵州贵阳竞技VS温州俱乐部解说19:20" tvg-name="中乙 贵州贵阳竞技VS温州俱乐部 解说 19:20" tvg-logo="" group-title="综合",中乙 贵州贵阳竞技VS温州俱乐部 解说 19:20
+http://fei01.kmdns.net:8807/964373136
+
+#EXTINF:-1 tvg-id="中乙海门珂缔缘VS北京理工解说19:20" tvg-name="中乙 海门珂缔缘VS北京理工 解说 19:20" tvg-logo="" group-title="综合",中乙 海门珂缔缘VS北京理工 解说 19:20
+http://fei01.kmdns.net:8807/964373119
 
 #EXTINF:-1 tvg-id="粤BA佛山VS阳江2026广东省城市篮球联赛第五轮:佛山vs阳江19:30" tvg-name="粤BA 佛山VS阳江 2026广东省城市篮球联赛第五轮: 佛山vs阳江 19:30" tvg-logo="" group-title="综合",粤BA 佛山VS阳江 2026广东省城市篮球联赛第五轮: 佛山vs阳江 19:30
 http://fei01.kmdns.net:8807/963888874
@@ -895,6 +919,9 @@ http://fei01.kmdns.net:8807/963888818
 
 #EXTINF:-1 tvg-id="粤BA珠海VS云浮2026广东省城市篮球联赛第五轮:珠海vs云浮19:30" tvg-name="粤BA 珠海VS云浮 2026广东省城市篮球联赛第五轮: 珠海vs云浮 19:30" tvg-logo="" group-title="综合",粤BA 珠海VS云浮 2026广东省城市篮球联赛第五轮: 珠海vs云浮 19:30
 http://fei01.kmdns.net:8807/963888806
+
+#EXTINF:-1 tvg-id="粤BA珠海VS云浮粤语19:30" tvg-name="粤BA 珠海VS云浮 粤语 19:30" tvg-logo="" group-title="综合",粤BA 珠海VS云浮 粤语 19:30
+http://fei01.kmdns.net:8807/964380605
 
 #EXTINF:-1 tvg-id="粤BA东莞VS河源2026广东省城市篮球联赛第五轮:东莞vs河源19:30" tvg-name="粤BA 东莞VS河源 2026广东省城市篮球联赛第五轮: 东莞vs河源 19:30" tvg-logo="" group-title="综合",粤BA 东莞VS河源 2026广东省城市篮球联赛第五轮: 东莞vs河源 19:30
 http://fei01.kmdns.net:8807/963888788
@@ -914,7 +941,7 @@ http://fei01.kmdns.net:8807/963888709
 #EXTINF:-1 tvg-id="齐鲁超赛滨州创新队VS聊城传奇农商行2026山东省齐鲁足球超级联赛第一轮:滨州创新队VS聊城传奇农商行19:30" tvg-name="齐鲁超赛 滨州创新队VS聊城传奇农商行 2026山东省齐鲁足球超级联赛第一轮: 滨州创新队VS聊城传奇农商行 19:30" tvg-logo="" group-title="综合",齐鲁超赛 滨州创新队VS聊城传奇农商行 2026山东省齐鲁足球超级联赛第一轮: 滨州创新队VS聊城传奇农商行 19:30
 http://fei01.kmdns.net:8807/964198485
 
-#EXTINF:-1 tvg-id="齐鲁超赛日照队VS德州古贝春2026山东省齐鲁足球超级联赛第一轮:日照队VS德州古贝春19:30" tvg-name="齐鲁超赛 日照队VS德州古贝春 2026山东省齐鲁足球超级联赛第一轮: 日照队VS德州古贝春 19:30" tvg-logo="" group-title="综合",齐鲁超赛 日照队VS德州古贝春 2026山东省齐鲁足球超级联赛第一轮: 日照队VS德州古贝春 19:30
+#EXTINF:-1 tvg-id="齐鲁超赛日照队VS德州古贝春2026山东省齐鲁足球超级联赛第一轮:日照队VS德州古贝春18:30" tvg-name="齐鲁超赛 日照队VS德州古贝春 2026山东省齐鲁足球超级联赛第一轮: 日照队VS德州古贝春 18:30" tvg-logo="" group-title="综合",齐鲁超赛 日照队VS德州古贝春 2026山东省齐鲁足球超级联赛第一轮: 日照队VS德州古贝春 18:30
 http://fei01.kmdns.net:8807/964198491
 
 #EXTINF:-1 tvg-id="齐鲁超赛威海文旅集团队VS潍坊队2026山东省齐鲁足球超级联赛第一轮:威海文旅集团队VS潍坊队19:30" tvg-name="齐鲁超赛 威海文旅集团队VS潍坊队 2026山东省齐鲁足球超级联赛第一轮: 威海文旅集团队VS潍坊队 19:30" tvg-logo="" group-title="综合",齐鲁超赛 威海文旅集团队VS潍坊队 2026山东省齐鲁足球超级联赛第一轮: 威海文旅集团队VS潍坊队 19:30
@@ -934,6 +961,9 @@ http://fei01.kmdns.net:8807/964358050
 
 #EXTINF:-1 tvg-id="WCBA山西竹叶青酒VS四川蜀道远达清流播出19:10" tvg-name="WCBA 山西竹叶青酒VS四川蜀道远达 清流播出 19:10" tvg-logo="" group-title="综合",WCBA 山西竹叶青酒VS四川蜀道远达 清流播出 19:10
 http://fei01.kmdns.net:8807/964358077
+
+#EXTINF:-1 tvg-id="赣BA萍乡VS上饶2026江西省城市篮球联赛总决赛第三轮:萍乡VS上饶19:30" tvg-name="赣BA 萍乡VS上饶 2026江西省城市篮球联赛总决赛第三轮: 萍乡VS上饶 19:30" tvg-logo="" group-title="综合",赣BA 萍乡VS上饶 2026江西省城市篮球联赛总决赛第三轮: 萍乡VS上饶 19:30
+http://fei01.kmdns.net:8807/964379967
 
 #EXTINF:-1 tvg-id="中超北京国安VS天津津门虎苏东黄健翔18:00" tvg-name="中超 北京国安VS天津津门虎 苏东 黄健翔 18:00" tvg-logo="" group-title="综合",中超 北京国安VS天津津门虎 苏东 黄健翔 18:00
 http://fei01.kmdns.net:8807/964336068
@@ -983,11 +1013,35 @@ http://fei01.kmdns.net:8807/964337697
 #EXTINF:-1 tvg-id="闽超平潭队VS三明队2026福建省城市足球超级联赛第一轮:平潭VS三明19:05" tvg-name="闽超 平潭队VS三明队 2026福建省城市足球超级联赛第一轮: 平潭VS三明 19:05" tvg-logo="" group-title="综合",闽超 平潭队VS三明队 2026福建省城市足球超级联赛第一轮: 平潭VS三明 19:05
 http://fei01.kmdns.net:8807/964337718
 
-#EXTINF:-1 tvg-id="闽超莆田队VS泉州队2026福建省城市足球超级联赛第一轮:莆田VS泉州18:35" tvg-name="闽超 莆田队VS泉州队 2026福建省城市足球超级联赛第一轮: 莆田VS泉州 18:35" tvg-logo="" group-title="综合",闽超 莆田队VS泉州队 2026福建省城市足球超级联赛第一轮: 莆田VS泉州 18:35
+#EXTINF:-1 tvg-id="闽超莆田队VS泉州队2026福建省城市足球超级联赛第一轮:莆田VS泉州18:45" tvg-name="闽超 莆田队VS泉州队 2026福建省城市足球超级联赛第一轮: 莆田VS泉州 18:45" tvg-logo="" group-title="综合",闽超 莆田队VS泉州队 2026福建省城市足球超级联赛第一轮: 莆田VS泉州 18:45
 http://fei01.kmdns.net:8807/964337733
 
-#EXTINF:-1 tvg-id="粤超广州VS江门2026赛季广东省城市足球超级联赛第一轮:广州VS江门19:40" tvg-name="粤超 广州VS江门 2026赛季广东省城市足球超级联赛第一轮: 广州VS江门 19:40" tvg-logo="" group-title="综合",粤超 广州VS江门 2026赛季广东省城市足球超级联赛第一轮: 广州VS江门 19:40
-http://fei01.kmdns.net:8807/964216253
+#EXTINF:-1 tvg-id="滇超曲靖队VS德宏队2026云南省城市足球联赛第十一轮:曲靖队VS德宏队19:35" tvg-name="滇超 曲靖队VS德宏队 2026云南省城市足球联赛第十一轮: 曲靖队VS德宏队 19:35" tvg-logo="" group-title="综合",滇超 曲靖队VS德宏队 2026云南省城市足球联赛第十一轮: 曲靖队VS德宏队 19:35
+http://fei01.kmdns.net:8807/964381137
+
+#EXTINF:-1 tvg-id="滇超西双版纳队VS红河队2026云南省城市足球联赛第十一轮:西双版纳队VS红河队19:35" tvg-name="滇超 西双版纳队VS红河队 2026云南省城市足球联赛第十一轮: 西双版纳队VS红河队 19:35" tvg-logo="" group-title="综合",滇超 西双版纳队VS红河队 2026云南省城市足球联赛第十一轮: 西双版纳队VS红河队 19:35
+http://fei01.kmdns.net:8807/964381144
+
+#EXTINF:-1 tvg-id="滇超昆明队VS楚雄队2026云南省城市足球联赛第十一轮:昆明队VS楚雄队19:35" tvg-name="滇超 昆明队VS楚雄队 2026云南省城市足球联赛第十一轮: 昆明队VS楚雄队 19:35" tvg-logo="" group-title="综合",滇超 昆明队VS楚雄队 2026云南省城市足球联赛第十一轮: 昆明队VS楚雄队 19:35
+http://fei01.kmdns.net:8807/964381151
+
+#EXTINF:-1 tvg-id="滇超普洱队VS大理队2026云南省城市足球联赛第十一轮:普洱队VS大理队19:35" tvg-name="滇超 普洱队VS大理队 2026云南省城市足球联赛第十一轮: 普洱队VS大理队 19:35" tvg-logo="" group-title="综合",滇超 普洱队VS大理队 2026云南省城市足球联赛第十一轮: 普洱队VS大理队 19:35
+http://fei01.kmdns.net:8807/964381167
+
+#EXTINF:-1 tvg-id="苏超连云港队VS无锡队官方解说19:10" tvg-name="苏超 连云港队VS无锡队 官方解说 19:10" tvg-logo="" group-title="综合",苏超 连云港队VS无锡队 官方解说 19:10
+http://fei01.kmdns.net:8807/964372099
+
+#EXTINF:-1 tvg-id="苏超南通队VS徐州队官方解说19:10" tvg-name="苏超 南通队VS徐州队 官方解说 19:10" tvg-logo="" group-title="综合",苏超 南通队VS徐州队 官方解说 19:10
+http://fei01.kmdns.net:8807/964372117
+
+#EXTINF:-1 tvg-id="苏超盐城队VS宿迁队官方解说19:10" tvg-name="苏超 盐城队VS宿迁队 官方解说 19:10" tvg-logo="" group-title="综合",苏超 盐城队VS宿迁队 官方解说 19:10
+http://fei01.kmdns.net:8807/964372127
+
+#EXTINF:-1 tvg-id="西甲阿拉维斯VS马略卡李霄19:45" tvg-name="西甲 阿拉维斯VS马略卡 李霄 19:45" tvg-logo="" group-title="综合",西甲 阿拉维斯VS马略卡 李霄 19:45
+http://fei01.kmdns.net:8807/964375579
+
+#EXTINF:-1 tvg-id="西甲阿拉维斯VS马略卡赛场原声19:45" tvg-name="西甲 阿拉维斯VS马略卡 赛场原声 19:45" tvg-logo="" group-title="综合",西甲 阿拉维斯VS马略卡 赛场原声 19:45
+http://fei01.kmdns.net:8807/964375570
 
 #EXTINF:-1 tvg-id="中超上海海港VS武汉三镇涂远鲁靖明孙蕊19:30" tvg-name="中超 上海海港VS武汉三镇 涂远 鲁靖明 孙蕊 19:30" tvg-logo="" group-title="综合",中超 上海海港VS武汉三镇 涂远 鲁靖明 孙蕊 19:30
 http://fei01.kmdns.net:8807/964336943
@@ -995,14 +1049,581 @@ http://fei01.kmdns.net:8807/964336943
 #EXTINF:-1 tvg-id="中超上海海港VS武汉三镇4K赛场原声19:45" tvg-name="中超 上海海港VS武汉三镇 4K赛场原声 19:45" tvg-logo="" group-title="综合",中超 上海海港VS武汉三镇 4K赛场原声 19:45
 http://fei01.kmdns.net:8807/964336098
 
-#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖1号桌21:30" tvg-name="斯诺克 赵心童VS丁俊晖 1号桌 21:30" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 1号桌 21:30
-http://fei01.kmdns.net:8807/964183661
+#EXTINF:-1 tvg-id="法甲里昂VS欧塞尔邵煊22:45" tvg-name="法甲 里昂VS欧塞尔 邵煊 22:45" tvg-logo="" group-title="综合",法甲 里昂VS欧塞尔 邵煊 22:45
+http://fei01.kmdns.net:8807/964374623
+
+#EXTINF:-1 tvg-id="法甲里昂VS欧塞尔赛场原声22:45" tvg-name="法甲 里昂VS欧塞尔 赛场原声 22:45" tvg-logo="" group-title="综合",法甲 里昂VS欧塞尔 赛场原声 22:45
+http://fei01.kmdns.net:8807/964374596
+
+#EXTINF:-1 tvg-id="意甲帕尔马VS比萨谭逸雄20:45" tvg-name="意甲 帕尔马VS比萨 谭逸雄 20:45" tvg-logo="" group-title="综合",意甲 帕尔马VS比萨 谭逸雄 20:45
+http://fei01.kmdns.net:8807/964374975
+
+#EXTINF:-1 tvg-id="意甲帕尔马VS比萨赛场原声20:45" tvg-name="意甲 帕尔马VS比萨 赛场原声 20:45" tvg-logo="" group-title="综合",意甲 帕尔马VS比萨 赛场原声 20:45
+http://fei01.kmdns.net:8807/964374959
+
+#EXTINF:-1 tvg-id="德甲海登海姆VS圣保利吴子越21:15" tvg-name="德甲 海登海姆VS圣保利 吴子越 21:15" tvg-logo="" group-title="综合",德甲 海登海姆VS圣保利 吴子越 21:15
+http://fei01.kmdns.net:8807/964374339
+
+#EXTINF:-1 tvg-id="德甲海登海姆VS圣保利赛场原声21:15" tvg-name="德甲 海登海姆VS圣保利 赛场原声 21:15" tvg-logo="" group-title="综合",德甲 海登海姆VS圣保利 赛场原声 21:15
+http://fei01.kmdns.net:8807/964374324
+
+#EXTINF:-1 tvg-id="德甲奥格斯堡VS法兰克福刘洪新21:15" tvg-name="德甲 奥格斯堡VS法兰克福 刘洪新 21:15" tvg-logo="" group-title="综合",德甲 奥格斯堡VS法兰克福 刘洪新 21:15
+http://fei01.kmdns.net:8807/964374310
+
+#EXTINF:-1 tvg-id="德甲奥格斯堡VS法兰克福赛场原声21:15" tvg-name="德甲 奥格斯堡VS法兰克福 赛场原声 21:15" tvg-logo="" group-title="综合",德甲 奥格斯堡VS法兰克福 赛场原声 21:15
+http://fei01.kmdns.net:8807/964374291
+
+#EXTINF:-1 tvg-id="德甲沃尔夫斯堡VS门兴格拉德巴赫刘洋21:15" tvg-name="德甲 沃尔夫斯堡VS门兴格拉德巴赫 刘洋 21:15" tvg-logo="" group-title="综合",德甲 沃尔夫斯堡VS门兴格拉德巴赫 刘洋 21:15
+http://fei01.kmdns.net:8807/964374272
+
+#EXTINF:-1 tvg-id="德甲沃尔夫斯堡VS门兴格拉德巴赫赛场原声21:15" tvg-name="德甲 沃尔夫斯堡VS门兴格拉德巴赫 赛场原声 21:15" tvg-logo="" group-title="综合",德甲 沃尔夫斯堡VS门兴格拉德巴赫 赛场原声 21:15
+http://fei01.kmdns.net:8807/964374262
+
+#EXTINF:-1 tvg-id="德甲美因茨VS拜仁慕尼黑胡小凡秦游夏21:00" tvg-name="德甲 美因茨VS拜仁慕尼黑 胡小凡 秦游夏 21:00" tvg-logo="" group-title="综合",德甲 美因茨VS拜仁慕尼黑 胡小凡 秦游夏 21:00
+http://fei01.kmdns.net:8807/964374222
+
+#EXTINF:-1 tvg-id="德甲美因茨VS拜仁慕尼黑赛场原声21:15" tvg-name="德甲 美因茨VS拜仁慕尼黑 赛场原声 21:15" tvg-logo="" group-title="综合",德甲 美因茨VS拜仁慕尼黑 赛场原声 21:15
+http://fei01.kmdns.net:8807/964374211
+
+#EXTINF:-1 tvg-id="德甲美因茨VS拜仁慕尼黑胡小凡秦游夏21:00" tvg-name="德甲 美因茨VS拜仁慕尼黑 胡小凡 秦游夏 21:00" tvg-logo="" group-title="综合",德甲 美因茨VS拜仁慕尼黑 胡小凡 秦游夏 21:00
+http://fei01.kmdns.net:8807/964374248
+
+#EXTINF:-1 tvg-id="德甲科隆VS勒沃库森沈云怡马延峰21:15" tvg-name="德甲 科隆VS勒沃库森 沈云怡 马延峰 21:15" tvg-logo="" group-title="综合",德甲 科隆VS勒沃库森 沈云怡 马延峰 21:15
+http://fei01.kmdns.net:8807/964374370
+
+#EXTINF:-1 tvg-id="德甲科隆VS勒沃库森赛场原声21:15" tvg-name="德甲 科隆VS勒沃库森 赛场原声 21:15" tvg-logo="" group-title="综合",德甲 科隆VS勒沃库森 赛场原声 21:15
+http://fei01.kmdns.net:8807/964374368
 
 #EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖秦正庞卫国21:10" tvg-name="斯诺克 赵心童VS丁俊晖 秦正 庞卫国 21:10" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 秦正 庞卫国 21:10
 http://fei01.kmdns.net:8807/964332023
 
-#EXTINF:-1 tvg-id="斯诺克16进8轮次2号桌21:30" tvg-name="斯诺克 16进8轮次 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 16进8轮次 2号桌 21:30
+#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖朱峰立21:30" tvg-name="斯诺克 赵心童VS丁俊晖 朱峰立 21:30" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 朱峰立 21:30
+http://fei01.kmdns.net:8807/964373215
+
+#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖1号桌21:30" tvg-name="斯诺克 赵心童VS丁俊晖 1号桌 21:30" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 1号桌 21:30
+http://fei01.kmdns.net:8807/964183661
+
+#EXTINF:-1 tvg-id="斯诺克特鲁姆普VS侯赛因·瓦菲2号桌21:30" tvg-name="斯诺克 特鲁姆普VS侯赛因·瓦菲 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS侯赛因·瓦菲 2号桌 21:30
 http://fei01.kmdns.net:8807/964183692
+
+#EXTINF:-1 tvg-id="斯诺克特鲁姆普VS侯赛因·瓦菲柏林21:30" tvg-name="斯诺克 特鲁姆普VS侯赛因·瓦菲 柏林 21:30" tvg-logo="" group-title="综合",斯诺克 特鲁姆普VS侯赛因·瓦菲 柏林 21:30
+http://fei01.kmdns.net:8807/964373251
+
+#EXTINF:-1 tvg-id="英超狼队VS托特纳姆热刺娄一晨刘越邵凌霄21:30" tvg-name="英超 狼队VS托特纳姆热刺 娄一晨 刘越 邵凌霄 21:30" tvg-logo="" group-title="综合",英超 狼队VS托特纳姆热刺 娄一晨 刘越 邵凌霄 21:30
+http://fei01.kmdns.net:8807/964374913
+
+#EXTINF:-1 tvg-id="英超狼队VS托特纳姆热刺陈曦陆毅隽21:50" tvg-name="英超 狼队VS托特纳姆热刺 陈曦 陆毅隽 21:50" tvg-logo="" group-title="综合",英超 狼队VS托特纳姆热刺 陈曦 陆毅隽 21:50
+http://fei01.kmdns.net:8807/964374943
+
+#EXTINF:-1 tvg-id="英超狼队VS托特纳姆热刺英文原声21:45" tvg-name="英超 狼队VS托特纳姆热刺 英文原声 21:45" tvg-logo="" group-title="综合",英超 狼队VS托特纳姆热刺 英文原声 21:45
+http://fei01.kmdns.net:8807/964374883
+
+#EXTINF:-1 tvg-id="英超狼队VS托特纳姆热刺赛场原声21:45" tvg-name="英超 狼队VS托特纳姆热刺 赛场原声 21:45" tvg-logo="" group-title="综合",英超 狼队VS托特纳姆热刺 赛场原声 21:45
+http://fei01.kmdns.net:8807/964374866
+
+#EXTINF:-1 tvg-id="英超西汉姆联VS埃弗顿黄航21:45" tvg-name="英超 西汉姆联VS埃弗顿 黄航 21:45" tvg-logo="" group-title="综合",英超 西汉姆联VS埃弗顿 黄航 21:45
+http://fei01.kmdns.net:8807/964374805
+
+#EXTINF:-1 tvg-id="英超西汉姆联VS埃弗顿英文原声21:45" tvg-name="英超 西汉姆联VS埃弗顿 英文原声 21:45" tvg-logo="" group-title="综合",英超 西汉姆联VS埃弗顿 英文原声 21:45
+http://fei01.kmdns.net:8807/964374778
+
+#EXTINF:-1 tvg-id="英超西汉姆联VS埃弗顿赛场原声21:45" tvg-name="英超 西汉姆联VS埃弗顿 赛场原声 21:45" tvg-logo="" group-title="综合",英超 西汉姆联VS埃弗顿 赛场原声 21:45
+http://fei01.kmdns.net:8807/964374762
+
+#EXTINF:-1 tvg-id="英超利物浦VS水晶宫刘畅刘焕程思钦21:30" tvg-name="英超 利物浦VS水晶宫 刘畅 刘焕 程思钦 21:30" tvg-logo="" group-title="综合",英超 利物浦VS水晶宫 刘畅 刘焕 程思钦 21:30
+http://fei01.kmdns.net:8807/964374628
+
+#EXTINF:-1 tvg-id="英超利物浦VS水晶宫英文原声21:45" tvg-name="英超 利物浦VS水晶宫 英文原声 21:45" tvg-logo="" group-title="综合",英超 利物浦VS水晶宫 英文原声 21:45
+http://fei01.kmdns.net:8807/964374564
+
+#EXTINF:-1 tvg-id="英超利物浦VS水晶宫赛场原声21:45" tvg-name="英超 利物浦VS水晶宫 赛场原声 21:45" tvg-logo="" group-title="综合",英超 利物浦VS水晶宫 赛场原声 21:45
+http://fei01.kmdns.net:8807/964374547
+
+#EXTINF:-1 tvg-id="英超利物浦VS水晶宫刘畅刘焕程思钦21:30" tvg-name="英超 利物浦VS水晶宫 刘畅 刘焕 程思钦 21:30" tvg-logo="" group-title="综合",英超 利物浦VS水晶宫 刘畅 刘焕 程思钦 21:30
+http://fei01.kmdns.net:8807/964375407
+
+#EXTINF:-1 tvg-id="西甲赫塔菲VS巴塞罗那张昊泽王宇22:00" tvg-name="西甲 赫塔菲VS巴塞罗那 张昊泽 王宇 22:00" tvg-logo="" group-title="综合",西甲 赫塔菲VS巴塞罗那 张昊泽 王宇 22:00
+http://fei01.kmdns.net:8807/964375551
+
+#EXTINF:-1 tvg-id="西甲赫塔菲VS巴塞罗那赛场原声22:00" tvg-name="西甲 赫塔菲VS巴塞罗那 赛场原声 22:00" tvg-logo="" group-title="综合",西甲 赫塔菲VS巴塞罗那 赛场原声 22:00
+http://fei01.kmdns.net:8807/964375522
+
+#EXTINF:-1 tvg-id="体育-明天" tvg-name="体育-明天" tvg-logo="" group-title="体育",体育-明天
+#genre#
+
+#EXTINF:-1 tvg-id="意甲博洛尼亚VS罗马石庆圣23:45" tvg-name="意甲 博洛尼亚VS罗马 石庆圣 23:45" tvg-logo="" group-title="综合",意甲 博洛尼亚VS罗马 石庆圣 23:45
+http://fei01.kmdns.net:8807/964374937
+
+#EXTINF:-1 tvg-id="意甲博洛尼亚VS罗马赛场原声23:45" tvg-name="意甲 博洛尼亚VS罗马 赛场原声 23:45" tvg-logo="" group-title="综合",意甲 博洛尼亚VS罗马 赛场原声 23:45
+http://fei01.kmdns.net:8807/964374924
+
+#EXTINF:-1 tvg-id="意甲博洛尼亚VS罗马AR视角23:45" tvg-name="意甲 博洛尼亚VS罗马 AR视角 23:45" tvg-logo="" group-title="综合",意甲 博洛尼亚VS罗马 AR视角 23:45
+http://fei01.kmdns.net:8807/964374905
+
+#EXTINF:-1 tvg-id="足总杯曼城VS南安普顿苏东徐阳李子琪00:00" tvg-name="足总杯 曼城VS南安普顿 苏东 徐阳 李子琪 00:00" tvg-logo="" group-title="综合",足总杯 曼城VS南安普顿 苏东 徐阳 李子琪 00:00
+http://fei01.kmdns.net:8807/964373055
+
+#EXTINF:-1 tvg-id="足总杯曼城VS南安普顿英文原声00:00" tvg-name="足总杯 曼城VS南安普顿 英文原声 00:00" tvg-logo="" group-title="综合",足总杯 曼城VS南安普顿 英文原声 00:00
+http://fei01.kmdns.net:8807/964373094
+
+#EXTINF:-1 tvg-id="足总杯曼城VS南安普顿赛场原声00:00" tvg-name="足总杯 曼城VS南安普顿 赛场原声 00:00" tvg-logo="" group-title="综合",足总杯 曼城VS南安普顿 赛场原声 00:00
+http://fei01.kmdns.net:8807/964373171
+
+#EXTINF:-1 tvg-id="足总杯曼城VS南安普顿苏东徐阳李子琪00:15" tvg-name="足总杯 曼城VS南安普顿 苏东 徐阳 李子琪 00:15" tvg-logo="" group-title="综合",足总杯 曼城VS南安普顿 苏东 徐阳 李子琪 00:15
+http://fei01.kmdns.net:8807/964373227
+
+#EXTINF:-1 tvg-id="亚冠精英吉达国民VS町田泽维亚涂远鲁靖明00:00" tvg-name="亚冠精英 吉达国民VS町田泽维亚 涂远 鲁靖明 00:00" tvg-logo="" group-title="综合",亚冠精英 吉达国民VS町田泽维亚 涂远 鲁靖明 00:00
+http://fei01.kmdns.net:8807/964373540
+
+#EXTINF:-1 tvg-id="亚冠精英吉达国民VS町田泽维亚赛场原声00:00" tvg-name="亚冠精英 吉达国民VS町田泽维亚 赛场原声 00:00" tvg-logo="" group-title="综合",亚冠精英 吉达国民VS町田泽维亚 赛场原声 00:00
+http://fei01.kmdns.net:8807/964373515
+
+#EXTINF:-1 tvg-id="英超阿森纳VS纽卡斯尔联詹俊张路林梦鸽00:00" tvg-name="英超 阿森纳VS纽卡斯尔联 詹俊 张路 林梦鸽 00:00" tvg-logo="" group-title="综合",英超 阿森纳VS纽卡斯尔联 詹俊 张路 林梦鸽 00:00
+http://fei01.kmdns.net:8807/964375031
+
+#EXTINF:-1 tvg-id="英超阿森纳VS纽卡斯尔联陈凯冬何辉00:20" tvg-name="英超 阿森纳VS纽卡斯尔联 陈凯冬 何辉 00:20" tvg-logo="" group-title="综合",英超 阿森纳VS纽卡斯尔联 陈凯冬 何辉 00:20
+http://fei01.kmdns.net:8807/964375017
+
+#EXTINF:-1 tvg-id="英超阿森纳VS纽卡斯尔联球星视角00:20" tvg-name="英超 阿森纳VS纽卡斯尔联 球星视角 00:20" tvg-logo="" group-title="综合",英超 阿森纳VS纽卡斯尔联 球星视角 00:20
+http://fei01.kmdns.net:8807/964375165
+
+#EXTINF:-1 tvg-id="英超阿森纳VS纽卡斯尔联英文原声00:15" tvg-name="英超 阿森纳VS纽卡斯尔联 英文原声 00:15" tvg-logo="" group-title="综合",英超 阿森纳VS纽卡斯尔联 英文原声 00:15
+http://fei01.kmdns.net:8807/964374999
+
+#EXTINF:-1 tvg-id="英超阿森纳VS纽卡斯尔联赛场原声00:15" tvg-name="英超 阿森纳VS纽卡斯尔联 赛场原声 00:15" tvg-logo="" group-title="综合",英超 阿森纳VS纽卡斯尔联 赛场原声 00:15
+http://fei01.kmdns.net:8807/964374992
+
+#EXTINF:-1 tvg-id="英超阿森纳VS纽卡斯尔联詹俊张路林梦鸽00:00" tvg-name="英超 阿森纳VS纽卡斯尔联 詹俊 张路 林梦鸽 00:00" tvg-logo="" group-title="综合",英超 阿森纳VS纽卡斯尔联 詹俊 张路 林梦鸽 00:00
+http://fei01.kmdns.net:8807/964375120
+
+#EXTINF:-1 tvg-id="西甲瓦伦西亚VS吉罗纳李霄00:15" tvg-name="西甲 瓦伦西亚VS吉罗纳 李霄 00:15" tvg-logo="" group-title="综合",西甲 瓦伦西亚VS吉罗纳 李霄 00:15
+http://fei01.kmdns.net:8807/964375504
+
+#EXTINF:-1 tvg-id="西甲瓦伦西亚VS吉罗纳赛场原声00:15" tvg-name="西甲 瓦伦西亚VS吉罗纳 赛场原声 00:15" tvg-logo="" group-title="综合",西甲 瓦伦西亚VS吉罗纳 赛场原声 00:15
+http://fei01.kmdns.net:8807/964375495
+
+#EXTINF:-1 tvg-id="德甲汉堡VS霍芬海姆王子睿00:15" tvg-name="德甲 汉堡VS霍芬海姆 王子睿 00:15" tvg-logo="" group-title="综合",德甲 汉堡VS霍芬海姆 王子睿 00:15
+http://fei01.kmdns.net:8807/964374401
+
+#EXTINF:-1 tvg-id="德甲汉堡VS霍芬海姆赛场原声00:15" tvg-name="德甲 汉堡VS霍芬海姆 赛场原声 00:15" tvg-logo="" group-title="综合",德甲 汉堡VS霍芬海姆 赛场原声 00:15
+http://fei01.kmdns.net:8807/964374384
+
+#EXTINF:-1 tvg-id="BWF中国VS丹麦2026BWF小组赛:尤杯A组中国VS丹麦(鸿昆)00:30" tvg-name="BWF 中国VS丹麦 2026BWF小组赛: 尤杯A组 中国VS丹麦(鸿昆) 00:30" tvg-logo="" group-title="综合",BWF 中国VS丹麦 2026BWF小组赛: 尤杯A组 中国VS丹麦(鸿昆) 00:30
+http://fei01.kmdns.net:8807/964383272
+
+#EXTINF:-1 tvg-id="BWF中国VS丹麦1号场地14:30" tvg-name="BWF 中国VS丹麦 1号场地 14:30" tvg-logo="" group-title="综合",BWF 中国VS丹麦 1号场地 14:30
+http://fei01.kmdns.net:8807/964293785
+
+#EXTINF:-1 tvg-id="BWF中国VS丹麦1号场地英文解说14:30" tvg-name="BWF 中国VS丹麦 1号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 中国VS丹麦 1号场地英文解说 14:30
+http://fei01.kmdns.net:8807/964293849
+
+#EXTINF:-1 tvg-id="法甲昂热VS巴黎圣日耳曼鹿中原王宇00:45" tvg-name="法甲 昂热VS巴黎圣日耳曼 鹿中原 王宇 00:45" tvg-logo="" group-title="综合",法甲 昂热VS巴黎圣日耳曼 鹿中原 王宇 00:45
+http://fei01.kmdns.net:8807/964374639
+
+#EXTINF:-1 tvg-id="法甲昂热VS巴黎圣日耳曼赛场原声00:45" tvg-name="法甲 昂热VS巴黎圣日耳曼 赛场原声 00:45" tvg-logo="" group-title="综合",法甲 昂热VS巴黎圣日耳曼 赛场原声 00:45
+http://fei01.kmdns.net:8807/964374636
+
+#EXTINF:-1 tvg-id="NBA魔术VS活塞王冠证殷文玉00:55" tvg-name="NBA 魔术VS活塞 王冠证 殷文玉 00:55" tvg-logo="" group-title="综合",NBA 魔术VS活塞 王冠证 殷文玉 00:55
+http://fei01.kmdns.net:8807/964364371
+
+#EXTINF:-1 tvg-id="NBA魔术VS活塞英文原声00:55" tvg-name="NBA 魔术VS活塞 英文原声 00:55" tvg-logo="" group-title="综合",NBA 魔术VS活塞 英文原声 00:55
+http://fei01.kmdns.net:8807/964276826
+
+#EXTINF:-1 tvg-id="斯诺克奥沙利文VS希金斯1号桌02:00" tvg-name="斯诺克 奥沙利文VS希金斯 1号桌 02:00" tvg-logo="" group-title="综合",斯诺克 奥沙利文VS希金斯 1号桌 02:00
+http://fei01.kmdns.net:8807/964183713
+
+#EXTINF:-1 tvg-id="斯诺克奥沙利文VS希金斯朱蒙02:00" tvg-name="斯诺克 奥沙利文VS希金斯 朱蒙 02:00" tvg-logo="" group-title="综合",斯诺克 奥沙利文VS希金斯 朱蒙 02:00
+http://fei01.kmdns.net:8807/964373291
+
+#EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS霍金斯2号桌02:00" tvg-name="斯诺克 马克·威廉姆斯VS霍金斯 2号桌 02:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS霍金斯 2号桌 02:00
+http://fei01.kmdns.net:8807/964183723
+
+#EXTINF:-1 tvg-id="斯诺克马克·威廉姆斯VS霍金斯孙嘉星02:00" tvg-name="斯诺克 马克·威廉姆斯VS霍金斯 孙嘉星 02:00" tvg-logo="" group-title="综合",斯诺克 马克·威廉姆斯VS霍金斯 孙嘉星 02:00
+http://fei01.kmdns.net:8807/964373336
+
+#EXTINF:-1 tvg-id="意甲维罗纳VS莱切吴奕博02:30" tvg-name="意甲 维罗纳VS莱切 吴奕博 02:30" tvg-logo="" group-title="综合",意甲 维罗纳VS莱切 吴奕博 02:30
+http://fei01.kmdns.net:8807/964374885
+
+#EXTINF:-1 tvg-id="意甲维罗纳VS莱切赛场原声02:30" tvg-name="意甲 维罗纳VS莱切 赛场原声 02:30" tvg-logo="" group-title="综合",意甲 维罗纳VS莱切 赛场原声 02:30
+http://fei01.kmdns.net:8807/964374853
+
+#EXTINF:-1 tvg-id="西甲马德里竞技VS毕尔巴鄂竞技孙雨轩李欣02:45" tvg-name="西甲 马德里竞技VS毕尔巴鄂竞技 孙雨轩 李欣 02:45" tvg-logo="" group-title="综合",西甲 马德里竞技VS毕尔巴鄂竞技 孙雨轩 李欣 02:45
+http://fei01.kmdns.net:8807/964375461
+
+#EXTINF:-1 tvg-id="西甲马德里竞技VS毕尔巴鄂竞技赛场原声02:45" tvg-name="西甲 马德里竞技VS毕尔巴鄂竞技 赛场原声 02:45" tvg-logo="" group-title="综合",西甲 马德里竞技VS毕尔巴鄂竞技 赛场原声 02:45
+http://fei01.kmdns.net:8807/964375418
+
+#EXTINF:-1 tvg-id="法甲图卢兹VS摩纳哥刘一臻02:50" tvg-name="法甲 图卢兹VS摩纳哥 刘一臻 02:50" tvg-logo="" group-title="综合",法甲 图卢兹VS摩纳哥 刘一臻 02:50
+http://fei01.kmdns.net:8807/964374658
+
+#EXTINF:-1 tvg-id="法甲图卢兹VS摩纳哥赛场原声02:50" tvg-name="法甲 图卢兹VS摩纳哥 赛场原声 02:50" tvg-logo="" group-title="综合",法甲 图卢兹VS摩纳哥 赛场原声 02:50
+http://fei01.kmdns.net:8807/964374652
+
+#EXTINF:-1 tvg-id="NBA太阳VS雷霆邵化谦王润陶廖昕阳03:15" tvg-name="NBA 太阳VS雷霆 邵化谦 王润陶 廖昕阳 03:15" tvg-logo="" group-title="综合",NBA 太阳VS雷霆 邵化谦 王润陶 廖昕阳 03:15
+http://fei01.kmdns.net:8807/964357898
+
+#EXTINF:-1 tvg-id="NBA太阳VS雷霆英文原声03:25" tvg-name="NBA 太阳VS雷霆 英文原声 03:25" tvg-logo="" group-title="综合",NBA 太阳VS雷霆 英文原声 03:25
+http://fei01.kmdns.net:8807/964276898
+
+#EXTINF:-1 tvg-id="峨眉山越野挑战赛2026TheNorthFace100峨眉山越野挑战赛解说04:30" tvg-name="峨眉山越野挑战赛 2026The North Face 100峨眉山越野挑战赛 解说 04:30" tvg-logo="" group-title="综合",峨眉山越野挑战赛 2026The North Face 100峨眉山越野挑战赛 解说 04:30
+http://fei01.kmdns.net:8807/964311006
+
+#EXTINF:-1 tvg-id="UFC格斗之夜UFC格斗之夜：斯特林VS扎拉尔陈瑞阳郑文祺04:55" tvg-name="UFC格斗之夜 UFC格斗之夜：斯特林VS扎拉尔 陈瑞阳 郑文祺 04:55" tvg-logo="" group-title="综合",UFC格斗之夜 UFC格斗之夜：斯特林VS扎拉尔 陈瑞阳 郑文祺 04:55
+http://fei01.kmdns.net:8807/964364457
+
+#EXTINF:-1 tvg-id="UFC格斗之夜UFC格斗之夜：斯特林VS扎拉尔英文原声04:55" tvg-name="UFC格斗之夜 UFC格斗之夜：斯特林VS扎拉尔 英文原声 04:55" tvg-logo="" group-title="综合",UFC格斗之夜 UFC格斗之夜：斯特林VS扎拉尔 英文原声 04:55
+http://fei01.kmdns.net:8807/964364012
+
+#EXTINF:-1 tvg-id="UFC格斗之夜UFC格斗之夜：斯特林VS扎拉尔智能字幕04:55" tvg-name="UFC格斗之夜 UFC格斗之夜：斯特林VS扎拉尔 智能字幕 04:55" tvg-logo="" group-title="综合",UFC格斗之夜 UFC格斗之夜：斯特林VS扎拉尔 智能字幕 04:55
+http://fei01.kmdns.net:8807/964365729
+
+#EXTINF:-1 tvg-id="NBA老鹰VS尼克斯姜帆季孟年05:55" tvg-name="NBA 老鹰VS尼克斯 姜帆 季孟年 05:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 姜帆 季孟年 05:55
+http://fei01.kmdns.net:8807/964276937
+
+#EXTINF:-1 tvg-id="NBA老鹰VS尼克斯英文原声05:55" tvg-name="NBA 老鹰VS尼克斯 英文原声 05:55" tvg-logo="" group-title="综合",NBA 老鹰VS尼克斯 英文原声 05:55
+http://fei01.kmdns.net:8807/964276981
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026杭州女子半程马拉松解说06:45" tvg-name="马拉松系列赛 2026杭州女子半程马拉松 解说 06:45" tvg-logo="" group-title="综合",马拉松系列赛 2026杭州女子半程马拉松 解说 06:45
+http://fei01.kmdns.net:8807/964340118
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026于都半程马拉松清流播出06:45" tvg-name="马拉松系列赛 2026于都半程马拉松 清流播出 06:45" tvg-logo="" group-title="综合",马拉松系列赛 2026于都半程马拉松 清流播出 06:45
+http://fei01.kmdns.net:8807/964362439
+
+#EXTINF:-1 tvg-id="马拉松系列赛莲都农商银行·2026莲都田园半程马拉松清流播出06:45" tvg-name="马拉松系列赛 莲都农商银行·2026莲都田园半程马拉松 清流播出 06:45" tvg-logo="" group-title="综合",马拉松系列赛 莲都农商银行·2026莲都田园半程马拉松 清流播出 06:45
+http://fei01.kmdns.net:8807/964362479
+
+#EXTINF:-1 tvg-id="马拉松系列赛莲都农商银行·2026莲都田园半程马拉松清流播出06:45" tvg-name="马拉松系列赛 莲都农商银行·2026莲都田园半程马拉松 清流播出 06:45" tvg-logo="" group-title="综合",马拉松系列赛 莲都农商银行·2026莲都田园半程马拉松 清流播出 06:45
+http://fei01.kmdns.net:8807/964362478
+
+#EXTINF:-1 tvg-id="嗨单车公路自行车系列赛千岛湖公路自行车公开赛解说07:30" tvg-name="嗨单车公路自行车系列赛 千岛湖公路自行车公开赛 解说 07:30" tvg-logo="" group-title="综合",嗨单车公路自行车系列赛 千岛湖公路自行车公开赛 解说 07:30
+http://fei01.kmdns.net:8807/964337425
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026蒙牛大连马拉松2026蒙牛大连马拉松07:15" tvg-name="马拉松系列赛 2026蒙牛大连马拉松 2026蒙牛大连马拉松 07:15" tvg-logo="" group-title="综合",马拉松系列赛 2026蒙牛大连马拉松 2026蒙牛大连马拉松 07:15
+http://fei01.kmdns.net:8807/964362357
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026蒙牛大连马拉松2026北京城建密云马拉松07:15" tvg-name="马拉松系列赛 2026蒙牛大连马拉松 2026北京城建密云马拉松 07:15" tvg-logo="" group-title="综合",马拉松系列赛 2026蒙牛大连马拉松 2026北京城建密云马拉松 07:15
+http://fei01.kmdns.net:8807/964362421
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026蒙牛大连马拉松2026伊犁河马拉松暨“跑遍大美新疆”伊宁站08:45" tvg-name="马拉松系列赛 2026蒙牛大连马拉松 2026伊犁河马拉松暨“跑遍大美新疆”伊宁站 08:45" tvg-logo="" group-title="综合",马拉松系列赛 2026蒙牛大连马拉松 2026伊犁河马拉松暨“跑遍大美新疆”伊宁站 08:45
+http://fei01.kmdns.net:8807/964379323
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026蒙牛大连马拉松2026杭州女子半程马拉松(官方解说)06:45" tvg-name="马拉松系列赛 2026蒙牛大连马拉松 2026杭州女子半程马拉松(官方解说) 06:45" tvg-logo="" group-title="综合",马拉松系列赛 2026蒙牛大连马拉松 2026杭州女子半程马拉松(官方解说) 06:45
+http://fei01.kmdns.net:8807/964340118
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026蒙牛大连马拉松2026于都半程马拉松06:45" tvg-name="马拉松系列赛 2026蒙牛大连马拉松 2026于都半程马拉松 06:45" tvg-logo="" group-title="综合",马拉松系列赛 2026蒙牛大连马拉松 2026于都半程马拉松 06:45
+http://fei01.kmdns.net:8807/964362439
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026蒙牛大连马拉松莲都农商银行·2026莲都田园半程马拉松06:45" tvg-name="马拉松系列赛 2026蒙牛大连马拉松 莲都农商银行·2026莲都田园半程马拉松 06:45" tvg-logo="" group-title="综合",马拉松系列赛 2026蒙牛大连马拉松 莲都农商银行·2026莲都田园半程马拉松 06:45
+http://fei01.kmdns.net:8807/964362479
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026蒙牛大连马拉松2026汉源湖半程马拉松07:45" tvg-name="马拉松系列赛 2026蒙牛大连马拉松 2026汉源湖半程马拉松 07:45" tvg-logo="" group-title="综合",马拉松系列赛 2026蒙牛大连马拉松 2026汉源湖半程马拉松 07:45
+http://fei01.kmdns.net:8807/964362488
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026蒙牛大连马拉松中国田径协会10公里精英赛嘉善・大云站07:45" tvg-name="马拉松系列赛 2026蒙牛大连马拉松 中国田径协会10公里精英赛 嘉善・大云站 07:45" tvg-logo="" group-title="综合",马拉松系列赛 2026蒙牛大连马拉松 中国田径协会10公里精英赛 嘉善・大云站 07:45
+http://fei01.kmdns.net:8807/964362499
+
+#EXTINF:-1 tvg-id="逐马计划2026北京城建密云马拉松清流播出07:15" tvg-name="逐马计划 2026北京城建密云马拉松 清流播出 07:15" tvg-logo="" group-title="综合",逐马计划 2026北京城建密云马拉松 清流播出 07:15
+http://fei01.kmdns.net:8807/964362421
+
+#EXTINF:-1 tvg-id="乒乓球嘉年华大杨浦乒到顶：全民狂欢盛会赛场原声08:00" tvg-name="乒乓球嘉年华 大杨浦 乒到顶：全民狂欢盛会 赛场原声 08:00" tvg-logo="" group-title="综合",乒乓球嘉年华 大杨浦 乒到顶：全民狂欢盛会 赛场原声 08:00
+http://fei01.kmdns.net:8807/964361341
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026汉源湖半程马拉松清流播出07:45" tvg-name="马拉松系列赛 2026汉源湖半程马拉松 清流播出 07:45" tvg-logo="" group-title="综合",马拉松系列赛 2026汉源湖半程马拉松 清流播出 07:45
+http://fei01.kmdns.net:8807/964362488
+
+#EXTINF:-1 tvg-id="逐马计划中国田径协会10公里精英赛嘉善・大云站清流播出07:45" tvg-name="逐马计划 中国田径协会10公里精英赛 嘉善・大云站 清流播出 07:45" tvg-logo="" group-title="综合",逐马计划 中国田径协会10公里精英赛 嘉善・大云站 清流播出 07:45
+http://fei01.kmdns.net:8807/964362499
+
+#EXTINF:-1 tvg-id="咪咕体育日报undefined咪咕体育日报第91期08:00" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第91期 08:00" tvg-logo="" group-title="体育",咪咕体育日报 undefined 咪咕体育日报 第91期 08:00
+http://fei01.kmdns.net:8807/964291498
+
+#EXTINF:-1 tvg-id="NBA森林狼VS掘金孙博刘铁苏群08:15" tvg-name="NBA 森林狼VS掘金 孙博 刘铁 苏群 08:15" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 孙博 刘铁 苏群 08:15
+http://fei01.kmdns.net:8807/964276989
+
+#EXTINF:-1 tvg-id="NBA森林狼VS掘金英文原声08:25" tvg-name="NBA 森林狼VS掘金 英文原声 08:25" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 英文原声 08:25
+http://fei01.kmdns.net:8807/964277024
+
+#EXTINF:-1 tvg-id="NBA森林狼VS掘金智能字幕08:25" tvg-name="NBA 森林狼VS掘金 智能字幕 08:25" tvg-logo="" group-title="综合",NBA 森林狼VS掘金 智能字幕 08:25
+http://fei01.kmdns.net:8807/964289919
+
+#EXTINF:-1 tvg-id="中国乒协会员联赛团体第二阶段赛场原声09:00" tvg-name="中国乒协会员联赛 团体第二阶段 赛场原声 09:00" tvg-logo="" group-title="综合",中国乒协会员联赛 团体第二阶段 赛场原声 09:00
+http://fei01.kmdns.net:8807/964358819
+
+#EXTINF:-1 tvg-id="马拉松系列赛2026伊犁河马拉松暨“跑遍大美新疆”伊宁站清流播出08:45" tvg-name="马拉松系列赛 2026伊犁河马拉松暨“跑遍大美新疆”伊宁站 清流播出 08:45" tvg-logo="" group-title="综合",马拉松系列赛 2026伊犁河马拉松暨“跑遍大美新疆”伊宁站 清流播出 08:45
+http://fei01.kmdns.net:8807/964379323
+
+#EXTINF:-1 tvg-id="钻石杯青少年网球挑战赛FILAKIDS钻石杯青少年网球挑战赛赛场原声12:00" tvg-name="钻石杯青少年网球挑战赛 FILA KIDS钻石杯青少年网球挑战赛 赛场原声 12:00" tvg-logo="" group-title="综合",钻石杯青少年网球挑战赛 FILA KIDS钻石杯青少年网球挑战赛 赛场原声 12:00
+http://fei01.kmdns.net:8807/964362476
+
+#EXTINF:-1 tvg-id="高尔夫中国公开赛沃尔沃中国公开赛Day4赛场原声12:30" tvg-name="高尔夫中国公开赛 沃尔沃中国公开赛Day 4 赛场原声 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 沃尔沃中国公开赛Day 4 赛场原声 12:30
+http://fei01.kmdns.net:8807/964310459
+
+#EXTINF:-1 tvg-id="高尔夫中国公开赛沃尔沃中国公开赛Day4中文解说12:30" tvg-name="高尔夫中国公开赛 沃尔沃中国公开赛Day 4 中文解说 12:30" tvg-logo="" group-title="综合",高尔夫中国公开赛 沃尔沃中国公开赛Day 4 中文解说 12:30
+http://fei01.kmdns.net:8807/964310481
+
+#EXTINF:-1 tvg-id="广西县超来宾市武宣县队vs玉林市玉州区队25/26赛季广西县级足球超级联赛第七轮:来宾市武宣县队vs玉林市玉州区队13:30" tvg-name="广西县超 来宾市武宣县队vs玉林市玉州区队 25/26赛季广西县级足球超级联赛第七轮: 来宾市武宣县队vs玉林市玉州区队 13:30" tvg-logo="" group-title="综合",广西县超 来宾市武宣县队vs玉林市玉州区队 25/26赛季广西县级足球超级联赛第七轮: 来宾市武宣县队vs玉林市玉州区队 13:30
+http://fei01.kmdns.net:8807/964362922
+
+#EXTINF:-1 tvg-id="广西县超柳州市柳南区队vs来宾市兴宾区队25/26赛季广西县级足球超级联赛第七轮:柳州市柳南区队vs来宾市兴宾区队13:30" tvg-name="广西县超 柳州市柳南区队vs来宾市兴宾区队 25/26赛季广西县级足球超级联赛第七轮: 柳州市柳南区队vs来宾市兴宾区队 13:30" tvg-logo="" group-title="综合",广西县超 柳州市柳南区队vs来宾市兴宾区队 25/26赛季广西县级足球超级联赛第七轮: 柳州市柳南区队vs来宾市兴宾区队 13:30
+http://fei01.kmdns.net:8807/964362937
+
+#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第三日1号场地14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第三日 1号场地 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第三日 1号场地 14:30
+http://fei01.kmdns.net:8807/964293929
+
+#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第三日2号场地14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第三日 2号场地 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第三日 2号场地 14:30
+http://fei01.kmdns.net:8807/964293937
+
+#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第三日3号场地14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第三日 3号场地 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第三日 3号场地 14:30
+http://fei01.kmdns.net:8807/964293947
+
+#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第三日1号场地英文解说14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第三日 1号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第三日 1号场地英文解说 14:30
+http://fei01.kmdns.net:8807/964293956
+
+#EXTINF:-1 tvg-id="BWF汤姆斯杯&尤伯杯第三日2号场地英文解说14:30" tvg-name="BWF 汤姆斯杯&尤伯杯第三日 2号场地英文解说 14:30" tvg-logo="" group-title="综合",BWF 汤姆斯杯&尤伯杯第三日 2号场地英文解说 14:30
+http://fei01.kmdns.net:8807/964293961
+
+#EXTINF:-1 tvg-id="广西县超南宁市江南区队vs百色市田东县队25/26赛季广西县级足球超级联赛第七轮:南宁市江南区队vs百色市田东县队14:30" tvg-name="广西县超 南宁市江南区队vs百色市田东县队 25/26赛季广西县级足球超级联赛第七轮: 南宁市江南区队vs百色市田东县队 14:30" tvg-logo="" group-title="综合",广西县超 南宁市江南区队vs百色市田东县队 25/26赛季广西县级足球超级联赛第七轮: 南宁市江南区队vs百色市田东县队 14:30
+http://fei01.kmdns.net:8807/964362911
+
+#EXTINF:-1 tvg-id="中甲无锡吴钩VS石家庄功夫解说14:50" tvg-name="中甲 无锡吴钩VS石家庄功夫 解说 14:50" tvg-logo="" group-title="综合",中甲 无锡吴钩VS石家庄功夫 解说 14:50
+http://fei01.kmdns.net:8807/964374296
+
+#EXTINF:-1 tvg-id="中甲无锡吴钩VS石家庄功夫赛场原声14:50" tvg-name="中甲 无锡吴钩VS石家庄功夫 赛场原声 14:50" tvg-logo="" group-title="综合",中甲 无锡吴钩VS石家庄功夫 赛场原声 14:50
+http://fei01.kmdns.net:8807/964374403
+
+#EXTINF:-1 tvg-id="吴越杯台州队VS温州队2026赛季浙江省城市足球联赛第五轮:台州VS温州14:45" tvg-name="吴越杯 台州队VS温州队 2026赛季浙江省城市足球联赛第五轮: 台州VS温州 14:45" tvg-logo="" group-title="综合",吴越杯 台州队VS温州队 2026赛季浙江省城市足球联赛第五轮: 台州VS温州 14:45
+http://fei01.kmdns.net:8807/964224084
+
+#EXTINF:-1 tvg-id="吴越杯绍兴队VS衢州队2026赛季浙江省城市足球联赛第五轮:绍兴VS衢州14:45" tvg-name="吴越杯 绍兴队VS衢州队 2026赛季浙江省城市足球联赛第五轮: 绍兴VS衢州 14:45" tvg-logo="" group-title="综合",吴越杯 绍兴队VS衢州队 2026赛季浙江省城市足球联赛第五轮: 绍兴VS衢州 14:45
+http://fei01.kmdns.net:8807/964224091
+
+#EXTINF:-1 tvg-id="吴越杯丽水队VS杭州队2026赛季浙江省城市足球联赛第五轮:丽水VS杭州14:45" tvg-name="吴越杯 丽水队VS杭州队 2026赛季浙江省城市足球联赛第五轮: 丽水VS杭州 14:45" tvg-logo="" group-title="综合",吴越杯 丽水队VS杭州队 2026赛季浙江省城市足球联赛第五轮: 丽水VS杭州 14:45
+http://fei01.kmdns.net:8807/964224100
+
+#EXTINF:-1 tvg-id="中甲长春亚泰VS广东广州豹足球俱乐部解说15:20" tvg-name="中甲 长春亚泰VS广东广州豹足球俱乐部 解说 15:20" tvg-logo="" group-title="综合",中甲 长春亚泰VS广东广州豹足球俱乐部 解说 15:20
+http://fei01.kmdns.net:8807/964374437
+
+#EXTINF:-1 tvg-id="中甲长春亚泰VS广东广州豹足球俱乐部赛场原声15:20" tvg-name="中甲 长春亚泰VS广东广州豹足球俱乐部 赛场原声 15:20" tvg-logo="" group-title="综合",中甲 长春亚泰VS广东广州豹足球俱乐部 赛场原声 15:20
+http://fei01.kmdns.net:8807/964374460
+
+#EXTINF:-1 tvg-id="粤超清远VS韶关2026赛季广东省城市足球超级联赛第一轮:清远VS韶关15:30" tvg-name="粤超 清远VS韶关 2026赛季广东省城市足球超级联赛第一轮: 清远VS韶关 15:30" tvg-logo="" group-title="综合",粤超 清远VS韶关 2026赛季广东省城市足球超级联赛第一轮: 清远VS韶关 15:30
+http://fei01.kmdns.net:8807/964216335
+
+#EXTINF:-1 tvg-id="粤超茂名VS云浮2026赛季广东省城市足球超级联赛第一轮:茂名VS云浮15:30" tvg-name="粤超 茂名VS云浮 2026赛季广东省城市足球超级联赛第一轮: 茂名VS云浮 15:30" tvg-logo="" group-title="综合",粤超 茂名VS云浮 2026赛季广东省城市足球超级联赛第一轮: 茂名VS云浮 15:30
+http://fei01.kmdns.net:8807/964216384
+
+#EXTINF:-1 tvg-id="粤超惠州VS潮州2026赛季广东省城市足球超级联赛第一轮:惠州VS潮州16:00" tvg-name="粤超 惠州VS潮州 2026赛季广东省城市足球超级联赛第一轮: 惠州VS潮州 16:00" tvg-logo="" group-title="综合",粤超 惠州VS潮州 2026赛季广东省城市足球超级联赛第一轮: 惠州VS潮州 16:00
+http://fei01.kmdns.net:8807/964216285
+
+#EXTINF:-1 tvg-id="齐鲁超赛菏泽队VS枣庄丰源轮胎队2026山东省齐鲁足球超级联赛第一轮:菏泽队VS枣庄丰源轮胎队16:30" tvg-name="齐鲁超赛 菏泽队VS枣庄丰源轮胎队 2026山东省齐鲁足球超级联赛第一轮: 菏泽队VS枣庄丰源轮胎队 16:30" tvg-logo="" group-title="综合",齐鲁超赛 菏泽队VS枣庄丰源轮胎队 2026山东省齐鲁足球超级联赛第一轮: 菏泽队VS枣庄丰源轮胎队 16:30
+http://fei01.kmdns.net:8807/964198535
+
+#EXTINF:-1 tvg-id="粤超珠海VS阳江2026赛季广东省城市足球超级联赛第一轮:珠海VS阳江16:30" tvg-name="粤超 珠海VS阳江 2026赛季广东省城市足球超级联赛第一轮: 珠海VS阳江 16:30" tvg-logo="" group-title="综合",粤超 珠海VS阳江 2026赛季广东省城市足球超级联赛第一轮: 珠海VS阳江 16:30
+http://fei01.kmdns.net:8807/964216479
+
+#EXTINF:-1 tvg-id="中超青岛海牛VS山东泰山石庆圣李彦姚安妮16:30" tvg-name="中超 青岛海牛VS山东泰山 石庆圣 李彦 姚安妮 16:30" tvg-logo="" group-title="综合",中超 青岛海牛VS山东泰山 石庆圣 李彦 姚安妮 16:30
+http://fei01.kmdns.net:8807/964336164
+
+#EXTINF:-1 tvg-id="中超青岛海牛VS山东泰山赛场原声16:45" tvg-name="中超 青岛海牛VS山东泰山 赛场原声 16:45" tvg-logo="" group-title="综合",中超 青岛海牛VS山东泰山 赛场原声 16:45
+http://fei01.kmdns.net:8807/964336156
+
+#EXTINF:-1 tvg-id="中超青岛海牛VS山东泰山石庆圣李彦姚安妮16:30" tvg-name="中超 青岛海牛VS山东泰山 石庆圣 李彦 姚安妮 16:30" tvg-logo="" group-title="综合",中超 青岛海牛VS山东泰山 石庆圣 李彦 姚安妮 16:30
+http://fei01.kmdns.net:8807/964375043
+
+#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖1号桌17:00" tvg-name="斯诺克 赵心童VS丁俊晖 1号桌 17:00" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 1号桌 17:00
+http://fei01.kmdns.net:8807/964183758
+
+#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖秦正庞卫国16:40" tvg-name="斯诺克 赵心童VS丁俊晖 秦正 庞卫国 16:40" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 秦正 庞卫国 16:40
+http://fei01.kmdns.net:8807/964332044
+
+#EXTINF:-1 tvg-id="斯诺克赵心童VS丁俊晖朱峰立17:00" tvg-name="斯诺克 赵心童VS丁俊晖 朱峰立 17:00" tvg-logo="" group-title="综合",斯诺克 赵心童VS丁俊晖 朱峰立 17:00
+http://fei01.kmdns.net:8807/964373383
+
+#EXTINF:-1 tvg-id="斯诺克塞尔比VS吴宜泽2号桌17:00" tvg-name="斯诺克 塞尔比VS吴宜泽 2号桌 17:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS吴宜泽 2号桌 17:00
+http://fei01.kmdns.net:8807/964183774
+
+#EXTINF:-1 tvg-id="斯诺克塞尔比VS吴宜泽朱蒙17:00" tvg-name="斯诺克 塞尔比VS吴宜泽 朱蒙 17:00" tvg-logo="" group-title="综合",斯诺克 塞尔比VS吴宜泽 朱蒙 17:00
+http://fei01.kmdns.net:8807/964373408
+
+#EXTINF:-1 tvg-id="WTAWTA马德里站Day6赛场原声17:00" tvg-name="WTA WTA马德里站Day6 赛场原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day6 赛场原声 17:00
+http://fei01.kmdns.net:8807/964215543
+
+#EXTINF:-1 tvg-id="WTAWTA马德里站Day6英文原声17:00" tvg-name="WTA WTA马德里站Day6 英文原声 17:00" tvg-logo="" group-title="综合",WTA WTA马德里站Day6 英文原声 17:00
+http://fei01.kmdns.net:8807/964215561
+
+#EXTINF:-1 tvg-id="意甲佛罗伦萨VS萨索洛刘焕18:15" tvg-name="意甲 佛罗伦萨VS萨索洛 刘焕 18:15" tvg-logo="" group-title="综合",意甲 佛罗伦萨VS萨索洛 刘焕 18:15
+http://fei01.kmdns.net:8807/964374825
+
+#EXTINF:-1 tvg-id="意甲佛罗伦萨VS萨索洛赛场原声18:15" tvg-name="意甲 佛罗伦萨VS萨索洛 赛场原声 18:15" tvg-logo="" group-title="综合",意甲 佛罗伦萨VS萨索洛 赛场原声 18:15
+http://fei01.kmdns.net:8807/964374758
+
+#EXTINF:-1 tvg-id="中超重庆铜梁龙VS青岛西海岸袁甲李毅18:45" tvg-name="中超 重庆铜梁龙VS青岛西海岸 袁甲 李毅 18:45" tvg-logo="" group-title="综合",中超 重庆铜梁龙VS青岛西海岸 袁甲 李毅 18:45
+http://fei01.kmdns.net:8807/964336252
+
+#EXTINF:-1 tvg-id="中超重庆铜梁龙VS青岛西海岸赛场原声18:45" tvg-name="中超 重庆铜梁龙VS青岛西海岸 赛场原声 18:45" tvg-logo="" group-title="综合",中超 重庆铜梁龙VS青岛西海岸 赛场原声 18:45
+http://fei01.kmdns.net:8807/964336244
+
+#EXTINF:-1 tvg-id="中超深圳新鹏城VS辽宁铁人楠波湾刘腾徐云龙18:45" tvg-name="中超 深圳新鹏城VS辽宁铁人楠波湾 刘腾 徐云龙 18:45" tvg-logo="" group-title="综合",中超 深圳新鹏城VS辽宁铁人楠波湾 刘腾 徐云龙 18:45
+http://fei01.kmdns.net:8807/964336200
+
+#EXTINF:-1 tvg-id="中超深圳新鹏城VS辽宁铁人楠波湾赛场原声18:45" tvg-name="中超 深圳新鹏城VS辽宁铁人楠波湾 赛场原声 18:45" tvg-logo="" group-title="综合",中超 深圳新鹏城VS辽宁铁人楠波湾 赛场原声 18:45
+http://fei01.kmdns.net:8807/964336188
+
+#EXTINF:-1 tvg-id="徽BA芜湖VS安庆安徽省城市篮球联赛第一轮:芜湖vs安庆19:30" tvg-name="徽BA 芜湖VS安庆 安徽省城市篮球联赛第一轮: 芜湖vs安庆 19:30" tvg-logo="" group-title="综合",徽BA 芜湖VS安庆 安徽省城市篮球联赛第一轮: 芜湖vs安庆 19:30
+http://fei01.kmdns.net:8807/964363100
+
+#EXTINF:-1 tvg-id="徽BA蚌埠VS淮南安徽省城市篮球联赛第一轮:蚌埠vs淮南19:30" tvg-name="徽BA 蚌埠VS淮南 安徽省城市篮球联赛第一轮: 蚌埠vs淮南 19:30" tvg-logo="" group-title="综合",徽BA 蚌埠VS淮南 安徽省城市篮球联赛第一轮: 蚌埠vs淮南 19:30
+http://fei01.kmdns.net:8807/964363152
+
+#EXTINF:-1 tvg-id="徽BA黄山VS池州安徽省城市篮球联赛第一轮:黄山vs池州19:30" tvg-name="徽BA 黄山VS池州 安徽省城市篮球联赛第一轮: 黄山vs池州 19:30" tvg-logo="" group-title="综合",徽BA 黄山VS池州 安徽省城市篮球联赛第一轮: 黄山vs池州 19:30
+http://fei01.kmdns.net:8807/964363197
+
+#EXTINF:-1 tvg-id="英女超伦敦城雌狮女足VS莱斯特城女足胡小凡18:45" tvg-name="英女超 伦敦城雌狮女足VS莱斯特城女足 胡小凡 18:45" tvg-logo="" group-title="综合",英女超 伦敦城雌狮女足VS莱斯特城女足 胡小凡 18:45
+http://fei01.kmdns.net:8807/964374935
+
+#EXTINF:-1 tvg-id="英女超伦敦城雌狮女足VS莱斯特城女足赛场原声18:45" tvg-name="英女超 伦敦城雌狮女足VS莱斯特城女足 赛场原声 18:45" tvg-logo="" group-title="综合",英女超 伦敦城雌狮女足VS莱斯特城女足 赛场原声 18:45
+http://fei01.kmdns.net:8807/964374922
+
+#EXTINF:-1 tvg-id="英女超埃弗顿女足VS切尔西女足刘畅18:45" tvg-name="英女超 埃弗顿女足VS切尔西女足 刘畅 18:45" tvg-logo="" group-title="综合",英女超 埃弗顿女足VS切尔西女足 刘畅 18:45
+http://fei01.kmdns.net:8807/964374977
+
+#EXTINF:-1 tvg-id="英女超埃弗顿女足VS切尔西女足赛场原声18:45" tvg-name="英女超 埃弗顿女足VS切尔西女足 赛场原声 18:45" tvg-logo="" group-title="综合",英女超 埃弗顿女足VS切尔西女足 赛场原声 18:45
+http://fei01.kmdns.net:8807/964374961
+
+#EXTINF:-1 tvg-id="英女超托特纳姆热刺女足VS曼联女足吴桐18:45" tvg-name="英女超 托特纳姆热刺女足VS曼联女足 吴桐 18:45" tvg-logo="" group-title="综合",英女超 托特纳姆热刺女足VS曼联女足 吴桐 18:45
+http://fei01.kmdns.net:8807/964374990
+
+#EXTINF:-1 tvg-id="英女超托特纳姆热刺女足VS曼联女足赛场原声18:45" tvg-name="英女超 托特纳姆热刺女足VS曼联女足 赛场原声 18:45" tvg-logo="" group-title="综合",英女超 托特纳姆热刺女足VS曼联女足 赛场原声 18:45
+http://fei01.kmdns.net:8807/964374987
+
+#EXTINF:-1 tvg-id="中甲南通支云VS大连鲲城解说19:20" tvg-name="中甲 南通支云VS大连鲲城 解说 19:20" tvg-logo="" group-title="综合",中甲 南通支云VS大连鲲城 解说 19:20
+http://fei01.kmdns.net:8807/964374496
+
+#EXTINF:-1 tvg-id="中甲南通支云VS大连鲲城赛场原声19:20" tvg-name="中甲 南通支云VS大连鲲城 赛场原声 19:20" tvg-logo="" group-title="综合",中甲 南通支云VS大连鲲城 赛场原声 19:20
+http://fei01.kmdns.net:8807/964374562
+
+#EXTINF:-1 tvg-id="粤超梅州VS深圳2026赛季广东省城市足球超级联赛第一轮:梅州VS深圳19:30" tvg-name="粤超 梅州VS深圳 2026赛季广东省城市足球超级联赛第一轮: 梅州VS深圳 19:30" tvg-logo="" group-title="综合",粤超 梅州VS深圳 2026赛季广东省城市足球超级联赛第一轮: 梅州VS深圳 19:30
+http://fei01.kmdns.net:8807/964216302
+
+#EXTINF:-1 tvg-id="粤超揭阳VS汕头2026赛季广东省城市足球超级联赛第一轮:揭阳VS汕头19:30" tvg-name="粤超 揭阳VS汕头 2026赛季广东省城市足球超级联赛第一轮: 揭阳VS汕头 19:30" tvg-logo="" group-title="综合",粤超 揭阳VS汕头 2026赛季广东省城市足球超级联赛第一轮: 揭阳VS汕头 19:30
+http://fei01.kmdns.net:8807/964216321
+
+#EXTINF:-1 tvg-id="粤超东莞VS汕尾2026赛季广东省城市足球超级联赛第一轮:东莞VS汕尾19:30" tvg-name="粤超 东莞VS汕尾 2026赛季广东省城市足球超级联赛第一轮: 东莞VS汕尾 19:30" tvg-logo="" group-title="综合",粤超 东莞VS汕尾 2026赛季广东省城市足球超级联赛第一轮: 东莞VS汕尾 19:30
+http://fei01.kmdns.net:8807/964216350
+
+#EXTINF:-1 tvg-id="粤超湛江VS佛山2026赛季广东省城市足球超级联赛第一轮:湛江VS佛山19:30" tvg-name="粤超 湛江VS佛山 2026赛季广东省城市足球超级联赛第一轮: 湛江VS佛山 19:30" tvg-logo="" group-title="综合",粤超 湛江VS佛山 2026赛季广东省城市足球超级联赛第一轮: 湛江VS佛山 19:30
+http://fei01.kmdns.net:8807/964216418
+
+#EXTINF:-1 tvg-id="粤超肇庆VS中山2026赛季广东省城市足球超级联赛第一轮:肇庆VS中山19:30" tvg-name="粤超 肇庆VS中山 2026赛季广东省城市足球超级联赛第一轮: 肇庆VS中山 19:30" tvg-logo="" group-title="综合",粤超 肇庆VS中山 2026赛季广东省城市足球超级联赛第一轮: 肇庆VS中山 19:30
+http://fei01.kmdns.net:8807/964216444
+
+#EXTINF:-1 tvg-id="吴越杯金华队VS宁波队2026赛季浙江省城市足球联赛第五轮:金华VS宁波19:15" tvg-name="吴越杯 金华队VS宁波队 2026赛季浙江省城市足球联赛第五轮: 金华VS宁波 19:15" tvg-logo="" group-title="综合",吴越杯 金华队VS宁波队 2026赛季浙江省城市足球联赛第五轮: 金华VS宁波 19:15
+http://fei01.kmdns.net:8807/964224114
+
+#EXTINF:-1 tvg-id="中超大连英博海发VS云南玉昆张昊泽王伟19:20" tvg-name="中超 大连英博海发VS云南玉昆 张昊泽 王伟 19:20" tvg-logo="" group-title="综合",中超 大连英博海发VS云南玉昆 张昊泽 王伟 19:20
+http://fei01.kmdns.net:8807/964336271
+
+#EXTINF:-1 tvg-id="中超大连英博海发VS云南玉昆赛场原声19:20" tvg-name="中超 大连英博海发VS云南玉昆 赛场原声 19:20" tvg-logo="" group-title="综合",中超 大连英博海发VS云南玉昆 赛场原声 19:20
+http://fei01.kmdns.net:8807/964336264
+
+#EXTINF:-1 tvg-id="西甲巴列卡诺VS皇家社会周楚雄19:45" tvg-name="西甲 巴列卡诺VS皇家社会 周楚雄 19:45" tvg-logo="" group-title="综合",西甲 巴列卡诺VS皇家社会 周楚雄 19:45
+http://fei01.kmdns.net:8807/964375380
+
+#EXTINF:-1 tvg-id="西甲巴列卡诺VS皇家社会赛场原声19:45" tvg-name="西甲 巴列卡诺VS皇家社会 赛场原声 19:45" tvg-logo="" group-title="综合",西甲 巴列卡诺VS皇家社会 赛场原声 19:45
+http://fei01.kmdns.net:8807/964375367
+
+#EXTINF:-1 tvg-id="西甲巴列卡诺VS皇家社会周楚雄19:45" tvg-name="西甲 巴列卡诺VS皇家社会 周楚雄 19:45" tvg-logo="" group-title="综合",西甲 巴列卡诺VS皇家社会 周楚雄 19:45
+http://fei01.kmdns.net:8807/964375362
+
+#EXTINF:-1 tvg-id="中超河南俱乐部彩陶坊VS上海申花娄一晨刘越邵凌霄19:30" tvg-name="中超 河南俱乐部彩陶坊VS上海申花 娄一晨 刘越 邵凌霄 19:30" tvg-logo="" group-title="综合",中超 河南俱乐部彩陶坊VS上海申花 娄一晨 刘越 邵凌霄 19:30
+http://fei01.kmdns.net:8807/964336337
+
+#EXTINF:-1 tvg-id="中超河南俱乐部彩陶坊VS上海申花赛场原声19:45" tvg-name="中超 河南俱乐部彩陶坊VS上海申花 赛场原声 19:45" tvg-logo="" group-title="综合",中超 河南俱乐部彩陶坊VS上海申花 赛场原声 19:45
+http://fei01.kmdns.net:8807/964336304
+
+#EXTINF:-1 tvg-id="意甲热那亚VS科莫涂远马延峰20:45" tvg-name="意甲 热那亚VS科莫 涂远 马延峰 20:45" tvg-logo="" group-title="综合",意甲 热那亚VS科莫 涂远 马延峰 20:45
+http://fei01.kmdns.net:8807/964374713
+
+#EXTINF:-1 tvg-id="意甲热那亚VS科莫赛场原声20:45" tvg-name="意甲 热那亚VS科莫 赛场原声 20:45" tvg-logo="" group-title="综合",意甲 热那亚VS科莫 赛场原声 20:45
+http://fei01.kmdns.net:8807/964374701
+
+#EXTINF:-1 tvg-id="法甲洛里昂VS斯特拉斯堡盛斌20:45" tvg-name="法甲 洛里昂VS斯特拉斯堡 盛斌 20:45" tvg-logo="" group-title="综合",法甲 洛里昂VS斯特拉斯堡 盛斌 20:45
+http://fei01.kmdns.net:8807/964374682
+
+#EXTINF:-1 tvg-id="法甲洛里昂VS斯特拉斯堡赛场原声20:45" tvg-name="法甲 洛里昂VS斯特拉斯堡 赛场原声 20:45" tvg-logo="" group-title="综合",法甲 洛里昂VS斯特拉斯堡 赛场原声 20:45
+http://fei01.kmdns.net:8807/964374676
+
+#EXTINF:-1 tvg-id="英女超利物浦女足VS西汉姆联女足兰子非20:45" tvg-name="英女超 利物浦女足VS西汉姆联女足 兰子非 20:45" tvg-logo="" group-title="综合",英女超 利物浦女足VS西汉姆联女足 兰子非 20:45
+http://fei01.kmdns.net:8807/964375005
+
+#EXTINF:-1 tvg-id="英女超利物浦女足VS西汉姆联女足赛场原声20:45" tvg-name="英女超 利物浦女足VS西汉姆联女足 赛场原声 20:45" tvg-logo="" group-title="综合",英女超 利物浦女足VS西汉姆联女足 赛场原声 20:45
+http://fei01.kmdns.net:8807/964374995
+
+#EXTINF:-1 tvg-id="德甲斯图加特VS云达不莱梅赵宇21:15" tvg-name="德甲 斯图加特VS云达不莱梅 赵宇 21:15" tvg-logo="" group-title="综合",德甲 斯图加特VS云达不莱梅 赵宇 21:15
+http://fei01.kmdns.net:8807/964374422
+
+#EXTINF:-1 tvg-id="德甲斯图加特VS云达不莱梅赛场原声21:15" tvg-name="德甲 斯图加特VS云达不莱梅 赛场原声 21:15" tvg-logo="" group-title="综合",德甲 斯图加特VS云达不莱梅 赛场原声 21:15
+http://fei01.kmdns.net:8807/964374411
+
+#EXTINF:-1 tvg-id="斯诺克16进8轮次1号桌21:30" tvg-name="斯诺克 16进8轮次 1号桌 21:30" tvg-logo="" group-title="综合",斯诺克 16进8轮次 1号桌 21:30
+http://fei01.kmdns.net:8807/964183790
+
+#EXTINF:-1 tvg-id="斯诺克16进8轮次柏林21:30" tvg-name="斯诺克 16进8轮次 柏林 21:30" tvg-logo="" group-title="综合",斯诺克 16进8轮次 柏林 21:30
+http://fei01.kmdns.net:8807/964373447
+
+#EXTINF:-1 tvg-id="斯诺克16进8轮次2号桌21:30" tvg-name="斯诺克 16进8轮次 2号桌 21:30" tvg-logo="" group-title="综合",斯诺克 16进8轮次 2号桌 21:30
+http://fei01.kmdns.net:8807/964183810
+
+#EXTINF:-1 tvg-id="斯诺克16进8轮次孙嘉星21:30" tvg-name="斯诺克 16进8轮次 孙嘉星 21:30" tvg-logo="" group-title="综合",斯诺克 16进8轮次 孙嘉星 21:30
+http://fei01.kmdns.net:8807/964373470
+
+#EXTINF:-1 tvg-id="足总杯切尔西VS利兹联詹俊张路林梦鸽21:45" tvg-name="足总杯 切尔西VS利兹联 詹俊 张路 林梦鸽 21:45" tvg-logo="" group-title="综合",足总杯 切尔西VS利兹联 詹俊 张路 林梦鸽 21:45
+http://fei01.kmdns.net:8807/964373259
+
+#EXTINF:-1 tvg-id="足总杯切尔西VS利兹联英文原声21:45" tvg-name="足总杯 切尔西VS利兹联 英文原声 21:45" tvg-logo="" group-title="综合",足总杯 切尔西VS利兹联 英文原声 21:45
+http://fei01.kmdns.net:8807/964373357
+
+#EXTINF:-1 tvg-id="足总杯切尔西VS利兹联赛场原声21:45" tvg-name="足总杯 切尔西VS利兹联 赛场原声 21:45" tvg-logo="" group-title="综合",足总杯 切尔西VS利兹联 赛场原声 21:45
+http://fei01.kmdns.net:8807/964373396
+
+#EXTINF:-1 tvg-id="足总杯切尔西VS利兹联江忠德21:45" tvg-name="足总杯 切尔西VS利兹联 江忠德 21:45" tvg-logo="" group-title="综合",足总杯 切尔西VS利兹联 江忠德 21:45
+http://fei01.kmdns.net:8807/964373476
+
+#EXTINF:-1 tvg-id="足总杯切尔西VS利兹联洪荒21:45" tvg-name="足总杯 切尔西VS利兹联 洪荒 21:45" tvg-logo="" group-title="综合",足总杯 切尔西VS利兹联 洪荒 21:45
+http://fei01.kmdns.net:8807/964373483
+
+#EXTINF:-1 tvg-id="西甲皇家奥维耶多VS埃尔切张天翼22:00" tvg-name="西甲 皇家奥维耶多VS埃尔切 张天翼 22:00" tvg-logo="" group-title="综合",西甲 皇家奥维耶多VS埃尔切 张天翼 22:00
+http://fei01.kmdns.net:8807/964375341
+
+#EXTINF:-1 tvg-id="西甲皇家奥维耶多VS埃尔切赛场原声22:00" tvg-name="西甲 皇家奥维耶多VS埃尔切 赛场原声 22:00" tvg-logo="" group-title="综合",西甲 皇家奥维耶多VS埃尔切 赛场原声 22:00
+http://fei01.kmdns.net:8807/964375332
+
+#EXTINF:-1 tvg-id="法甲雷恩VS南特李永熙23:00" tvg-name="法甲 雷恩VS南特 李永熙 23:00" tvg-logo="" group-title="综合",法甲 雷恩VS南特 李永熙 23:00
+http://fei01.kmdns.net:8807/964374705
+
+#EXTINF:-1 tvg-id="法甲雷恩VS南特赛场原声23:00" tvg-name="法甲 雷恩VS南特 赛场原声 23:00" tvg-logo="" group-title="综合",法甲 雷恩VS南特 赛场原声 23:00
+http://fei01.kmdns.net:8807/964374697
+
+#EXTINF:-1 tvg-id="法甲巴黎FCVS里尔盛斌23:00" tvg-name="法甲 巴黎FCVS里尔 盛斌 23:00" tvg-logo="" group-title="综合",法甲 巴黎FCVS里尔 盛斌 23:00
+http://fei01.kmdns.net:8807/964374772
+
+#EXTINF:-1 tvg-id="法甲巴黎FCVS里尔赛场原声23:00" tvg-name="法甲 巴黎FCVS里尔 赛场原声 23:00" tvg-logo="" group-title="综合",法甲 巴黎FCVS里尔 赛场原声 23:00
+http://fei01.kmdns.net:8807/964374760
+
+#EXTINF:-1 tvg-id="法甲勒阿弗尔VS梅斯乔迁23:00" tvg-name="法甲 勒阿弗尔VS梅斯 乔迁 23:00" tvg-logo="" group-title="综合",法甲 勒阿弗尔VS梅斯 乔迁 23:00
+http://fei01.kmdns.net:8807/964374743
+
+#EXTINF:-1 tvg-id="法甲勒阿弗尔VS梅斯赛场原声23:00" tvg-name="法甲 勒阿弗尔VS梅斯 赛场原声 23:00" tvg-logo="" group-title="综合",法甲 勒阿弗尔VS梅斯 赛场原声 23:00
+http://fei01.kmdns.net:8807/964374728
+
+#EXTINF:-1 tvg-id="德甲多特蒙德VS弗赖堡鲁靖明张力23:00" tvg-name="德甲 多特蒙德VS弗赖堡 鲁靖明 张力 23:00" tvg-logo="" group-title="综合",德甲 多特蒙德VS弗赖堡 鲁靖明 张力 23:00
+http://fei01.kmdns.net:8807/964374549
+
+#EXTINF:-1 tvg-id="德甲多特蒙德VS弗赖堡赛场原声23:15" tvg-name="德甲 多特蒙德VS弗赖堡 赛场原声 23:15" tvg-logo="" group-title="综合",德甲 多特蒙德VS弗赖堡 赛场原声 23:15
+http://fei01.kmdns.net:8807/964374439
+
+#EXTINF:-1 tvg-id="德甲多特蒙德VS弗赖堡鲁靖明张力23:00" tvg-name="德甲 多特蒙德VS弗赖堡 鲁靖明 张力 23:00" tvg-logo="" group-title="综合",德甲 多特蒙德VS弗赖堡 鲁靖明 张力 23:00
+http://fei01.kmdns.net:8807/964374567
 
 # 
 # 
