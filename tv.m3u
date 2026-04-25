@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新日期: 2026-04-25 17:57:48
+# 更新日期: 2026-04-26 07:39:08
 
 #EXTINF:-1 tvg-id="音乐欣赏" tvg-name="音乐欣赏" tvg-logo="" group-title="综合",音乐欣赏
 #genre#
@@ -3693,11 +3693,26 @@ https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 
 # 
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="" group-title="体育",五星体育
+http://8.218.84.3:8885/streams/BHXnwiHKQ3iZaWXleICXtsqPt5tbLLKiDPSoxkX2pMVQjqWvf5uIfauSnT4wZTC5_1zQKjoWF5T92IOASIX8Od79FHF9JAW1dVDor2Y62FOxFtK_rmeJwCxI0yZitI9cZPf7x6E33d7KcdVLS9qv2Qp7VL6_dljVwTfWUY1oaFE9C7DC4n9eJO5266VstRcLysW-4hPNG9UymxKiSPRPwTwSX1Ajp5ck90bDGq-SPMBiPmBHLNbHouscTPrLWjzs.m3u8?ips=&u=1777118490
+
+# 
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="" group-title="体育",劲爆体育
+http://8.218.84.3:8885/streams/BHXnwiHKQ3iZaWXleICXtsqPt5tbLLKiDPSoxkX2pMVQjqWvf5uIfauSnT4wZTC5LOH4Ob68hNKKwiFwpWkf-Wk_rbRb6ZClRR4x85ZR3vQPC1GbFIeMFTkT5lrZPz_kc6gk1P9zK9R_XH-ZgbD4wPjKIp74UXizXQRaiWv34Ii3_uNAOmWK1gRJ8CCfTK0bsdcyubBcMUJxPEbNQKR2siWrU0M44TNzHbPf6pDwD8wjQeLuGkbAVvbSPK5IRWTa.m3u8?ips=&u=1777118490
+
+# 
+#EXTINF:-1 tvg-id="欧洲体育" tvg-name="欧洲体育" tvg-logo="" group-title="体育",欧洲体育
+http://8.218.84.3:8885/streams/BHXnwiHKQ3iZaWXleICXtsqPt5tbLLKiDPSoxkX2pMVQjqWvf5uIfauSnT4wZTC5PccKHy9tLlJExH8_tMTlHJn6ivowUvLtl80bODuHsnEgG3Nf4nkuMMxwR2e8R2CO6yIRJjzQ2Hgkbasm4UhAxch_g_uN50r-UToC7GEYmeeilXDdiNWdtwHOR3tvsBCU0GGa1ytgQyn3dy7r9xXJpKhxcZ2wsl8rjcBkm9NpuaGqgrEB6SwVuGpDeRhmK7_c.m3u8?ips=&u=1777118490
+
+# 
+# 
+# 
+# 
 #EXTINF:-1 tvg-id="港台秒播" tvg-name="港台秒播" tvg-logo="" group-title="综合",港台秒播
 #genre#
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="综合",翡翠台
-http://8.218.84.3:8885/streams/3r3V_Qn-cML2RGlXnnrtDWvkqhjiNzzN7ryLHOA1KXuhOaqkZBa4c0c2MEi6TVuxVQMkRqlqAZ-akzX0OxqDPAe03x26G6Fae7V98RLlJnIZoHdno4L25fR_tD-dPaIARtR1J7cQDOgJEqsFICzy9ut46NHUxfWvxWvMS4gOmlwFbjS1xUTUwUepvycKu9wQG_H_1o5r8VuU3aEqm91CguG4BuSE7WtltCx9mBFnbAzJLB18MZ_-n1O0ytbfaoeu.m3u8?ips=&u=1776595038
+http://8.218.84.3:8885/streams/BHXnwiHKQ3iZaWXleICXtsqPt5tbLLKiDPSoxkX2pMVQjqWvf5uIfauSnT4wZTC53G6Nk6GRDPPBOB8eoAbMH1APFKYpIAdAM8e__qU9lJQ3lOUva0bfmQSoreDbHY9CrHvx3MgB90Z5rS5JlEGyfCAAE0S4zLMmE87DuyUB5mJgHU-98CQkZi54e82uAlapWEY9IvjKlSy4w4KWYzM4nt0gTNzDcoPQgCKRl9YgNI7intV_GBi8wovR7hYBW--O.m3u8?ips=&u=1777118490
 
 # 
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="" group-title="新闻",无线新闻
