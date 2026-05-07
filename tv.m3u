@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新日期: 2026-05-07 19:13:21
+# 更新日期: 2026-05-08 07:53:43
 
 #EXTINF:-1 tvg-id="央视卫视" tvg-name="央视卫视" tvg-logo="" group-title="央视",央视卫视
 #genre#
@@ -1818,7 +1818,7 @@ https://live.264788.xyz/channel/fujianjiaoyu?streamid=250b5a0e97980f68e40f3f91ab
 https://gd.tv1288.xyz/hls/1/index.m3u8
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="" group-title="体育",五星体育
-http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
+http://156.238.248.80:8100/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="" group-title="体育",五星体育
 https://cdn15.163189.xyz/163189/9c893bb003e1c7de
@@ -5858,127 +5858,127 @@ http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
 #genre#
 
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="" group-title="综合",睛彩竞技
-http://38.14.195.5:8080/TVOD/3000000020000011528.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000020000011528.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="" group-title="综合",睛彩篮球
-http://38.14.195.5:8080/TVOD/3000000020000011529.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000020000011529.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="" group-title="综合",睛彩青少
-http://38.14.195.5:8080/TVOD/3000000020000011525.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000020000011525.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="" group-title="综合",睛彩广场舞
-http://38.14.195.5:8080/TVOD/3000000020000011523.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000020000011523.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-1" tvg-name="咪视频-1" tvg-logo="" group-title="综合",咪视频-1
-http://38.14.195.5:8080/TVOD/3000000001000005308.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000005308.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-2" tvg-name="咪视频-2" tvg-logo="" group-title="综合",咪视频-2
-http://38.14.195.5:8080/TVOD/3000000001000005969.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000005969.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-3" tvg-name="咪视频-3" tvg-logo="" group-title="综合",咪视频-3
-http://38.14.195.5:8080/TVOD/3000000001000007218.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000007218.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-4" tvg-name="咪视频-4" tvg-logo="" group-title="综合",咪视频-4
-http://38.14.195.5:8080/TVOD/3000000001000008001.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000008001.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-5" tvg-name="咪视频-5" tvg-logo="" group-title="综合",咪视频-5
-http://38.14.195.5:8080/TVOD/3000000001000008176.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000008176.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-6" tvg-name="咪视频-6" tvg-logo="" group-title="综合",咪视频-6
-http://38.14.195.5:8080/TVOD/3000000001000008379.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000008379.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-7" tvg-name="咪视频-7" tvg-logo="" group-title="综合",咪视频-7
-http://38.14.195.5:8080/TVOD/3000000001000010129.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000010129.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-8" tvg-name="咪视频-8" tvg-logo="" group-title="综合",咪视频-8
-http://38.14.195.5:8080/TVOD/3000000001000010948.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000010948.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-9" tvg-name="咪视频-9" tvg-logo="" group-title="综合",咪视频-9
-http://38.14.195.5:8080/TVOD/3000000001000028638.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000028638.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-10" tvg-name="咪视频-10" tvg-logo="" group-title="综合",咪视频-10
-http://38.14.195.5:8080/TVOD/3000000001000031494.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000001000031494.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-11" tvg-name="咪视频-11" tvg-logo="" group-title="综合",咪视频-11
-http://38.14.195.5:8080/TVOD/3000000010000005837.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000005837.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-12" tvg-name="咪视频-12" tvg-logo="" group-title="综合",咪视频-12
-http://38.14.195.5:8080/TVOD/3000000020000011518.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000020000011518.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-13" tvg-name="咪视频-13" tvg-logo="" group-title="综合",咪视频-13
-http://38.14.195.5:8080/TVOD/3000000020000011519.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000020000011519.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-14" tvg-name="咪视频-14" tvg-logo="" group-title="综合",咪视频-14
-http://38.14.195.5:8080/TVOD/3000000020000011520.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000020000011520.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-15" tvg-name="咪视频-15" tvg-logo="" group-title="综合",咪视频-15
-http://38.14.195.5:8080/TVOD/3000000020000011521.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000020000011521.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-16" tvg-name="咪视频-16" tvg-logo="" group-title="综合",咪视频-16
-http://38.14.195.5:8080/TVOD/3000000020000011522.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000020000011522.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-24" tvg-name="咪视频-24" tvg-logo="" group-title="综合",咪视频-24
-http://38.14.195.5:8080/TVOD/3000000010000000097.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000000097.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-25" tvg-name="咪视频-25" tvg-logo="" group-title="综合",咪视频-25
-http://38.14.195.5:8080/TVOD/3000000010000002019.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000002019.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-26" tvg-name="咪视频-26" tvg-logo="" group-title="综合",咪视频-26
-http://38.14.195.5:8080/TVOD/3000000010000002809.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000002809.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-27" tvg-name="咪视频-27" tvg-logo="" group-title="综合",咪视频-27
-http://38.14.195.5:8080/TVOD/3000000010000003915.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000003915.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-28" tvg-name="咪视频-28" tvg-logo="" group-title="综合",咪视频-28
-http://38.14.195.5:8080/TVOD/3000000010000004193.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000004193.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-29" tvg-name="咪视频-29" tvg-logo="" group-title="综合",咪视频-29
-http://38.14.195.5:8080/TVOD/3000000010000006077.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000006077.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-30" tvg-name="咪视频-30" tvg-logo="" group-title="综合",咪视频-30
-http://38.14.195.5:8080/TVOD/3000000010000006658.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000006658.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-31" tvg-name="咪视频-31" tvg-logo="" group-title="综合",咪视频-31
-http://38.14.195.5:8080/TVOD/3000000010000009788.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000009788.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-32" tvg-name="咪视频-32" tvg-logo="" group-title="综合",咪视频-32
-http://38.14.195.5:8080/TVOD/3000000010000010833.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000010833.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-33" tvg-name="咪视频-33" tvg-logo="" group-title="综合",咪视频-33
-http://38.14.195.5:8080/TVOD/3000000010000011297.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000011297.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-34" tvg-name="咪视频-34" tvg-logo="" group-title="综合",咪视频-34
-http://38.14.195.5:8080/TVOD/3000000010000011518.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000011518.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-35" tvg-name="咪视频-35" tvg-logo="" group-title="综合",咪视频-35
-http://38.14.195.5:8080/TVOD/3000000010000012558.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000012558.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-36" tvg-name="咪视频-36" tvg-logo="" group-title="综合",咪视频-36
-http://38.14.195.5:8080/TVOD/3000000010000012616.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000012616.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-37" tvg-name="咪视频-37" tvg-logo="" group-title="综合",咪视频-37
-http://38.14.195.5:8080/TVOD/3000000010000015470.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000015470.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-38" tvg-name="咪视频-38" tvg-logo="" group-title="综合",咪视频-38
-http://38.14.195.5:8080/TVOD/3000000010000015560.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000015560.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-39" tvg-name="咪视频-39" tvg-logo="" group-title="综合",咪视频-39
-http://38.14.195.5:8080/TVOD/3000000010000019839.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000019839.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-40" tvg-name="咪视频-40" tvg-logo="" group-title="综合",咪视频-40
-http://38.14.195.5:8080/TVOD/3000000010000021904.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000021904.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-41" tvg-name="咪视频-41" tvg-logo="" group-title="综合",咪视频-41
-http://38.14.195.5:8080/TVOD/3000000010000023434.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000023434.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-42" tvg-name="咪视频-42" tvg-logo="" group-title="综合",咪视频-42
-http://38.14.195.5:8080/TVOD/3000000010000025380.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000025380.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-43" tvg-name="咪视频-43" tvg-logo="" group-title="综合",咪视频-43
-http://38.14.195.5:8080/TVOD/3000000010000027691.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000027691.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="咪视频-44" tvg-name="咪视频-44" tvg-logo="" group-title="综合",咪视频-44
-http://38.14.195.5:8080/TVOD/3000000010000031669.m3u8?token=8520
+http://156.238.248.80:8100/TVOD/3000000010000031669.m3u8?token=8520
 
 #EXTINF:-1 tvg-id="更新时间" tvg-name="更新时间" tvg-logo="" group-title="综合",更新时间
 #genre#
